@@ -1,17 +1,17 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+title: Florence As It Was
+subtitle: Reconstructing the Renaissance
+email: bentg@wlu.edu
+description: A Washington & Lee Digital Humanities Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://valenteaidan.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 204 W. Washington St.
+city: Lexington
+state: VA
+zip_code: 24450
 country: United States of America
-phone: (716) 555-5555
+phone: (540) 458-8400
 
 # Social settings
 500px_url:
