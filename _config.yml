@@ -3,7 +3,7 @@ title: Florence As It Was
 subtitle: (Reconstructing the Renaissance)
 email: bentg@wlu.edu
 description: A Washington & Lee Digital Humanities Project
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/florence-site" # the subpath of your site, e.g. /blog
 url: "https://valenteaidan.github.io" # the base hostname & protocol for your site
 author:
 street_address: 204 W. Washington St.
@@ -27,3 +27,4 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->

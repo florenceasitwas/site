@@ -46,6 +46,5 @@ layout: default
 <section>
 	<div class="affiliations">
 		<img src="assets/images/logo_mellon.jpg" alt="">
-		<img src="assets/images/logo_neh.jpg" alt="">
 	</div>
 </section>
