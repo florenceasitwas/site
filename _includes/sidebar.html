@@ -12,7 +12,7 @@
       <!-- Picture -->
         <section>
           <div>
-            <img src="assets/images/florence_fleur.svg" alt="">
+            <img src="assets/images/florence_fleur.png" alt="" width="75">
           </div>
         </section>
 
@@ -26,6 +26,7 @@
           <ul>
             <li><a href="{{ '' | absolute_url }}">Home</a></li>
             <li><a href="{{ 'about.html' | absolute_url }}">About</a></li>
+            <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
             <li><a href="{{ 'elements.html' | absolute_url }}">Elements</a></li>
             <li><a href="{{ 'blog.html' | absolute_url }}">Blog</a></li>
             <li>
@@ -52,7 +53,7 @@
               {% for post in site.posts limit:2 %}
               <li>
                 <article>
-                  <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
+                  <a href="{{ post.url }}"><img src="assets/images/{{ post.image }}"></a>
                   {{ post.excerpt }}
                 </article>
               </li>
@@ -60,7 +61,7 @@
             </ul>
           </div>
           <ul class="actions">
-            <li><a href="#" class="button">More</a></li>
+            <li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
           </ul>
         </section>
 
@@ -69,7 +70,6 @@
           <header class="major">
             <h2>Contact Us</h2>
           </header>
-          <p>How do we want people to get in touch with us?</p>
           <ul class="contact">
             <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
             <li class="fa-phone">{{ site.phone }}</li>
@@ -82,7 +82,10 @@
       <!-- Footer -->
         <footer id="footer">
           <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
-          <img src="assets/images/logo_dhwlu.png" alt="">
+          <div>
+            <a href="https://digitalhumanities.wlu.edu/"><img src="assets/images/logo_dhwlu.png" alt="">
+            </a>
+          </div>
         </footer>
 
     </div>
