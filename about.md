@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project
-image: assets/images/florence_5.jpg
+image: assets/images/florence_banner.jpg
 ---
 
 <hr class="major" />
@@ -18,7 +18,7 @@ image: assets/images/florence_5.jpg
 
 <hr class="major" />
 
-<h2>Maps:</h2>
+<h2>Maps</h2>
 <p>Any number of maps would be useful tools in this endeavor. The abundance of satellite photographs of the 21st-century city surely allow us to determine contours and boundaries that have changed only minimally over time. The Duomo stands today in exactly the same place it did in 1436 and the configuration of the Arno River – despite Leonardo da Vinci’s best efforts – hasn’t shifted very much since the middle of the fourteenth century (despite Mother Nature’s most vicious efforts to the contrary). The grid pattern of the Roman city remains in the paved streets that now follow those alleys and even the design of the third ring of walls, completed at the very end of the thirteenth century, may be traced easily by following the viale that surrounds its core.</p>
 <p>But that said, much has changed.</p>
 <p>The old mercantile center of the medieval city, known as the Mercato Vecchio (or “Old Market”), demolished at the end of the nineteenth century to make room for the Napoleonic Piazza della Repubblica, for reasons of hygiene and aesthetic appeal. Some of the streets at the edges of the Roman grid have been widened in places to accommodate transportation needs. The Via Calziauoli is wider now than it was in 1300. Modern structures – most notably the train station that stands to the west of S. Maria Novella – obviously obscure our picture of the old city. And the ravages of time – some of them expedited by the horrors of war, the pettiness of arsons, and the ambitions of tyrants – have destroyed entirely whole sections of pre-modern Florence: of the five bridges that once spanned the Arno River, only the Ponte Vecchio survives intact.</p>
@@ -26,7 +26,7 @@ image: assets/images/florence_5.jpg
 
 <hr class="major" />
 
-<h2>Anticipated content:</h2>
+<h2>Anticipated Content</h2>
 <p>One structure at a time, the reconstruction of Florence As It Was will combine an interactive map with three-dimensional representations of buildings, designed according to measurements gleaned from the scholarly literature and on-site examinations. Layered onto in into these reconstructions will be images of original works of art situated in the places that contemporary users of the building described them (the photographs of which are in the public domain). Hot spots throughout these buildings and images will direct viewers to selected documents, descriptions, and interpretations – some of them translated into English from their Italian, Latin, and German – that help us understand the messages, functions, uses, and reception of art and architecture in the past. We imagine a day when technological advances will allow us to take a Virtual Reality tour through these buildings that enables us to recreate the visual experience of a fifteenth-century Florentine. </p>
 
 <hr class="major">

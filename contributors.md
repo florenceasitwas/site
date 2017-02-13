@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributors
-image: assets/images/pic11.jpg
+image: assets/images/florence_5.jpg
 ---
 
 - __Professor George Bent__

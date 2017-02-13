@@ -29,6 +29,7 @@
             <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
             <li><a href="{{ 'elements.html' | absolute_url }}">Elements</a></li>
             <li><a href="{{ 'blog.html' | absolute_url }}">Blog</a></li>
+            <li><a href="{{ 'map.html' | absolute_url }}">Map</a></li>
             <li>
               <span class="opener">Buildings</span>
               <ul>
@@ -49,16 +50,12 @@
               <a href="#" class="image"><img src="assets/images/pic07.jpg" alt="" /></a>
               <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
             </article> //-->
-            <ul>
               {% for post in site.posts limit:2 %}
-              <li>
-                <article>
-                  <a href="{{ post.url }}"><img src="assets/images/{{ post.image }}"></a>
+              <article>
+                  <a href="florence-site/{{ post.url }}" class="image"><img src="assets/images/{{ post.image }}"></a>
                   {{ post.excerpt }}
-                </article>
-              </li>
+              </article>
               {% endfor %}
-            </ul>
           </div>
           <ul class="actions">
             <li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
