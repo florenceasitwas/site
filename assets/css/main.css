@@ -4072,3 +4072,7 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+		.affiliation a{
+			border-bottom: none;
+		}

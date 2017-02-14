@@ -11,9 +11,14 @@ layout: default
 		<article>
 				<a href="florence-site/{{ post.url }}" class="image"><img src="assets/images/{{ post.image }}"></a>
 				{{ post.excerpt }}
-				<ul class="actions">
+				<br/>
+				{% if post.tags.size > 0 %}
+  				Tag{% if post.tags.size > 1 %}s{% endif %}:
+  				<a href="{{ 'blog.html' | absolute_url }}">{{ post.tags | join: " " }}</a>
+				{% endif %}
+				<!-- <ul class="actions">
 					<li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
-				</ul>
+				</ul> -->
 		</article>
 		{% endfor %}
 	</div>
