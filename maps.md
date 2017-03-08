@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Map
+title: Maps
 image: assets/images/florence_1.jpg
 ---
 
