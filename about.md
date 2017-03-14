@@ -25,4 +25,4 @@ image: assets/images/florence_banner.jpg
 <hr class="major">
 
 <h2>Previous Lenfest Funding</h2>
-<p>I have received Lenfest Grants annually since 2006, which have helped me retain my research agenda while chairing the Department of Art and Art History. That research led to a number of paper presentations, an article (“Adventures in Advertising in the Florentine Wool Guild”), and my book, Public Pictures and Visual Culture in Early Republican Florence. “Florence As It Was” is a new project that may well continue for the rest of my professional life. </p>
+<p>I have received Lenfest Grants annually since 2006, which have helped me retain my research agenda while chairing the Department of Art and Art History. That research led to a number of paper presentations, an article (“Adventures in Advertising in the Florentine Wool Guild”), and my book, Public Pictures and Visual Culture in Early Republican Florence. “Florence As It Was” is a new project that may well continue for the rest of my professional life. -George Bent</p>

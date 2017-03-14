@@ -74,6 +74,7 @@ layout: default
 
 <section>
 	<div class="affiliation">
+	<h2>Affiliations</h2>
 	<a href="https://mellon.org/">
 		<img src="assets/images/logo_mellon.png" alt="" height="100"></a>
 	</div>

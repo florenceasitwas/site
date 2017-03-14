@@ -3505,7 +3505,7 @@
 			}
 
 				#main > .inner > section {
-					padding: 5em 0 3em 0 ;
+					padding: 2em 0 3em 0 ;
 				}
 
 		}
@@ -3906,6 +3906,10 @@
 				-ms-object-position: center;
 				object-position: center;
 				width: 100%;
+			}
+
+			#banner p {
+				text-indent: 20px;
 			}
 
 		@media screen and (orientation: portrait) {
