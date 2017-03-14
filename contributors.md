@@ -4,7 +4,7 @@ title: Contributors
 image: assets/images/florence_5.jpg
 ---
 
-<div class="features">
+<div class="posts">
   <article>
     <span><img src="assets/images/bio_bentg.png" width="200" /></span>
     <div class="content">
