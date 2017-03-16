@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contributors
-image: assets/images/florence_5.jpg
 ---
 
 <div class="posts">

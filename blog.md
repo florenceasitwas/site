@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-image: assets/images/florence_4.jpg
 ---
 
 <ul>
