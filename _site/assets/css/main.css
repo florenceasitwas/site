@@ -2130,7 +2130,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3517,7 +3517,7 @@
 			}
 
 				#main > .inner > section {
-					padding: 4em 0 2em 0 ;
+					padding: 1.5em 0 2em 0 ;
 				}
 
 		}
@@ -3616,7 +3616,7 @@
 			#sidebar > .inner > * {
 				border-bottom: solid 2px rgba(210, 215, 217, 0.75);
 				margin: 0 0 3.5em 0;
-				padding: 0 0 3.5em 0;
+				padding: 0 0 1.5em 0;
 			}
 
 				#sidebar > .inner > * > :last-child {
@@ -3696,7 +3696,7 @@
 				}
 
 					#sidebar > .inner > .alt {
-						margin: -1.66667em 0 3.33333em -1.66667em;
+						margin: -1.66667em 0 1.5em -1.66667em;
 						padding: 1.66667em;
 						width: calc(100% + 3.33333em);
 					}
@@ -3829,7 +3829,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#header {
-				padding-top: 5em;
+				padding-top: 1.5em;
 			}
 
 		}
@@ -3891,7 +3891,7 @@
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			display: block;
-			margin: 0 0 2em 4em;
+			margin: 0 0 1em 0;
 			width: 50%;
 		}
 
@@ -3909,7 +3909,7 @@
 			}
 
 			#banner p {
-				text-indent: 20px;
+				text-indent: 15px;
 			}
 
 		@media screen and (orientation: portrait) {

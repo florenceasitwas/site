@@ -3,8 +3,8 @@ title: Florence As It Was&#58;
 subtitle: the Digital Reconstruction of a Medieval City
 email: bentg@wlu.edu
 description: A Washington & Lee Digital Humanities Project
-baseurl: "/florence-site" # the subpath of your site, e.g. /blog
-url: "https://valenteaidan.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://florenceasitwas.wlu.edu" # the base hostname & protocol for your site
 author:
 street_address: 204 W. Washington St.
 city: Lexington
