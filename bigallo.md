@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Bigallo
-image: assets/images/bigallo_1.jpg
+image: bigallo_1.jpg
 ---
 
 Paatz, Walter and Elizabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.

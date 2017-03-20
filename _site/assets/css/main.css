@@ -3908,10 +3908,6 @@
 				width: 100%;
 			}
 
-			#banner p {
-				text-indent: 15px;
-			}
-
 		@media screen and (orientation: portrait) {
 
 			#banner {
@@ -4079,4 +4075,8 @@
 
 		.affiliation a{
 			border-bottom: none;
+		}
+
+		#overview {
+			padding-right: 1em;
 		}

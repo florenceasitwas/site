@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project
-image: assets/images/florence_banner.jpg
+image: florence_banner.jpg
 ---
 
 <hr class="major" />

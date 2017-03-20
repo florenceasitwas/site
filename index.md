@@ -9,7 +9,7 @@ layout: default
 	<div class="posts">
 		{% for post in site.posts limit:4 %}
 		<article>
-				<a href="florence-site/{{ post.url }}" class="image"><img src="assets/images/{{ post.image }}"></a>
+				<a href="{{ root_url }}{{ post.url }}" class="image"><img src="assets/images/{{ post.image }}"></a>
 				{{ post.excerpt }}
 				<br/>
 				{% if post.tags.size > 0 %}
@@ -54,19 +54,19 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/bigallo_1.jpg" alt="" /></a>
+			<a href="{{ 'bigallo.html' | absolute_url }}" class="image"><img src="assets/images/bigallo_1.jpg" alt="" /></a>
 			<h3>Bigallo</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'bigallo.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/baptistery_1.jpg" alt="" /></a>
+			<a href="{{ 'baptistery.html' | absolute_url }}" class="image"><img src="assets/images/baptistery_1.jpg" alt="" /></a>
 			<h3>Baptistery</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'baptistery.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 	</div>
