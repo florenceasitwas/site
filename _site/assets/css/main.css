@@ -2851,6 +2851,10 @@
 					padding-right: 0;
 				}
 
+		ul.tags {
+			padding-bottom: .5em;
+		}
+
 			}
 
 	dl {

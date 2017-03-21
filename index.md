@@ -7,15 +7,17 @@ layout: default
 		<h2>Project Blog</h2>
 	</header>
 	<div class="posts">
-		{% for post in site.posts limit:4 %}
+		{% for post in site.posts limit:6 %}
 		<article>
-				<a href="{{ root_url }}{{ post.url }}" class="image"><img src="assets/images/{{ post.image }}"></a>
-				{{ post.excerpt }}
-				<br/>
+				<h3>{{ post.title }}</h3>
 				{% if post.tags.size > 0 %}
-  				Tag{% if post.tags.size > 1 %}s{% endif %}:
-  				<a href="{{ 'blog.html' | absolute_url }}">{{ post.tags | join: " " }}</a>
+  				<ul class="tags">Tag{% if post.tags.size > 1 %}s{% endif %}:
+  				<a href="{{ 'blog.html' | absolute_url }}">{{ post.tags | join: " " }}</a></ul>
 				{% endif %}
+				{{ post.excerpt }}
+				<ul class="actions">
+	        <li><a href="{{ 'about.html' | absolute_url }}" class="button small">Continue</a></li>
+	      </ul>
 				<!-- <ul class="actions">
 					<li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
 				</ul> -->

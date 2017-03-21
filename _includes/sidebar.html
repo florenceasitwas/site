@@ -46,14 +46,10 @@
             <h2>Recent Posts</h2>
           </header>
           <div class="mini-posts">
-            <!-- <article>
-              <a href="#" class="image"><img src="assets/images/pic07.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article> //-->
-              {% for post in site.posts limit:2 %}
+              {% for post in site.posts limit:3 %}
               <article>
-                  <a href="{{ root_url }}{{ post.url }}" class="image"><img src="{{ root_url }}/assets/images/{{ post.image }}"></a>
-                  {{ post.excerpt }}
+                <h3>{{ post.title }}</h3>
+                {{ post.excerpt }}
               </article>
               {% endfor %}
           </div>
