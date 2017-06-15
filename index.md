@@ -16,7 +16,7 @@ layout: default
 				{% endif %}
 				{{ post.excerpt }}
 				<ul class="actions">
-	        <li><a href="{{ 'about.html' | absolute_url }}" class="button small">Continue</a></li>
+	        <li><a href="{{ 'blog.html' | absolute_url }}" class="button small">Continue</a></li>
 	      </ul>
 				<!-- <ul class="actions">
 					<li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
@@ -29,7 +29,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Articles</h2>
+		<h2>Resources</h2>
 	</header>
 	<div class="features">
 		<article>
@@ -42,7 +42,7 @@ layout: default
 		<article>
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
-				<h3>The Baptistery</h3>
+				<h3>Orsanmichele</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
@@ -64,11 +64,11 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="{{ 'baptistery.html' | absolute_url }}" class="image"><img src="assets/images/baptistery_1.jpg" alt="" /></a>
-			<h3>Baptistery</h3>
+			<a href="{{ 'orsanmichele.html' | absolute_url }}" class="image"><img src="assets/images/orsanmichele_1.jpg" alt="" /></a>
+			<h3>Orsanmichele</h3>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="{{ 'baptistery.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ 'orsanmichele.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 	</div>

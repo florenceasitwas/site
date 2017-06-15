@@ -15,7 +15,7 @@ title: Contributors
     <span><img src="assets/images/bio_bentm.jpg" width="200" /></span>
     <div class="content">
       <h3>Miles Bent</h3>
-      <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+      <p>Miles is a senior Global Politics and English double major. Born and raised in Lexington, VA, he has also spent a year abroad in Florence, Italy, and another semester abroad in Rome, Italy, where he took courses in Italian and Art History. Miles is a member of Beta Theta Pi fraternity, played soccer for Washington and Lee for three years, and serves as a Peer Counselor on campus.</p>
     </div>
   </article>
   <article>
@@ -36,7 +36,14 @@ title: Contributors
     <span><img src="assets/images/bio_valentea.jpg" width="200" /></span>
     <div class="content">
       <h3>Aidan Valente</h3>
-      <p>Aidan is a Medieval and Renaissance Studies and Art History double-major. He has experience with Italian and French, digital humanities languages such as HTML, CSS, and Command Line, and has worked in the University's Special Collections archives.</p>
+      <p>Aidan is a Medieval and Renaissance Studies and Art History double-major. He has experience with Italian and French, digital humanities languages such as HTML, CSS, and Command Line, and has worked in the University's Special Collections archives. Outside the classroom, he participates in Catholic Campus Ministry, Intervarsity Christian Fellowship, and the Shakespeare Society.</p>
+    </div>
+  </article>
+  <article>
+    <span><img src="assets/images/bio_greenleafm.jpg" width="200" /></span>
+    <div class="content">
+      <h3>MC Greenleaf</h3>
+      <p>MC is an Art and Computer Science double-major. She has spent several summers in Florence and her family has contributed to preserving the city's historic cultural heritage.</p>
     </div>
   </article>
 </div>
