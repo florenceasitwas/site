@@ -46,4 +46,16 @@ title: Contributors
       <p>MC is an Art and Computer Science double-major. She has spent several summers in Florence and her family has contributed to preserving the city's historic cultural heritage.</p>
     </div>
   </article>
+  <article>
+    <span img src="assets/images/bio_dauk.jpg" width="200" /></span>
+    <div class="content">
+    <h3>Katherine Dau</h3>
+    <p>Bio</p>
+  </article>
+  <article>
+    <span img src="assets/images/bio_gilleyc.jpg" width="200" /></span>
+    <div class="content">
+    <h3>Colby Gilley</h3>
+    <p>Bio</p>
+  </article>
 </div>

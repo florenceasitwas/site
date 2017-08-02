@@ -1,9 +1,6 @@
 ---
 layout: page
-title: The Church of Orsanmichele
-image: orsanmichele_1.jpg
+title: Orsanmichele Model
 ---
 
-Information on Orsanmichele
-
-Information on the Statues
+#Coming Soon
