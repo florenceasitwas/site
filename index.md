@@ -27,6 +27,29 @@ layout: default
 	</div>
 </section>
 
+<section>
+	<header class="major">
+		<h2>Models</h2>
+	</header>
+	<div class="posts">
+		<article>
+			<div class="sketchfab-embed-wrapper">
+			  <iframe width="100%" height="480" src="https://sketchfab.com/models/8910d0c235674c409accecb093690d9c/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+			<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+			    <a href="https://sketchfab.com/models/8910d0c235674c409accecb093690d9c?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Bigallo 8192</a>
+			    by <a href="https://sketchfab.com/iqcenter?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">IQ Center</a>
+			    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+			</p>
+			</div>
+		</article>
+		<article>
+			<h3>The Loggia of the Bigallo</h3>
+			<p>This model of the Loggia of the Bigallo was created using over 2000 images and a process called photogrammetry.</p>
+		</article>
+	</div>
+</section>
+
 <!-- Section -->
 <section>
 	<header class="major">
@@ -44,7 +67,7 @@ layout: default
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Orsanmichele</h3>
-				<p>One of the city's grandest examples of the Medieval and Renaissance connection between religion, politics, and art, the granary and later of Orsanmichele has an extremely complex history. To help make sense of it, we've collected some sources here for edification.</p>
+				<p>One of the city's grandest examples of the Medieval and Renaissance connection between religion, politics, and art, the granary and later church of Orsanmichele has an extremely complex history. To help make sense of it, we've collected some sources here for edification.</p>
 			</div>
 		</article>
 	</div>

@@ -9,7 +9,7 @@ title: Blog
 		<h2>Project Blog</h2>
 	</header>
 	<div class="posts">
-		{% for post in site.posts limit:6 %}
+		{% for post in site.posts %}
 		<article>
 				<h3>{{ post.title }}</h3>
 				{% if post.tags.size > 0 %}
