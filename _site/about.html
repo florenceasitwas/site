@@ -10,10 +10,10 @@
   <title>Florence As It Was</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <!--[if lte IE 8]><script src="http://florenceasitwas.wlu.edu/assets/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="stylesheet" href="http://florenceasitwas.wlu.edu/assets/css/main.css" />
-  <!--[if lte IE 9]><link rel="stylesheet" href="http://florenceasitwas.wlu.edu/assets/css/ie9.css" /><![endif]-->
-  <!--[if lte IE 8]><link rel="stylesheet" href="http://florenceasitwas.wlu.edu/assets/css/ie8.css" /><![endif]-->
+  <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/html5shiv.js"></script><![endif]-->
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css" />
+  <!--[if lte IE 9]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie9.css" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie8.css" /><![endif]-->
 </head>
 
 
@@ -28,7 +28,7 @@
 
                 <!-- Header -->
   <header id="header">
-    <a href="http://florenceasitwas.wlu.edu/" class="logo"><strong>Florence As It Was&#58;</strong> the Digital Reconstruction of a Medieval City</a>
+    <a href="http://localhost:4000/" class="logo"><strong>Florence As It Was&#58;</strong> the Digital Reconstruction of a Medieval City</a>
     <ul class="icons">
       
       
@@ -65,7 +65,7 @@
 
 <h2>Maps</h2>
 <p>Any number of maps would be useful tools in this endeavor. The abundance of satellite photographs of the 21st - century city surely allowus to determine contours and boundaries that have changed only minimally over time. The Duomo stands today in exactly the same place it did in 1436 and the configuration of the Arno River – despite Leonardo da Vinci’s best efforts – hasn’t shifted very much since the middle of the fourteenth century (despite Mother Nature’s most vicious efforts to the contrary). The grid pattern of the Roman city remains in the paved streets that now follow those alleys and even the design of the third ring of walls, completed at the very end of the thirteenth century, may be traced easily by following the viale that surrounds its core.</p>
-<p>We have therefore combined with contemporary satellite images a set of maps produced in the 18th and 19th centuries that, we believe, present a fairly accurate representation of the urban landscape of Florence. The alleyways of the Mercato Vecchio, for example, will be reproduced according to designs made by Guido Carocci that currently adorn the consultation room of the Archivio di Stato in Florence. A useful model of that central area of the city survives in the museum of the Palazzo Vecchio. We will combinethese early maps and models with cityscape paintings by relatively unknown artists (like the nineteenth - century amateur, Fabio Borbottoni) to understand the appearance of piazzas, building facades, and structural elevations.</p>
+<p>We have therefore combined with contemporary satellite images a set of maps produced in the 18th and 19th centuries that, we believe, present a fairly accurate representation of the urban landscape of Florence. The alleyways of the Mercato Vecchio, for example, will be reproduced according to designs made by Guido Carocci that currently adorn the consultation room of the Archivio di Stato in Florence. A useful model of that central area of the city survives in the museum of the Palazzo Vecchio. We will combine these early maps and models with cityscape paintings by relatively unknown artists (like the nineteenth - century amateur, Fabio Borbottoni) to understand the appearance of piazzas, building facades, and structural elevations.</p>
 
 <hr class="major" />
 
@@ -107,19 +107,20 @@
             <h2>Menu</h2>
           </header>
           <ul>
-            <li><a href="http://florenceasitwas.wlu.edu/">Home</a></li>
-            <li><a href="http://florenceasitwas.wlu.edu/about.html">About</a></li>
-            <li><a href="http://florenceasitwas.wlu.edu/maps.html">Maps</a></li>
+            <li><a href="http://localhost:4000/">Home</a></li>
+            <!-- <li><a href="http://localhost:4000/about.html">About</a></li> -->
+            <li><a class="non_link">About</a><a href ="http://localhost:4000/about_it.html" class="lang_select">ITAL</a><a href ="http://localhost:4000/about.html" class="lang_select">ENGL</a></li>
+            <li><a href="http://localhost:4000/maps.html">Maps</a></li>
             <li>
               <span class="opener">Buildings</span>
               <ul>
-                <li><a href="http://florenceasitwas.wlu.edu/bigallo.html">Bigallo</a></li>
-                <li><a href="http://florenceasitwas.wlu.edu/orsanmichele.html">Orsanmichele</a></li>
+                <li><a href="http://localhost:4000/bigallo.html">Bigallo</a></li>
+                <li><a href="http://localhost:4000/orsanmichele.html">Orsanmichele</a></li>
               </ul>
             </li>
-            <li><a href="http://florenceasitwas.wlu.edu/blog.html">Blog</a></li>
-            <li><a href="http://florenceasitwas.wlu.edu/contributors.html">Contributors</a></li>
-            <li><a href="">Links</a></li>
+            <li><a href="http://localhost:4000/blog.html">Blog</a></li>
+            <li><a href="http://localhost:4000/contributors.html">Contributors</a></li>
+            <li><a href="links.html">Links</a></li>
           </ul>
         </nav>
 
@@ -148,7 +149,7 @@
               
           </div>
           <ul class="actions">
-            <li><a href="http://florenceasitwas.wlu.edu/blog.html" class="button">More</a></li>
+            <li><a href="http://localhost:4000/blog.html" class="button">More</a></li>
           </ul>
         </section>
 
@@ -182,11 +183,11 @@
       </div>
 
       <!-- Scripts -->
-  <script src="http://florenceasitwas.wlu.edu/assets/js/jquery.min.js"></script>
-  <script src="http://florenceasitwas.wlu.edu/assets/js/skel.min.js"></script>
-  <script src="http://florenceasitwas.wlu.edu/assets/js/util.js"></script>
-  <!--[if lte IE 8]><script src="http://florenceasitwas.wlu.edu/assets/js/ie/respond.min.js"></script><![endif]-->
-  <script src="http://florenceasitwas.wlu.edu/assets/js/main.js"></script>
+  <script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+  <script src="http://localhost:4000/assets/js/skel.min.js"></script>
+  <script src="http://localhost:4000/assets/js/util.js"></script>
+  <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
+  <script src="http://localhost:4000/assets/js/main.js"></script>
 
 
 </body>

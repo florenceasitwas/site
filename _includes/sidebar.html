@@ -25,7 +25,8 @@
           </header>
           <ul>
             <li><a href="{{ '' | absolute_url }}">Home</a></li>
-            <li><a href="{{ 'about.html' | absolute_url }}">About</a></li>
+            <!-- <li><a href="{{ 'about.html' | absolute_url }}">About</a></li> -->
+            <li><a class="non_link">About</a><a href ="{{ 'about_it.html' | absolute_url }}" class="lang_select">ITAL</a><a href ="{{ 'about.html' | absolute_url }}" class="lang_select">ENGL</a></li>
             <li><a href="{{ 'maps.html' | absolute_url }}">Maps</a></li>
             <li>
               <span class="opener">Buildings</span>
@@ -36,7 +37,7 @@
             </li>
             <li><a href="{{ 'blog.html' | absolute_url }}">Blog</a></li>
             <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
-            <li><a href="{{ '' | absolute-url }}">Links</a></li>
+            <li><a href="{{ 'links.html' | absolute-url }}">Links</a></li>
           </ul>
         </nav>
 
