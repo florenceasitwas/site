@@ -4,8 +4,8 @@ title: Maps
 image: buonsignori_1.jpg
 ---
 
-<p align="center"><i>The Buonsignori Map, created in 1584, is the most accurate early map of Florence</i></p>
-
+<p align="center"><i>Image courtesy of Harvard Libraries</i></p>
+<br/>
 
 - Our 2-D map will be based on a collection of maps of Florence through the centuries
   + Catena
