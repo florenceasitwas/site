@@ -37,9 +37,9 @@ layout: default
 			  <iframe width="100%" height="480" src="https://sketchfab.com/models/8910d0c235674c409accecb093690d9c/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 			<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-			    <a href="https://sketchfab.com/models/8910d0c235674c409accecb093690d9c?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Bigallo 8192</a>
-			    by <a href="https://sketchfab.com/iqcenter?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">IQ Center</a>
-			    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+			    <a href="https://sketchfab.com/models/8910d0c235674c409accecb093690d9c?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Bigallo 8192</a>
+			    by <a href="https://sketchfab.com/iqcenter?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">IQ Center</a>
+			    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 			</p>
 			</div>
 		</article>
@@ -60,21 +60,35 @@ layout: default
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Del Migliore</h3>
-				<p>Del Migliore - Italian, 1684</p>
+				<p>Del Migliore - Italian, 1684 - del Migliore was</p>
+				<li>
+					<span class="opener">Buildings</span>
+					<ul>
+						<li><a href="{{ 'bigallo_migliore.html' | absolute_url }}">Bigallo</a></li>
+						<li><a href="{{ 'orsanmichele_migliore.html' | absolute_url }}">Orsanmichele</a></li>
+					</ul>
+				</li>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
-				<h3>Rika</h3>
-				<p>Rika - Italian, 1752-1760</p>
+				<h3>Richa</h3>
+				<p>Richa - Italian, 1752-1760</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Paatz</h3>
-				<p>Paatz - German, 1952-1955</p>
+				<p>Paatz - German, 1952-1955 - A German husband-and-wife team, </p>
+				<li>
+					<span class="opener">Buildings</span>
+					<ul>
+						<li><a href="{{ 'bigallo_paatz.html' | absolute_url }}">Bigallo</a></li>
+						<li><a href="{{ 'orsanmichele_paatz.html' | absolute_url }}">Orsanmichele</a></li>
+					</ul>
+				</li>
 			</div>
 		</article>
 		<article>

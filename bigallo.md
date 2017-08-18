@@ -13,14 +13,16 @@ title: The Bigallo
 </p>
 </div>
 
-Here is a test sentence about the Bigallo.
+<img src="assets/images/borbottoni_bigallo.jpg">
+
+<img src="assets/images/tobia_e_tobiolo_small.jpg">
 
 <ul>
   <a href="{{ 'bigallo_paatz.html' | absolute-url }}">Notes on the Bigallo by Paatz</a>
-
+  <br/>
   <a href="{{ '' | absolute-url }}">Del Migliore</a>
-
-  <a href="{{ '' | absolute-url }}">Rika</a>
-
+  <br/>
+  <a href="{{ '' | absolute-url }}">Richa</a>
+  <br/>
   <a href="{{ 'bigallo_passerini.html' | absolute-url }}">Passerini</a>
 </ul>
