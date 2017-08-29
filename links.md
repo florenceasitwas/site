@@ -3,7 +3,7 @@ layout: page
 title: Links
 ---
 
-#Related and Similar Projects:
+## Related and Similar Projects
 
 DECIMA - University of Toronto
 
@@ -21,7 +21,7 @@ Cyark
 
 The Medici Project - medici.org
 
-#Organizations
+## Organizations
 
 Guild of the Dome
 

@@ -27,4 +27,19 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- read more -->
+
+# Collections
+collections:
+  contributors:
+    output: true
+    permalink: /contributors/:name
+  people:
+    output: true
+    permalink: /people/:name
+  buildings:
+    output: true
+    permalink: /buildings/:name
+  texts:
+    output: true
+    permalink: /texts/:name

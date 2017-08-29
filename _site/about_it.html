@@ -10,10 +10,10 @@
   <title>Florence As It Was</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <!--[if lte IE 8]><script src="http://florenceasitwas.wlu.edu/assets/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="stylesheet" href="http://florenceasitwas.wlu.edu/assets/css/main.css" />
-  <!--[if lte IE 9]><link rel="stylesheet" href="http://florenceasitwas.wlu.edu/assets/css/ie9.css" /><![endif]-->
-  <!--[if lte IE 8]><link rel="stylesheet" href="http://florenceasitwas.wlu.edu/assets/css/ie8.css" /><![endif]-->
+  <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/html5shiv.js"></script><![endif]-->
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css" />
+  <!--[if lte IE 9]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie9.css" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie8.css" /><![endif]-->
 </head>
 
 
@@ -28,7 +28,7 @@
 
                 <!-- Header -->
   <header id="header">
-    <a href="http://florenceasitwas.wlu.edu/" class="logo"><strong>Florence As It Was&#58;</strong> the Digital Reconstruction of a Medieval City</a>
+    <a href="http://localhost:4000/" class="logo"><strong>Florence As It Was&#58;</strong> the Digital Reconstruction of a Medieval City</a>
     <ul class="icons">
       
       
@@ -107,19 +107,43 @@ Mentre i Fiorentini hanno scambiato beni, fatti soldi, e hanno influenzato gli e
             <h2>Menu</h2>
           </header>
           <ul>
-            <li><a href="http://florenceasitwas.wlu.edu/">Home</a></li>
-            <!-- <li><a href="http://florenceasitwas.wlu.edu/about.html">About</a></li> -->
-            <li><a class="non_link">About</a><a href ="http://florenceasitwas.wlu.edu/about_it.html" class="lang_select">ITAL</a><a href ="http://florenceasitwas.wlu.edu/about.html" class="lang_select">ENGL</a></li>
-            <li><a href="http://florenceasitwas.wlu.edu/maps.html">Maps</a></li>
+            <li><a href="http://localhost:4000/">Home</a></li>
+            <li><a class="non_link">About</a><a href ="http://localhost:4000/about_it.html" class="lang_select">ITAL</a><a href ="http://localhost:4000/about.html" class="lang_select">ENGL</a></li>
+            <li><a href="http://localhost:4000/maps.html">Maps</a></li>
+            <li><a href="https://sketchfab.com/FLAW/models">3D Models</a></li>
             <li>
               <span class="opener">Buildings</span>
               <ul>
-                <li><a href="http://florenceasitwas.wlu.edu/bigallo.html">Bigallo</a></li>
-                <li><a href="http://florenceasitwas.wlu.edu/orsanmichele.html">Orsanmichele</a></li>
+                
+            		<li><a href="http://localhost:4000/buildings/baptistery">Baptistery</a></li>
+                
+            		<li><a href="http://localhost:4000/buildings/bigallo">The Bigallo</a></li>
+                
+            		<li><a href="http://localhost:4000/buildings/miniato">San Miniato</a></li>
+                
+            		<li><a href="http://localhost:4000/buildings/orsanmichele">Orsanmichele</a></li>
+                
               </ul>
             </li>
-            <li><a href="http://florenceasitwas.wlu.edu/blog.html">Blog</a></li>
-            <li><a href="http://florenceasitwas.wlu.edu/contributors.html">Contributors</a></li>
+            <!--<li>
+              <span class="opener">People</span>
+          		<ul>
+                
+            		<li><a href="http://localhost:4000/people/bernardo-daddi">Bernardo Daddi</a></li>
+                
+            		<li><a href="http://localhost:4000/people/cosimo-medici">Cosimo the Elder</a></li>
+                
+            		<li><a href="http://localhost:4000/people/del-migliore">Ferdinando del Migliore</a></li>
+                
+            		<li><a href="http://localhost:4000/people/donatello">Donatello</a></li>
+                
+          		</ul>
+            </li>-->
+            <li><a href="http://localhost:4000/people.html">Historic Figures</a></li>
+            <li><a href="http://localhost:4000/texts.html">Scholarly Texts</a></li>
+            <li><a href="http://localhost:4000/blog.html">Blog</a></li>
+            <li><a href="http://localhost:4000/contributors.html">Contributors</a></li>
+            <li><a href="http://localhost:4000/methodology.html">Methodology</a></li>
             <li><a href="links.html">Links</a></li>
           </ul>
         </nav>
@@ -148,8 +172,9 @@ Mentre i Fiorentini hanno scambiato beni, fatti soldi, e hanno influenzato gli e
               </article>
               
           </div>
+          <br/>
           <ul class="actions">
-            <li><a href="http://florenceasitwas.wlu.edu/blog.html" class="button">More</a></li>
+            <li><a href="http://localhost:4000/blog.html" class="button">More</a></li>
           </ul>
         </section>
 
@@ -183,11 +208,11 @@ Mentre i Fiorentini hanno scambiato beni, fatti soldi, e hanno influenzato gli e
       </div>
 
       <!-- Scripts -->
-  <script src="http://florenceasitwas.wlu.edu/assets/js/jquery.min.js"></script>
-  <script src="http://florenceasitwas.wlu.edu/assets/js/skel.min.js"></script>
-  <script src="http://florenceasitwas.wlu.edu/assets/js/util.js"></script>
-  <!--[if lte IE 8]><script src="http://florenceasitwas.wlu.edu/assets/js/ie/respond.min.js"></script><![endif]-->
-  <script src="http://florenceasitwas.wlu.edu/assets/js/main.js"></script>
+  <script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+  <script src="http://localhost:4000/assets/js/skel.min.js"></script>
+  <script src="http://localhost:4000/assets/js/util.js"></script>
+  <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
+  <script src="http://localhost:4000/assets/js/main.js"></script>
 
 
 </body>

@@ -15,7 +15,7 @@ title: Current Contributors
     <span><img src="assets/images/bio_valentea.jpg" /></span>
     <div class="content">
       <h3>Aidan Valente</h3>
-      <p>Aidan is a Medieval & Renaissance Studies and Art History double-major and a potential Classics minor. He has studied Italian and French, is starting Latin this year, and spent the summer working on Florence As It Was and practicing his Italian in Italy. He spends much of his time working on Digital Humanities projects involving the University's Special Collections archives, where he worked over the summer of 2016. Outside the classroom, he participates in Catholic Campus Ministry,   and the Shakespeare Society.</p>
+      <p>Aidan is a Medieval & Renaissance Studies and Art History double-major and a potential Classics minor. He has studied Italian and French, is starting Latin this year, and spent the summer working on Florence As It Was and practicing his Italian in Italy. He spends much of his time working on Digital Humanities projects involving the University's Special Collections archives, where he worked during the summer of 2016. Outside the classroom, he enjoys participating in Catholic Campus Ministry, hanging out at Friday Underground, and seeing plays at the Blackfriars in Staunton with the Shakespeare Society.</p>
     </div>
   </article>
   <article>

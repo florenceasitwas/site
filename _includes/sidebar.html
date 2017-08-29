@@ -25,18 +25,30 @@
           </header>
           <ul>
             <li><a href="{{ '' | absolute_url }}">Home</a></li>
-            <!-- <li><a href="{{ 'about.html' | absolute_url }}">About</a></li> -->
             <li><a class="non_link">About</a><a href ="{{ 'about_it.html' | absolute_url }}" class="lang_select">ITAL</a><a href ="{{ 'about.html' | absolute_url }}" class="lang_select">ENGL</a></li>
             <li><a href="{{ 'maps.html' | absolute_url }}">Maps</a></li>
+            <li><a href="https://sketchfab.com/FLAW/models">3D Models</a></li>
             <li>
               <span class="opener">Buildings</span>
               <ul>
-                <li><a href="{{ 'bigallo.html' | absolute_url }}">Bigallo</a></li>
-                <li><a href="{{ 'orsanmichele.html' | absolute_url }}">Orsanmichele</a></li>
+                {% for building in site.buildings %}
+            		<li><a href="{{ building.url | absolute_url }}">{{ building.title }}</a></li>
+                {% endfor %}
               </ul>
             </li>
+            <!--<li>
+              <span class="opener">People</span>
+          		<ul>
+                {% for person in site.people %}
+            		<li><a href="{{ person:url | absolute_url }}">{{ person.title }}</a></li>
+                {% endfor %}
+          		</ul>
+            </li>-->
+            <li><a href="{{ 'people.html' | absolute_url }}">Historic Figures</a></li>
+            <li><a href="{{ 'texts.html' | absolute_url }}">Scholarly Texts</a></li>
             <li><a href="{{ 'blog.html' | absolute_url }}">Blog</a></li>
             <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
+            <li><a href="{{ 'methodology.html' | absolute_url }}">Methodology</a></li>
             <li><a href="{{ 'links.html' | absolute-url }}">Links</a></li>
           </ul>
         </nav>
@@ -54,6 +66,7 @@
               </article>
               {% endfor %}
           </div>
+          <br/>
           <ul class="actions">
             <li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
           </ul>

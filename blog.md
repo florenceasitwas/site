@@ -18,11 +18,8 @@ title: Blog
 				{% endif %}
 				{{ post.excerpt }}
 				<ul class="actions">
-	        <li><a href="{{ 'blog.html' | absolute_url }}" class="button small">Continue</a></li>
+	        <li><a href="{{ post.url | absolute_url }}" class="button small">Continue</a></li>
 	      </ul>
-				<!-- <ul class="actions">
-					<li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
-				</ul> -->
 		</article>
 		{% endfor %}
 	</div>
