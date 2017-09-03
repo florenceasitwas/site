@@ -3,19 +3,40 @@ layout: page
 title: Historic Figures
 ---
 
-## Artists
-{% assign artists = (site.people | where:"category", "artist") %}
+## Painters
+{% assign painters = (site.people | where:"category", "painter") %}
 <div class="posts">
-  {% for person in artists %}
+  {% for person in painters %}
   <article>
-    <span><img src="{{ person.image | absolute-url }}" />
+    {% if person.image %}
+    <span><img src="{{ site.baseurl }}/assets/images/{{ person.image }}" width="100%" /></span>
+    {% endif %}
     <div class="content">
       <h3>{{person.title}}</h3>
       {{ person.excerpt }}
       <ul class="actions">
         <li><a href="{{ person.url | absolute-url }}" class="button small">Continue</a></li>
       </ul>
-    </div></span>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+## Sculptors
+{% assign sculptors = (site.people | where:"category", "sculptor") %}
+<div class="posts">
+  {% for person in sculptors %}
+  <article>
+    {% if person.image %}
+    <span><img src="{{ site.baseurl }}/assets/images/{{ person.image }}" width="100%" /></span>
+    {% endif %}
+    <div class="content">
+      <h3>{{person.title}}</h3>
+      {{ person.excerpt }}
+      <ul class="actions">
+        <li><a href="{{ person.url | absolute-url }}" class="button small">Continue</a></li>
+      </ul>
+    </div>
   </article>
   {% endfor %}
 </div>
@@ -25,7 +46,9 @@ title: Historic Figures
 <div class="posts">
   {% for person in patrons %}
   <article>
-    <span><img src="{{ person.image }}" /></span>
+    {% if person.image %}
+    <span><img src="{{ site.baseurl }}/assets/images/{{ person.image }}" width="100%" /></span>
+    {% endif %}
     <div class="content">
       <h3>{{person.title}}</h3>
       {{ person.excerpt }}
@@ -42,7 +65,9 @@ title: Historic Figures
 <div class="posts">
   {% for person in politicians %}
   <article>
-    <span><img src="{{ person.image }}" /></span>
+    {% if person.image %}
+    <span><img src="{{ site.baseurl }}/assets/images/{{ person.image }}" width="100%" /></span>
+    {% endif %}
     <div class="content">
       <h3>{{person.title}}</h3>
       {{ person.excerpt }}
@@ -61,7 +86,9 @@ title: Historic Figures
 <div class="posts">
   {% for person in historians %}
   <article>
-    <span><img src="{{ person.image }}" /></span>
+    {% if person.image %}
+    <span><img src="{{ site.baseurl }}/assets/images/{{ person.image }}" width="100%" /></span>
+    {% endif %}
     <div class="content">
       <h3>{{person.title}}</h3>
       {{ person.excerpt }}

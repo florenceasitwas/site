@@ -40,6 +40,12 @@ collections:
   buildings:
     output: true
     permalink: /buildings/:name
+  artworks:
+    output: true
+    permalink: /artwork/:name
+  locations:
+    output: true
+    permalink: /locations/:name
   texts:
     output: true
     permalink: /texts/:name

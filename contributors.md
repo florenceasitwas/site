@@ -8,7 +8,7 @@ title: Current Contributors
     <span><img src="assets/images/bio_josephs.jpg" /></span>
     <div class="content">
       <h3>Sam Joseph</h3>
-      <p>Sam Joseph is a junior at Washington and Lee University majoring in Art History and planning on attending graduate school for architecture. He hails from Dallas, Texas, and before attending W&L, he took a gap year and lived in Ho Chi Minh City, Vietnam.</p>
+      <p>From Dallas, Texas, Sam Joseph is a junior at Washington and Lee University. Before attending Washington and Lee, he took a gap year and lived in Ho Chi Minh City, Vietnam, where he taught English, cooked for and worked with orphans and in hospitals. Majoring in Art History, minoring in Classics, and focusing on his independent Engineering and Physics studies, Sam plans to attend architecture graduate school. Through Florence As It Was, Sam conducted project research in Florence, Italy. For six weeks, he worked in the Kunsthistorisches Institut library and photolibrary. He translated Medieval Latin documents and took pictures for photogrammetric modeling. As a part of Dr. Uffelman's Technical Examination of 17th-Century Dutch Paintings course, Sam studied abroad in the Netherlands. Consequently, he has pursued the subject of digital archaeology and conservation and its relation to the Florence As It Was project. Sam headed the project's 3D modeling division.</p>
     </div>
   </article>
   <article>
@@ -36,7 +36,7 @@ title: Current Contributors
     <span><img src="assets/images/bio_gilleyc.jpg" /></span>
     <div class="content">
     <h3>Colby Gilley</h3>
-    <p>Bio entry goes here</p>
+    <p>Hailing from the humid hamlet of rural Molino, FL, Colby Gilley is a current sophomore at Washington and Lee University. While he naturally gravitates towards humanities classes at W&L, he is enamored by all facets of the human experience. His potential major is still undeclared, but he has pronounced his investment in the University’s community, serving as a member of the FYOC, a University Big, and a leader on the Friday Underground team. Colby appreciates dusty old bookstores, the scent of wisteria on April evenings, and the sound of a reverberated guitar.</p>
     </div>
   </article>
 </div>
@@ -85,7 +85,7 @@ title: Current Contributors
   <article>
     <span><img src="assets/images/bio_gustafsone.jpg" /></span>
     <div class="content">
-    <h3>Erik Gustafson</h3>
+    <h3>Professor Erik Gustafson</h3>
     <p>Erik Gustafson received his Ph.D. from the Institute of Fine Arts, New York University in 2012. Currently a Visiting Assistant Professor of Art History at Washington and Lee University, he has taught at George Mason University, Fordham University, and the University of California, Berkeley, and held a Rome Prize fellowship at the American Academy in Rome from 2007-2009. An architectural historian of medieval and renaissance Europe and the Mediterranean, Erik is broadly interested in the engagement of historical viewers with architectural space. He is particularly interested in the phenomenology of historical religious experience, and in how the constant dialogue between traditions of the past and the needs of the present produced architectural culture. Erik has forthcoming articles on Franciscan architecture as charismatic space and on a Crusader portal reused on a Mamluk madrasa in Cairo, and is completing a monograph entitled Building Franciscanism: Space, Tradition, and Devotion in Medieval Tuscany.</p>
     </div>
   </article>

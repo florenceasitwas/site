@@ -2,9 +2,11 @@
 layout: page
 title: Orsanmichele
 image: orsanmichele_1.jpg
+category: church
+status: active
 ---
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/1bda4429362149d294e90fe39bc4ef1d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/1bda4429362149d294e90fe39bc4ef1d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
       <a href="https://sketchfab.com/models/1bda4429362149d294e90fe39bc4ef1d?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">The Incredulity of Thomas</a>
       by <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>

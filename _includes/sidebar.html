@@ -31,8 +31,9 @@
             <li>
               <span class="opener">Buildings</span>
               <ul>
-                {% for building in site.buildings %}
-            		<li><a href="{{ building.url | absolute_url }}">{{ building.title }}</a></li>
+                {% assign links = (site.buildings | where:"status", "active") %}
+                {% for building in links %}
+            		<li><a href="{{ building:url | absolute_url }}">{{ building.title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
@@ -46,7 +47,7 @@
             </li>-->
             <li><a href="{{ 'people.html' | absolute_url }}">Historic Figures</a></li>
             <li><a href="{{ 'texts.html' | absolute_url }}">Scholarly Texts</a></li>
-            <li><a href="{{ 'blog.html' | absolute_url }}">Blog</a></li>
+            <li><a href="{{ 'blog.html' | absolute_url }}">Project Blog</a></li>
             <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
             <li><a href="{{ 'methodology.html' | absolute_url }}">Methodology</a></li>
             <li><a href="{{ 'links.html' | absolute-url }}">Links</a></li>
@@ -59,7 +60,7 @@
             <h2>Recent Posts</h2>
           </header>
           <div class="mini-posts">
-              {% for post in site.posts limit:2 %}
+              {% for post in site.posts limit:1 %}
               <article>
                 <h3>{{ post.title }}</h3>
                 {{ post.excerpt }}

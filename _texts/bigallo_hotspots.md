@@ -57,8 +57,9 @@ A.S.F., Bigallo, II, 2, 37r. June 30, 1361 (Poggi, “Bigallo,” 228; Saalman, 
 
 “(The captains) directed that the Procurator pay to the painter Bartolommeo the sum of 62 lire 3 soldi and 6 denari for the work that he did to paint the top of the oratory.”
 
-## Fanciulli Smarriti
-Niccolò di Pietro Gerini and Ambrogio di Baldese, The Abandonment and Restitution of Children, 1386.
+## The Abandonment and Restitution of Children
+
+Niccolò di Pietro Gerini and Ambrogio di Baldese, 1386.
 
 The company of the Misercordia paid Niccolò di Pietro Gerini and Ambrogio di Baldese 17 florins at the completion of their project to paint a monumental fresco on the façade of their residence hall that looked down on the Piazza S. Giovanni and the Baptistery for which it was named.  This appears to have been the last of a number of payments (perhaps of a similar amount) that the artists received.
 
@@ -90,35 +91,62 @@ A.S.F., Bigallo, II, 3, 27v. July 5, 1386. “A Nicholo di Piero e Ambrogio di B
 
 ## St. Peter Martyr, Madonna and Child, St. Lucy
 
-The Bigallo 
+The Company of the Bigallo moved these statues, executed by an unknown artist at an unknown date, from their original headquarters after the merger with the Misericordia in 1425. That they were not installed until 1445 hints at the slow and presumably rocky integration of the company with that of the Misericordia over several decades.
 
 [Read More]
 
-The records of the Misericordia state that, shortly after the completion of the exterior frescoes of St. Peter Martyr, the Company of the Bigallo moved these three statues from their original headquarters on the *Via ___ _____*, near the Church of __Orsanmichele__.
-Stylistically, the translation of the statues, alongside the addition of the narrative frescoes, breaks the harmonious unity between the Baptistery, Duomo, and oratory that briefly existed after the fire of 1442.
+The records of the Misericordia state that, shortly after the commission of two exterior frescoes of scenes from the life of St. Peter Martyr, the Company of the Bigallo moved three statues from their original residence on the Corso d'Adimari, near the Church of __Orsanmichele__. The two frescoed angels on either side of the Madonna were added shortly afterwards.
+
+Stylistically, the addition of these statues and the frescoes depicting scenes from the life of St. Peter Martyr, breaks the harmonious unity between the Baptistery, Duomo, and oratory that briefly existed after the fire of 1442.
+
+The Rustici codex, created c. 1450, shows the oratory much as it appears today, with the exception of the statues of Sts Peter Martyr and Lucy, the Virgin and Child, and the frescoes of St. Peter Martyr's life.
+
+Here, more than almost any other Florentine site, the connection between mother and child
 
 ## Misericordia
 
-__Bernardo Daddi__ painted this unique fresco, containing the earliest recorded depiction of the city of Florence, around *1342*.
+Bernardo Daddi, c. 1342.
+
+__Bernardo Daddi__ painted this unique fresco, containing the earliest recorded depiction of the city of Florence, circa *1342*. Located in the open-air audience hall of the Misericordia's first property, such an individual image served to distinguish the company from the other charitable organizations ministering to the city's poor.
 
 [Read More]
 
 The Madonna della Misericordia (often called The Allegory of Mercy) was frescoed by Bernardo Daddi and his workshop in the Salla del'Udienza around 1342. The Misericordia composition of an image of the Virgin, cloaked and facing the viewer with supplicants either beneath her cloak or flanking her, was a common genre of the time. This image features Mary hovering above a cityscape of Florence, clutching a garment embroidered with eleven roundels, featuring scenes of acts of charity (feeding the hungry, welcoming the estranged, clothing the naked, worshipping God, etc.).
 
+The fresco originally adorned the eastern wall of the
+
+The Misericordia distinguishes itself from similar compositions displaying the Virgin Mary in several ways. Firstly, the female figure represents Mercy as a standalone allegorical figure, rather than in association with the Blessed Virgin
+
+Compare a similar image produced around the same time by the Sienese artist *Lippo Memmi*.
+
 ## Tobias Cycle
 
-
+An unknown artist executed this fresco cycle on the eastern wall of the Sala Magna early in the building's history. Functioning as a
 
 [Read More]
 
-A minor figure from one of the Apocryphal books of the Bible, Tobit served as one of the Misericordia's patron saints. The Misericordia's origins emerge out of the chaos surrounding the Black Death in 1348, where their primary charity involved the burial of dead bodies, one of Tobit's identifying characteristics.
-The 1515 predella painting by Ridolfo Ghirlandaio for the oratory's altarpiece further cements the connection between the saint and the company. In it, Tobit and his young son carry a dead body off the streets of Florence, with the oratory of the Bigallo (albeit reproduced with considerable artistic license) in the background. Despite the merger with their fiscally-irresponsible peers, or perhaps because of it, the members of the Misericordia seem to have sought to reassert their presence in their own home.
-Placed directly opposite the Allegory of Divine Misericordia, the Life Cycle of Tobit formed a cohesive narrative that exemplified the nature of the Company.
-The cycle may have functioned as a means of teaching about the obscure saint to the (presumably) illiterate impoverished to whom the company ministeed in the Audience Hall.
+A minor figure from one of the Apocryphal books of the Bible, Tobias served as one of the Misericordia's patron saints. The Misericordia's origins emerge out of the chaos surrounding the Black Death in 1348, where their primary charity involved the burial of dead bodies, one of Tobias's identifying characteristics.
+
+Pictorial depictions of Tobias grew in popularity during the Renaissance, though they almost universally contained themselves to showing the youth accompanied by his faithful dog and the archangel Raphael, as seen in a panel by Verrocchio.
+
+The 1515 predella painting by Ridolfo Ghirlandaio for the oratory's altarpiece further cements the connection between the saint and the company. In it, Tobias and his elderly father carry a dead body off the streets of Florence, with the oratory of the Bigallo (albeit reproduced with considerable artistic license) visible in the background. Despite the merger with their fiscally-irresponsible peers, or perhaps because of it, the members of the Misericordia seem to have sought to reassert their presence in their own home.
+
+Placed directly opposite the Allegory of Divine Misericordia, the Life Cycle of Tobias formed a cohesive narrative that exemplified the nature of the Company. One of the corporal works of mercy
+
+The corporal works of mercy, taken from Isaiah 58 and
+The burial of the dead seems to have derived specifically from the Book of Tobit (in Latin, also *Tobias*, with minor distinction between father and son).
+
+The cycle may have functioned as a means of teaching about the obscure saint to the (presumably) illiterate *poverini* to whom the company ministered in the old Audience Hall.
+
+The prominence of St. Tobias' patronage sharply declined after the merger in 1425, whereupon the captains of the Company of the Bigallo
+
+Six of the original eighteen scenes are no longer extant.
 
 ## St. Peter Martyr Frescoes
 
-With the merger of the Companies of the Bigallo and Misericordia in 1425,
+With the merger of the Companies of the Bigallo and Misericordia in 1425, the loggia's appearance on the cathedral square changed drastically.
+On March 4, 1445, the company of the Bigallo authorized the painting of scenes from the life of St. Peter Martyr on the facade of the oratory.
+Painted by Ventura di Moro and Rossello and Giunta di Jacopo Franchi between March 1445 and August 1446.
 
 [Read More]
 
@@ -128,15 +156,23 @@ The painting of these frescoes demonstrates the slow yet not-so-subtle transitio
 
 The patronage of saints
 
+The painting of frescoes on the exterior of buildings was not an uncommon sight in the late Medieval Italian city-states; one of the most famous examples were the scenes produced by Giorgione for the facade of the Fondaco dei Tedeschi in Venice.
+
 ## Audience Hall
 
 The Audience Hall
 
 [Read More]
 
+Of the original audience hall's appearance, little to nothing remains. Renovations in the late 18th century completely changed the external appearance of the residence
+
+In order to revive the structure's original appearance, we must turn to the 15th century Rustici codex, wherein a small illustration displays what the building once looked like. The old structure actually consisted of two interpolated buildings that lacked the symmetrical harmony of the current layout. The 1515 predella painting by Ridolfo Ghirlandaio, though inaccurate in depicting the oratory, matches the image of the hallway and residence as seen in the Rustici codex.
+
 The *Sala dell'Udienza*, or Audience Hall, functioned as the public nucleus of the Misericordia's presence on the Piazza del Duomo from its earliest days.
 
-Such a public
+Public spaces such as this provided ample opportunities for
+
+Above and adjacent to this open hall, the members of the company lived and worked
 
 ## Upper Story
 After a great fire in 1442, the oratory's upper floor was rebuilt in greater size and style. Carpenters Domenico and Pianelone di Luca worked at a record pace to create the structure that has not changed since, and a painter by the name of Piero Cellini decorated the façade to match the white, green, and pink scheme of the Baptistery and Duomo.
@@ -144,7 +180,13 @@ After a great fire in 1442, the oratory's upper floor was rebuilt in greater siz
 [Read More]
 The oratory's structure changed when, in July of 1442, a terrible fire destroyed the building's upper story. Reconstruction began immediately and finished after an incredibly short period of four weeks. Rather than recreate the original appearance, the captains of the merged Bigallo-Misericordia chose to make several changes, the most notable of which remains the *sala magna*, or Great Hall. The height of this meeting room was raised with new vaulting, and delicate Gothic bifora lancets replaced the earlier round-arched windows.
 
+In June of 1361, a painter named Bartolomeo decorated the roof of the oratory, distinct from the frescoes found on the building's facade.
+
+The sacristan of the combined company appears to have inhabited a room above the oratory
+
 The *Codex Rustici*, an illustrated manuscript from the mid-fifteenth century, records the appearance of the oratory before the Bigallo-heavy decorations were added in 1445.
+
+A now-lost third scene from the life of St. Peter Martyr may have originally occupied the register beneath the windows on the side of the oratory facing the campanile.
 
 ## Madonna and Child with Angels
 
