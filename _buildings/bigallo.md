@@ -123,5 +123,5 @@ Images of Mary were predictably popular in domestic settings, where women of all
 # Resources
 {% assign texts = (site.texts | where:"building", "bigallo") %}
 {% for text in texts %}
-<ul><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></ul>
+<ul><a href="{{ text:url | absolute_url }}">{{ text.title }}</a></ul>
 {% endfor %}

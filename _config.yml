@@ -33,19 +33,19 @@ excerpt_separator: <!-- read more -->
 collections:
   contributors:
     output: true
-    permalink: /contributors/:name
+    permalink: /contributors/:name:output_ext
   people:
     output: true
-    permalink: /people/:name
+    permalink: /people/:name:output_ext
   buildings:
     output: true
-    permalink: /buildings/:name
+    permalink: /buildings/:name:output_ext
   artworks:
     output: true
-    permalink: /artwork/:name
+    permalink: /artwork/:name:output_ext
   locations:
     output: true
-    permalink: /locations/:name
+    permalink: /locations/:name:output_ext
   texts:
     output: true
-    permalink: /texts/:name
+    permalink: /texts/:name:output_ext

@@ -107,7 +107,7 @@ Here, more than almost any other Florentine site, the connection between mother 
 
 Bernardo Daddi, c. 1342.
 
-__Bernardo Daddi__ painted this unique fresco, containing the earliest recorded depiction of the city of Florence, circa *1342*. Located in the open-air audience hall of the Misericordia's first property, such an individual image served to distinguish the company from the other charitable organizations ministering to the city's poor.
+__Bernardo Daddi__ painted this standout fresco, containing the earliest recorded depiction of the city of Florence, circa 1342. Originally located in the open-air audience hall of the Company of the Misericordia's first property, such a unique image served to distinguish the company from the other charitable organizations ministering to the city's poor. The roundels lining the female figures cloak contain references to the Corporal Works of Mercy performed by the Company and other confraternities like it.
 
 [Read More]
 
@@ -146,7 +146,7 @@ Six of the original eighteen scenes are no longer extant.
 
 With the merger of the Companies of the Bigallo and Misericordia in 1425, the loggia's appearance on the cathedral square changed drastically.
 On March 4, 1445, the company of the Bigallo authorized the painting of scenes from the life of St. Peter Martyr on the facade of the oratory.
-Painted by Ventura di Moro and Rossello and Giunta di Jacopo Franchi between March 1445 and August 1446.
+Painted by Ventura di Moro and Rossello and Giunta di Jacopo Franchi between March 1445 and August 1446, these frescoes exhibit the nature of the Bigallo-Misericordia merger and the former's domineering presence in the relationship.
 
 [Read More]
 

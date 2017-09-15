@@ -13,7 +13,7 @@ layout: default
 			<h3>Bigallo</h3>
 			<p>Built in c. 1360, the Oratory of the Misericordia, as it was then known, has endured expansions, fires, renovations, a merger, and more to become the elegant structure that stands on the Piazza del Duomo today. Read more about the structure's tumultous history here. Explore the headquarters of one of the city's most prominent charities, the Confraternity of the Misericordia, later merged with that of the Bigallo, and see the art that it commissioned to assert its place in Florentine society.</p>
 			<ul class="actions">
-				<li><a href="{{ 'bigallo.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ '/buildings/bigallo.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -21,7 +21,7 @@ layout: default
 			<h3>Orsanmichele</h3>
 			<p>View the monumental statues produced by Florence's leading sculptors for the city's guilds, which were commissioned to decorate this grain market-turned-church. One of the city's grandest examples of the Medieval and Renaissance connection between religion, politics, and art, the granary and later church of Orsanmichele has an extremely complex history. To help make sense of it, we've collected some sources here for edification.</p>
 			<ul class="actions">
-				<li><a href="{{ 'orsanmichele.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ '/buildings/orsanmichele.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 	</div>
@@ -59,12 +59,10 @@ layout: default
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Del Migliore</h3>
-				<p>Del Migliore - Italian, 1684 - del Migliore was</p>
+				<p>Ferdinando del Migliore was born in 1628 and spent his adult life researching and writing about the history of Florence. A gifted archivist, del Migliore scoured the registers and contracts of individuals and institutions in an effort to present to his readers accurate accounts of the city’s past.</p>
 				<li>
 					<span class="opener">Buildings</span>
 					<ul>
-						<li><a href="{{ 'bigallo_migliore.html' | absolute_url }}">Bigallo</a></li>
-						<li><a href="{{ 'orsanmichele_migliore.html' | absolute_url }}">Orsanmichele</a></li>
 					</ul>
 				</li>
 			</div>
@@ -80,12 +78,11 @@ layout: default
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Paatz</h3>
-				<p>Paatz - German, 1952-1955 - A German husband-and-wife team, </p>
+				<p>Paatz - German, 1952-1955 - A German husband-and-wife team of art historians with an incredible attention to detail.</p>
 				<li>
 					<span class="opener">Buildings</span>
 					<ul>
-						<li><a href="{{ 'bigallo_paatz.html' | absolute_url }}">Bigallo</a></li>
-						<li><a href="{{ 'orsanmichele_paatz.html' | absolute_url }}">Orsanmichele</a></li>
+						<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html">Bigallo</a></li>
 					</ul>
 				</li>
 			</div>
@@ -95,6 +92,14 @@ layout: default
 			<div class="content">
 				<h3>Miscellaneous</h3>
 				<p>Miscellaneous - Context-dependent</p>
+				<li>
+					<span class="opener">Buildings</span>
+					<ul>
+						<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-saalman.html">Howard Saalman on the Bigallo</a></li>
+						<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-passerini.html">Luigi Passerini on the Bigallo</a></li>
+						<li><a href="http://florenceasitwas.wlu.edu/texts/orsanmichele-museum.html">Information from the Museo di Orsanmichele</a></li>
+					</ul>
+				</li>
 			</div>
 		</article>
 	</div>

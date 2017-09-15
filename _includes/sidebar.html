@@ -33,7 +33,7 @@
               <ul>
                 {% assign links = (site.buildings | where:"status", "active") %}
                 {% for building in links %}
-            		<li><a href="{{ building:url | absolute_url }}">{{ building.title }}</a></li>
+            		<li><a href="{{ building.url | absolute_url }}">{{ building.title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
@@ -49,7 +49,6 @@
             <li><a href="{{ 'texts.html' | absolute_url }}">Scholarly Texts</a></li>
             <li><a href="{{ 'blog.html' | absolute_url }}">Project Blog</a></li>
             <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
-            <li><a href="{{ 'methodology.html' | absolute_url }}">Methodology</a></li>
             <li><a href="{{ 'links.html' | absolute-url }}">Links</a></li>
           </ul>
         </nav>

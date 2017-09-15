@@ -15,25 +15,25 @@ title: Current Contributors
     <span><img src="assets/images/bio_valentea.jpg" /></span>
     <div class="content">
       <h3>Aidan Valente</h3>
-      <p>Aidan is a Medieval & Renaissance Studies and Art History double-major and a potential Classics minor. He has studied Italian and French, is starting Latin this year, and spent the summer working on Florence As It Was and practicing his Italian in Italy. He spends much of his time working on Digital Humanities projects involving the University's Special Collections archives, where he worked during the summer of 2016. Outside the classroom, he enjoys participating in Catholic Campus Ministry, hanging out at Friday Underground, and seeing plays at the Blackfriars in Staunton with the Shakespeare Society.</p>
+      <p>Aidan is a Medieval & Renaissance Studies and Art History double-major planning to add a Classics minor this year. He has studied Italian, French, and Spanish--with Latin soon to follow--and spent the summer working on Florence As It Was and practicing his Italian in Italy. On-campus, he spends much of his time working on Digital Humanities projects involving the University's Special Collections archives, where he worked during the summer of 2016. Outside the classroom, he enjoys participating in Catholic Campus Ministry, hanging out at Friday Underground, and seeing plays at the Blackfriars in Staunton with the Shakespeare Society.</p>
     </div>
   </article>
   <article>
     <span><img src="assets/images/bio_greenleafm.jpg" /></span>
     <div class="content">
       <h3>MC Greenleaf</h3>
-      <p>MC is an Art and Computer Science double-major. She has spent several summers in Florence and her family has contributed to preserving the city's historic cultural heritage.</p>
+      <p>Mary Catherine hails from the icy Erie, Pennsylvania, and currently attends Washington and Lee University as a member of the class of 2019. She is pursuing a BA in Studio Art and Computer Science, with an independent focus on digital design. With these skills she hopes to produce 3D models for different varieties of interactive entertainment. She has spent time abroad in Florence, Italy, and is familiar with the city as a whole. Mary Catherine is a member of the Pi Beta Phi sorority, the Washington and Lee Students Arts League, as well as the Alpha Phi Omega service fraternity.</p>
     </div>
   </article>
   <article>
     <span><img src="assets/images/bio_dauk.jpg" /></span>
     <div class="content">
     <h3>Katherine Dau</h3>
-    <p>Bio entry goes here</p>
+    <p>Katherine travelled from Dallas, Texas to Lexington, VA to begin her studies at Washington and Lee. Katherine is a Johnson Scholar and plans to graduate in 2019 with a major in Art History and a minor in German. She has studied abroad in Siena, Italy, Berlin, and Göttingen, Germany. She worked on redrafting the Student Body Constitution and has served on the executive committee of Kappa Alpha Theta as COO. During her free time Katherine enjoys visiting museums, cooking, reading, hiking with friends, and exploring Lexington.</p>
     </div>
   </article>
   <article>
-    <span><img src="assets/images/bio_gilleyc.jpg" /></span>
+    <span><img src="assets/images/bio_gilleyc.JPG" /></span>
     <div class="content">
     <h3>Colby Gilley</h3>
     <p>Hailing from the humid hamlet of rural Molino, FL, Colby Gilley is a current sophomore at Washington and Lee University. While he naturally gravitates towards humanities classes at W&L, he is enamored by all facets of the human experience. His potential major is still undeclared, but he has pronounced his investment in the University’s community, serving as a member of the FYOC, a University Big, and a leader on the Friday Underground team. Colby appreciates dusty old bookstores, the scent of wisteria on April evenings, and the sound of a reverberated guitar.</p>
@@ -69,7 +69,7 @@ title: Current Contributors
     </div>
   </article>
   <article>
-    <span><img src="assets/images/bio_pfaffd.jpg" /></span>
+    <span><img src="assets/images/bio_pfaffd.png" /></span>
     <div class="content">
     <h3>Dave Pfaff</h3>
     <p>Dave Pfaff is the coordinator for Washington and Lee's IQ center. He works to foster cross-disciplinary and quantitative approaches to inspire creativity and problem solving in teaching and research.</p>
