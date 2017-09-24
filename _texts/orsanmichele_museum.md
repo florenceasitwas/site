@@ -4,6 +4,8 @@ title: Orsanmichele Statues
 building: orsanmichele
 ---
 
+#### Translated from Italian by Aidan Valente
+
 #San Pietro
 In the absence of documentary sources, for the statue of Saint Peter both dating and artistic paternity have always been strongly controversial. It has been traditionally attributed to Donatello due to the words written by Vasari; in fact, he asserted that the Arte dei Beccai had assigned the execution of the work to Brunelleschi and Donatello together, but that the latter had worked alone.
 For the sculpture, "most wise and wonderful," also attributed in the past to Nanni di Banco and to Michelozzo, there was recently advanced a new hypothesis, that sees Filippo Brunelleschi as the author of both the tabernacle and of the statue, in which the artist would propose a model of antique statuary in a time in which his interest in sculpture is documented, shared with Donatello.

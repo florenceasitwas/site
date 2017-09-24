@@ -4107,3 +4107,49 @@
 	padding-left: 1em;
 	padding-right: 1em;
 } */
+
+/*
+#menu ul a.opener, #menu ul span.opener {
+	-moz-transition: color 0.2s ease-in-out;
+	-webkit-transition: color 0.2s ease-in-out;
+	-ms-transition: color 0.2s ease-in-out;
+	transition: color 0.2s ease-in-out;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	position: relative;
+}
+
+	#menu ul a.opener:before, #menu ul span.opener:before {
+		-moz-osx-font-smoothing: grayscale;
+		-webkit-font-smoothing: antialiased;
+		font-family: FontAwesome;
+		font-style: normal;
+		font-weight: normal;
+		text-transform: none !important;
+	}
+
+	#menu ul a.opener:before, #menu ul span.opener:before {
+		-moz-transition: color 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+		color: #9fa3a6;
+		content: '\f078';
+		position: absolute;
+		right: 0;
+	}
+
+	#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
+		color: #285a32;
+	}
+
+	#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
+		display: block;
+	}
+
+	#menu ul a.opener.active:before, #menu ul span.opener.active:before {
+		-moz-transform: rotate(-180deg);
+		-webkit-transform: rotate(-180deg);
+		-ms-transform: rotate(-180deg);
+		transform: rotate(-180deg);
+	} */

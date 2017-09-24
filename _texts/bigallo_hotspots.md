@@ -26,6 +26,8 @@ The very form of the public loggia carried some symbolic importance in the fourt
 
 Early painters of Florentine cityscapes occasionally included representations of the loggia when producing vistas of the Piazza S. Giovanni, although their renditions differed from artist to artist and from painting to painting. The building features prominently in the fresco by Niccolò di Pietro Gerini and Ambrogio di Baldese that originally decorated the façade of the residence hall that faced the Baptistery, and portrayed its appearance with impressive accuracy. These artists included in their painting of 1386 the column clusters, iron grates, spandrel figures, and the rosette decoration that forms the left side of the loggia’s entrance that mark it as such a remarkable space, suggesting that the building’s details truly mattered to both the fresco’s painters and its audience. Ridolfo Ghirlandaio, by contrast, painted in 1515 a much more simplified version of the space in his predella for the Bigallo altarpiece (with figures by Alberto Arnoldi installed in 1364): the sixteenth-century artist emphasized rectilinear pilasters (rather than sculpted column clusters and spiral colonnettes) as supports for the arches, avoided the articulation of each bas-relief, and omitted the figures of the Cardinal Virtues that were sculpted in the spandrels. Even though he truncated the residence in his painting – he shows only two arched bays on the north façade instead of three – he was careful to include iron bars within the archway and the rosette plinth at its base. The late sixteenth-century aerial view of Piazza S. Giovanni by either Giorgio Vasari or the Flemish painter Jan van der Straet (a.k.a. Giovanni Stradano, a.k.a. Johannes Stradanus, d. 1605) references the loggia only through the pictorial employment of rounded arches that mark the facility as distinct from those around it, but then fails entirely to capture even a semblance of its actual appearance beyond these obvious rounded vaults. Fabio Borbottoni (d. 1902) reproduced the loggia’s architectural features with some accuracy when he painted his version in the late nineteenth century, but he omitted completely the sculptural elements embedded in the archways: it’s as though they were never installed on the building’s façade at all.
 
+GB
+
 <hr>
 
 “1363, 24 June. The captains directed the administrator to pay the painter, Bartolommeo, 62 lire, 4 sold, and 6 denari for pictures at the head of the oratory (see carte 37).  1363, 24 October. The Captains of the Misericordia – Statio Dati, Tellino Dino, Piero Borsi, Duccio di Giovanni, Ruberto Martelli – in the name of the confraternity and the company, discussed a number of things listed below. First, they discussed the work in the Oratory where one sees figures, that is on the face of the pedestal made by the master Ambrogio that is designed and made as well as is possible; for the best value, make sure we don't spend more than 100 gold florins.”
@@ -83,6 +85,8 @@ The artists have elongated this urban landscape and altered its features in an e
 
 The two painters worked together on a number of projects, but Gerini in particular became a favorite of Florentine patrons at the turn of the fifteenth century. His works adorned altars and interior spaces of the Confraternity of the Pilgrims in S. Maria Novella, the sacristy in the Franciscan church of S. Croce, the guild church of Orsanmichele, and the Camaldolese monastery of S. Maria degli Angeli. He also worked in the towns surrounding Florence in rural Tuscany, a testament to the extent of his reputation. Largely overlooked by historians of early Renaissance art, Gerini’s popularity speaks to the public taste for Giottesque imagery just before the arrival in Florence of the transformative New Style of painting articulated in full by the artist named Masaccio (d. ca. 1427).
 
+GB
+
 <hr>
 
 A.S.F., Bigallo, II, 3, 27v. July 5, 1386. “A Nicholo di Piero e Ambrogio di Baldese dipintori a di 22 di Giugno per resto del lavorio della dipintura della faccia dinanzi della casa della Misericordia, fior. 17 d’oro” (Poggi, “Bigallo,” 229; Saalman, The Bigallo, 46, n. 7a).
@@ -103,6 +107,8 @@ The Rustici codex, created c. 1450, shows the oratory much as it appears today, 
 
 Here, more than almost any other Florentine site, the connection between mother and child
 
+AV
+
 ## Misericordia
 
 Bernardo Daddi, c. 1342.
@@ -118,6 +124,8 @@ The fresco originally adorned the eastern wall of the
 The Misericordia distinguishes itself from similar compositions displaying the Virgin Mary in several ways. Firstly, the female figure represents Mercy as a standalone allegorical figure, rather than in association with the Blessed Virgin
 
 Compare a similar image produced around the same time by the Sienese artist *Lippo Memmi*.
+
+SB and AV
 
 ## Tobias Cycle
 
@@ -142,6 +150,8 @@ The prominence of St. Tobias' patronage sharply declined after the merger in 142
 
 Six of the original eighteen scenes are no longer extant.
 
+AV
+
 ## St. Peter Martyr Frescoes
 
 With the merger of the Companies of the Bigallo and Misericordia in 1425, the loggia's appearance on the cathedral square changed drastically.
@@ -157,6 +167,8 @@ The painting of these frescoes demonstrates the slow yet not-so-subtle transitio
 The patronage of saints
 
 The painting of frescoes on the exterior of buildings was not an uncommon sight in the late Medieval Italian city-states; one of the most famous examples were the scenes produced by Giorgione for the facade of the Fondaco dei Tedeschi in Venice.
+
+AV
 
 ## Audience Hall
 
@@ -174,6 +186,8 @@ Public spaces such as this provided ample opportunities for
 
 Above and adjacent to this open hall, the members of the company lived and worked
 
+AV
+
 ## Upper Story
 After a great fire in 1442, the oratory's upper floor was rebuilt in greater size and style. Carpenters Domenico and Pianelone di Luca worked at a record pace to create the structure that has not changed since, and a painter by the name of Piero Cellini decorated the façade to match the white, green, and pink scheme of the Baptistery and Duomo.
 
@@ -187,6 +201,8 @@ The sacristan of the combined company appears to have inhabited a room above the
 The *Codex Rustici*, an illustrated manuscript from the mid-fifteenth century, records the appearance of the oratory before the Bigallo-heavy decorations were added in 1445.
 
 A now-lost third scene from the life of St. Peter Martyr may have originally occupied the register beneath the windows on the side of the oratory facing the campanile.
+
+AV
 
 ## Madonna and Child with Angels
 
@@ -203,6 +219,8 @@ Arnoldi’s ensemble is that rare structure that both embraces and defies tradit
 Arnoldi’s figures bear close resemblance to sculpted images produced in Florence during the first half of the fourteenth century. Despite being hidden by draperies that pull across her torso and sweep from left hip to right foot, Mary’s body seems proportionally accurate and naturalistically balanced thanks to a contrapposto pose formed by her flexed right knee and straight, weight-bearing left leg. The hefty Christ child, perched on his mother’s bent left arm, raises his right hand to her neck in a gesture of intimacy that contrasts with the more didactic presentation of the small crucifix that he holds in his left. The two angels hold candelabra that appear as columns and turn their heads (attenuated on top of rather slender and elongated necks) inward toward the holy couple. The chubby cheeks of Christ and the volumetric bodies of all four figures suggests the influence of Arnolfo di Cambio, whose marble figures on the façade of the nearby Duomo had been in place since the first decade of the century. But the craned necks and heads of the angels, combined with the swaying hips of the Virgin, recall the more Gothicized work of Giovanni and Andrea Pisano, the latter of whom was active in Florence during the decade of the 1330s.
 
 In fact, these visual recollections of the work of earlier Pisan artists confused later critics of Italian sculpture. In his famous sixteenth-century study of Italian art and architecture (the famous Lives of the Artists), Giorgio Vasari erroneously attributed Arnoldi’s figures to Andrea Pisano and his assistant, Ciognara, perhaps due to their participation in the sculptural project to cast bronze reliefs on the south doors of the Baptistery that face the Misericordia’s residence from the middle of the piazza. His mistake is understandable due precisely to Arnoldi’s intentional employment of the Gothicized approach to sculpture that his patrons, the captains of the Misericordia, demanded from him.
+
+GB
 
 <hr>
 
@@ -223,6 +241,8 @@ Arnoldi’s Madonna and Child conforms to the half-length form popular at the ti
 Installed above the heads of visitors to the residence hall and positioned in the doorway that led directly to the oratory where Arnoldi’s figures on the Misericordia’s altarpiece stood, the Madonna and Child prepared lay Florentines for the experience they were about to have inside the place where mothers and their children were either separated from each other or reunited after a period of estrangement. The appearance of the Holy Family at this important, limnal juncture between the public space of the city (in the form of the piazza) and the private space of the Misericordia surely offered to viewers of all genders, ages, and vocations a sense of the services rendered by the company as well as the quality of care its members promised to provide for the children offered to it by families in need. As such, the intimacy between Arnoldi’s figures seems both tender and anguished, for some of those who entered into the residence hall from this portal could not have been happy about the transaction that was about to occur.
 
 Images of Mary were predictably popular in domestic settings, where women of all ages and stations recognized her as a symbol of matronly love. Her placement above the front entrance of the city’s best-known Foster Care center must have made her particularly appealing to those Tuscan women who, when approaching the confraternity in their time of need, may have been reminded that the Virgin had given birth out of wedlock and probably well before her twentieth birthday. She was a sympathetic and completely appropriate patron for the confraternity of the Misericordia.
+
+GB
 
 <hr>
 

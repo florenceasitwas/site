@@ -4,6 +4,8 @@ title: Primary Sources Used by Saalman
 building: bigallo
 ---
 
+#### Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.
+
 THE BIGALLO AND THE COMPAGNIA DELLA MISERICORDIA
 Documents
 1. The Building and its Decorations

@@ -9,6 +9,8 @@ title: Current Contributors
     <div class="content">
       <h3>Sam Joseph</h3>
       <p>From Dallas, Texas, Sam Joseph is a junior at Washington and Lee University. Before attending Washington and Lee, he took a gap year and lived in Ho Chi Minh City, Vietnam, where he taught English, cooked for and worked with orphans and in hospitals. Majoring in Art History, minoring in Classics, and focusing on his independent Engineering and Physics studies, Sam plans to attend architecture graduate school. Through Florence As It Was, Sam conducted project research in Florence, Italy. For six weeks, he worked in the Kunsthistorisches Institut library and photolibrary. He translated Medieval Latin documents and took pictures for photogrammetric modeling. As a part of Dr. Uffelman's Technical Examination of 17th-Century Dutch Paintings course, Sam studied abroad in the Netherlands. Consequently, he has pursued the subject of digital archaeology and conservation and its relation to the Florence As It Was project. Sam headed the project's 3D modeling division.</p>
+      <h4>Contributions</h4>
+      <p>Sam created the first <a href="https://sketchfab.com/FLAW/models">models</a> for Florence As It Was, including the flagship model of the Bigallo and the numerous niches of Orsanmichele. He also helped write the FLAW guidlines and methodology, translated scholarly sources from Medieval Latin, and shaped the project's goal from the very outset. Finally, Sam assisted in training <b>MC Greenleaf</b> for the 3D modeling project division.</p>
     </div>
   </article>
   <article>
@@ -48,6 +50,8 @@ title: Current Contributors
     <div class="content">
       <h3>Miles Bent</h3>
       <p>Miles graduated in 2017 a Global Politics and English double major. Born and raised in Lexington, VA, he has spent a year in Florence, Italy, and an additional semester abroad in Rome, Italy, where he took courses in Italian and Art History. Miles is a member of Beta Theta Pi fraternity, played soccer for Washington and Lee for three years, and served as a Peer Counselor on campus.</p>
+      <h4>Contributions</h4>
+      <p>Having lived in Florence, Miles assisted with the 2D Mapping aspect of the project, as well as working on several of the Italian sources, such as the Carocci Map.</p>
     </div>
   </article>
   <article>
@@ -55,6 +59,8 @@ title: Current Contributors
     <div class="content">
       <h3>Sonia Brozak</h3>
       <p>From New York, New York, Sonia graduated with a double major in Art History and Medieval & Renaissance Studies and a minor in German. She undertook two thesis projects, one of which deals with appropriationist art of the 1980s and the other looks at conceptions of spatial mapping in Early Modern Florence. She has spent time abroad in Münster, Germany; Florence, Italy; and Paris, France improving her German, Italian, and French. Sonia served as the Secretary of the Student Body at Washington and Lee and is a member of Pi Beta Phi sorority. In her spare time, she enjoys spending time with friends and reading The New Yorker.</p>
+      <h4>Contributions</h4>
+      <p>Sonia helped to establish and refine the project's initial goals, from the planned nature of the VR experience, to the educational benefits of the 2D mapping aspect. She contributed research pertaining to Florence that appeared in her senior thesis, worked on the 2D map alongside Miles and Dave Pfaff, and translated Paatz's German notes on the Bigallo.</p>
     </div>
   </article>
 </div>
