@@ -2,6 +2,7 @@
 layout: page
 title: La Loggetta del Bigallo - Passerini
 building: bigallo
+category: misc
 ---
 
 Luigi Passerini, Curiosità storico-artistiche Fiorentine (Florence, 1866), 91-98.

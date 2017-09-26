@@ -51,7 +51,7 @@ layout: default
 </section>
 
 <!-- Section -->
-<section>
+<section id="resources">
 	<header class="major">
 		<h2>Resources</h2>
 	</header>
@@ -61,11 +61,9 @@ layout: default
 			<div class="content">
 				<h3>Del Migliore</h3>
 				<p>Ferdinando del Migliore was born in 1628 and spent his adult life researching and writing about the history of Florence. A gifted archivist, del Migliore scoured the registers and contracts of individuals and institutions in an effort to present to his readers accurate accounts of the city’s past.</p>
-				<li>
-					<span class="opener">Buildings</span>
-					<ul>
-					</ul>
-				</li>
+				<span class="opener">Buildings</span>
+				<ul>
+				</ul>
 			</div>
 		</article>
 		<article>
@@ -80,8 +78,7 @@ layout: default
 			<div class="content">
 				<h3>Paatz</h3>
 				<p>Paatz - German, 1952-1955 - A German husband-and-wife team of art historians with an incredible attention to detail.</p>
-				<li>
-					<span class="opener">Buildings</span>
+				<span class="opener">Buildings</span>
 					<ul>
 						<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html">Bigallo</a></li>
 					</ul>
@@ -93,14 +90,13 @@ layout: default
 			<div class="content">
 				<h3>Miscellaneous</h3>
 				<p>Miscellaneous - Context-dependent</p>
-				<li>
-					<span class="opener">Buildings</span>
-					<ul>
-						<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-saalman.html">Howard Saalman on the Bigallo</a></li>
-						<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-passerini.html">Luigi Passerini on the Bigallo</a></li>
-						<li><a href="http://florenceasitwas.wlu.edu/texts/orsanmichele-museum.html">Information from the Museo di Orsanmichele</a></li>
-					</ul>
-				</li>
+				<span class="opener">Buildings</span>
+				<ul>
+					{% assign texts = (site.texts | where:"category", "misc") %}
+					{% for text in texts %}
+					<li><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></li>
+					{% endfor %}
+				</ul>
 			</div>
 		</article>
 	</div>

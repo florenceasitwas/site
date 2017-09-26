@@ -10,3 +10,5 @@ Three major aspects of this project inherently interact: research, the intersect
 This project has been devised to encourage collaboration nationally and internationally, as many voices are better than one. But our design team notes that software applications must be compatible with the one employed here for optimal viewing.
 
 #### Written by Sam Joseph
+
+The bulk of the works presented in this project have passed out of copyright, and thus are publicly available. Items that are protected by copyright have been secured with the owner's permission.

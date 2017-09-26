@@ -2,6 +2,7 @@
 layout: page
 title: Primary Sources Used by Saalman
 building: bigallo
+category: misc
 ---
 
 #### Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.

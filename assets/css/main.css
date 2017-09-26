@@ -4108,48 +4108,49 @@
 	padding-right: 1em;
 } */
 
-/*
-#menu ul a.opener, #menu ul span.opener {
-	-moz-transition: color 0.2s ease-in-out;
-	-webkit-transition: color 0.2s ease-in-out;
-	-ms-transition: color 0.2s ease-in-out;
-	transition: color 0.2s ease-in-out;
-	text-decoration: none;
-	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-	position: relative;
-}
+/* Resources */
 
-	#menu ul a.opener:before, #menu ul span.opener:before {
-		-moz-osx-font-smoothing: grayscale;
-		-webkit-font-smoothing: antialiased;
-		font-family: FontAwesome;
-		font-style: normal;
-		font-weight: normal;
-		text-transform: none !important;
+	#resources div > article > div.content > a.opener, #resources div > article > div.content > span.opener {
+		-moz-transition: color 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out;
+		text-decoration: none;
+		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+		position: relative;
 	}
 
-	#menu ul a.opener:before, #menu ul span.opener:before {
-		-moz-transition: color 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
-		-webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
-		-ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
-		transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
-		color: #9fa3a6;
-		content: '\f078';
-		position: absolute;
-		right: 0;
-	}
+		#resources div > article > div.content > a.opener:before, #resources div > article > div.content > span.opener:before {
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
 
-	#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-		color: #285a32;
-	}
+		#resources div > article > div.content > a.opener:before, #resources div > article > div.content > span.opener:before {
+			-moz-transition: color 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
+			-webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+			-ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
+			transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+			color: #9fa3a6;
+			content: '\f078';
+			position: absolute;
+			right: 0;
+		}
 
-	#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
-		display: block;
-	}
+		#resources div > article > div.content > a.opener:hover:before, #resources div > article > div.content > span.opener:hover:before {
+			color: #285a32;
+		}
 
-	#menu ul a.opener.active:before, #menu ul span.opener.active:before {
-		-moz-transform: rotate(-180deg);
-		-webkit-transform: rotate(-180deg);
-		-ms-transform: rotate(-180deg);
-		transform: rotate(-180deg);
-	} */
+		#resources div > article > div.content > a.opener.active + ul, #resources div > article > div.content > span.opener.active + ul {
+			display: block;
+		}
+
+		#resources div > article > div.content > a.opener.active:before, #resources div > article > div.content > span.opener.active:before {
+			-moz-transform: rotate(-180deg);
+			-webkit-transform: rotate(-180deg);
+			-ms-transform: rotate(-180deg);
+			transform: rotate(-180deg);
+		}

@@ -26,7 +26,7 @@
           <ul>
             <li><a href="{{ '' | absolute_url }}">Home</a></li>
             <li><a class="non_link">About</a><a href ="{{ 'about_it.html' | absolute_url }}" class="lang_select">ITAL</a><a href ="{{ 'about.html' | absolute_url }}" class="lang_select">ENGL</a></li>
-            <li><a href="{{ 'maps.html' | absolute_url }}">Maps</a></li>
+            <li><a href="{{ 'maps.html' | absolute_url }}">2D Map</a></li>
             <li><a href="https://sketchfab.com/FLAW/models">3D Models</a></li>
             <li>
               <span class="opener">Buildings</span>
@@ -37,14 +37,6 @@
                 {% endfor %}
               </ul>
             </li>
-            <!--<li>
-              <span class="opener">People</span>
-          		<ul>
-                {% for person in site.people %}
-            		<li><a href="{{ person:url | absolute_url }}">{{ person.title }}</a></li>
-                {% endfor %}
-          		</ul>
-            </li>-->
             <li><a href="{{ 'people.html' | absolute_url }}">Historic Figures</a></li>
             <li><a href="{{ 'blog.html' | absolute_url }}">Project Blog</a></li>
             <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
