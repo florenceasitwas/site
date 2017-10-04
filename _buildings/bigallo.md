@@ -15,12 +15,13 @@ status: active
 </div>
 
 
-# Resources
+## Resources
 {% assign texts = (site.texts | where:"building", "bigallo") %}
+<div class="resourcelist" width="100%">
 {% for text in texts %}
-<ul><a href="{{ text:url | absolute_url }}">{{ text.title }}</a></ul>
+<a href="{{ text:url | absolute_url }}">{{ text.title }}</a>
 {% endfor %}
-
+</div>
 
 ## Loggia
 
