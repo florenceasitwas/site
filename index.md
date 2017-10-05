@@ -44,7 +44,7 @@ layout: default
 		</article>
 		<article>
 			<h3>The Loggia of the Bigallo</h3>
-			<p>Florence As It Was's first 3D model is that of the Loggia of the Bigallo—one of Florence's most visible structures on the Piazza and a physical reminder of the city's rich Medieval past.</p>
+			<p>Florence As It Was' first 3D model is that of the Loggia of the Bigallo, one of Florence's most visible structures on the Piazza San Giovanni and a physical reminder of the city's rich Medieval past. The structure housed charitable organizations who ministered to orphaned children, poor unwed girls, the homeless, and pilgrims on the way to and from Rome. These confraternities sponsored the creation of some of the city's most unique art in order to decorate their residence and proclaim their importance in the fabric of Florentine society. And like much of Florence's past, the Bigallo has undergone significant changes—changes that we hope to unravel, peeling back the layers of time to find the Medieval city that gave birth to the Italian Renaissance. The Bigallo, then, is a perfect starting point for our work, and a snapshot that captures the essence of Florence As It Was.</p>
 			<p>Sam Joseph created the model using thousands images (which he took with a point-and-shoot camera and a tripod over the summer of 2017) and pieced it together using a process called photogrammetry. For future models, we hope to gain access to a high-resolution drone for detailed exteriors and a laser scanner for interiors.</p>
 		</article>
 	</div>
@@ -60,17 +60,16 @@ layout: default
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Del Migliore</h3>
+				<p>Italian, 1628-1696</p>
 				<p>Ferdinando del Migliore was born in 1628 and spent his adult life researching and writing about the history of Florence. A gifted archivist, del Migliore scoured the registers and contracts of individuals and institutions in an effort to present to his readers accurate accounts of the city’s past.</p>
-				<span class="opener">Buildings</span>
-				<ul>
-				</ul>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Richa</h3>
-				<p>Richa - Italian, 1752-1760</p>
+				<p>Italian, 1752-1760</p>
+				<p></p>
 				<span class="opener">Buildings</span>
 				<ul>
 					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-richa.html">Bigallo</a></li>

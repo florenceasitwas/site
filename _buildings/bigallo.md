@@ -14,8 +14,6 @@ status: active
   </p>
 </div>
 
-
-## Resources
 {% assign texts = (site.texts | where:"building", "bigallo") %}
 <div class="resourcelist" width="100%">
 {% for text in texts %}
