@@ -3,7 +3,6 @@ layout: page
 title: About the Project
 image: florence_banner.jpg
 ---
-___
 
 ## Project Description
 The city of Florence grew by the banks of the Arno River over the course of two millennia. At first a small ancient village, the town was reconfigured by Roman urban designers in the familiar grid pattern that marked most communities under their domain. That central core represented the city center until the late Middle Ages, when two new sets of walls – one outside the other – rose up in the thirteenth century to gird its expanding physical contours. Buffeted by an enormously successful entrepreneurial spirit, the city’s prosperity translated into a vibrant social and political entity, marked by abundant architectural enterprises that transformed it into one of Europe’s most important and desirable destinations.

@@ -5,26 +5,26 @@ title: Links
 
 ## Related and Similar Projects
 
-DECIMA - University of Toronto
+[DECIMA](https://decima-map.net/) - University of Toronto
 
-Cenobium - Kunsthistorisches Florenz
+[Cenobium](https://www.khi.fi.it/4824501/cenobium) - Kunsthistorisches Florenz
 
-Map of Early Modern London - University of Victoria
+[Map of Early Modern London](https://mapoflondon.uvic.ca/) - University of Victoria
 
-Factum Arte - Madrid
+[Factum Arte](http://www.factum-arte.com/) - Madrid
 
-Santa Pier Maggiore - Cambridge
+[San Pier Maggiore](https://www.youtube.com/watch?v=ZUXa1nDtOB0) - Cambridge
 
 The Years of the Dome - Peggy Haynes
 
-Cyark
+[Cyark](http://www.cyark.org/)
 
-The Medici Project - medici.org
+[The Medici Project](http://www.medici.org/) - medici.org
 
 ## Organizations
 
-Guild of the Dome
+[Guild of the Dome](http://www.guildofthedome.com/)
 
-Mellon Foundation
+[Mellon Foundation](https://mellon.org/)
 
-DH @ WLU
+[DH @ WLU](https://digitalhumanities.wlu.edu/)

@@ -70,10 +70,7 @@ layout: default
 				<h3>Richa</h3>
 				<p>Italian, 1752-1760</p>
 				<p></p>
-				<span class="opener">Buildings</span>
-				<ul>
-					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-richa.html">Bigallo</a></li>
-				</ul>
+					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-richa.html">Richa on the Bigallo</a></li>
 			</div>
 		</article>
 		<article>
@@ -81,24 +78,20 @@ layout: default
 			<div class="content">
 				<h3>Paatz</h3>
 				<p>Paatz - German, 1952-1955 - A German husband-and-wife team of art historians with an incredible attention to detail.</p>
-				<span class="opener">Buildings</span>
-				<ul>
-					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html">Bigallo</a></li>
-				</ul>
+				<li>
+					<a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html">Paatz on the Bigallo</a>
+				</li>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-newspaper-o"></span>
 			<div class="content">
 				<h3>Miscellaneous</h3>
-				<p>Miscellaneous - Context-dependent</p>
-				<span class="opener">Buildings</span>
-				<ul>
-					{% assign texts = (site.texts | where:"category", "misc") %}
-					{% for text in texts %}
-					<li><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></li>
-					{% endfor %}
-				</ul>
+				<p>Context-Dependent Sources</p>
+				{% assign texts = (site.texts | where:"category", "misc") %}
+				{% for text in texts %}
+				<li><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></li>
+				{% endfor %}
 			</div>
 		</article>
 	</div>
@@ -109,9 +102,11 @@ layout: default
 <section>
 	<div class="affiliation">
 	<h2>Affiliations</h2>
-	<a href="https://digitalhumanities.wlu.edu/">
-		<img src="/assets/images/logo_dhwlu.png" alt="" height ="100"></a>&emsp;
-	<a href="https://mellon.org/">
-		<img src="assets/images/logo_mellon.png" alt="" height="100"></a>
+	<div>
+		<a href="https://digitalhumanities.wlu.edu/">
+			<img src="/assets/images/logo_dhwlu.png" alt="" height ="80"></a>&emsp;
+		<a href="https://mellon.org/">
+			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>
+	</div>
 	</div>
 </section>

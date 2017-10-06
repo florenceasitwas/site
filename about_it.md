@@ -3,7 +3,6 @@ layout: page
 title: Informazioni Sul Progetto
 image: florence_banner.jpg
 ---
-___
 
 ## Descrizione del Progetto
 La città di Firenze è cresciuta lungo le rive del fiume Arno nel corso di due millenni. All'inizio un piccolo villagio antico, la città fu reconfigurata dai pianificatori romani nel famoso schema di griglia che segnava tante altre communità sotto il loro dominio. Quel nucleo centrale rappresentava il centro della città fino al tardo Medioevo, quando due mura nuove - uno all'esterno del'altro - si alzarono nel Duecento per proteggere i suoi contorni fisici estendendo. La prosperità della città è stata trasformata in un'entità vibrante, sociale, e politica, caratterizzata da abbondanti imprese architettoniche che l'hanno trasformata in una delle destinazioni più importanti e desiderabili dell'Europa.
