@@ -71,6 +71,10 @@ layout: default
 			<div class="content">
 				<h3>Richa</h3>
 				<p>Richa - Italian, 1752-1760</p>
+				<span class="opener">Buildings</span>
+				<ul>
+					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-richa.html">Bigallo</a></li>
+				</ul>
 			</div>
 		</article>
 		<article>
@@ -79,10 +83,9 @@ layout: default
 				<h3>Paatz</h3>
 				<p>Paatz - German, 1952-1955 - A German husband-and-wife team of art historians with an incredible attention to detail.</p>
 				<span class="opener">Buildings</span>
-					<ul>
-						<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html">Bigallo</a></li>
-					</ul>
-				</li>
+				<ul>
+					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html">Bigallo</a></li>
+				</ul>
 			</div>
 		</article>
 		<article>

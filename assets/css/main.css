@@ -4108,7 +4108,7 @@
 	padding-right: 1em;
 } */
 
-/* Resources */
+/* Resources
 
 	#resources div > article > div.content > a.opener, #resources div > article > div.content > span.opener {
 		-moz-transition: color 0.2s ease-in-out;
@@ -4154,3 +4154,9 @@
 			-ms-transform: rotate(-180deg);
 			transform: rotate(-180deg);
 		}
+
+.resourcelist a{
+	padding: 1em 1em;
+	text-decoration: none;
+}
+*/
