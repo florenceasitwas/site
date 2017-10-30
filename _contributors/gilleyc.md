@@ -1,5 +1,7 @@
 ---
 layout: page
-name: Colby Gilley
+title: Colby Gilley
+image: bio_gilleyc.jpg
+category:
 status: current
 ---

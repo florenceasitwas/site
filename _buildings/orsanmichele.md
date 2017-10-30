@@ -14,6 +14,7 @@ status: active
   </p>
 </div>
 
+
 Here is the *Incredulity of Saint Thomas* by Andrea del Verrocchio, one of the most famous works of art related to the historically important Church of Orsanmichele. Please visit our [Sketchfab](https://sketchfab.com/FLAW/models) page to examine the other Orsanmichele niche statues while we continue to work on this page. Thank you!
 
 <!--

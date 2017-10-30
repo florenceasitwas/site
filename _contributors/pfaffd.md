@@ -1,5 +1,7 @@
 ---
 layout: page
-name: Dave Pfaff
-status: current
+title: Dave Pfaff
+image: bio_pfaffd.jpg
+category:
+status: collaborator
 ---

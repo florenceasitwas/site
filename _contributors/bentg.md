@@ -1,5 +1,7 @@
 ---
 layout: page
-name: George Bent
-status: current
+title: George Bent
+image: bio_bentg.jpg
+category:
+status: collaborator
 ---

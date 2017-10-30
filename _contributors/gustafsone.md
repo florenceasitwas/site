@@ -1,5 +1,7 @@
 ---
 layout: page
-name: Erik Gufstafson
-status: current
+title: Eric Gustafson
+image: bio_gustafsone.jpg
+category:
+status: collaborator
 ---

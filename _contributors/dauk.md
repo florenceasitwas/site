@@ -1,5 +1,7 @@
 ---
 layout: page
-name: Katherine Dau
+title: Katherine Dau
+image: bio_dauk.jpg
+category:
 status: current
 ---

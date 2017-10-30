@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Current Contributors
+title: Contributors
 ---
 
+<h1>Current</h1>
 <div class="posts">
   <article>
     <span><img src="assets/images/bio_josephs.jpg" /></span>
@@ -43,7 +44,7 @@ title: Current Contributors
   </article>
 </div>
 <hr>
-<h1>Past Contributors</h1>
+<h1>Past</h1>
 <div class="posts">
   <article>
     <span><img src="assets/images/bio_bentm.jpg" /></span>

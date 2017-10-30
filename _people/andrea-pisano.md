@@ -1,15 +1,18 @@
 ---
 layout: page
 title: Andrea Pisano
+image:
 category: sculptor
+status:
 ---
-
-#Andrea Pisano (ca. 1295 – ca. 1348)#
-##Sculptor and Architect##
-
 
 As his surname suggests, Andrea Pisano came from the city of Pisa, located some 45 miles to the west of Florence on the banks of the Mediterranean Sea. Although not directly descended from the father-son team of [Nicola](insert link) and [Giovanni Pisano](insert link), Andrea’s contributions to the legacy of fourteenth-century art are no less important than those of his more famous predecessors.  
 
+<!-- more -->
+
+
+## (ca. 1295 – ca. 1348)
+## Sculptor and Architect
 
 Archival references to Andrea’s birth and upbringing have not survived, but later [records](insert link to documents) indicate that the sculptor came from a small village called Pontedera that was, at the turn of the fourteenth century, under Pisan control. His father was a notary named Ugolino, and as an adolescent Andrea was sent to Pisa to apprentice as a goldsmith. He soon branched out into the world of sculpture and was active carving wooden figures in and around Pisa in the early 1320s. He seems to have worked in Siena and Orvieto as well, and by the beginning of the next decade had acquired a reputation elevated enough to earn him the commission from the [Arte della Calimala](insert link) to design, cast, and chase the monumental [reliefs for the south doors](insert link) of the Florentine [Baptistery of S. Giovanni](insert link). An inscription on that door dates the early phase of this project to 1330, and the last of the panels was installed just before June 24, 1336, the all-important Feast of St. John the Baptist.
 

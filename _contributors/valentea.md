@@ -1,7 +1,9 @@
 ---
 layout: page
-name: Aidan Valente
+title: Aidan Valente
+image: bio_valentea.jpg
+category:
 status: current
 ---
 
-Aidan is a Medieval & Renaissance Studies and Art History double-major and a potential Classics minor. He has studied Italian and French, is starting Latin this year, and spent the summer working on Florence As It Was and practicing his Italian in Italy. He spends much of his time working on Digital Humanities projects involving the University's Special Collections archives, where he worked during the summer of 2016. Outside the classroom, he enjoys participating in Catholic Campus Ministry, hanging out at Friday Underground, and seeing plays at the Blackfriars in Staunton with the Shakespeare Society.
+Aidan is a Medieval & Renaissance Studies and Art History double-major planning to add a Classics minor this year. He has studied Italian, French, and Spanish--with Latin soon to follow--and spent the summer working on Florence As It Was and practicing his Italian in Italy. On-campus, he spends much of his time working on Digital Humanities projects involving the University's Special Collections archives, where he worked during the summer of 2016. In Fall semester 2017 he was appointed to the Digital Humanities committee. Outside the classroom, he enjoys participating in Catholic Campus Ministry, hanging out at Friday Underground, and seeing plays at the Blackfriars in Staunton with the Shakespeare Society.

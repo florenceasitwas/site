@@ -27,25 +27,28 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
-excerpt_separator: <!-- read more -->
+excerpt_separator: <!-- more -->
 
 # Collections
 collections:
-  contributors:
+  artworks:
     output: true
-    permalink: /contributors/:name:output_ext
-  people:
-    output: true
-    permalink: /people/:name:output_ext
+    permalink: /artworks/:name:output_ext
   buildings:
     output: true
     permalink: /buildings/:name:output_ext
-  artworks:
+  contributors:
     output: true
-    permalink: /artwork/:name:output_ext
+    permalink: /contributors/:name:output_ext
+  events:
+    output: true
+    permalink: /events/:name:output_ext
   locations:
     output: true
     permalink: /locations/:name:output_ext
+  people:
+    output: true
+    permalink: /people/:name:output_ext
   texts:
     output: true
     permalink: /texts/:name:output_ext

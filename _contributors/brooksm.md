@@ -1,5 +1,7 @@
 ---
 layout: page
-name: Mackenzie Brooks
-status: current
+title: Mackenzie Brooks
+image: bio_brooksm.jpg
+category:
+status: collaborator
 ---

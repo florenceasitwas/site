@@ -4,7 +4,7 @@ title: Historic Figures
 ---
 
 ## Painters
-{% assign painters = (site.people | where:"category", "painter") %}
+{% assign painters = site.people | where:“category”,"painter" | where:“status”,“active” %}
 <div class="posts">
   {% for person in painters %}
   <article>
@@ -25,7 +25,7 @@ title: Historic Figures
 </div>
 ___
 ## Sculptors
-{% assign sculptors = (site.people | where:"category", "sculptor") %}
+{% assign sculptors = site.people | where:“category”,"sculptor" | where:“status”,“active” %}
 <div class="posts">
   {% for person in sculptors %}
   <article>
@@ -46,7 +46,7 @@ ___
 </div>
 ___
 ## Patrons
-{% assign patrons = (site.people | where:"category", "patron") %}
+{% assign patrons = site.people | where:“category”,"patron" | where:“status”,“active” %}
 <div class="posts">
   {% for person in patrons %}
   <article>
@@ -67,7 +67,7 @@ ___
 </div>
 ___
 ## Politicians
-{% assign politicians = (site.people | where:"category", "politician") %}
+{% assign politicians = site.people | where:“category”,"politician" | where:“status”,“active” %}
 <div class="posts">
   {% for person in politicians %}
   <article>
@@ -88,7 +88,7 @@ ___
 </div>
 ___
 ## Historians
-{% assign historians = (site.people | where:"category", "historian") %}
+{% assign historians = site.people | where:“category”,"hsitorian" | where:“status”,“active” %}
 <div class="posts">
   {% for person in historians %}
   <article>

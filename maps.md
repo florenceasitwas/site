@@ -13,6 +13,6 @@ Our 2-D map will be based on a collection of maps of Florence through the centur
   + late 16th-century map created by Stefano Buonsignori
   + ArcGIS
 
-To see the work-in-progress, click <a href="http://arcg.is/0b4uav">here</a>.
+To see the work-in-progress, click [here](http://arcg.is/0b4uav).
 
 Our 3-D map will be created entirely by Washington and Lee students, using historical records, contemporary sources, and existing structures in an effort to recreate the look and feel of 15th-century Florence as closely as possible.

@@ -1,5 +1,7 @@
 ---
 layout: page
-name: Sonia Brozak
-status: not-current
+title: Sonia Brozak
+image: bio_brozaks.jpg
+category:
+status: past
 ---

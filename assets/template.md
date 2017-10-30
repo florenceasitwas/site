@@ -8,7 +8,7 @@ status:
 
 Preview text here
 
-<!-- read more -->
+<!-- more -->
 
 Body text here
 
