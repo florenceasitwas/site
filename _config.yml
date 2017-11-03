@@ -31,24 +31,15 @@ excerpt_separator: <!-- more -->
 
 # Collections
 collections:
-  artworks:
+  culture:
     output: true
-    permalink: /artworks/:name:output_ext
-  buildings:
-    output: true
-    permalink: /buildings/:name:output_ext
-  contributors:
-    output: true
-    permalink: /contributors/:name:output_ext
-  events:
-    output: true
-    permalink: /events/:name:output_ext
-  locations:
-    output: true
-    permalink: /locations/:name:output_ext
+    permalink: /culture/:name:output_ext
   people:
     output: true
     permalink: /people/:name:output_ext
+  sites:
+    output: true
+    permalink: /sites/:name:output_ext
   texts:
     output: true
     permalink: /texts/:name:output_ext
