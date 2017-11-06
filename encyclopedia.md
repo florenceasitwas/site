@@ -8,10 +8,19 @@ Here you will find the compendium of all our Florentine research and scholarship
 
 Work in Progress
 
-{% for item in site.culture %}
-
-{% for item in site.people %}
-
-{% for item in site.sites %}
-
-{% for item in site.texts %}
+---
+{% for item in site.culture | where: "status", "live" %}
+  [{{ item.title }}]({{ item.url }})
+{% endfor %}
+---
+{% for person in site.people | where: "status", "live" %}
+  [{{ person.title }}]({{ person.url }})
+{% endfor %}
+---
+{% for place in site.sites | where: "status", "live" %}
+  [{{ place.title }}]({{ place.url }})
+{% endfor %}
+---
+{% for text in site.texts | where: "status", "live" %}
+  [{{ text.title }}]({{ text.url }})
+{% endfor %}

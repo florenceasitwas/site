@@ -11,3 +11,5 @@ From Dallas, Texas, Sam Joseph is a junior at Washington and Lee University. Bef
 <!-- more -->
 
 Sam created the first [models](https://sketchfab.com/FLAW/models) for Florence As It Was, including the flagship model of the Bigallo and the numerous niches of Orsanmichele. He also helped write the FLAW guidlines and methodology, translated scholarly sources from Medieval Latin, and shaped the project's goal from the very outset. Finally, Sam assisted in training **MC Greenleaf** for the 3D modeling project division.
+
+Essays and content produced by Same are marked with __SJ__.
