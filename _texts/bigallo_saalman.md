@@ -5,6 +5,8 @@ building: bigallo
 category: misc
 ---
 
+*Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.*
+
 ###THE BIGALLO AND THE COMPAGNIA DELLA MISERICORDIA
 
 Documents
@@ -286,5 +288,3 @@ __...per avere ressetto L'uscio dela Scala che si va in cantina...per avere rigu
 *...for to have [ressetto] the exit of the Scala that one goes in the cellar...for to have regarded and Stuccoed All the ornament of painting of the stone to the Head of the Scala and returned to His post...for the have Assetto Luscio to Head of the Scala...*
 
 ___
-
-__Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.__

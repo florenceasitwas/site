@@ -4,6 +4,8 @@ title: Bigallo Hotspots
 building: bigallo
 ---
 
+*Articles by George Bent*
+
 ## Loggia
 
 Leonardo Bartolini, et.al., Loggia, 1355-1363

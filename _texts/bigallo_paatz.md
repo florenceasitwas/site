@@ -4,9 +4,9 @@ title: Bigallo Notes by Paatz
 building: bigallo
 ---
 
-Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.
+*Translated by Sonia Brozak*
 
-#### Translated from German by Sonia Brozak
+__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.__
 
 **(#) refers to footnotes, most of which are translated at the bottom of the document**
 

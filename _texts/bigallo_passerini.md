@@ -5,7 +5,9 @@ building: bigallo
 category: misc
 ---
 
-Luigi Passerini, Curiosità storico-artistiche Fiorentine (Florence, 1866), 91-98.
+*Translated by Aidan Valente*
+
+__Luigi Passerini, Curiosità storico-artistiche Fiorentine (Florence, 1866), 91-98.__
 
 #### Translated from Italian by Aidan Valente
 
@@ -80,7 +82,3 @@ Qui hanno termine le notizie artistiche de questo luogo, non stimando opportuno 
 [5]MCCCLXXXVI, 5 di luglio - Giovanni Federighi, Nuto di Francesco, Giusto di Coverello, Soldo di Lippo Soldani, Francesco di Lutozzo (Nasi), e Iacopo del Riccio fabro capitani della Misericordia, absenti Tommaso di Francesco fiascaio ... A Niccolò di Piero e Ambrogio di Baldese dipintori, a di XXII di giugno, per resto del lavorio della dipintura della faccia dinanzi della casa della Misericordia, come apare al dicto quaderno, fiorini diciasette d'oro (Filza detta, fascicolo 3, a carte 27 tergo).
 
 [6]MCCCCXLVI - Ventura di Moro dipintore de' avere a di 27 di maggio fiorini quattro - libre quattro per noi da Giovanni da Filicaja nostro camarlingo, come in questo a carte 108. Et a dì XXVIII d'agosto fiorini quindici sono per la mezza dipintura fattaci in chompagnia di Rossello dipintore de la storia di san Pietro martire in la facciata dinanzi di nostra compagnia chome sindichò Lorenzo di Bartolommeo dipintore in la scritta di loro mano. (Arch. sudd. Libro dei debitori e creditori del Bigallo del 1446 e 1447, segnato G, a carte 10 - Le pitture del Chellini devono essere quelle fatte ad ornamento delle eleganti finestre che stanno as di sopra della loggetta e dell'oratorio, e che fa di mestieri di riportare all'antico stato quando non vogliasi lasciare questo bel restauro incompleto. Ecco la relativa partita - MCCCXLIII die X mensis martii - Item Piero Cellini et sotiis pictoribus quamcumque quantitatem percuniae quas ipse et quilibet ipsorum recipere et habere deberent et peter possent pro occasione certarum picturarum faciendarum; item pro calce et pontibus libras viginti. (Deliberazioni dei Capitani del Bigallo, 1443 e 1444, filza VI, carte 10). E e questa deve aggiungersi la seguente, vista da Rumhör e dal Becchi ma non da me - MCCCCXLIIII primo junii: Petro Chellinio pictori pro resto tolius picturae factae in domo habitationis Captineorum in facie exteriori.
-
-<hr>
-
-*Translated by:* Aidan Valente and Professor George Bent

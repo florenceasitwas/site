@@ -70,7 +70,7 @@ layout: default
 				<h3>Richa</h3>
 				<p>Italian, 1752-1760</p>
 				<p></p>
-					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-richa.html">Richa on the Bigallo</a></li>
+					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-richa.html" class="essaylink">Richa on the Bigallo</a></li>
 			</div>
 		</article>
 		<article>
@@ -79,7 +79,7 @@ layout: default
 				<h3>Paatz</h3>
 				<p>Paatz - German, 1952-1955 - A German husband-and-wife team of art historians with an incredible attention to detail.</p>
 				<li>
-					<a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html">Paatz on the Bigallo</a>
+					<a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html" class="essaylink">Paatz on the Bigallo</a>
 				</li>
 			</div>
 		</article>
@@ -90,7 +90,7 @@ layout: default
 				<p>Context-Dependent Sources</p>
 				{% assign texts = (site.texts | where:"category", "misc") %}
 				{% for text in texts %}
-				<li><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></li>
+				<li><a href="{{ text.url | absolute_url }}" class="essaylink">{{ text.title }}</a></li>
 				{% endfor %}
 			</div>
 		</article>
