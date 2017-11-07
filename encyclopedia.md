@@ -6,7 +6,7 @@ image:
 
 Here you will find the compendium of all our Florentine research and scholarship.
 
-Work in Progress
+*Work in Progress*
 
 ---
 {% for item in site.culture | where: "status", "live" %}

@@ -136,4 +136,4 @@ Van Os, Henk. *Sienese Altarpieces, I* (Gronignen, 1984).
 
 White, John. *Art and Architecture in Italy, 1250-1400* (Penguin Books: Baltimore, 1966).
 
-GB
+__GB__

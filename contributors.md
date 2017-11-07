@@ -3,6 +3,8 @@ layout: page
 title: Contributors
 ---
 
+Read about our current and past contributors in their own words!
+
 ## Current
 {% assign current = site.contributors where:“status”,“current” %}
 <div class="posts">

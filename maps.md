@@ -7,7 +7,7 @@ image: buonsignori_1.jpg
 <p align="center"><i>Image courtesy of Harvard Libraries</i></p>
 <br/>
 
-Our 2-D map will be based on a collection of maps of Florence through the centuries
+Our 2-D map will be based on a collection of maps of Florence through the centuries:
   + Catena
   + Carocci
   + late 16th-century map created by Stefano Buonsignori

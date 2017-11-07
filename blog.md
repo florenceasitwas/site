@@ -3,6 +3,10 @@ layout: page
 title: Project Blog
 ---
 
+This blog represents an ongoing record of our contributors' efforts, thoughts, work processes, and more.
+
+*Work in Progress*
+
 <div class="posts">
 	{% for post in site.posts %}
 	<article>

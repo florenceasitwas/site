@@ -5,7 +5,11 @@ image:
 tags:
 ---
 
-Hello! My name is Mary Catherine Greenleaf, and I’d like to introduce myself and my place as a new member of the Florence As It Was project! I’m a junior studio art and computer science double major, with high dreams of entering the game design or animation fields. As such, my place in the project lies within the realm of 3D modeling. I have taken over Sam’s role in the team, learning how to effectively work with programs such as Cinema 4D, Substance Painter, SketchUp, and Unity. I will be creating 3D models of the buildings that no longer exist, based on paintings from the time, as well as creating and placing basic textures over the city map so the program won’t utilize too much processing power with smaller details, while still maintaining the overall environment.
+Hello! My name is Mary Catherine Greenleaf, and I’d like to introduce myself and my place as a new member of the Florence As It Was project! I’m a junior studio art and computer science double major, with high dreams of entering the game design or animation fields. As such, my place in the project lies within the realm of 3D modeling.
+
+<!-- more -->
+
+I have taken over Sam’s role in the team, learning how to effectively work with programs such as Cinema 4D, Substance Painter, SketchUp, and Unity. I will be creating 3D models of the buildings that no longer exist, based on paintings from the time, as well as creating and placing basic textures over the city map so the program won’t utilize too much processing power with smaller details, while still maintaining the overall environment.
 
 That being said, I’ve made considerable progress since the beginning of the year on the aforementioned fields. After a horrible mishap with my poor laptop’s screen, I’ve recovered and began mastering the various software required of me. I’ve spent time learning SketchUp, creating a small road in the process, and Cinema 4D, placing a mapped texture over that road. It took me a while to figure out the camera controls for Substance Painter, with its user unfriendly interface, but liberal use of the ALT key proved useful for moving around. After learning the basics of Substance Painter it was determined that knowledge of that software probably will not be necessary to the beginning stages of this project, as we discovered a website which houses multiple mapped textures to place in other programs. It may still be helpful later on if we decide to create our own textures, so I’m glad to have learned it.
 
@@ -22,5 +26,5 @@ nY. -> Secondary map
 d. -> Again in detail albedo
 
 
-I have also spent time gaining proficiency in Cinema 4D in order to create the underlying 3D models for the buildings. Dave and I investigated UV mapping, the mechanism which allows us to effectively apply textures to oddly shaped models. Though a difficult process to learn, requiring the 2D deconstruction of 3D models, I have begun to grasp the concept. 
+I have also spent time gaining proficiency in Cinema 4D in order to create the underlying 3D models for the buildings. Dave and I investigated UV mapping, the mechanism which allows us to effectively apply textures to oddly shaped models. Though a difficult process to learn, requiring the 2D deconstruction of 3D models, I have begun to grasp the concept.
 In the next couple of weeks I will focus on creating models of old buildings long since torn town, utilizing old paintings as my templates.

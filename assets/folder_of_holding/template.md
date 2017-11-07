@@ -1,8 +1,8 @@
 ---
-layout: page
+layout:
 title:
 image:
-category:
+tags:
 status:
 ---
 
