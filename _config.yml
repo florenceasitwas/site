@@ -1,7 +1,8 @@
 # Site settings
 title: Florence As It Was&#58;
 subtitle: the Digital Reconstruction of a Medieval City
-email: bentg@wlu.edu
+email: florenceasitwas@wlu.edu
+email2: bentg@wlu.edu
 description: A Washington & Lee Digital Humanities Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://florenceasitwas.wlu.edu" # the base hostname & protocol for your site
