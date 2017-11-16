@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Primary Sources Used by Saalman
-building: bigallo
-category: misc
+image:
+tags: bigallo
+status: live
 ---
 
 __Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.__

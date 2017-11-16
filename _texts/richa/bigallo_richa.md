@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Historical Notes on the Florentine Churches VII - Bigallo
-building: bigallo
-category: richa
+image:
+tags: bigallo
+status: live
 ---
 
 Giuseppe Richa, Notizie Istoriche delle chiese Fiorentine VII, Bigallo, 251-65, 282-96.

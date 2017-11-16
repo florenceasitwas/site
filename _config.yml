@@ -32,6 +32,9 @@ excerpt_separator: <!-- more -->
 
 # Collections
 collections:
+  contributors:
+    output: true
+    permalink: /contributors/:name:output_ext
   culture:
     output: true
     permalink: /culture/:name:output_ext
