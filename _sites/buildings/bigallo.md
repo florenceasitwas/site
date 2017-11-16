@@ -17,7 +17,7 @@ status: active
 {% assign texts = (site.texts | where:"building", "bigallo") %}
 <div class="resourcelist" width="100%">
 {% for text in texts %}
-<a href="{{ text:url | absolute_url }}">| {{ text.title }} |</a>
+<a href="{{ text.url | absolute_url }}">| {{ text.title }} |</a>
 {% endfor %}
 </div>
 
