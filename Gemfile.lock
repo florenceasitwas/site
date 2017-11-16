@@ -56,7 +56,7 @@ DEPENDENCIES
   bundler (~> 1.12)
   editorial_jekyll_theme!
   jekyll (~> 3.3)
-  rake (~> 10.0)
+  rake (~> 10.5.0)
 
 BUNDLED WITH
    1.15.4
