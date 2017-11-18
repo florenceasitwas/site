@@ -3,16 +3,33 @@ layout: page
 title: Contributors
 ---
 
-{% assign current = site.contributors | where:“status”,“current” %}
-{% assign past = site.contributors | where:“status”,"past" %}
-{% assign collab = site.contributors | where:“status”,"collaborator" %}
+{% assign current = site.contributors | where:"status","current" %}
+{% assign past = site.contributors | where:"status","past" %}
+{% assign collab = site.contributors | where:"status","collaborator" %}
 
 ## Current
-
 <div class="posts">
   {% for person in current %}
     <article>
       {{ person.image }}
+      {{ person.content }}
+    </article>
+  {% endfor %}
+</div>
+
+## Past
+<div class="posts">
+  {% for person in past %}
+    <article>
+      {{ person.content }}
+    </article>
+  {% endfor %}
+</div>
+
+## Collaborators
+<div class="posts">
+  {% for person in collab %}
+    <article>
       {{ person.content }}
     </article>
   {% endfor %}

@@ -2,7 +2,7 @@
 layout: page
 title: The Bigallo
 category: loggia
-status: active
+status: live
 ---
 
 <div class="sketchfab-embed-wrapper">
