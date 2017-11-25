@@ -12,3 +12,10 @@ This project has been devised to encourage collaboration nationally and internat
 The bulk of the works presented in this project have passed out of copyright, and thus are publicly available. Items that are protected by copyright have been secured with the owner's permission.
 
 __SJ__
+
+## Project Standards
+
+Scholarly Documentation: Markdown text files
+Site Structure: Jekyll
+2D Mapping: ArcGIS
+3D Models:
