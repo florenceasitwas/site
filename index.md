@@ -88,7 +88,7 @@ layout: default
 			<div class="content">
 				<h3>Miscellaneous</h3>
 				<p>Context-Dependent Sources</p>
-				{% assign texts = (site.texts | where:"category", "misc") %}
+				{% assign texts = site.texts | where:"category", "misc" %}
 				{% for text in texts %}
 				<li><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></li>
 				{% endfor %}

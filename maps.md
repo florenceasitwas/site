@@ -17,6 +17,7 @@ To see the work-in-progress, click [here](http://arcg.is/0b4uav).
 
 Our 3-D map will be created entirely by Washington and Lee students, using historical records, contemporary sources, and existing structures in an effort to recreate the look and feel of 15th-century Florence as closely as possible.
 
+<!--
 ## The Maps
 
 ### Catena
@@ -29,3 +30,4 @@ Stefano Buonsignori was a member of the Olivetan monastery of San Miniato in the
 
 ### ArcGIS
 Our map utilizes the previous three in a variety of ways: firstly, each map is visible as a separate layer, allowing the viewer to compare how the city appeared over the centuries. Second,
+-->

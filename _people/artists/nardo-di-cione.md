@@ -6,8 +6,11 @@ tags: painter
 status: live
 ---
 
+## Nardo di Cione
 ## died c. 1366
 ## Painter
+
+<!-- more -->
 
 Nardo di Cione partnered with his brother, [Andrea di Cione](insert link), to form one of the most successful and influential artistic workshops in post-plague Florence. Particularly gifted in the realm of fresco painting, Nardo’s works adorned a wide array of institutions across the city, and the famous [letter of 1349](insert link) lists him (as well as his fraternal colleague) as one of the best painters working in Florence at the time.
 

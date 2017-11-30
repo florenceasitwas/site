@@ -5,8 +5,11 @@ tags: painter
 status: live
 ---
 
+## Niccolo Gerini
 ## ca. 1340–1416
 ## Painter
+
+<!-- more -->
 
 Niccolò di Pietro Gerini is not a household name today. His conservative style extended the innovations of [Giotto](insert link) and the traditions of [Bernardo Daddi](insert link), but a full century after the advent of this new style of painting reached the vantage point of Florentine viewers. However, at the height of his career at the turn of the fifteenth century, few painters in Tuscany enjoyed the kind of popularity that he did among patrons and audiences alike.
 

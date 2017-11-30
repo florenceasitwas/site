@@ -6,8 +6,11 @@ category: sculptor
 status: live
 ---
 
+## Alberto Arnoldi
 ## ca. 1320? – ca. 1370?
 ## Sculptor
+
+<!-- more -->
 
 Alberto Arnoldi appears to have been born in Florence, although the date of his birth has never been discovered. Indeed, practically nothing about this sculptor of note is known, and our understanding of his work and his legacy comes down to us only circumstantially.
 

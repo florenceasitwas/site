@@ -5,6 +5,10 @@ category: loggia
 status: live
 ---
 
+Built in c. 1360, the Oratory of the Misericordia, as it was then known, has endured expansions, fires, renovations, a merger, and more to become the elegant structure that stands on the Piazza del Duomo today. Read more about the structure's tumultous history here. Explore the headquarters of one of the city's most prominent charities, the Confraternity of the Misericordia, later merged with that of the Bigallo, and see the art that it commissioned to assert its place in Florentine society.
+
+<!-- more -->
+
 <div class="sketchfab-embed-wrapper">
 <iframe width="100%" height="480" src="https://sketchfab.com/models/611e480a37db4ddca53216bfe7c98dc0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
   <p style="font-size: 14px; font-weight: normal; margin: 5px; color: #4A4A4A;">
@@ -14,7 +18,7 @@ status: live
   </p>
 </div>
 
-{% assign texts = (site.texts | where:"building", "bigallo") %}
+{% assign texts = site.texts | where:"building", "bigallo" %}
 <div class="resourcelist" width="100%">
 {% for text in texts %}
 <a href="{{ text.url | absolute_url }}">| {{ text.title }} |</a>
