@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: page
 title: Cosimo the Elder
 image: cosimo_medici.jpg
 category: patron

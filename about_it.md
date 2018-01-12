@@ -20,3 +20,5 @@ Florence As It Was combinerebbe una mappa interattiva con rappresentazioni tridi
 
 ## Finanziamenti di Lenfest Precedenti
 Dal 2006 Ho sono sovvenenzionato dal programma Lenfest, che mi aiuta a mantenere un programma di ricerca attivo durante la mia permanenza in quanto coordinatore del Dipartimento di Arte e Storia dell'Arte. Quella ricerca sbocca in una serie di presentazioni cartacee, un articolo ("Avventure in Pubblicità nella Guild di Lana Fiorentina") e il mio libro, *Public Painting and Visual Culture in Early Republican Florence* (Cambridge University Press: New York, 2017). "Florence As It Was" è un nuovo progetto che potrebbe continuare per il resto della mia vita professionale. - George Bent
+
+__GB, AV__

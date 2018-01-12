@@ -1,11 +1,12 @@
 # Site settings
 title: Florence As It Was&#58;
 subtitle: the Digital Reconstruction of a Medieval City
-email: bentg@wlu.edu
+email: florenceasitwas@wlu.edu
+email2: bentg@wlu.edu
 description: A Washington & Lee Digital Humanities Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://florenceasitwas.wlu.edu" # the base hostname & protocol for your site
-author:
+author: Professor George Bent
 street_address: 204 W. Washington St.
 city: Lexington
 state: VA
@@ -16,14 +17,14 @@ phone: (540) 458-8400
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/florenceasitwas
 gitlab_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/florenceasitwas
 
 # Build settings
 markdown: kramdown
@@ -31,24 +32,18 @@ excerpt_separator: <!-- more -->
 
 # Collections
 collections:
-  artworks:
-    output: true
-    permalink: /artworks/:name:output_ext
-  buildings:
-    output: true
-    permalink: /buildings/:name:output_ext
   contributors:
     output: true
     permalink: /contributors/:name:output_ext
-  events:
+  culture:
     output: true
-    permalink: /events/:name:output_ext
-  locations:
-    output: true
-    permalink: /locations/:name:output_ext
+    permalink: /culture/:name:output_ext
   people:
     output: true
     permalink: /people/:name:output_ext
+  sites:
+    output: true
+    permalink: /sites/:name:output_ext
   texts:
     output: true
     permalink: /texts/:name:output_ext

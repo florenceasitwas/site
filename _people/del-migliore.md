@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: page
 title: Ferdinando del Migliore
 category: historian
 ---
