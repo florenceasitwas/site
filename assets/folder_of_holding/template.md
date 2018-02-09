@@ -1,7 +1,8 @@
 ---
 layout:
-title:
 image:
+title:
+dates:
 tags:
 status:
 ---

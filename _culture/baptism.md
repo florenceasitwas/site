@@ -39,4 +39,4 @@ Medieval Fonts, Settings and Beliefs*. Edited by Harriet M. Sonne de Torrens and
 Haas, Louis. “Il Mio Buono Compare: Choosing Godparents and the Uses of Baptismal Kinship
 in Renaissance Florence.” *Journal of Social History*, vol. 29, no. 2, 1995, 341-56.  
 
-CG
+Colby Gilley

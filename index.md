@@ -106,7 +106,9 @@ layout: default
 		<a href="https://digitalhumanities.wlu.edu/">
 			<img src="/assets/images/logo_dhwlu.png" alt="" height ="80"></a>&emsp;
 		<a href="https://mellon.org/">
-			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>
+			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>&emsp;
+		<a href="https://www.uchicago.edu/">
+			<img src="assets/images/logo_uchicago.png" alt="" height="80"></a>
 	</div>
 	</div>
 </section>

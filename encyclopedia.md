@@ -36,6 +36,7 @@ Here you will find the compendium of all our Florentine research and scholarship
       {% if person.image %}
         <span class="image"><img src="assets/images/{{person.image}}" /></span>
       {% endif %}
+      <h2>{{ person.title }}: {{ person.dates }}</h2>
       {{ person.excerpt }}
       <ul class="actions">
         <li><a href="{{ person.url | absolute_url }}" class="button small">More</a></li>

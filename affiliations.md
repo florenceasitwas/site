@@ -3,6 +3,12 @@ layout: page
 title: Links
 ---
 
+## Affiliations
+
+University of Chicago
+
+<!--University of Toronto-->
+
 ## Related and Similar Projects
 
 [DECIMA](https://decima-map.net/) - University of Toronto
@@ -28,3 +34,25 @@ The Years of the Dome - Peggy Haynes
 [Mellon Foundation](https://mellon.org/)
 
 [DH @ WLU](https://digitalhumanities.wlu.edu/)
+
+## An Incredible Thank You to the Following:
+
+Opera del Duomo and Mons. Timothy Verdon
+
+Kunsthistorisches Instituit and Dr. Alessandro Nova
+
+Florence Office of Tourism and Dott. Andrea Giordani
+
+Clara Marinelli of the Frilli Gallery
+
+Frate Bernardo and the brothers of S. Miniato al Monte
+
+Dott.ssa Paola D’Agostino
+
+Dott.ssa Claudia Timossi
+
+Dott. Giuseppe De Micheli
+
+Dott. Andrea Giordani
+
+Dott.essa Carlatta Viviano

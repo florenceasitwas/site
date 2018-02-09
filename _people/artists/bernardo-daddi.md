@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Bernardo Daddi
 image: misericordia_alt.jpg
+title: Bernardo Daddi
+dates: ca. 1280 – 1348
 tags: painter
 status: live
 ---
 
-## Bernardo Daddi
-## ca. 1280 – 1348
-## Painter
+A late contemporary of the famous painter Giotto di Bondone, Bernardo Daddi (ca. 1280 – 1348) became one of Florence’s most popular and most important producers of panel pictures during the two decades that preceded the advent of Bubonic Plague. The identity of his master remains unclear, and speculations range from Giotto himself to obscure miniaturists like the elusive Master of the Dominican Effigies.
 
 <!-- more -->
-
-A late contemporary of the famous painter Giotto di Bondone, Bernardo Daddi (ca. 1280 – 1348) became one of Florence’s most popular and most important producers of panel pictures during the two decades that preceded the advent of Bubonic Plague. The identity of his master remains unclear, and speculations range from Giotto himself to obscure miniaturists like the elusive Master of the Dominican Effigies.
 
 His approach to figures and scenes belies an understanding of popular trends in Trecento painting, with a complete reliance on layered hues of egg tempera pigments creating colorful (if somewhat rigid) forms that immediately capture one’s attention. But Daddi was no slavish imitator, and he intentionally departed from the naturalistic and expressive figures produced by his more famous predecessor in his quest for painting characters deserving of devotional attention from viewers. His traditionalist, somewhat conservative approach retained much of the brilliance of earlier Tuscan painting in Florence and nearby Siena without the addition of potentially distracting gestural or overly emotional elements.
 
