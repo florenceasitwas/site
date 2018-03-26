@@ -18,4 +18,4 @@ __SJ__
 Scholarly Documentation: Markdown text files
 Site Structure: Jekyll
 2D Mapping: ArcGIS
-3D Models:
+Publically Available 3D Models: Sketchfab

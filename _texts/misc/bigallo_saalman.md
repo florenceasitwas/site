@@ -6,11 +6,7 @@ tags: bigallo
 status: live
 ---
 
-<<<<<<< HEAD:_texts/bigallo_saalman.md
-*Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.*
-=======
 __Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.__
->>>>>>> encyclopedia:_texts/misc/bigallo_saalman.md
 
 ###THE BIGALLO AND THE COMPAGNIA DELLA MISERICORDIA
 

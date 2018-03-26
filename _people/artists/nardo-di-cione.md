@@ -3,7 +3,7 @@ layout: page
 title: Nardo di Cione
 image:
 tags: painter
-status: live
+status:
 ---
 
 ## Nardo di Cione

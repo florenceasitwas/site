@@ -3,7 +3,7 @@ layout: page
 title: Alberto Arnoldi
 image:
 category: sculptor
-status: live
+status:
 ---
 
 ## Alberto Arnoldi

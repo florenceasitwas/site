@@ -2,7 +2,7 @@
 layout: page
 title: Niccolo di Pietro Gerini
 tags: painter
-status: live
+status:
 ---
 
 ## Niccolo Gerini

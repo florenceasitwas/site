@@ -55,6 +55,7 @@ Here you will find the compendium of all our Florentine research and scholarship
       {% if place.image %}
         <span class="image"><img src="assets/images/{{place.image}}" /></span>
       {% endif %}
+      <h2>{{ place.title }}: {{ place.dates }}</h2>
       {{ place.excerpt }}
       <ul class="actions">
         <li><a href="{{ place.url | absolute_url }}" class="button small">More</a></li>

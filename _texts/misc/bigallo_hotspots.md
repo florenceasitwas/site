@@ -4,11 +4,7 @@ title: Bigallo Hotspots
 building: bigallo
 ---
 
-<<<<<<< HEAD:_texts/bigallo_hotspots.md
-*Articles by George Bent*
-=======
 __Essays by George Bent (GB) and Aidan Valente (AV)__
->>>>>>> encyclopedia:_texts/misc/bigallo_hotspots.md
 
 ## Loggia
 

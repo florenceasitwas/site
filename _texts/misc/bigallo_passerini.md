@@ -6,11 +6,9 @@ tags: bigallo
 status: live
 ---
 
-*Translated by Aidan Valente*
+__Translated by Aidan Valente__
 
 __Luigi Passerini, Curiosità storico-artistiche Fiorentine (Florence, 1866), 91-98.__
-
-#### Translated from Italian by Aidan Valente
 
 ## The Loggia of the Bigallo
 Among the most praiseworthy decisions made by the rulers of Tuscany in the wake of the dismantling of the Austro-Lorraine dynasty was the one to reopen the loggia of the Bigallo on the square of the Duomo. After a few years of waiting, the desires of the people were realized through the wise direction of the architect Mariano Falcini, whose restoration work can still be seen in the upper sections of the building. I believe it is important to reveal information I have uncovered about this building and its artistic value.
