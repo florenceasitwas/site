@@ -14,7 +14,23 @@ __Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches
 
 This page will be updated as subsequent parts of the notes and text are translated.
 
+Special thanks to Professor Paul Youngman for all of his help in translating this work.
+
 #2 S. Giovanni
+Piazza S. Giovanni
+
+#3 Special Literature
+Antonio Lumachi, *Memorie storiche dell'antichissima basilica di S. Giovanni Batista di Firenze*, Firenze s. a. (1782). — cited as: Lmachi, *Mem. stor*.
+Giuseppe del Rosso, *Ricerche storico-archittetoniche spora il singolarissimo tempio di S. Giovanni di Firenze*, 182. — cited as: del Rosso, *Ricerche*.  
+Francois-Anatole Gruyer, *Les oeuvres d'art de la Renaissance italienne au temple de St. Jean*, 1875. — cited as: Gruyer, 1975.
+Gio. Batta Befani, *Memorie storiche dell'antichissima basilica di S. Giovanni Battista di Firenze*, Firenze 1884.
+Aristide Nardini-Despotti-Mospignotti, Il Duomo di S. Giovanni, Firenze 1902. — cited as: Nardini, *S. Giovanni*, 1902.
+Ugo Monneret de Villard, *Il Battistero di Firenze*, 1910.
+Karl M. Swoboda, *Das Florentiner Baptisterium*, 1919. — cited as: Swoboda, *Baptisterium*, 1918.
+Karl M. Swoboda, "Zur Analyse des Florentiner Baptisteriums" in *Kunstwissenschaftliche Forschungen*, II, 1933, 63-74. — cited as: Swoboda, 1933.
+Walther Horn, "Das Florentiner Baptisterium", in *Mitt. Inst. Florenz* V, 1938, 100-151. — cited as: Horn, 1938.
+Walter Paatz, "Die Hauptstömungen in der Florentiner Baukust des frühen und hohen Mittelalters — und ihr geschichtlicher Hintergrund," in *Mitt. Inst. Florenz* VI, 1940, 33ff.
+Renato Piattoli, *Regesta Charorum Italiae, Le carte della canonica della cattedrale die Firenze (732-1149)*, Rome 1938. — Unfortunately this book can no longer be analyzed here; it includes the best and most exhaustive publication of all documents before 1149.
 
 #2 Name
 Also SS Giovanni e Miniato (1)
