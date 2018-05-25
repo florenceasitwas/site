@@ -10,16 +10,16 @@ status: live
 
 __Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: D-L. Frankfurt am Main: Vittorio Klostermann, 1955. 172-230.__
 
-**(#) refers to footnotes, most of which are translated at the bottom of the document**
+**(#) refers to footnotes**
 
 This page will be updated as subsequent parts of the notes and text are translated.
 
 Special thanks to Professor Paul Youngman for all of his help in translating this work.
 
-#2 S. Giovanni
+## S. Giovanni
 Piazza S. Giovanni
 
-#3 Special Literature
+### Special Literature
 Antonio Lumachi, *Memorie storiche dell'antichissima basilica di S. Giovanni Batista di Firenze*, Firenze s. a. (1782). — cited as: Lmachi, *Mem. stor*.
 Giuseppe del Rosso, *Ricerche storico-archittetoniche spora il singolarissimo tempio di S. Giovanni di Firenze*, 182. — cited as: del Rosso, *Ricerche*.  
 Francois-Anatole Gruyer, *Les oeuvres d'art de la Renaissance italienne au temple de St. Jean*, 1875. — cited as: Gruyer, 1975.
@@ -32,10 +32,10 @@ Walther Horn, "Das Florentiner Baptisterium", in *Mitt. Inst. Florenz* V, 1938, 
 Walter Paatz, "Die Hauptstömungen in der Florentiner Baukust des frühen und hohen Mittelalters — und ihr geschichtlicher Hintergrund," in *Mitt. Inst. Florenz* VI, 1940, 33ff.
 Renato Piattoli, *Regesta Charorum Italiae, Le carte della canonica della cattedrale die Firenze (732-1149)*, Rome 1938. — Unfortunately this book can no longer be analyzed here; it includes the best and most exhaustive publication of all documents before 1149.
 
-#2 Name
+## Name
 Also SS Giovanni e Miniato (1)
 
-#2 Building History
+## Building History
 The Baptistery is still one of the greatest enigmas in the history of architecture. From the high middle ages to today, the Baptistery has served as a favorite subject of historical fascination for serious scholars. It has been dated in the fourth and fifth centuries, in the seventh and eighth, in eleventh, twelfth, thirteenth or even fifteenth centuries, so that its building history fluctuates throughout an entire millennium. During Dante’s time, the oldest dating was abandoned. Dante argued that the building was a creation of Roman antiquity, perhaps a temple of Mars (2). In my opinion, the still older dating in the third century of the early-Christian era needs to be abandoned (3). Lastly, the hypothesis of a Lombard-era origin is only contingently correct (4); Those other hypotheses of the foundation in the eleventh or twelfth centuries are also only conditionally plausible (5); the legends of significant (modifications) in the early Renaissance are completely wrong (6). I base my account on documents and the architectural remains, but these conclusions are speculative due to regrettably inconclusive excavations of the last half-century (7).
 
 The remains of three older cultural layers are located under the church. First, there are remains of a Roman palace that was probably established in the Augustan time and destroyed within Roman antiquity. Second, nested in the ruins of this palace, late-antique residential buildings and baths remain. At the end of the fourth century, this second layer was also destroyed. Graves of a Germanic cemetery dating to the early-middle ages occupy the most recent layer; one of these graves was partially destroyed with the installation of the left cornerstone of the apse of the Baptistery (8).
@@ -52,7 +52,7 @@ In the 1280s and 1290s, the Baptistery became the subject of a great architectur
 
 A full clarification of the building history can only be attained through research of the remaining, temporarily untouched site under the Baptistery and the plaza.
 
-#H2 Anmerkungen
+## Anmerkungen
 
 (1) Dokument von 899: Geschichte von Florenz I, 1896, 73.
 

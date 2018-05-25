@@ -12,27 +12,27 @@ __Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches
 
 **(#) refers to footnotes**
 
-#2 Bigallo I
+## Bigallo I
 Oratorio del...
 
 Corner of Via dei Calzaiuoli and Piazza di S. Giovanni
 
-#3 Special Literature
+### Special Literature
 P. Landini: Istoria dell'Oratorio di S. Maria del Bigallo e della ven. Compagnia della Misericordia, 1779 (cited as Landini, Bigallo).
 Poggi-Ricci-Supino: "La Compagnia del Bigallo," *Rivista d'Arte*. II, 1903, 189
 
-#2 Name
+## Name
 1. Misericordia Vecchia (1).
 2. Oratorio della Misericordia Vecchia e Capitani del Bigallo (2)
 3. Oratorio del Bigallo; commonly, Bigallo (3). See note under Building History (around 1425).
 
-#2 Building History
+## Building History
 
 Oratorio of the Bigallo (Corner of Via dei Calzaiuoli and Piazza di San Giovanni) (4). The company of the Misericordia, a confraternity, acquired the building in 1321 (5). After they acquired the property through a donation of the adjoining plots in 1351, (6) they began construction of the building in 1352, which contained a loggia, an oratory, meeting hall, and a living room for the brothers of the confraternity (7). By 1358 the building process was completed (8). The design can be, in all likelihood, attributed to the architect Alberto Arnoldi, who also provided the most important three-dimensional fixtures (9).
 
 In 1425, under the oversight of Cosimo de'Medici, the brotherhood of the Compagnia della Misericordia united with the original long-time resident of the building, the brotherhood of Santa Maria del Bigallo, jointly receiving the residence of the latter through a co-ownership agreement (10). Constructional changes were apparently not undertaken at that time. A fire in 1442 damaged the upper floor of the building (11). In 1452 the Sala dell’Udienza was expanded through the inclusion of a new room (12). Since the 1700s multiple disfiguring changes to the building were undertaken. In 1698 the arcade of the loggia and the window in the upper floor were walled up (13). After termination of the Bigallo's management in 1776, the building was given as the site of the administration for the state orphanage and was altered significantly from its original configuration during the restoration (14). Walls were removed from the arcade of the loggia in 1865 and the interior of the oratory was restored then (15). In 1882 the walled-up windows on the upper floors were re-opened (16), and a final restoration took pace in 1904 (17).
 
-#2 Building Description
+## Building Description
 
 *Old Descriptions.*
 •	The fresco of Niccolò di Pietro Gerini, *Restitution of Children*, sala de consiglio
@@ -46,24 +46,24 @@ o	Illustrations in *Rivista d'Arte* II, 1904, p. 244
 Building images
 •	Elevation engraving from D. Callesi in Rohault de Fleury, *Le Toscane au Moyenage*, 1876
 
-#4 Exterior
+#### Exterior
 The building abuts the neighboring houses to the south and west. Its northern façade included three niches, with one on the eastern wall. These and the eastern niche of the northern area were designed as a square loggia, which served as exhibition space for foundlings. The two round-arched openings of the porch were framed through two-story pilaster pairs and a cornice; a corresponding system of two-story pilasters and rounded arches were superimposed on two remaining bays in the north wall (18). Each of the bays was articulated with a pointed arch with broad architraves and striated frames; the last bay contained an arched window (19).
 
 Above the ground floor pilasters articulate a mezzanine floor, in which naturalistic and picturesque decorations appear.
 
 Also, the floor above is articulated by pilasters: on the north wall appear three boxes, one on the east wall; every one of these boxes contains a round arch combined with a bifurcated window. On the pilasters, the springing level of the windows are connected by a shelf and sit carved with volutes furnished by girders which protrude out and are supported by rafters.
 
-#4 The Loggia
+#### The Loggia
 By Alberto Arnoldi (see building history). A highlight of the lavish decorative style, Andrea Orcagna's famous tabernacle in Orsanmichele would have been well known. Alberto Arnoldi, like Orcagna a sculptor-architect, had incorporated Orcagna's style during the building's development. The pillars stand on plinths made of marble slabs, which contain vivid, grooved quatrefoils; in each of the arcade's openings stands another square marble slab with a rose window of individual work. The outer pilaster pairs are also adorned with quatrefoils; on the inner pillars and the arches the quatrefoils are somewhat bigger and contain half-length figures (see facilities). In the embrasures of the arcade are rotated, ornamental foliate pillars, which continue in the archivolt as a rotated bead molding. The flat pilasters against the arches are ornamented with molding strips; on their starting points appear flat corbels with leaf work (20).
 
 The interior of the logger is simpler. The numerous bases run along the thin shelf, where there are also continuous pilasters. Between these are located wide niches, in which are lintels with decorated, screened pointed arches and quatrefoils. The niches are closed with rounded arches; between these arches and the pointed arched ribbed vaults emerge spandrels from each ornamental circle.
 
-#4 Interior
+#### Interior
 The oratory belonged to a rare type of large, arched, gothic churches, among them San Jacopo in Campo Corbolini, San Martino della Scala, and San Carlo Borromeo I. There were two pointed, overlaid, ribbed arches, supported by broad and flat, splayed corner panels that compose pilasters. The rose windows in the north wall were extended in 1865 at the same time that the arcade of the loggia had windows installed inside it.
 
-#2 Facilities
+## Facilities
 
-#4 Exterior
+#### Exterior
 The entrance hall contains the three-dimensional decorations that were designed by the architect Alberto Arnoldi, who was also a sculptor. These are presented as preserved gems of gothic building decoration, a rarity in Trecento Florence. The execution is often rough, as there were obviously assistants involved in their production. The end products were clearly based on an antiquated taste that derived from gothic prototypes, but were also independent of those traditional forms.
 
 *Entrance Hall*
@@ -74,7 +74,7 @@ Assistants produced four pairs of masks with attached leaves that were placed in
 *Upper Floors on the North Side*
 Over the loggia stand half life-sized figures produced by a Florentine sculptor in the second half of the 14th century: These stone sculptures represent the *Madonna with Child*, *Saint Peter Martyr* and *Saint Lucy*; (22). The three baldicchini from 1413 have been attributed to Filippo di Cristofano (23). Between these canopies appear frescoes of worshipping angels, probably produced around 1425 (25). In the middle bay sits a bust of the *Madonna with Child* by Alberto Arnoldi from 1361. Over the blind arcade on either side of the bays appear frescoes depicting *Peter Martyr Presenting Banners to Twelve Followers of the Company of the Misericordia* and *The Miracles by the Preaching of Peter Martyr* painted by Ventura di Moro and Russell di Jacopo Franchi in 1445/6; these were very badly destroyed during Gaetano Bianchi’s restoration in 1882 (26). The remaining paint – including the ornaments and the figures in quatrefoils – all came from the restoration of the 19th century.
 
-#4 Interior
+#### Interior
 *Oratory*
 High altar: A carved tabernacle bears three niches, with the middle ornamentally flanked with two pillars and crowned by a spread architrave and round gables designed and executed by Nofero d'Antonio Noferi (1515) and gilded by Bernardo di Jacopo and Zanobi di Lorenzo (27). The three marble statues by Alberto Arnoldi feature the *Madonna with Child* and two candlestick—holding angels, all produced between 1359 and 1364 (28). The painted predella by Rodolfo del Ghirlandaio from 1515 contains five pictures: the *Death of Saint Peter Martyr, the Birth of Christ, the Cloaked Misericordia, the Flight into Egypt,* and the *Burial of Tobit* (*Two Men Carrying a Body*, with the Bigallo depicted in the background); (29).
 In the stained glass in the rose windows of the north wall appears the figure of Caritas, or Charity, from around 1865 (30).
@@ -105,9 +105,9 @@ Over six additional scenes (see lost facilities)
 
 The rooms of the upper floors are modernized and have been established as a museum. Descriptive lists in *Rivista D'Arte* II, 1904.
 
-#2 Lost Facilities
+## Lost Facilities
 
-#4 Exterior
+#### Exterior
 *Loggia.* Grid from the Sienese Francesco Petrucci, 1358; lost (36).
 
 *North side.* Tabernacle for the Madonna figure over the door, by Bonaiuto di Lando, 1387; painted by Ambrogio di Baldese; lost (37).
@@ -116,8 +116,8 @@ The rooms of the upper floors are modernized and have been established as a muse
 
 *From undefined locations.* Fresco, *History of Saint Peter Martyr* by Ventura di Moro and Rossello di Jacopo Franchi, 1445/46; lost (39). Frescoes by Pietro Chellini, 1444; lost (40). Paintings on the roof, by a painter named Bartolommeo, 1361; lost (41).
 
-#4 Interior
-#6 Oratory
+#### Interior
+###### Oratory
  Domed ceiling frescoes (also frescoes on the side walls) by Nardo di Cione, 1363 (42); destroyed or painted over in 1760. Second fresco decoration, 1760, vaults and side wall painted by Stefano Fabbrini; probably obscured in 1865 (43). Glass window by Stefano di Biagio dei Mezzi, 1454; lost (44).
 
 *First high altar table (?):* Madonna with John the Baptist and Saint Peter Martyr; Christ in pediments, the preaching and the crests of the Brotherhood of the Bigallo, in the predella the *Lamentation of Christ* and also a scene from the legend of John the Baptist and Peter Martyr; by Mariotto di Nardo, 1415/16; perhaps removed in 1515 by the establishment of the high tabernacles; Main picture now in an American private collection, predella lost (45).
@@ -134,7 +134,7 @@ Second, under the predella of the altar tabernacle from 1515, three larger and f
 
 *Table.* Saint Peter Martyr presented with the banners of the Capitani della Fede; in the pediment the Madonna between Saints Francis and Domenic; on the backside of the pediment Christ in the grave, underneath an inscription, which refer to the founding of the Company; attributed to Jacopo di Cione, last quarter of the 1400s (48); now in the Museum of the Bigallo (49).
 
-#6 Sala del Consiglio
+###### Sala del Consiglio
 *East Wall.* Six frescoes with sevens from the Tobit Legend, first quarter of the 1500s, still visible (see under facilities); lost (50).
 
 *From undefined locations.*  Fresco or panel painting of the Bigallo’s founding by Agnolo Gaddi, 1380, with images of the founder Giovanni Buccheri; missing or lost (51). On further lost equipment, materials, and facilities, which are no longer in the established locations today, see the documents by Poggi, *Rivista d’Arte* II, 1904.
