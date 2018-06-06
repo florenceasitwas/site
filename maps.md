@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maps
-image: buonsignori_1.jpg
+image: buonsignori_2.jpg
 ---
 
 <p align="center"><i>Image courtesy of Harvard Libraries</i></p>

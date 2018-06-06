@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Primary Sources Used by Saalman
-image:
-tags: bigallo
+building: bigallo
 status: live
 ---
 
