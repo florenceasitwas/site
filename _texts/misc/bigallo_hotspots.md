@@ -2,6 +2,7 @@
 layout: page
 title: Bigallo Hotspots
 building: bigallo
+status:
 ---
 
 __Essays by George Bent (GB) and Aidan Valente (AV)__
@@ -95,9 +96,9 @@ A.S.F., Bigallo, II, 3, 27v. July 5, 1386. “A Nicholo di Piero e Ambrogio di B
 
 “July 5, 1386: To the painters Niccolò di Pietro Gerini and Ambrogio di Baldese a payment of 17 gold florins for the completion of work on the picture for the façade on the house of the Misericordia, 17 gold florins.”
 
-## St. Peter Martyr, Madonna and Child, St. Lucy
+<!-- ## St. Peter Martyr, Madonna and Child, St. Lucy
 
-The Company of the Bigallo moved these statues, executed by an unknown artist at an unknown date, from their original headquarters after the merger with the Misericordia in 1425. That they were not installed until 1445 hints at the slow and presumably rocky integration of the company with that of the Misericordia over several decades.
+The Company of the Bigallo moved these statues, executed by an unknown artist at an unknown date, from their original headquarters after the merger with the Misericordia in 1425. That they were not installed in their new location until 1445 hints at the slow and presumably **rocky** integration of the company with that of the Misericordia over several decades.
 
 [Read More]
 
@@ -107,37 +108,37 @@ Stylistically, the addition of these statues and the frescoes depicting scenes f
 
 The Rustici codex, created c. 1450, shows the oratory much as it appears today, with the exception of the statues of Sts Peter Martyr and Lucy, the Virgin and Child, and the frescoes of St. Peter Martyr's life.
 
-Here, more than almost any other Florentine site, the connection between mother and child
+Here, more than almost any other Florentine site, the connection between mother and child would have been emphasized
 
-AV
+AV -->
 
-## Misericordia
+<!-- ## Misericordia
 
-Bernardo Daddi, c. 1342.
-
-__Bernardo Daddi__ painted this standout fresco, containing the earliest recorded depiction of the city of Florence, circa 1342. Originally located in the open-air audience hall of the Company of the Misericordia's first property, such a unique image served to distinguish the company from the other charitable organizations ministering to the city's poor. The roundels lining the female figures cloak contain references to the Corporal Works of Mercy performed by the Company and other confraternities like it.
+__Bernardo Daddi__ painted this unexampled fresco, containing the earliest recorded depiction of the city of Florence, circa 1342. Originally located in the open-air audience hall of the Misericordia's first property, such a unique image served to distinguish the company from the other charitable organizations ministering to the city's poor. The roundels lining the female figure's cloak contain references to the Corporal Works of Mercy performed by the Company and other confraternities like it.
 
 [Read More]
 
-The Madonna della Misericordia (often called The Allegory of Mercy) was frescoed by Bernardo Daddi and his workshop in the Salla del'Udienza around 1342. The Misericordia composition of an image of the Virgin, cloaked and facing the viewer with supplicants either beneath her cloak or flanking her, was a common genre of the time. This image features Mary hovering above a cityscape of Florence, clutching a garment embroidered with eleven roundels, featuring scenes of acts of charity (feeding the hungry, welcoming the estranged, clothing the naked, worshipping God, etc.).
+The Allegory of Mercy (often erroneously called a "Madonna") was frescoed by Bernardo Daddi and his workshop in the Salla del'Udienza around 1342. The composition consists of a female allegorical figure, cloaked and facing the viewer, with supplicants beneath and flanking her-- a highly unique scene for the time. This image features Mary hovering above a cityscape of Florence, clutching a garment embroidered with eleven roundels, featuring scenes of acts of charity (feeding the hungry, welcoming the estranged, clothing the naked, worshipping God, etc.).
+
+Uniting elements of social welfare and the common good with Christian charity, the fresco would have been visible to a wide array of audiences, and reveals much about Florentine society at the time.[1]
 
 The fresco originally adorned the eastern wall of the
 
 The Misericordia distinguishes itself from similar compositions displaying the Virgin Mary in several ways. Firstly, the female figure represents Mercy as a standalone allegorical figure, rather than in association with the Blessed Virgin
 
-Compare a similar image produced around the same time by the Sienese artist *Lippo Memmi*.
+Compare a similar image produced around the same time by the Sienese artist Lippo Memmi, the similar *Madonna della Misericordia* made for the cathedral of Orvieto.
 
-SB and AV
+Daddi had previously painted a replacement for the miraculous image of the Virgin and Child located at Orsanmichele, the location of another prominent confraternity.
 
-## Tobias Cycle
+SB and AV -->
+
+<!-- ## Tobias Cycle
 
 An unknown artist executed this fresco cycle on the eastern wall of the Sala Magna early in the building's history. Functioning as a
 
 [Read More]
 
-A minor figure from one of the Apocryphal books of the Bible, Tobias served as one of the Misericordia's patron saints. The Misericordia's origins emerge out of the chaos surrounding the Black Death in 1348, where their primary charity involved the burial of dead bodies, one of Tobias's identifying characteristics.
-
-Pictorial depictions of Tobias grew in popularity during the Renaissance, though they almost universally contained themselves to showing the youth accompanied by his faithful dog and the archangel Raphael, as seen in a panel by Verrocchio.
+A minor figure from one of the Apocryphal books of the Bible, Tobias served as one of the Misericordia's patron saints. The confraternity originated from the chaos surrounding the Black Death in 1348, where their primary charity involved the burial of dead bodies, one of Tobias's identifying characteristics. Pictorial depictions of Tobias grew in popularity during the Renaissance, though they almost universally contained themselves to showing the youth accompanied by his faithful dog and the archangel Raphael, as seen in a well-known panel by Verrocchio.
 
 The 1515 predella painting by Ridolfo Ghirlandaio for the oratory's altarpiece further cements the connection between the saint and the company. In it, Tobias and his elderly father carry a dead body off the streets of Florence, with the oratory of the Bigallo (albeit reproduced with considerable artistic license) visible in the background. Despite the merger with their fiscally-irresponsible peers, or perhaps because of it, the members of the Misericordia seem to have sought to reassert their presence in their own home.
 
@@ -162,13 +163,9 @@ Painted by Ventura di Moro and Rossello and Giunta di Jacopo Franchi between Mar
 
 [Read More]
 
-These scenes emphasized the Bigallo's presence on the Piazza del Duomo and declared that the company was there to stay. Perhaps the members of the Bigallo sought to match their Misericordian predecessors in having a pictorial narrative displayed prominently on their new headquarters, though these panels outsize the *Fanciulli Smarriti* and its lost partner.
+These scenes emphasized the Bigallo's presence on the Piazza del Duomo and declared that the company was there to stay. Perhaps the members of the Bigallo sought to match their Misericordian predecessors in having a pictorial narrative displayed prominently on their new headquarters, as evidenced by the larger size of these panels compared to the *Fanciulli Smarriti* and its lost partner.
 
-The painting of these frescoes demonstrates the slow yet not-so-subtle transition of the oratory's identification with the Company of the Bigallo from that of the Misericordia, which dissolved the unwanted merger in *1515* and moved around the corner to the parish church of San *Cristoforo*.
-
-The patronage of saints
-
-The painting of frescoes on the exterior of buildings was not an uncommon sight in the late Medieval Italian city-states; one of the most famous examples were the scenes produced by Giorgione for the facade of the Fondaco dei Tedeschi in Venice.
+The painting of these frescoes demonstrates the transition of the oratory's identification with the Company of the Bigallo from that of the Misericordia, which dissolved the unwanted merger in *1515* and moved around the corner to the parish church of San *Cristoforo*.
 
 AV
 
@@ -178,7 +175,7 @@ The Audience Hall
 
 [Read More]
 
-Of the original audience hall's appearance, little to nothing remains. Renovations in the late 18th century completely changed the external appearance of the residence
+Of the original audience hall's appearance, little remains. Renovations in the late 18th century completely changed the external appearance of the residence dramatically, as can be seen in a detail from the Rustici Codex. The interior of the Misericordia's initial property also changed,
 
 In order to revive the structure's original appearance, we must turn to the 15th century Rustici codex, wherein a small illustration displays what the building once looked like. The old structure actually consisted of two interpolated buildings that lacked the symmetrical harmony of the current layout. The 1515 predella painting by Ridolfo Ghirlandaio, though inaccurate in depicting the oratory, matches the image of the hallway and residence as seen in the Rustici codex.
 
@@ -191,20 +188,17 @@ Above and adjacent to this open hall, the members of the company lived and worke
 AV
 
 ## Upper Story
-After a great fire in 1442, the oratory's upper floor was rebuilt in greater size and style. Carpenters Domenico and Pianelone di Luca worked at a record pace to create the structure that has not changed since, and a painter by the name of Piero Cellini decorated the façade to match the white, green, and pink scheme of the Baptistery and Duomo.
+After a great fire in 1442, the oratory's upper floor was rebuilt in greater size and style. Carpenters Domenico and Pianelone di Luca worked at a record pace to create the structure that has not changed since, and a painter by the name of Piero Cellini decorated the façade to match the white, green, and pink scheme of the Baptistery and Duomo, restoring a visual harmony to the most prominent buildings on the Medieval square.
 
 [Read More]
-The oratory's structure changed when, in July of 1442, a terrible fire destroyed the building's upper story. Reconstruction began immediately and finished after an incredibly short period of four weeks. Rather than recreate the original appearance, the captains of the merged Bigallo-Misericordia chose to make several changes, the most notable of which remains the *sala magna*, or Great Hall. The height of this meeting room was raised with new vaulting, and delicate Gothic bifora lancets replaced the earlier round-arched windows.
+
+The oratory's structure changed when, in July of 1442, a terrible fire destroyed the building's upper story. Reconstruction began immediately and finished after an incredibly short period of four weeks. Rather than recreate its original appearance, the captains of the merged Bigallo-Misericordia chose to make several changes, the most notable of which remains the *sala magna*, or Great Hall. The height of this meeting room was raised with new vaulting, and delicate Gothic double-lancets replaced the earlier round-arched windows. The *Codex Rustici*, an illustrated manuscript from the mid-fifteenth century, records the appearance of the oratory before the Bigallo-heavy decorations were added in 1445.
 
 In June of 1361, a painter named Bartolomeo decorated the roof of the oratory, distinct from the frescoes found on the building's facade.
 
-The sacristan of the combined company appears to have inhabited a room above the oratory
-
-The *Codex Rustici*, an illustrated manuscript from the mid-fifteenth century, records the appearance of the oratory before the Bigallo-heavy decorations were added in 1445.
-
 A now-lost third scene from the life of St. Peter Martyr may have originally occupied the register beneath the windows on the side of the oratory facing the campanile.
 
-AV
+AV -->
 
 ## Madonna and Child with Angels
 
