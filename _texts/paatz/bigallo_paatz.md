@@ -11,16 +11,16 @@ status: live
 __Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch.* Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.__
 
 **(#) refers to footnotes**
+
 Scroll further for transcribed original German
 
-# Bigallo I
+## Bigallo I
 Oratorio del...
 
 Corner of Via dei Calzaiuoli and Piazza di S. Giovanni
 
 ### Special Literature
 P. Landini: Istoria dell'Oratorio di S. Maria del Bigallo e della ven. Compagnia della Misericordia, 1779 (cited as Landini, Bigallo).
-
 
 Poggi-Ricci-Supino: "La Compagnia del Bigallo," *Rivista d'Arte*. II, 1903, 189
 
@@ -389,7 +389,7 @@ Fresko oder Tafelbild der Verkündigung, von Agnolo Gaddi, 1380, mit Bildnis des
 (2)	Del Migliore 1684, 75.
 
 (3)	Richa VII, 1758, 251. - Der Name Bigallo ist angeblich von einem Hospital dieses Namens bei Ruballa (spedale di S. Maria a Fonteviva, genannt del Bigallo), das der Compagnia Maggiore della Vergine gehörte, zunächst auf diese und dann auf ihre Residenz übertragen worden; vgl. Richa VII, 1758, 255; *Forschungen z. G. Florenz* IV, 1908, 426ff. und *Geschichte von Florenz* II, 1908, 294ff.
-------------------------
+
 (4)	Die Geschichte der Compagnia della Misericordia ist oft falsch dargestellt worden, da man sie mit der - bis 1425 gesondert existierenden - Compagnia del Bigallo verwechselte. Die Compagnia della Misericordia wird erst 1321 urkundlich erwähnt (vgl. die folgende Anm.). Nach dem "Liber Chronicorum" des hlg. Antonin (ed. Giunti 1586, T. III, Parte III, Cap. VII, P· 233) wäre sie aus der 1292 gegründeten Laudesi-Bruderschaft von Or San Michele hervorgegangen; vgl. Passerini, *Stab.*, 1853, 446f., der irrtüm­lich annahm, die Compagnia werde erst 1329 zuerst erwähnt. - Andere, legendäre Gründungsgeschichten im *Ill. fior.* 1847, 49 ff. und bei Passerini, *Stab.*, 1853, 440ff. erwähnt.
 
 (5)	Poggi, *Riv. d'A.* II, 1904, 194 Anm., nach den Spogli Strozz. - Richa VII, 1758, 268 datiert den Ankauf dieses früber dem Baldinuccio Adimari gehörenden Hauses summarisch "um 1340".
