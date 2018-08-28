@@ -64,6 +64,8 @@ More delicate natural stone building with ten columns (55). – The column with 
 #### The Second Granary; 1308 ff.
 It was significantly smaller than the modern building (57) and had thin, poorly engineered brick piers (58). The miraculous image [hung] on one of the columns; whether a remnant of this column was preserved (in the current miraculous image tabernacle) remains to be seen; to this end, see page 499 f.
 
+
+
 Notes
 
 (1)	Research into history, Florenz, I, 1896, 448. See also Biadi, Fabbr., 1824, 63, 64 and Schnaase, *Geschichte der Bildenden Künste im Mittelalter*, V, 1876, 183.
