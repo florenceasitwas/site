@@ -1,25 +1,36 @@
 ---
 layout: page
-title: Baptistery Notes by Paatz
+title: Paatz on San Giovanni
 image:
 tags: baptistery
 status: live
 ---
+**Translation:** Katherine Dau
 
-*Translated by Katherine Dau*
+**Source:** Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch*. Vol I: D-L. Frankfurt am Main: Vittorio Klostermann, 1955. 172-230.
 
-__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: D-L. Frankfurt am Main: Vittorio Klostermann, 1955. 172-230.__
+**Location:** *Piazza di S. Giovanni*
 
-**(#) refers to footnotes**
+**Acknowledgement:** Special thanks to Professor Paul Youngman for all of his help in translating this work.
 
-This page will be updated as subsequent parts of the notes and text are translated.
+## Table of Contents
+### English
+* <a href="#speclit">Special Literature</a>
+* <a href="#name">Name</a>
+* <a href="#buildh">Building History</a>
+* <a href="#recon">Reconstruction of Lost Building Elements</a>
+* <a href="#buildd">Building Description</a>
+* <a href="#notes">Notes</a>
 
-Special thanks to Professor Paul Youngman for all of his help in translating this work.
+### German
+* <a href="#spezlit">Spezialliteratur</a>
+* <a href="#dername">Name</a>
+* <a href="#bauge">Baugeschichte</a>
+* <a href="#rekon">Rekonstruktion Verlorener Bauzustände</a>
+* <a href="#baube">Baubeschreibung</a>
+* <a href="#anmerk">Anmerkungen</a>
 
-## S. Giovanni
-Piazza S. Giovanni
-
-### Special Literature
+<h2 id="speclit">Special Literature</h2>
 Antonio Lumachi, *Memorie storiche dell'antichissima basilica di S. Giovanni Batista di Firenze*, Firenze s. a. (1782). — cited as: Lmachi, *Mem. stor*.
 
 Giuseppe del Rosso, *Ricerche storico-archittetoniche spora il singolarissimo tempio di S. Giovanni di Firenze*, 182. — cited as: del Rosso, *Ricerche*.  
@@ -41,10 +52,10 @@ Walter Paatz, "Die Hauptstömungen in der Florentiner Baukust des frühen und ho
 
 Renato Piattoli, *Regesta Charorum Italiae, Le carte della canonica della cattedrale die Firenze (732-1149)*, Rome 1938. — Unfortunately this book can no longer be analyzed here; it includes the best and most exhaustive publication of all documents before 1149.
 
-## Name
+<h2 id="name">Name</h2>
 Also SS Giovanni e Miniato (1)
 
-## Building History
+<h2 id="buildh">Building History</h2>
 The Baptistery is still one of the greatest enigmas in the history of architecture. From the high middle ages to today, the Baptistery has served as a favorite subject of historical fascination for serious scholars. It has been dated in the fourth and fifth centuries, in the seventh and eighth, in eleventh, twelfth, thirteenth or even fifteenth centuries, so that its building history fluctuates throughout an entire millennium. During Dante’s time, the oldest dating was abandoned. Dante argued that the building was a creation of Roman antiquity, perhaps a temple of Mars (2). In my opinion, the still older dating in the third century of the early-Christian era needs to be abandoned (3). Lastly, the hypothesis of a Lombard-era origin is only contingently correct (4); Those other hypotheses of the foundation in the eleventh or twelfth centuries are also only conditionally plausible (5); the legends of significant (modifications) in the early Renaissance are completely wrong (6). I base my account on documents and the architectural remains, but these conclusions are speculative due to regrettably inconclusive excavations of the last half-century (7).
 
 The remains of three older cultural layers are located under the church. First, there are remains of a Roman palace that was probably established in the Augustan time and destroyed within Roman antiquity. Second, nested in the ruins of this palace, late-antique residential buildings and baths remain. At the end of the fourth century, this second layer was also destroyed. Graves of a Germanic cemetery dating to the early-middle ages occupy the most recent layer; one of these graves was partially destroyed with the installation of the left cornerstone of the apse of the Baptistery (8).
@@ -61,7 +72,7 @@ In the 1280s and 1290s, the Baptistery became the subject of a great architectur
 
 A full clarification of the building history can only be attained through research of the remaining, temporarily untouched site under the Baptistery and the plaza.
 
-## Reconstruction of Lost Construction Stages
+<h2 id="recon">Reconstruction of Lost Building Elements</h2>
 #### The Lombard Construction: 7th and 8th Centuries
 Likely a rubble-stone octagon in accordance with the current exterior old town walls (35). Several things are unknown about the Lombard Construction: whether an apse with or without a crypt was present, where the apse or apses (perhaps four) would have been located if in existence, whether a cupola or open timber framing covered the room, and where the entrances were located (36).
 #### Original Condition of the Current Building
@@ -92,7 +103,7 @@ Like the stepped foundation, this opening has never existed (53).
 *Unsealed Outside Wall.*
 Nonexistent. See the "Building History" and "Building Description" (54)
 
-## Building Description
+<h2 id="buildd">Building Description</h2>
 Construction Records: The best by Milani, *Annali dell'Ingegneria e d' Architettura*, 1918, 261-70 and by Horn, *Mitt. Inst. Florenz* V, 1938, 118, 119, 129, 150. Also see Abb. on pg. 179, 186. — A list of older building records by Ferri, *Indice*, 1885, 38; The recordings are noteworthy from G.B. Nelli (18th Century) and from Giuliano da Sangallo (circa 1500) (55). The imprecise floor plans, cupola projection, usw. by Hübsch (*Altchristliche Kirchen*, 1862, Pl. XIX, 4), by Durm (*Zeitschrift für Bauwesen*, 1887, Taf. II), by Nardini (*S. Giovanni*, 1902, Fig. 17) and by Supino (*Gli Albori*, 1906, S. 45); compare to that the critique by Horn (*Mitt. Inst. Florenz* V, 1938, 122, Note 8). Before the oldest building records, several painted depictions of the Baptistery emerged already in the 14th and 15th centuries. (56).
 
 #### The Basic Concept
@@ -145,10 +156,10 @@ Underlying that structural system is the tenant of "active resistance." The weig
 An eight-parted, gothic-arched, monastery dome. The construction is developed out of these underlying zones. The following buttress system is hiding between the eight triangular, spherically curved, cupola peaks and the eight-sided pyramidal roof (86). In the middle of each of the sixteen walls of the gallery arise sixteen support posts ("sproni"), that are arranged to look like abutments against the cupola cap. Between every two support posts there is an attached, upward-rising, narrow barrel vault. Every two other support posts are allotted to the eight corners of the building—"they are so positioned that their outsides are aligned with the edges of the corresponding columns that are underneath the support posts," which creates, so to speak, a forking of the columns (87).
 Decoration: on the base of the cupola there is a frieze from a rectangular ornamented field, including medieval reproductions of antique coffering techniques. Each ornamented field has a white, entablature-like, prominent marble frame and a green-black framing laid around it, and contains a figured mosaic. Five squares are allotted on each cupola field; Around each corner there is another square. Above the square friezes there runs a final white-green-white marble striping. Over that is the great cupola mosaic in which the architectural outlines of the walls appear and disappear in the form of painted-on fake columns (88).
 
-###### The Developmental History of the Structure.
+##### The Developmental History of the Structure.
 The octagonal floor plan was taken from the older, Lombard Baptisteries of the sixth century—particularly from S. Vitale in Ravenna— and adds a lantern to the cupola, a gallery (with its biforien) and buttresses in the form of split walls (89). Besides the Byzantine late antique, the architect of the Baptistery was inspired by the classical Roman antique of the early empire through the Pantheon in Rome. The following motifs are inspired by the Pantheon: the structural thinking behind the peripheral wall that is placed against the transversal barrel vault in loadbearing and nonloadbearing zones (90); The expressly horizontal partition of the inner wall by two powerful circumference-running entablature systems and floors; the way the triumphal arches of the choir chapel effectively break up the entablature of the ground floor; the arrangement of pilasters of the upper floor about the arches; the areas, each covered with two columns in the ground floor; and the coffers at the base of the cupola (91). From these Byzantine and Roman principles and motifs that the architect used, he developed something completely new. His invention is probably the octagonal, lancet arched, domical vaults of the cupola (92), and surely his buttressing system is the other invention, with which the functional is merged with the wonderfully beautiful. Essential characteristics of the partitioning system comply with the common European demands of High Medieval Romanesque architecture. Above all, the thing that comes across as Romanesque is the completely un-antique, un-byzantine principle of the structure of frame, inner and outer, that allows the walls to mirror one and the other. The structure of the framework "is traceable" on the partitioning of the wall space and in this way artistically capitalizes on it (93). The abstract orderliness that comes out of the rigor of the spirit of mathematics appears very un-antique and fully Romanesque. "There is not one decorative singular form that is free of this mathematical orderliness; every part of the construction is related to something underneath it or superimposed over it" (94). The last thing that really comes across as Romanesque is that the room, along with its masonry shell, is segmented into a series of sectors that radiate from a central axis of the octagon (95); the central structure doesn't have the same effect, like the Classical and Byzantine Antique as an image of concentric, circumferential walls and room sequences, but rather as if it is split into a series of radiating yokes. In other words, the central structure is treated in the spirit of the High Romanesque Lombard nave buildings (96). One thing of course differentiates Florentine building from the High Romanesque construction of Northern Europe and also from its Carolingian-Ottonian predecessors, and it is something very serious: there is an antiqued Classicism of incomparable purity, and this Classicism calls a first Renaissance into life—the first attempt of a Florentine architect to revive the values of the national Antique, or the ancient Roman architecture, a search that determined the course of Florentine art up until the High Renaissance. Antique is the simple, peaceful unity of space: in my opinion it is thanks to the great example of the Pantheon that the Byzantine ambulatories and galleries come together here in a relief-like, relaxed wall area (97), that the single-celled octagonal central room, as a result, so majestically comes into its own. The tempietto-form of the cupola lantern is Antique, not Byzantine and not Romanesque! Also, without a doubt, another Antique feature is the fact that there are no sculpted figures to ornament the façade—a completely unRomanesque quality! And finally, its Antique appearance is certainly not the function of the individual elements of the building (an essential Romanesque quality), but a correlation of form and proportion in a consideration of the whole.
 
-###### The Intercolumniation and Other Individual Things.
+##### The Intercolumniation and Other Individual Things.
 Regarding the external portion of the building see page 182 and following. In the inside, the pilasters in both floors are fluted, the columns themselves are smooth (with the exception of a single one that stands to the right of the east portal). All ancient capitals each consist of a single block of white marble and are gilded; the pilasters have Corinthian-style capitals. On the large columns in the bottom floor they are of the Corinthian and Composite style, while on the little columns of the gallery-biforium the capitals were sculpted in the Ionic style and carry flat Byzantine imposts.
 
 The following parts are antique spoils (from the early classical Roman empire?): the fourteen large columns of the ground floor (twelve out of granite from Elba; one, left of the south door, out of Cipollino; and one, the fluted one to the right of this door, out of white marble) (98); the four capitals of the large columns behind the south and north doors; possibly also one or another of the four footings of those columns (99); all the columns in the gallery in the middle of the biforium of every octagonal side are vertical colonnettes (out of Cipollino and white marble; the remaining—not ancient—out of green marble and one out of ashlar) and the three ionic capitals of northwest diagonal, octagonal side immediately to the right of the choir chapel (100). All remaining parts of the columniation—by far the most—come from the High-Medieval building era. The column capitals are a part of one solid block (like the ancients), others are made out of two or more stacked blocks (as was common in Florentine architecture during that period) (101); the large ones in the bottom floor were developed and rounded and, with the exception of two, the small ones on the gallery-biforien are completely front-facing (102).
@@ -157,7 +168,7 @@ The pilaster capitals, without exception all from the middle ages, are from whit
 
 The following can be said about the classicism of the pillar system: Not that they would have been satisfied according to early Christian-Early Medieval custom or according to their own inability to help naively through the plundering of Roman buildings. No, for the first time here in Florence a genius architect dared to try to conjure up a unified antique column system from a very few remains of the golden era, from a few column shafts, capitals, and profiles. On the baptistery the following antique elements of new architecture were added: the Corinthian, Composite, and Ionic system (columns and pilasters); the straight entablature, and the entablature-like arch profile; the imposts; the tabernacle windows; the coffers; the cymatium of various styles and more, indeed in great purity, shines forth out of high medieval European design and also out of contemporary Tuscan design. More important than the inclusion of the classical design was the reinvigoration of the way it is used and the reinvigoration of classical proportions. Very decisively it determines the impression of the building, that columns and pilasters have taken on their original height and strength; that a new strict law of proportionality between the supports and intercolumniation is in place; that the well-proportioned surfaces have again assumed their original level of importance (109). In consideration of all that, the building had to have two main floors designed to adhere to new laws of proportionality; almost every other contemporary builder in the same position would have decorated the walls with a singular overly-slender column system from the ground to the cornice (Medieval Roman!) (110). The approach of the Antique was so convincing that even a century later, the construction was considered a remnant from Roman times, and thus, in the Quattrocento, it came to form the starting point of the Renaissance movement (111).
 
-###### The Incrustation.
+##### The Incrustation.
 The Incrustation motif on the walls of the inner rooms are similar to those on the outside, but richer. On the ground floor, the two stories of the rectangular frame reappear on the diagonal sides of the octagon again, and the two floors highlight the façade; but between them a lively connection links their edges, with a row of squares that are turned on their corners, decorated with rosettes, crosses, and other geometric motifs. On the straight, main sides are arches and gables above squares. Between the biforien and the upper gallery geometric forms, understated leafy forms, vases, and lighting unfold in this narrow surrounding strip broken up by the pilasters. In the style of this strip, but freer and lighter, the 13th century mosaic work of the inner gallery is painted (112).
 
 *The Developmental Historical Meaning of the Incrustation and Decoration* (113)
@@ -174,9 +185,15 @@ Complete with colorful marble Incrustation; the richest example of a medieval ma
 #### Closing Appraisal
 No other Florentine construction so comprehensively and so perfectly manifested all that Florentine art valued across all ages: strict spirituality that had been developed since the Middle Ages in the Christian Occident; magnificence of Mediterranean cultures which maintained the legacy of Byzantium; but above all, a near-natural, simple, and yet still wonderful, fine, and beautiful structure built in the spirt of the ancient Roman classics. That is why this “Temple” of the holy patron saint of Florence, the “bel San Giovanni” (so named by Dante due to his loving nature), for all times has been considered the symbol of the city of Florence, its spirit, and its self-assurance (121).  
 
+<h2 id="notes">Notes</h2>
 
-## Baugeschichte S. Giovanni
+# San Giovanni
+Oratorio del...
+*Piazza S. Giovanni*
 
+<h2 id="spezlit">Spezialliteratur</h2>
+
+<h2 id="bauge">Baugeschichte</h2>
 Das Baptisterium ist noch immer eines der großen Rätsel der Architekturgeschichte. Schon seit dem hohen Mittelalter ein Lieblingsgegenstand der historischen Phantasie,wird es bis auf den heutigen Tag von ernsten Gelehrten bald ins vierte und fünfte Jahrhundert, bald ins siebente und achte, bald ins elfte, zwölfte, dreizehnte, oder gar fünfzehnte Jahrhundert datiert, so daß seine Ansetzung noch immer um ein volles Jahrtausend schwankt. Allgemein aufgegeben ist nur die älteste, schon im Zeitalter Dantes nachweisbare These, der Bau sei eine Schöpfung der römsichen Antike, etwa ein Marstempel (2). Aufzugeben ist meiner Meinung nach auch die noch ältere, bereits im frühen 13. Jahrhunder nachweisbare Datierung in die frühschristliche Epoche (3). Nur bedingt richtig ist schließlich die Hypothese eines Ursprungs in langobardischer Zeit (4); ebenso bedingt annehmbar nur auch jene andere Hypthese der Gründung im elften oder zwölften Jahrhundert (5); ganz falsch die Legende von wesentlichen Zufügungen der Frührenaissance (6). Ich gründe meine Darstellung auf die Dokumente und den Baubefund, vor allem aber auf die Ergebnisse der Leider sehr unvollständigen Ausgrabungen des letzten Halbjahrunderts (7).
 
 Unter der Kirche befinden sich Reste von drei älteren Kulturschichten. Erstens Reste eines römischen Palastes, der wohl in augusteischer Zeit errichtet und noch in römischer Zeit zerstört wurde. Zweitens, in den Ruinen dieses Palastes eingenistet, Reste von spätantiken Wohnhäusern und Thermen, die ebenfalls zerstört wurden (aber erst nach dem Ende des 4. Jahrhunderts). Drittens Gräber wurde vondem Fundament des linken Eckpfeilers der Baptisteriumsapsishalb zerstört (8). -- Zugang zu den Ausgrabungen: in der Apsis. Eine Johanneskirche im nordöstlichen Winkel des römischen Mauerringes, also an der heutigen Stelle, wird urkundlich erwähnt zuerst 897 (9), und dann 909, 967, 990, und 1040 (10). Möglicherweise war sie ursprünglich Baptisterium und Konkathedrale der hlg. Reparata: spätestens um die Mitte des 11. Jahrhunderts trat sie die Kathedralen würde aber ganz an die vor ihr liegende Basilika S. Reparata abund diente seither ausschließlich als Taufkirche und Stift der Domkanoniker (11).
@@ -187,7 +204,11 @@ Nachtträglich wurden an der fertigen Kirche noch einige nicht unwesentliche Ver
 
 Seither ist S. Giovanni nur mehr restauriert worden, allerdings sehr häufig und ziemlich durchgreifend. 1339 reinigte man den verschmutzten Marmarbelag und erneuerte die oberste Ornamentleiste des Kranzgesimses (24). 1341-46, 1364, 1389/90 fanden Reparaturen am Marmordach statt (25). 1444-1471 mußte der Plattenbelag des Daches noch einmal unvollständig erneuert werden (26). Lionardo da Vinci soll das ganze Gebäude mechanisch in die Luft haben heben wollen, um einen Sockel darunter setzen zu können (27). 1515 wurde aus statischen Gründen in Höhe des zweiten Gesimses eine Kette in das Mauerwerk eingelassen (28). 1548 fanden weitere, nicht genauer definierte Restaurierungen statt (29). 1577 entfernte Buontalenti trotz heftigster Proteste der Bürgerschaft das mittelalterliche Taufecken und den dauzugehörigen Kanonikerchor aus dem Kirchenraum, um Platz für eine Taufdekoration zu Ehren des Don Filippo, des Erstgeborenen des großherzogs Francesco I., zu schaffen (30); es war die schwerste Verstümmelung, die das Gebäude je erlitten hat. 1722 ließen die Kanoniker einen Sakristeiraum in die Apsis einbauen und davor neue Chorschranken errichten (31). Um 1782 reinigte der ARchitekt Giuseppe Manetti das Gebäude und erneuerte das Sockelgesims (32). 1895-1902 wurde das Steinwerk der Laterne, der Tribuna und der Ostseite des Oktogons auseinandergenommen und neu zusammengefügt (33). Damals und 1912/15 entfernte man die barocken Zutaten in der Apsis und an den Altären. 1887 wurde die nordwestliche Hälfte der Piazza S. Giovanni ausgegraben, 1895/97 die südwestliche Hälfte, und 1912/15 wurden die verschiedenen Bauschichten unter der Westhälfte der Kirche freigelegt (34).--Eine völlige Klärung der Baugeschichte kann nur durch Erforschung der übrigen, einstweilen unberührten Geländeteile unter dem Baptisterium und dem Platz erreicht werden.
 
-## Anmerkungen
+<h2 id="rekon">Rekonstruktion der Verlorener Bauzustände</h2>
+
+<h2 id="baube">Baubeschreibung</h2>
+
+<h2 id="anmerk">Anmerkungen</h2>
 
 (1) Dokument von 899: Geschichte von Florenz I, 1896, 73.
 
