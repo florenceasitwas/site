@@ -2,7 +2,8 @@
 layout: page
 title: Cosimo the Elder
 image: cosimo_medici.jpg
-category: patron
+tags:
+status:
 ---
 
 Cosimo de' Medici il Vecchio, or *Cosimo the Elder*, was one of the most influential Florentines of the early Renaissance not due to any artistic talent, but becaue of his role as a patron and unparalleled statesman. His *de facto* control over the city led to his epithet, *pater patriae*.

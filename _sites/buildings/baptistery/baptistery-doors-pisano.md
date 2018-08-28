@@ -3,7 +3,7 @@ layout: page
 title: Andrea Pisano's Baptistery Doors
 image:
 category: sculpture
-status:
+status: live
 ---
 
 #Baptistery of S. Giovanni, South Doors (1330-1336)#

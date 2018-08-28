@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Rustici Codex
-category: manuscript
+image:
+tags:
+status:
 ---

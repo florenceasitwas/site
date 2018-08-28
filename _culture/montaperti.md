@@ -2,7 +2,7 @@
 layout: page
 title: Battle of Montaperti
 image: montaperti.jpg
-category: battle
+tags: battle
 status:
 ---
 

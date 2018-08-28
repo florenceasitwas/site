@@ -1,6 +1,9 @@
 ---
 layout: page
 title: St. Matthew, Orsanmichele Pier
+image:
+tags:
+status: live
 ---
 
 #Andrea di Cione and Jacopo di Cione, *St. Matthew*, 1369#

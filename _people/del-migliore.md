@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Ferdinando del Migliore
-category: historian
+image:
+tags:
+status: live
 ---
 
 Ferdinando del Migliore was born in 1628 and spent his adult life researching and writing about the history of Florence. A gifted archivist, del Migliore scoured the registers and contracts of individuals and institutions in an effort to present to his readers accurate accounts of the city’s past. In 1684 the noted historian published his most important book, Firenze città nobilissima illustrata da Ferdinando del Migliore, in which the author recreated the ancient city by examining its buildings, one by one. Using documents as the foundation of his argument, del Migliore refuted legends and hearsay that had been propagated over time and corrected them by publishing the writings he uncovered. His single volume account of Florence’s history was the model for later projects, most notably Giuseppe Richa’s multi-tome Notizie istoriche delle chiese fiorentine divise ne’ suoi quartieri, a vast eighteenth-century review of the city’s churches that depended heavily on del Migliore’s groundbreaking work.

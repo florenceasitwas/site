@@ -3,7 +3,7 @@ layout: page
 title: Orsanmichele Tabernacle
 image: orsanmichele_tabernacle.jpg
 tags:
-status:
+status: live
 ---
 
 #Andrea di Cione, *Baldacchino*, 1352-59#

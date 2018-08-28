@@ -13,11 +13,11 @@ University of Chicago
 
 ## Organizations
 
-[Guild of the Dome](http://www.guildofthedome.com/)
+[DH @ WLU](https://digitalhumanities.wlu.edu/)
 
 [Mellon Foundation](https://mellon.org/)
 
-[DH @ WLU](https://digitalhumanities.wlu.edu/)
+[Guild of the Dome](http://www.guildofthedome.com/)
 
 ## An Incredible Thank You to the Following:
 

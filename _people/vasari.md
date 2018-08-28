@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Giorgio Vasari
-category: historian
+image:
+tags:
+status:
 ---

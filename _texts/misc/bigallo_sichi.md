@@ -2,6 +2,7 @@
 layout: page
 title: Il Bigallo - Un'Istituzione di Beneficenza Fiorentina
 building: bigallo
+tags:
 status:
 ---
 

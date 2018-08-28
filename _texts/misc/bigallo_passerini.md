@@ -2,6 +2,7 @@
 layout: page
 title: La Loggetta del Bigallo
 building: bigallo
+tags:
 status: live
 ---
 

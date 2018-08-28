@@ -2,8 +2,8 @@
 layout: page
 title: Campanile
 image: campanile_1.jpg
-category: tower
-status:
+tags: tower
+status: live
 ---
 
 The project to carve reliefs for the lower portion of the [Campanile](insert link) coincided with the earliest architectural plans for Giotto’s bell tower that stands adjacent to the city’s cathedral. Initiated sometime around 1334 by [Andrea Pisano](insert link), who was by then chasing the bronze panels he had cast for the [south doors of the Baptistery](insert link), these early reliefs represented [scenes from the Book of Genesis] that were intended for the west side of building’s lowest level.

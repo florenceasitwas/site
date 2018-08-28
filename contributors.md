@@ -7,6 +7,8 @@ title: Contributors
 {% assign past = site.contributors | where:"status","past" %}
 {% assign collab = site.contributors | where:"status","collaborator" %}
 
+<!-- is this as sleek as possible, or can it be further optimized? AV -->
+
 # Current
 <div class="posts">
   {% for person in current %}

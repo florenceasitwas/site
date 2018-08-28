@@ -7,6 +7,8 @@ This blog represents an ongoing record of our contributors' efforts, thoughts, w
 
 *Work in Progress*
 
+<!-- THIS NEEDS SO MUCH WORK. AV -->
+
 <div class="posts">
 	{% for post in site.posts %}
 	<article>

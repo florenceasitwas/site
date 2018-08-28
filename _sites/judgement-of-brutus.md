@@ -1,7 +1,9 @@
 ---
 layout: page
 title: The Judgement of Brutus
-category: fresco
+image:
+tags:
+status: live
 ---
 
 # Nardo di Cione (?), *The Judgment of Brutus*, ca. 1345

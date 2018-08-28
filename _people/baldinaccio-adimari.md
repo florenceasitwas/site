@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Baldinaccio Adimari
-category: patron
+image:
+tags:
+status:
 ---

@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Giovanni degli Albizzi Pellegrini
-category: patron
+image:
+tags:
+status:
 ---

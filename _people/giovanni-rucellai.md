@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Giovanni Rucellai
-category: patron
+image:
+tags:
+status:
 ---

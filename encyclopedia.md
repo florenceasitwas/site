@@ -10,6 +10,8 @@ Here you will find the compendium of all our Florentine research and scholarship
 
 ---
 
+<!-- dear future website worker: I'm sure there's a better way to do this, which is why I have entrusted it to your capable mind. AV -->
+
 # Culture
 <div class="posts">
   {% assign var1 = site.culture | where:"status","live" %}

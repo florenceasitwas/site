@@ -3,7 +3,7 @@ layout: page
 title: Orsanmichele
 image: orsanmichele_1.jpg
 category: church
-status: active
+status:
 ---
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/1bda4429362149d294e90fe39bc4ef1d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
