@@ -31,7 +31,7 @@ status: live
 * <a href="#anmerk">Anmerkungen</a>
 
 <h2 id="speclit">Special Literature</h2>
-Antonio Lumachi, *Memorie storiche dell'antichissima basilica di S. Giovanni Batista di Firenze*, Firenze s. a. (1782). — cited as: Lmachi, *Mem. stor*.
+Antonio Lumachi, *Memorie storiche dell'antichissima basilica di S. Giovanni Batista di Firenze*, Firenze s. a. (1782). — cited as: Lumachi, *Mem. stor*.
 
 Giuseppe del Rosso, *Ricerche storico-archittetoniche spora il singolarissimo tempio di S. Giovanni di Firenze*, 182. — cited as: del Rosso, *Ricerche*.  
 
@@ -192,6 +192,27 @@ Oratorio del...
 *Piazza S. Giovanni*
 
 <h2 id="spezlit">Spezialliteratur</h2>
+Antonio Lumachi, *Memorie storiche dell'antichissima basilica di S. Giovanni Batista di Firenze*, Firenze s. a. (1782). — Zitiert als: Lumachi, *Mem. stor*.
+
+Giuseppe del Rosso, *Ricerche storico-archittetoniche spora il singolarissimo tempio di S. Giovanni di Firenze*, 182. — Zitiert als: del Rosso, *Ricerche*.  
+
+Francois-Anatole Gruyer, *Les oeuvres d'art de la Renaissance italienne au temple de St. Jean*, 1875. — Zitiert als: Gruyer, 1975.
+
+Gio. Batta Befani, *Memorie storiche dell'antichissima basilica di S. Giovanni Battista di Firenze*, Firenze 1884.
+
+Aristide Nardini-Despotti-Mospignotti, Il Duomo di S. Giovanni, Firenze 1902. — Zitiert als: Nardini, *S. Giovanni*, 1902.
+
+Ugo Monneret de Villard, *Il Battistero di Firenze*, 1910.
+
+Karl M. Swoboda, *Das Florentiner Baptisterium*, 1919. — Zitiert als: Swoboda, *Baptisterium*, 1918.
+
+Karl M. Swoboda, "Zur Analyse des Florentiner Baptisteriums" in *Kunstwissenschaftliche Forschungen*, II, 1933, 63-74. — Zitiert als: Swoboda, 1933.
+
+Walther Horn, "Das Florentiner Baptisterium", in *Mitt. Inst. Florenz* V, 1938, 100-151. — Zitiert als: Horn, 1938.
+
+Walter Paatz, "Die Hauptstömungen in der Florentiner Baukust des frühen und hohen Mittelalters — und ihr geschichtlicher Hintergrund," in *Mitt. Inst. Florenz* VI, 1940, 33ff.
+
+Renato Piattoli, *Regesta Charorum Italiae, Le carte della canonica della cattedrale die Firenze (732-1149)*, Rome 1938. — Dieses Buch konnte leider hier nicht mehr ausgewertet werden; es enthält die beste und vollständigste Veröffentlichung aller Urkunden bis zum Jahre 1149.
 
 <h2 id="bauge">Baugeschichte</h2>
 Das Baptisterium ist noch immer eines der großen Rätsel der Architekturgeschichte. Schon seit dem hohen Mittelalter ein Lieblingsgegenstand der historischen Phantasie,wird es bis auf den heutigen Tag von ernsten Gelehrten bald ins vierte und fünfte Jahrhundert, bald ins siebente und achte, bald ins elfte, zwölfte, dreizehnte, oder gar fünfzehnte Jahrhundert datiert, so daß seine Ansetzung noch immer um ein volles Jahrtausend schwankt. Allgemein aufgegeben ist nur die älteste, schon im Zeitalter Dantes nachweisbare These, der Bau sei eine Schöpfung der römsichen Antike, etwa ein Marstempel (2). Aufzugeben ist meiner Meinung nach auch die noch ältere, bereits im frühen 13. Jahrhunder nachweisbare Datierung in die frühschristliche Epoche (3). Nur bedingt richtig ist schließlich die Hypothese eines Ursprungs in langobardischer Zeit (4); ebenso bedingt annehmbar nur auch jene andere Hypthese der Gründung im elften oder zwölften Jahrhundert (5); ganz falsch die Legende von wesentlichen Zufügungen der Frührenaissance (6). Ich gründe meine Darstellung auf die Dokumente und den Baubefund, vor allem aber auf die Ergebnisse der Leider sehr unvollständigen Ausgrabungen des letzten Halbjahrunderts (7).
@@ -205,8 +226,44 @@ Nachtträglich wurden an der fertigen Kirche noch einige nicht unwesentliche Ver
 Seither ist S. Giovanni nur mehr restauriert worden, allerdings sehr häufig und ziemlich durchgreifend. 1339 reinigte man den verschmutzten Marmarbelag und erneuerte die oberste Ornamentleiste des Kranzgesimses (24). 1341-46, 1364, 1389/90 fanden Reparaturen am Marmordach statt (25). 1444-1471 mußte der Plattenbelag des Daches noch einmal unvollständig erneuert werden (26). Lionardo da Vinci soll das ganze Gebäude mechanisch in die Luft haben heben wollen, um einen Sockel darunter setzen zu können (27). 1515 wurde aus statischen Gründen in Höhe des zweiten Gesimses eine Kette in das Mauerwerk eingelassen (28). 1548 fanden weitere, nicht genauer definierte Restaurierungen statt (29). 1577 entfernte Buontalenti trotz heftigster Proteste der Bürgerschaft das mittelalterliche Taufecken und den dauzugehörigen Kanonikerchor aus dem Kirchenraum, um Platz für eine Taufdekoration zu Ehren des Don Filippo, des Erstgeborenen des großherzogs Francesco I., zu schaffen (30); es war die schwerste Verstümmelung, die das Gebäude je erlitten hat. 1722 ließen die Kanoniker einen Sakristeiraum in die Apsis einbauen und davor neue Chorschranken errichten (31). Um 1782 reinigte der ARchitekt Giuseppe Manetti das Gebäude und erneuerte das Sockelgesims (32). 1895-1902 wurde das Steinwerk der Laterne, der Tribuna und der Ostseite des Oktogons auseinandergenommen und neu zusammengefügt (33). Damals und 1912/15 entfernte man die barocken Zutaten in der Apsis und an den Altären. 1887 wurde die nordwestliche Hälfte der Piazza S. Giovanni ausgegraben, 1895/97 die südwestliche Hälfte, und 1912/15 wurden die verschiedenen Bauschichten unter der Westhälfte der Kirche freigelegt (34).--Eine völlige Klärung der Baugeschichte kann nur durch Erforschung der übrigen, einstweilen unberührten Geländeteile unter dem Baptisterium und dem Platz erreicht werden.
 
 <h2 id="rekon">Rekonstruktion der Verlorener Bauzustände</h2>
+*Der langobardische Bau.* 7./8 . Jahrhundert.
+Wahrscheinlich ein Bruchstein-Achteck, entsprechend dem jetzigen äußeren Mauerring (35). Ob eine Apsis mit oder ohne Krypta vorhanden war, und an welcher Stelle sie lag, oder ob etwa mehrere Apsiden (vier?) denkbar wären, ob eine  Kuppel oder offenes Gebälk den Raum überdeckte, und wo die Eingänge anzunehmen sind – das alles ist ungewiß (36).
+Ursprünglicher Zustand des jetzigen Baus.
+
+*Die Eckpfeiler.* Die Pfeiler an den äußeren Ecken des Oktogons bestanden bis 1293/96 aus Macigno, d. H. Aus grauem Haustein (37), wie alle wichtigsten Rahmenglieder auch an den anderen Bauten des Florentiner Inkrustationsstils (S. Miniato, S. Salvatore nell‘ Arcivescovado, Badia Fiesolana). An diesen Zustand erinnert noch heute das Hausteinsgesims unter der Attika. – Bildiche Rekonstruktion des ursprünglichen Zustandes (retuschierte Photographie) bei Swoboda, *Kunstwissenschaftliche Forschungen*, II, 1933, Tafel 5 (und S. 64f.). Vg. Dort auch über die Veränderung des Sockels und andere geringfügige Veränderungen.
+
+*Die Grabmäler.* Ebenfalls bis 1296 lehnte sich an die Außenmauern ein Kranz von Grabmälern, bestehend zum Teil aus antiken Sarkophagen, zum anderen Teil vielleicht aus mittelalterlichen Avelli (wie an S. Maria Novella) (38).
+
+*Apsis.* Erhalten davon die halbkriesförmigen Fundamente unter der jetzigen, rechteckigen Chorkapelle. Sichtbar sind von diesen Grundmauern heute nur die inneren Ansätze an den beiden westlichsten Ecken des Polygons; für die übrigen Teile vgl. die Abbildungen bei Supino (*Gli Albori,* 1906, Tav. IV) und Galli (*Riv. D’A.* IX, 1916/18, S. 82 und Fig. 13). Innen (und außen?) scheinen die Apsidenmauern mit den angrenzenden Oktogonmauern in lockerem Verbande zu stehen (39). Eine Krypta war kaum vorhanden; sie würde sich schlecht mit dem klassischen Aufbau des Zentralraumes vertragen haben (40). Die Apsis war wohl mit einer Halbkuppel überwölbt undnicht inkrustiert (41).
+
+*Taufbecken und Kanonikerchor;* 1128. -- Entfernt 1577, Bruchstücke wiedergefunden 1905 (42). Einheitliche, prachtvoll mit Marmor inkrustierte Anlage in der Art des entrpechenen, wohl danach kopierten, aber einfacheren Aufbaus im Pisaner Baptisterium (43). – Das Taufbecken nahm als unentbehrliches Zentrum die Mitte des Kirchenraumes ein, dessen achteckige Gestalt es im kleinen wiederholte; siene Maße sind durch das blockartige Fundament unter dem Fußboden angegeben. Es war mit rosettengefüllten Kassetten geschmückt (an jeder Oktogonseite vermutlich zwei Kassetten nebeneinander wie in Pisa), Reste der Zierplatten sind in einem Depot der Domopera erhalten, und zwar handelt es sich um die größeren Kassettenplatten dort. In vier Ecken waren kleine brunnenartige Schächte angebracht, zur Aufnahme der taufenden Priester, wie in Pisa (44). – Das eigentliche Taufbecken war von einem Schranken-Achteck umgeben, dessen Größe durch die nicht dekorierte Fläche in der Mitte des Baptisteriums angegeben wird und auch durch ide Fundamentmauern, die deren Umriß entsprechen (45). – Der Kanonikerchor war ein quadratischer, mit Schranken umgebener, wenig erhölter Bezirk, der in der Breite der Chorkapelle den Raum zwischen dieser und dem Schrankenachteck des Taufbeckens füllte, mit dem letzteren durch eine schmale Passage verbunden (46). Reste der beiderseitig mit auffallend antikisierenden Kassettenmustern geschmückten, farbig inkrustierten Marmorschranken wurden 1905 wieder aufgefunden und werden heute in einem Depot der Domopera aufbewahrt (47). – Am Kanonikerchor wurden 1339 Türen und 1341 sowie 1458 Gitter angebracht (48). Das Gestühl darin wurde 1466 von Andrea di Antonio di Geri erneuert (49).
+1577 pnate Buontaleni eine barocke Choranlage in der Apsis, zu der zwei geschungene Treppenläufe heraufführen sollten (50).
+1732 legte Giorlamo Ticciati einen neuen, marmornen Kanonikerchor vor der Apsis an; er bestnd aus einer halbkreisförmigen, um einige Stufen erhöten Plattform, an deren Marmorbrüstung Reliefs aus der Johanneslegende angebracht waren (51). Entfernt 1912ff. - Grundriß auf Abb. S. 179 (links).
+*Der Stufensockel unter der Kirche.* Er war nie vorhanden, wie die Ausgrabungen bewiesen haben; seine Existenz wurde erfunden im Zusammenhang mit der Marstempeltheorie (52).
+
+*Die kreisrunde Lichtöffnung im Scheitel der Kuppel*; für sie gilt das gleiche wie für den Stufensockel (53).
+
+*Unverschalte Außenmauern.* Nie vorhanden, vgl. Baugeschichte und Baubeschreibung (54).
 
 <h2 id="baube">Baubeschreibung</h2>
+#### Der Grundgedanke.
+Das Baptisterium ist eines der großen Hauptwerke der mittelalterlichen Architektur — gleichsam das Florentiner Gegenstück zum Pisaner Dom und zur Markuskirche in Venedig, und gleich diesen im wesentlichen eine einheitliche Schöpfung des späten 11. und frühen 12. Jahrhunderts. Sein Grundmotiv — ein Achteck mit einer Chorkapelle — ist wahrscheinlich von dem Vorgänger des jetzigen Baus, dem langobardischen Baptisterium, übernommen worden, erweist sich also als ein später Nachklang aus dem Formenkreise der frühchristlichen Taufkirchen (57). Der Stil, in dem dieses Motiv durchgeführt ist, bedeutet den großartig und überraschend gelungenen Versuch, über der verarmten Kunstwelt des frühen Mittelalters eine neue Welt aufzubauen, die der ererbten Begabung der italischen Rasse nach langen Jahrhunderten des Verzichts endlich eine angemessene Entfaltung ermöglichen sollte. Der geniale Baumeister, der hier die Grundlage der florentinischen und damit der neueren italienischen und europäischen Baukunst überhaupt legte, begann wie seine Zeitgenossen in Pisa und Venedig mit einer Aneignung der Errungenschaften der formenreichsten Bauschule des frühen Mittelalters im Mittelmeerbecken, der byzantinischen, und schuf auf dieser Grundlage eine völlig neuartige Gestaltung hochmittelalterlichen Charakters; dabei bändigte er, und sehr viel entschiedener noch als die Architekten der großen Seestädte, den eben gewonnenen Überfluß, läuterte gleichsam den Prunk zum Ebenmaß, wahlverwandt jener römischen, westlichen Klassik, aus der dieser spätantike östliche Ableger einst hervorgegangen war (58). Protorenaissance hat man diesen Vorgang treffend genannt (59).
+
+#### Werkstoff. - Einheitlichkeit des Baus.
+Das struktive Kerngemäuer besteht aus Haustein (Macigno), die dekorative Verschalung in der Hauptsache aus weißem carrarischem und schwarzgrünem pratesischem Marmor. Der Hausteinkern ist in den verschiedenen, übereinander aufgeführten Schichten des Bauwerks verschieden gemauert, je nach dem wechselnden Brauch dreier verschiedener, von der Mitte des 11. Jahrhunderts bis 1150 aufeinander folgender Bauperioden (60). — Hausteinkern und Marmorinkrustation sind ineinander verzahnt und gegenseitig aufeinander berechnet; sie entstanden gleichzeitig nach einheitlicher Planung (61). Der Hausteinkern tritt heute am Außenbau nur noch im Gesims unter der Attika zutage; ursprünglich waren auch die Eckpfeiler des Achtecks in Haustein ausgeführt (62). — Im Bauwerk sind Spolien eingebaut, Säulen und Kaptitalle, die von antiken Bauten herstammen (63); Genaueres darüber in der Beschreibung der einzelnen Teile.
+
+#### Das Bauwerk als Ganzes.
+Achteckiger Zentralbau mit achtseitigem, zeltartigem, nicht sehr steilem Pyramidendach, auf dessen Spitze eine achtseitige Laterne aufsteigt; an der Westseite eine querrechteckige Chorkapelle. Durch diese bekommt das Achteck eine Richtung nach Westen; seine Mittelachse liegt in der Verlängerung der west-östlichen Mittelachse des ehemals östlich vor dem Baptisterium gelegenen S. Reparata-Domes. Die vier parallel und rechtwinklig zur Mittelachse verlaufenden Achteckseiten wurden als Hauptseiten behandelt und vor den vier anderen, schräg gerichteten, ein wenig hervorgehoben. Sie strecken sich etwas länger, sie enthalten die Apsis und die drei Portale, und ihre Fassaden zeichnen sich vor den anderen durch Halbsäulen, durch reichere Tabernakelgruppierung und durch reichere Inkrustationsmotive aus (vgl. unten). Auch die Fenster des Obergeschosses, deren z. T. exzentrische Lage innen in den Tonnennischen der Empore zunächst als eine weitere Unregelmäßigkeit auffällt, sind nur deshalb in den beiden Seitenfeldern jeder Wand nach außen verschoben worden, um an der (längeren) Außenseite der Wand in die Mitte der Felder fallen zu können, also wiederum planmäßig und sogar mit besonderer Empfindlichkeit für organische Wirkung. Im Inneren hebt sich an jeder Achteckseite das Mittelfeld vor den beiden flankierenden Feldern hervor: es ist breiter und hat im Biforium der Empore Säulchen aus kostbarerem Werkstoff (64). Schließlich tritt innen auch das Hauptportal (im Osten) vor den beiden Nebenportalen hervor: durch den kostbareren Werkstoff der Säulen, die es einfassen. — Über die sehr wesentliche Rolle, die das zerstörte Taufbecken im Organismus des Baus gespielt hat, vgl. unter Rekonstruktion. — Struktives Gerüst und Dekoration, Innenbau und Außengliederung beziehen sich aufeinander, und zwar so innig, als ob sie sich wechselseitig abspiegelten: von einem genialen Baumeister ist hier eine Kompositionsweise und eine Formenwelt geschaffen worden, die ganz hochmittelalterlich wirken und zugleich ganz florentinisch, nämlich antikisch im Sinne einer ersten Renaissance (Protorenaissance) (65).
+
+#### Außenbau.
+An den Wänden (mit Ausnahme der Chorseite) heben sich drei Geschosse voneinander ab: ein unterstes mit Portalen, ein mittleres mit Fenstern und ein oberes in Gestalt einer Attika. Die beiden unteren Geschosse sind kräftig reliefiert und durch Eckpfeiler miteinander verbunden; die Attika tritt etwas hinter ihnen zurück und hat ein zarteres, verhaltenes Relief (66). Gute Abb. bei Swoboda, 1933 und bei Horn, *Mitt. Inst. Florenz*, V, 1938, auf S. 99.
+
+*Die Eckpfeiler*; von Arnolfo di Cambio (?), um 1293/96. An jeder Ecke des Achtecks, um diese herumgebrochen, ein Pfeiler, etwas vor die Wände vortretend; nach pisanischer Art farbig gegliedert mit weißen und schwarzgrünen Marmorschichten. Das Gebälk des Erdgeschosses überquert die Eckpfeiler und schließt diese mit den Wänden zusammen.
+
+*Das Basisprofil*; von Arnolfo di Cambio (?), um 1293/96. — 1782 ausgewechselt, d. h. getreu erneuert. Im Original erhalten nur die zylindrischen Prellböcke vor den Ecken des Achtecks (67). Ursprünglich lag das Pflaster des Platzes etwas tiefer, so daß das Basisprofil besser zur Geltung kam.
+
+*Das unterste Geschoß;* um 1059-1128. Antikisches Gliedersystem: die Eckpfeiler und zwischen ihnen Pilaster und Wandsäulen tragen ein Gebälk, das sich über allen Wandstützen kämpferartig verkröpft; an den vier schräg gerichteten Seiten des Achtecks je zwei Pilaster aus grünem Marmor, an den drei gerade gerichteten, etwas längeren Seiten im Süden, Osten und Norden je zwei Wandsäulen, die zusammen mit einem sie verbindenden Gebälkstück (68) jeweils eine Portalumrahmung bilden und dadurch die drei Eingänge monumental hervorheben. Alle Wände sind mit weißem Marmor verschalt. In die weißen Flächen sind dekorative Streifen aus grünem Marmor (verde di Prato) eingelassen. Diese bilden an den Schrägseiten einfache Rechtecke und zwar in jedem Interkolumnium je zwei höhere unten und je drei niedrigere darüber. An den drei Portalseiten reichere Motive: neben jedem Portal beiderseits je ein besonders hohes, besonders kräftiges Rechteck und darüber je zwei quergelagerte, mit einem Mittelstern gefüllte Rechtecke, deren dunkle Streifen durch weiße, auf die Spitze gestellte Quadrate aufgelockert sind. — An den Eckpfeilern des östlichen, wichtigsten Portalfeldes stehen zwei antike Säulen, Beutestücke, die 1117 den Arabern in Maiorca abgenommen wurden (69). —Alle Kapitelle stammen aus der Bauzeit (70).
+
 
 <h2 id="anmerk">Anmerkungen</h2>
 
@@ -276,6 +333,6 @@ Seither ist S. Giovanni nur mehr restauriert worden, allerdings sehr häufig und
 
 (33) A. e st. III, 1884, 135, 136, 335; XIV, 1895, 79, 166, 167; XVI, 1897, 7; XVIII, 1899, 87; XX, 1901, 83, 103; Nardini, *S. Giovanni*, 1902, 94.
 
-(34) Siehe vorige Anmerkung und *Riv. d'A.* IX 1916/18, 81ff.; sowie Supino, Gli Albori, 1906, 52f.
+(34) Siehe vorige Anmerkung und *Riv. d'A.* IX 1916/18, 81ff.; sowie Supino, *Gli Albori*, 1906, 52f.
 
 KD
