@@ -6,8 +6,8 @@ category: sculpture
 status: live
 ---
 
-#Baptistery of S. Giovanni, South Doors (1330-1336)#
-##Andrea Pisano##
+#Baptistery of S. Giovanni, South Doors (1330-1336)
+##Andrea Pisano
 
 <!-- more -->
 

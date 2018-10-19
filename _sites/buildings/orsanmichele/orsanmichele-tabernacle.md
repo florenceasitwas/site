@@ -6,8 +6,10 @@ tags:
 status: live
 ---
 
-#Andrea di Cione, *Baldacchino*, 1352-59#
-##Orsanmichele##
+##Andrea di Cione, *Baldacchino*, 1352-59#
+###Orsanmichele##
+
+<!-- more -->
 
 Framing magnificently the famed miracle-working [*Madonna of Orsanmichele*](insert link) by [Bernardo Daddi](insert link), Andrea di Cione’s *Baldacchino* articulated perfectly the mid-Trecento aesthetic that appealed to Florentine audiences of the day. A massive structure, carved in marble with sections of inlaid gold and mosaic tesserae sprinkled throughout, the tabernacle both framed the picture that, in 1365, was named the “official painting of Florence” and stood on its own as a cultural curiosity that brought in local and international viewers in droves (figure 1).
 
