@@ -1,35 +1,46 @@
 ---
 layout: page
-title: Orsanmichele Notes by Paatz
+title: Paatz on Or San Michele
 image:
-tags: Orsanmichele, building history
+tags: Orsanmichele, building history, Paatz
 status: live
 ---
+**Translation:** Katherine Dau
 
-*Translated by Katherine Dau*
+**Source:** Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol IV: M-P. Frankfurt am Main: Vittorio Klostermann, 1952. 480-558.
 
-__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol IV: M-P. Frankfurt am Main: Vittorio Klostermann, 1952. 480-558.__
+**Location:** *Via Calzaioli between Nr. 25 R. and Nr. 27 R.*
 
-**(#) refers to footnotes**
+**Acknowledgement:** Special thanks to Professor Paul Youngman for all of his help in translating this work.
 
-This page will be updated as subsequent parts of the notes and text are translated.
+## Table of Contents
+### English
+* <a href="#speclit">Special Literature</a>
+* <a href="#name">Name</a>
+* <a href="#buildh">Building History</a>
+* <a href="#recon">Reconstruction of Lost Building Elements</a>
+* <a href="#buildd">Building Description</a>
+* <a href="#notes">Notes</a>
 
-Special thanks to Professor Paul Youngman for all of his help in translating this work.
+### German
+* <a href="#spezlit">Spezialliteratur</a>
+* <a href="#dername">Name</a>
+* <a href="#bauge">Baugeschichte</a>
+* <a href="#rekon">Rekonstruktion Verlorener Bauzustände</a>
+* <a href="#baube">Baubeschreibung</a>
+* <a href="#anmerk">Anmerkungen</a>
 
-# Or San Michele
-*Via Calzaioli between Nr. 25 R. and Nr. 27 R.*
 
-### Special Literature
-Giuseppe Castellazzi, *Il Palazzo detto di Or San Michele*, isuoi tempi ed il progetto del suo restauro, Firenze-Roma, 1883. Abbreviated: Castellazzi, Or S. Michele.
+<h2 id="speclit">Special Literature</h2> Giuseppe Castellazzi, *Il Palazzo detto di Or San Michele*, isuoi tempi ed il progetto del suo restauro, Firenze-Roma, 1883. Abbreviated: Castellazzi, Or S. Michele.
 Pietro Franceschini, *L’Oratorio di S. Michele in Orto in Firenze*, Firenze 1892. Abbreviated: Franceschini, Or S. Michele.
 Girolamo Poggi, *Or S. Michele*, 1895.
 Hermann Riegel, *Beiträge zur Kunstgeschichte Italiens*, 1898, 63 ff.
 La Sora, *La Compagnia di Or San Michele*, 1902.
 
-## Name
-The name Or San Michele is explained differently. Presumably it is a popular variation of the name of the previously located church, “Saint Michael in Orto”, of which it is said, that this church lay in gardens; this name was officially recorded in 1239 (1). Another meaning can be found in the accompanying word “Or,” a reference to the granary (Latin *horreum*), that replaced the older church (2), yet this conjecture is refuted by the appearance of the word “Orto” in 1239, so before the foundation of the granary.
+<h2 id="name">Name</h2>
+The name Or San Michele is explained differently. Presumably it is a popular variation of the name of the previously located church, “Saint Michael in Orto”, of which it is said, that this church lay in gardens; this name was officially recorded in 1239 <a href="#ref1"> (1) </a>. Another meaning can be found in the accompanying word “Or,” a reference to the granary (Latin *horreum*), that replaced the older church (2), yet this conjecture is refuted by the appearance of the word “Orto” in 1239, so before the foundation of the granary.
 
-## Building History
+<h2 id="buildh">Building History</h2>
 A small convent with a church named S. Michaelis in Orto was situated on the site of Or San Michele; it was designated in 895 as a long-standing endowment of Abbot Peter of S. Silvestro in Nonantola (3) and was established perhaps soon after the foundation of the mother monastery (752), as it was consecrated with the cult of the Lombard national saint (4). The convent remained in the possession of the famous northern Italian Abbot as long as it existed (5). It appears to have had a certain significance in Florentine cultural life during the 9th century (6). In 1046 S. Michele in Orto operated under the administration of a provost (7); The convent possibly no longer existed. In the year 1239 the church was apparently destroyed in a family feud, namely through the fault of Mundaldus Ranutius and other Florentine citizens (8).
 
 The city administration seized the new space in the middle of the city in order to renovate a public square (9).
@@ -53,8 +64,7 @@ Around 1380, the church was therefore essentially as it is preserved today, but 
 
 In 1415 a collegiate church was established in the church (46). Around 1480 it was temporarily secularized (47). It never suffered any serious changes. In 1569 the upper floor of the palace was configured as a state archive (48) and was connected with the opposite administrative building of the wool weavers’ guild through an overpass over the street, allegedly by Bernardo Bountalenti. In 1628 the right, southern main door of the facade was bricked over (49). In 1770 they were bricked over in the mean time in the lower part of the central openings in the middle arcades of both sides; Concurrently, a sacristy was installed in the left, northern, choir (50). In 1821 the tympanum under the connecting arch was removed, and in 1858 again restored (51). In 1852 ff. the decorative parts of the arcade were replaced to a large extent (52). In 1901 a new Restoration took place (53). In 1931 ff. the flooring in the two front bays of the Oratorium, that later had been raised to a higher level than the last (choir) bay, was changed back into its original condition, and the sacristy addition was removed.
 
-## Reconstruction of Lost Building Stages
-
+<h2 id="recon">Reconstruction of Lost Building Elements</h2>
 #### Church and Cloister of S. Michaelis in Orto.
 About the Carolingian cloister building of the 8th or 9th century it is only known, that it included a workshop for wool weavers (54). The church had become small, since the convent consisted of only a few nuns (In 885 there were 6 sisters).
 
@@ -64,11 +74,16 @@ More delicate natural stone building with ten columns (55). – The column with 
 #### The Second Granary; 1308 ff.
 It was significantly smaller than the modern building (57) and had thin, poorly engineered brick piers (58). The miraculous image [hung] on one of the columns; whether a remnant of this column was preserved (in the current miraculous image tabernacle) remains to be seen; to this end, see page 499 f.
 
+<h2 id="buildd">Building Description</h2>
 
+#### The Basic Concept
+*Building Record* Drawings from Giorgio Vasari d.J., Uffizien, Nr. 4784 und 6158-71. — Floorplan, vertical plan, cutaway drawings, details, etc. by Rohault de Fleury, *La Toscane au moyenâge*, I, 1870, and by Mazzanti-Del Lungo, *Raccolta delle migliori fabbriche* etc. 1876, LXXXVI ff. (59).
 
-Notes
+*Type* The building concept of Or San Michele is a rarity; in it the architectural types of the market hall, the granary, and the confraternity oratory are combined into one entity, which could come about only through the concurrence of entirely special, historical circumstances (60). The ground floor — begun as a market hall — is a vaulted colonnade; it was originally open and after a change in plans was converted into a closed church interior through the walling-up of the outer arcades (61). Above rises two high upper floors erected as granaries (62). The originally intended ?_dichotomy_? between the open colonnade and the above ambitious/emerging towerhouse like   
 
-(1)	Research into history, Florenz, I, 1896, 448. See also Biadi, Fabbr., 1824, 63, 64 and Schnaase, *Geschichte der Bildenden Künste im Mittelalter*, V, 1876, 183.
+<h2 id="notes">Notes</h2>
+
+<span id="ref1"> (1) </span>	Research into history, Florenz, I, 1896, 448. See also Biadi, Fabbr., 1824, 63, 64 and Schnaase, *Geschichte der Bildenden Künste im Mittelalter*, V, 1876, 183.
 
 (2)	Bocchi, 1591, 28; Biadi, Fabbr., 1824, 63, 64; Kugler, *Geschichte der Baukunst*, III, 1859, 553. In addition, see the accurate critique of Schnaase ibid. V, 1876, 183. – H. Riegel supports a very different opinion, *Beiträge zur Kunstgeschichte Italiens*, 1898, 63 ff. He thinks *Or* simply stands for the shortened form of ora = now and the name seems to indicate the current church in contrast to an older church.
 
@@ -194,8 +209,7 @@ Notes
 # OR SAN MICHELE
 *Via Calzaioli zwischen Nr. 25 R und Nr. 27 R.*
 
-### SPEZIALLITERATUR
-
+<h2 id="spezlit">Spezialliteratur</h2>
 Giuseppe Castellani, *ll Palazzo detto di Or San Michele*, i suoi tempi ed ii progetto del suo restauro, Firenze-Roma, 1883. Abgekürzt: Castellazzi, Or S. Michele.
 
 Pietro Fraeschini, *L'Oratorio di S. Michele in Orto in Firenze*, Firenze 1892.
@@ -206,13 +220,11 @@ Girolamo Poggi, *Or S. Michele*, 1895.
 Hermann Riegel, *Beiträge zur Kunstgeschichte Italiens*, 1898, 63ff.
 La Sorsa, *La Compagnia di Or San Michele*, 1902.
 
-
-## NAME
+<h2 id="dername">Name</h2>
 Der Name Or San Michele wird verschieden erklärt. Wahrscheinlich ist er eine volkstümliche Abwandlung des Namens der vorher dort befindlichen Kirche ,,*S. Michaelis in Orto*", der besagt, daß diese Kirche in Gärten lag; dieser Name ist 1239 urkundlich bezeugt (1). - Eine andere Deutung sieht in dem Beiwort "Or" eine Anspielung auf den Getreidespeicher (lateinisch *horreum*), der die ältere Kirche ersetzte (2), doch wird diese Annahme durch das Vorkommen des Wortes "Orto" im Jahre 1239, also vor der Gründung des Kornspeichers, wiederlegt.
 
 
-## BAUGESCHICHTE
-
+<h2 id="bauge">Baugeschichte</h2>
 An der Stelle von Or San Michele befand sich ursprünglich ein kleines Nonnenkloster mit einer Kirche namens S. Michaelis in Orto; es wurde 895 als eine bereits seit langem bestehende Stiftung des Abtes Peter von S. Silvestro in Nonantola bezeichnet (3) und ist vielleicht bald nach der Gründung des Mutterklosters (752) eingerichtet worden, da es noch dem Kult des langobardischen Nationalheiligen ge­weiht wurde (4). Das Kloster blieb im Besitz der berühmten ober­italienischen Abtei, so lange es bestand (5). Es scheint im Florentiner Kulturleben als eine der ersten Pflegstätten der Webekunst schon während des 9. Jahrhunderts eine gewisse Bedeutung gehabt zu haben (6). 1046 stand S. Michele in Orto unter der Verwaltung eines Propstes (7); das Nonnenkloster existierte also möglicherweise nicht mehr. Im Jahre 1239 wurde die Kirche anscheinend in einer Ge­schlechterfehde zerstört, und zwar durch Schuld des Munaldus Ranutius und anderer Florentiner Bürger (8).
 
 Des neugewonnenen Raumes im Zentrum der Stadt bemächtigte sich die Stadtverwaltung, um einen öffentlichen Platz herzurichten (9).
@@ -238,7 +250,7 @@ Um 1380 stand die Kirche also im wesentlichen so da, wie sie heute erhalten ist 
 
 1415 richtete man ein Kollegiatstift in der Kirche ein (46). Um 1480 wurde sie vorübergehend profaniert (47). Sie erlitt aßer niemals ernstliche Veränderungen. 1569 wurde das Obergeschoß des Palastes als Staatsarchiv eingerichtet (48) und mit dem gegenüberliegenden Amtsgebäude der Wollweberzunft über die Straße hinweg durch eine Überführung verbunden, und zwar angeblich durch Bernardo Buontalenti. 1628 vermauerte man das rechte, südliche Hauptportal der Fassade (49). 1770 wurden die bis dahin im unteren Teil offen­gebliebenen mittleren Öffnungen in den mittleren Arkaden der Flanken vermauert; gleichzeitig baute man im linken, nördlichen Chorjoch eine Sakristei ein (50). 1821 wurde das Bogenfeld unter dem Verbindungsbogen des Buontalenti entfernt, 1858 wieder er­neuert (51). 1852 ff. wurden die dekorativen Teile der Arkaden zum großen Teil ausgewechselt (52). 1901 fand eine neue Restaurierung statt (53). 1931 ff. wurde der Fußboden in den beiden vorderen Jochen des Oratoriums, der nachträglich auf das etwas höhere Niveau des letzten (Chor-)Joches gebracht worden war, wieder in den ursprüng­lichen Zustand versetzt und der Sakristei-Einbau entfernt.
 
-### Rekonstruktion Verlorener Bauzustände
+<h2 id="rekon">Rekonstruktion der Verlorener Bauzustände</h2>
 
 ##### Kirche und Kloster S. Michaelis in Orto.
 Über den karolingischen Klosterbau des 8. oder 9. Jahrhunderts ist nur bekannt, daß er eine Werkstatt für Wollweberei enthielt (54). Die Kirche wird ganz klein gewesen sein, da der Konvent nur aus wenigen Nonnen bestand (885 waren es 6 Schwestern).
@@ -249,7 +261,13 @@ Zierlicher Hausteinbau mit zehn Pfeilern (55). - Der Pfeiler mit dem berühmten 
 ##### Die zweite Kornhalle; 1308 ff.
 Sie war wesentlich kleiner als der heutige Bau (57) und hatte dünne, schlecht fundamentierte Backsteinpfeiler (58). An einem der Pfeiler das Gnadenbild; ob sich ein Überrest dieses Pfeilers erhalten hat (im jetzigen Gnadenbild-Tabernakel), wäre noch zu klären; vgl. dazu S. 499 f.
 
-## Anmerkungen
+<h2 id="baube">Baubeschreibung</h2>
+
+#### Allgemeines.
+*Bauaufnahmen.* Zeichnungen von Giorgio Vasari d. J., Uffizien, Nr. 4784 und 6158-71. —Grundriß, Aufriß, Schnitte, Einzelheiten usw. bei Rohault de Fleury, *La Toscane au moyenâge*, I, 1870, und bei Mazzanti-Del Lungo, *Raccolta delle migliori fabbriche* etc. 1876, LXXXVI ff. (59).
+*Typus.* Der Baugedanke von Or San Michele ist ein Unikum: in ihm verbinden sich die architektonischen Typen der Markthalle, des Speicherhauses und des Bruderschafts-Oratoriums zu einer Einheit, die nur durch das Zusammentreffen ganz besonderer geschichtlicher Umstände zustande kommen konnte (60). Das Erdgeschoß — als Markthalle begonnen — ist eine gewölbte Pfeilerhalle; es war ursprünglich offen und wurde erst nach einem Planwechsel durch Vermauerung der äußeren Arkaden in einen geschlossenen Kirchenraum verwandelt (61). Darüber erheben sich zwei hohe, als Kornspeicher errichtete Obergeschosse (62). Der ursprünglich beabsichtigte Gegensatz zwischen der offenen Pfeilerhalle und dem darüber aufstrebenden turmhausartigen Block der Speichergeschosse muß sehr eigenartig gewirkt haben.
+
+<h2 id="anmerk">Anmerkungen</h2>
 
 (1) *Forschungen z. G. Florenz*, I, 1896, 448. Vgl. auch Biadi, Fabbr., 1824, 63, 64 und Schnaase, *Geschichte der Bildenden Künste im Mittelalter*, V, 1876, 183.
 

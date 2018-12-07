@@ -5,39 +5,49 @@ image:
 tags: bigallo
 status: live
 ---
+**Translation:** Sonia Brozak with edits by Katherine Dau
 
-*Translated by Sonia Brozak, edited by Katherine Dau*
+**Source:** Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch.* Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.
 
-__Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch.* Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.__
+**Location:** *Corner of Via dei Calzaiuoli and Piazza di S. Giovanni*
 
-**(#) refers to footnotes**
+## Table of Contents
+### English
+* <a href="#speclit">Special Literature</a>
+* <a href="#name">Name</a>
+* <a href="#buildh">Building History</a>
+* <a href="#buildd">Building Description</a>
+* <a href="#fac">Facilities</a>
+* <a href="#lostfac">Lost Facilities</a>
+* <a href="#notes">Notes</a>
 
-Scroll further for transcribed original German
+### German
+* <a href="#spezlit">Spezialliteratur</a>
+* <a href="#dername">Name</a>
+* <a href="#bauge">Baugeschichte</a>
+* <a href="#baube">Baubeschreibung</a>
+* <a href="#ausstat">Ausstattung</a>
+* <a href="#verausstat">Verlorene Ausstattung</a>
+* <a href="#anmerk">Anmerkungen</a>
 
-## Bigallo I
-Oratorio del...
-
-Corner of Via dei Calzaiuoli and Piazza di S. Giovanni
-
-### Special Literature
+<h2 id="speclit">Special Literature</h2>
 P. Landini: Istoria dell'Oratorio di S. Maria del Bigallo e della ven. Compagnia della Misericordia, 1779 (cited as Landini, Bigallo).
 
 Poggi-Ricci-Supino: "La Compagnia del Bigallo," *Rivista d'Arte*. II, 1903, 189
 
-## Name
+<h2 id="name">Name</h2>
 1. Misericordia Vecchia (1).
 2. Oratorio della Misericordia Vecchia e Capitani del Bigallo (2)
 3. Oratorio del Bigallo; commonly, Bigallo (3). See note under Building History (around 1425).
 
-## Building History
-
+<h2 id="buildh">Building History</h2>
 Oratorio of the Bigallo (Corner of Via dei Calzaiuoli and Piazza di San Giovanni) (4).
 
 The company of the Misericordia, a confraternity, acquired the building in 1321 (5). After they acquired the property through a donation of the adjoining plots in 1351, (6) they began construction of the building in 1352, which contained a loggia, an oratory, meeting hall, and a living room for the brothers of the confraternity (7). By 1358 the building process was completed (8). The design can be, in all likelihood, attributed to the architect Alberto Arnoldi, who also provided the most important three-dimensional fixtures (9).
 
 In 1425, under the oversight of Cosimo de'Medici, the brotherhood of the Compagnia della Misericordia united with the original long-time resident of the building, the brotherhood of Santa Maria del Bigallo, jointly receiving the residence of the latter through a co-ownership agreement (10). Constructional changes were apparently not undertaken at that time. A fire in 1442 damaged the upper floor of the building (11). In 1452 the Sala dell’Udienza was expanded through the inclusion of a new room (12). Since the 1700s multiple disfiguring changes to the building were undertaken. In 1698 the arcade of the loggia and the window in the upper floor were walled up (13). After termination of the Bigallo's management in 1776, the building was given as the site of the administration for the state orphanage and was altered significantly from its original configuration during the restoration (14). Walls were removed from the arcade of the loggia in 1865 and the interior of the oratory was restored then (15). In 1882 the walled-up windows on the upper floors were re-opened (16), and a final restoration took pace in 1904 (17).
 
-## Building Description
+<h2 id="buildd">Building Description</h2>
 
 *Old Descriptions.*
 
@@ -76,7 +86,7 @@ The interior of the logger is simpler. The numerous bases run along the thin she
 #### Interior
 The oratory belonged to a rare type of large, arched, gothic churches, among them San Jacopo in Campo Corbolini, San Martino della Scala, and San Carlo Borromeo I. There were two pointed, overlaid, ribbed arches, supported by broad and flat, splayed corner panels that compose pilasters. The rose windows in the north wall were extended in 1865 at the same time that the arcade of the loggia had windows installed inside it.
 
-## Facilities
+<h2 id="fac">Facilities</h2>
 
 #### Exterior
 The entrance hall contains the three-dimensional decorations that were designed by the architect Alberto Arnoldi, who was also a sculptor. These are presented as preserved gems of gothic building decoration, a rarity in Trecento Florence. The execution is often rough, as there were obviously assistants involved in their production. The end products were clearly based on an antiquated taste that derived from gothic prototypes, but were also independent of those traditional forms.
@@ -122,7 +132,7 @@ Over six additional scenes (see lost facilities)
 
 The rooms of the upper floors are modernized and have been established as a museum. Descriptive lists in *Rivista D'Arte* II, 1904.
 
-## Lost Facilities
+<h2 id="lostfac">Lost Facilities</h2>
 
 #### Exterior
 *Loggia.* Grid from the Sienese Francesco Petrucci, 1358; lost (36).
@@ -157,7 +167,7 @@ Second, under the predella of the altar tabernacle from 1515, three larger and f
 
 *From undefined locations.*  Fresco or panel painting of the Bigallo’s founding by Agnolo Gaddi, 1380, with images of the founder Giovanni Buccheri; missing or lost (51). On further lost equipment, materials, and facilities, which are no longer in the established locations today, see the documents by Poggi, *Rivista d’Arte* II, 1904.
 
-## Notes
+<h2 id="notes">Notes</h2>
 
 (1) As the building was named, before the Company of the Bigallo received joint ownership in 1425.
 
@@ -260,14 +270,15 @@ Second, under the predella of the altar tabernacle from 1515, three larger and f
 51) Milanesi-Vasari I, 643 Note 2; Poggi, *Riv. D’A.* II, 1904, 198, 238f.
 
 # Bigallo I
+<h2 id="spezlit">Spezialliteratur</h2>
+<h2 id="dername">Name</h2>
 
-## Baugeschichte
-
+<h2 id="bauge">Baugeschichte</h2>
 Die Compagnia della Misericordia, eine mildtätige Bruderschaft (4), erwarb 1321 ein Haus an der Südseite der Piazza del Duomo, dem Portal des Baptisteriums gegenüber (5). Nachdem ihr Besitz durch die Schenkung des angrenzenden Grundstückes (an der Ecke der Via de'Calzaiuoli) im Jahre 1351 vergrößert worden war (6), begann man 1352 mit der Errichtung eines Baues, der eine Loggia, ein Oratorium, Versammlungs- und Wohnräume für die Mitglieder der Bruderschaft enthalten sollte (7). 1358 war der Bau bereits voll­endet (8). Als Architekt kann mit großer Wahrscheinlichkeit Alberto Arnoldi bezeichnet werden, der auch die wichtigsten Teile der plasti­schen Ausstattung lieferte (9).
 
 Im Jahre 1425 wurde auf Veranlassung Cosimos de' Medici die ursprünglich an anderer Stelle ansässige Bruderschaft von S. Maria del Bigallo mit der Compagnia della Misericordia vereinigt, indem sie zugleich die Residenz der letzteren zum Mitbesitz erhielt (10). Bauliche Veränderungen wurden damals offenbar nicht vorgenommen. - Ein Brand im Jahre 1442 beschädigte nur das obere Stockwerk des Gebäudes (11). 1452 wurde die "Udienza" durch Einbeziehung eines neuen Raumes erweitert (12). Seit dem 17. Jahrhundert wurden mehrfach entstellende Veränderungen am Bau vorgenommen. 1698 wurden die Arkaden der Loggia und die Fenster im Obergeschoß vermauert (13). Nach der Auflösung der Bigallo-Behörde im Jahre 1776 diente das Gebäude als Sitz der Verwaltung eines staatlichen Waisenhauses und wurde aus diesem Anlaß verständnislos restau­riert (14). 1865 entfernte man die Mauern aus den Arkaden der Loggia und restaurierte das Innere des Oratoriums (15). 1882 wurden dann auch die vermauerten Fenster des Obergeschosses wieder ge­öffnet (16) ; eine letzte Restaurierung fand 1904 statt (17).
 
-## Baubeschreibung
+<h2 id="baube">Baubeschreibung</h2>
 
 *Alte Darstellungen:* auf dem Fresko des Niccolò di Pietro Gerini, Rückgabe verlorener Kinder, Sala del Consiglio; auf der Predella des Ridolfo del Ghirlandaio, Hochaltar; beides im Bigallo selbst (vgl. unter *Ausstattung*). - Kodex des Marco di Bartolommeo Rustichi, Mitte 15. Jahrhundert (Photo Soprintendenza 7646). - Stadtansicht des Stefano Bonsignori von 1584, Abb. bei Mori-Boffito, Piante e vedute di Firenze, 1926. -- Zeichnung des E. Burci (vor 1865), Außenansicht mit vermauerter Loggia und ebensolchen Fenstern; Abb. in *Riv. d'A.* II, 1904, 244.
 
@@ -291,7 +302,7 @@ Das Innere der Loggia ist schlichter; in Höhe der Sockelbank verläuft ein fein
 
 Das Oratorium gehört zum seltenen	Typus der gewölbten gotischen Saalkirchen; vgl. S. Jacopo in Campo Corboloni (1311 ff.), S. Martino della Scala (1317 ff.) und  S. Carlo Borromeo I (1342ff.). Es wird von zwei spitzbogigen Kreuzrippengewölben	überdeckt, die auf breiten und flachen, von abgekanteten Ecksäulen begleiteten Pilastern auflagern. Das Rundfenster in der Nordwand wurde 1865 erweitert; gleichzeitig wure die Arkade zur Loggia hin verglast.
 
-## Ausstattung
+<h2 id="ausstat">Ausstattung</h2>
 
 #### Außen
 
@@ -341,7 +352,7 @@ Glasmalerei im Rundfenster der Nordwand, Caritas, um 1865 (30).
 
 Die *Räume des Obergeschosses* sind modernisiert und als Museum eingerichtet. Beschreibendes Verzeichnis in *Riv. d'A*. II, 1904, 203-225.
 
-## Verlorene Ausstattung
+<h2 id="verausstat">Verlorene Ausstattung</h2>
 
 #### Außen
 
@@ -382,7 +393,7 @@ Zweite, untere *Predella* des Altartabernakels von 1515, drei größere und vier
 
 Fresko oder Tafelbild der Verkündigung, von Agnolo Gaddi, 1380, mit Bildnis des Stifters Giov. Buccheri; verschollen oder verloren (5l). Über *weitere verlorene Ausstattungsgegenstände*, deren ursprünglicher Platz heute nicht mehr zu bestimmen ist, vgl. die Dokumente bei Poggi, *Riv. d'A.* II, 1904, 225ff., 238ff.
 
-## Anmerkungen
+<h2 id="anmerk">Anmerkungen</h2>
 
 (1)	So hieß das Gebaude, bevor die Compagnia del Bigallo 1425 den Mitbesitz erhielt; vgl. *Baugeschichte*.
 
