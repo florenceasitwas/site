@@ -6,8 +6,8 @@ tags:
 status: live
 ---
 
-#Andrea di Cione and Jacopo di Cione, *St. Matthew*, 1369#
-##Uffizi Galleries (ex-Orsanmichele, south pier)##
+##Andrea di Cione and Jacopo di Cione, *St. Matthew*, 1369
+###Uffizi Galleries (ex-Orsanmichele, south pier)
 
 <!-- more -->
 

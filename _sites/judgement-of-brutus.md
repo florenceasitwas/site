@@ -6,8 +6,10 @@ tags:
 status: live
 ---
 
-# Nardo di Cione (?), *The Judgment of Brutus*, ca. 1345
-## Dante Society (ex-Palazzo del Arte della Lana, Sala d’Udienza)
+## Nardo di Cione (?), *The Judgment of Brutus*, ca. 1345
+### Dante Society (ex-Palazzo del Arte della Lana, Sala d’Udienza)
+
+<!-- more -->
 
 The lunette fresco of *The Judgment of Brutus* has received practically no serious attention from students of Florentine art and history, yet it is one of the more interesting pictures of the mid-fourteenth century (figure 1). Produced for the *Sala d’Udienza*, or Audience Hall, of the headquarters for the [Arte della Lana](insert link) probably sometime in the middle of the 1340s, the allegorical painting was originally adorned with a series of inscriptions on scrolls that made clear the identities of each figure. We know that the central character, seated on a bench, represents the First Consul of Rome, Junius Brutus, famous for his wisdom and staunch defense of Republicanism in the face of tyranny. Not to be confused with his more infamous descendent (the assassin of Julius Caesar), Junius Brutus led the uprising in 709 BCE that resulted in the dismantling of Rome’s decadent monarchy and the creation of a Republican government that fourteenth-century Florentines took as the predecessor of their own. It comes as no surprise, then, that the painting’s composition, attributed recently to [Nardo di Cione](insert link), follows closely the groundbreaking template produced by Ambrogio Lorenzetti for his equally political picture, the *Allegory of Good Government*, completed in 1338 for the Room of the Nine inside Siena’s Palazzo Pubblico.
 

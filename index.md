@@ -62,6 +62,7 @@ layout: default
 				<h3>Del Migliore</h3>
 				<p>Italian, 1628-1696</p>
 				<p>Ferdinando del Migliore was born in 1628 and spent his adult life researching and writing about the history of Florence. A gifted archivist, del Migliore scoured the registers and contracts of individuals and institutions in an effort to present to his readers accurate accounts of the city’s past.</p>
+					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-migliore.html" class="essaylink">Migliore on the Bigallo</a></li>
 			</div>
 		</article>
 		<article>
@@ -90,7 +91,7 @@ layout: default
 				<p>Context-Dependent Sources</p>
 				{% assign texts = site.texts | where:"category", "misc" %}
 				{% for text in texts %}
-				<li><a href="{{ text.url | absolute_url }}" class="essaylink">{{ text.title }}</a></li>
+				<li><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></li>
 				{% endfor %}
 			</div>
 		</article>
