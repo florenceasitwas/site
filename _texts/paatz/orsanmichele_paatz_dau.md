@@ -210,7 +210,7 @@ In each cap, there is an existing frame of blue, gold stared background: patriar
 #### East Side
 *First Arcade:* Two miracles of the Madonna (Salvation of the soul of a pious man and snow wonder of S. Maria Maggiore in Rome) and Rest on the Flight to Egypt; especially beautily work; the Rest on the Flight perhaps after the design of Agnolo Gaddi or of a related artist (139), the salvation of the soul perhaps after the design of Lorenzo Monaco; all three windows from around 1400/1410 (14). *Second Arcade:* three miracles of the Madonna (the right and the middle scenes very destroyed and partially restored, left healing of the sick); the left scene perhaps after the design of Lorenzo Monaco, executed by Niccolò della Magna (?), around 1400/10 (141).
 
-### North Side
+#### North Side
 *First Arcade* Three miracles of the Madonna (ship miracle, Bishop’s miracle, and Grotto miracle); the right and the middle scenes probably done by a miniature painter; beginning of the 15th Century (142). *Second Arcade:* A proclamation of Joachim; especially beautiful work, perhaps from the concept of Lorenzo Monaco, maybe from the circle that created the Ghiberti window in the cathedral (done by Niccolò della Magna?) around 1410/15 (143). *Third arcade:* Presentation of Mary, perhaps after a concept of a painter from the circle of Agnolo Gaddi, around 1375/80 (?) (144).
 
 ### The Miracle-Working Madonna and its Tabernacle
