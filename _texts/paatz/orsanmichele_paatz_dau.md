@@ -66,6 +66,7 @@ Around 1380, the church was therefore essentially as it is preserved today, but 
 In 1415 a collegiate church was established in the church (46). Around 1480 it was temporarily secularized (47). It never suffered any serious changes. In 1569 the upper floor of the palace was configured as a state archive (48) and was connected with the opposite administrative building of the wool weavers’ guild through an overpass over the street, allegedly by Bernardo Bountalenti. In 1628 the right, southern main door of the façade was bricked over (49). In 1770 they were bricked over in the mean time in the lower part of the central openings in the middle arcades of both sides; Concurrently, a sacristy was installed in the left, northern, choir (50). In 1821 the tympanum under the connecting arch was removed, and in 1858 again restored (51). In 1852 ff. the decorative parts of the arcade were replaced to a large extent (52). In 1901 a new Restoration took place (53). In 1931 ff. the flooring in the two front bays of the Oratorium, that later had been raised to a higher level than the last (choir) bay, was changed back into its original condition, and the sacristy addition was removed.
 
 <h2 id="recon">Reconstruction of Lost Building Elements</h2>
+
 #### Church and Cloister of S. Michaelis in Orto.
 About the Carolingian cloister building of the 8th or 9th century it is only known, that it included a workshop for wool weavers (54). The church had become small, since the convent consisted of only a few nuns (In 885 there were 6 sisters).
 
