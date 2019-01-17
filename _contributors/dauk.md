@@ -6,6 +6,8 @@ category:
 status: current
 ---
 
-Katherine travelled from Dallas, Texas to Lexington, VA to begin her studies at Washington and Lee. Katherine is a Johnson Scholar and plans to graduate in 2019 with a major in Art History and a minor in German. She has studied abroad in Siena, Italy, Berlin, and Göttingen, Germany. She worked on redrafting the Student Body Constitution and has served on the executive committee of Kappa Alpha Theta as COO. During her free time Katherine enjoys visiting museums, cooking, reading, hiking with friends, and exploring Lexington.
+Katherine will graduate in 2019 with a double major in art history and German. She spent the summer of 2019 in Florence working on the project. She has presented Florence As It Was at the UNRH Conference in 2018 and at the Frick Collection in 2019. She has studied abroad in Siena, Italy, Berlin, and Göttingen, Germany. On campus, Katherine is a member of Kappa Alpha Theta sorority, the Outing Club, and ODK. During her free time Katherine enjoys travel, cooking, reading, yoga, and spending time outside with friends.
+
+Katherine mostly translates Paatz' *Die Kirchen von Florenz* and occasionally the 2D map. She also enjoys modeling altarpieces and working on site maintenance.
 
 __KD__

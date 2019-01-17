@@ -3,7 +3,7 @@ layout: page
 title: Aidan Valente
 image: bio_valentea.jpg
 category:
-status: current
+status: past
 ---
 
 Aidan is a Medieval & Renaissance Studies and Art History double-major and Classics minor at Washington and Lee. He has studied Italian, French, and Latin and spent the summer working on Florence As It Was and practicing his Italian. On-campus, he spends much of his time working on Digital Humanities projects involving the University's Special Collections archives, where he worked during the summer of 2016. In Fall semester 2017 he was appointed to the Digital Humanities committee. Outside the classroom, he enjoys participating in Catholic Campus Ministry, rehearsing with the University Singers, and seeing plays at the Blackfriars in Staunton with the Shakespeare Society.

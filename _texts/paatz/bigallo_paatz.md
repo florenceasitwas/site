@@ -33,11 +33,14 @@ status: live
 <h2 id="speclit">Special Literature</h2>
 P. Landini: Istoria dell'Oratorio di S. Maria del Bigallo e della ven. Compagnia della Misericordia, 1779 (cited as Landini, Bigallo).
 
+
 Poggi-Ricci-Supino: "La Compagnia del Bigallo," *Rivista d'Arte*. II, 1903, 189
 
 <h2 id="name">Name</h2>
 1. Misericordia Vecchia (1).
+
 2. Oratorio della Misericordia Vecchia e Capitani del Bigallo (2)
+
 3. Oratorio del Bigallo; commonly, Bigallo (3). See note under Building History (around 1425).
 
 <h2 id="buildh">Building History</h2>
@@ -67,7 +70,7 @@ In 1425, under the oversight of Cosimo de'Medici, the brotherhood of the Compagn
 
 •	Illustrations in *Rivista d'Arte* II, 1904, p. 244
 
-*Building images*
+*Building Images.*
 
 •	Elevation engraving from D. Callesi in Rohault de Fleury, *Le Toscane au Moyenage*, 1876
 
@@ -126,7 +129,7 @@ In the stained glass in the rose windows of the north wall appears the figure of
 11. Homecoming.
 12. Banquet in the house of Tobit.
 
-Over six additional scenes (see lost facilities)
+Over six additional scenes (see <a href="#lostfac">Lost Facilities</a>)
 
 *West wall.* Fresco, *Misericordia*, 1352 (?) (34). Large standing figure; on the coat appear medallions with sayings and small scenes dedicated to works of compassion. Beside these figures appear sayings which relate to the works of the Misericordia. At the feet kneel genuflecting figures of all ages and status, along with a depiction of Florence, the earliest known representation of the city (35).
 
@@ -151,7 +154,7 @@ The rooms of the upper floors are modernized and have been established as a muse
 *First high altarpiece (?):* Madonna with John the Baptist and Saint Peter Martyr; Christ in pediments, the preaching and the crests of the Brotherhood of the Bigallo, in the predella the *Lamentation of Christ* and also a scene from the legend of John the Baptist and Peter Martyr; by Mariotto di Nardo, 1415/16; perhaps removed in 1515 by the establishment of the high tabernacles; Main picture now in an American private collection, predella lost (45).
 Second, under the predella of the altar tabernacle from 1515, three larger and four smaller pictures:
 1. Raffael with Tobit
-2. Genuflecting Madonna and God the Father from worshipping angels, in addition to Adam and Eve (immaculate conception?)
+2. Genuflecting Madonna and God the Father from worshipping angels, in addition to Adam and Eve (Immaculate Conception?)
 3. Writing woman (Sibyl?)
 4. Sybil
 5. Sybil
@@ -235,43 +238,53 @@ Second, under the predella of the altar tabernacle from 1515, three larger and f
 
 (34) In the inscription under the fresco the year 1342 is named; but Del Migliore 1684, 80, Richa VII, 1758, 294, Landini, *Bigallo*, 1779, XXIX and Ill. For. IX, 1839, 45 read the date as 1352, so one must assume, this date was probably distorted through a restoration; see Passerini, *Stab.*, 1853, 450ff. and Poggi, *Riv. D’A.* II, 1904, 203ff. Metz advocates for the year 1342, *Jb. Pr. KS*. LIX, 1938, 123, Note 1. – The whole building in which the fresco is located was not erected before 1352.
 
-35) Reproduced by Vincenzo Borghini in the *Memorie e Notizie di Antichità* (Ms. Biblioteca Nazionale, classe XXV, 551); see Ricci, *Cento vedute di Firenze antica*, 1906, table IX and text. Excerpt and explanation of the unfinished cathedral façade by Paatz, *Werden und Wesen der Trecento-Architektur in Toskana*, 1357, 147ff. and differently by Metz, *Jb. pr. KS.* LIX, 1938, 122. About the building from S. Pier Scheraggio see *Riv. D’A.* XVI, 1934, 7. Note 1.
+(35) Reproduced by Vincenzo Borghini in the *Memorie e Notizie di Antichità* (Ms. Biblioteca Nazionale, classe XXV, 551); see Ricci, *Cento vedute di Firenze antica*, 1906, table IX and text. Excerpt and explanation of the unfinished cathedral façade by Paatz, *Werden und Wesen der Trecento-Architektur in Toskana*, 1357, 147ff. and differently by Metz, *Jb. pr. KS.* LIX, 1938, 122. About the building from S. Pier Scheraggio see *Riv. D’A.* XVI, 1934, 7. Note 1.
 
-36) Document by Passerini, *Stab.*, 1853, 453 and Poggi, *Riv. d’A.* II, 1904, 226. – Removed 1698 (see “Building History"). The representation of the Bigallo on the fresco of Niccolò di Pietro Gerini and Ambrogio di Baldese (now in the Sala del Consiglio) and on the Predella of the high altar by Rid. Del Ghirlandaio unanimously reproduce the grid as a simple network of crossed iron rods. It was cut into rectangular doors; in the arches, the network rested on a crossbeam.
+(36) Document by Passerini, *Stab.*, 1853, 453 and Poggi, *Riv. d’A.* II, 1904, 226. – Removed 1698 (see “Building History"). The representation of the Bigallo on the fresco of Niccolò di Pietro Gerini and Ambrogio di Baldese (now in the Sala del Consiglio) and on the Predella of the high altar by Rid. Del Ghirlandaio unanimously reproduce the grid as a simple network of crossed iron rods. It was cut into rectangular doors; in the arches, the network rested on a crossbeam.
 
-37) Document by Poggi, *Riv. d’A.* II, 1904, 229.
+(37) Document by Poggi, *Riv. d’A.* II, 1904, 229.
 
-38) The position of this fresco is not determined exactly; Del Migliore 1684, 80 saw it, "sopra al portone del Ricetto”, Richa VII, 1758, 293 simply says “sopra al portone”; most likely one could expect it on the now-free side that faces them campanile. Admittedly Poggi assumed (see the next note) the lost third Peter Martyr fresco, the origins of which we can not necessarily be certain, was also constructed there. Further literature in Note 32.
+(38) The position of this fresco is not determined exactly; Del Migliore 1684, 80 saw it, "sopra al portone del Ricetto”, Richa VII, 1758, 293 simply says “sopra al portone”; most likely one could expect it on the now-free side that faces them campanile. Admittedly Poggi assumed (see the next note) the lost third Peter Martyr fresco, the origins of which we can not necessarily be certain, was also constructed there. Further literature in Note 32.
 
-39) Outside of the two preserved frescos of this painter (see under “Facilities”) a third is named in a document (see Poggi, *Riv. d’A.* II, 1904, 241); Poggi speculates that the lost fresco was located over the arcade on the east side. The document continues further, though not necessarily reliably, that this third fresco was completed.
+(39) Outside of the two preserved frescos of this painter (see under “Facilities”) a third is named in a document (see Poggi, *Riv. d’A.* II, 1904, 241); Poggi speculates that the lost fresco was located over the arcade on the east side. The document continues further, though not necessarily reliably, that this third fresco was completed.
 
-40) Document, payment to Pietro Chellini 1443/44, by Rumohr, *Ital. Forsch.* II, 1827, 169ff. and Poggi, *Riv. d’A.* II, 1904, 241; sourced from Rumohr, ibid. and Crowe-Cvalsaselle II, 1864, 518 on the scenes of the Peter Martyr legend on the norther façade; in contrast, see our Note 26 – Passerini, *Cur. Stor. Art.* 97 and Del Pretorio di Firenze, 1865, 9 presumed, that Chellini allegedly painted the decorative parts on the façade.
+(40) Document, payment to Pietro Chellini 1443/44, by Rumohr, *Ital. Forsch.* II, 1827, 169ff. and Poggi, *Riv. d’A.* II, 1904, 241; sourced from Rumohr, ibid. and Crowe-Cvalsaselle II, 1864, 518 on the scenes of the Peter Martyr legend on the norther façade; in contrast, see our Note 26 – Passerini, *Cur. Stor. Art.* 97 and Del Pretorio di Firenze, 1865, 9 presumed, that Chellini allegedly painted the decorative parts on the façade.
 
-41) Document by Poggi, *Riv. D’A*. II, 1904, 228.
+(41) Document by Poggi, *Riv. D’A*. II, 1904, 228.
 
-42) Document by Passerini, *Stab.*, 1853, 456 and Poggi, *Riv. D’A.* II, 1904, 228: Nardo di Cione should paint “le volte e l’altre cose.”
+(42) Document by Passerini, *Stab.*, 1853, 456 and Poggi, *Riv. D’A.* II, 1904, 228: Nardo di Cione should paint “le volte e l’altre cose.”
 
-43) Landini, *Bigallo*, 1779, XV: Passerini, *Stab.*, 1853, 456, Poggi, *Riv. D’A.* II, 1904, 202.
+(43) Landini, *Bigallo*, 1779, XV: Passerini, *Stab.*, 1853, 456, Poggi, *Riv. D’A.* II, 1904, 202.
 
-44) Document by Poggi, *Riv. D’A.* II, 1904, 242; whether the work was executed is not clear; see Poggi, ibid., 196.
+(44) Document by Poggi, *Riv. D’A.* II, 1904, 242; whether the work was executed is not clear; see Poggi, ibid., 196.
 
-45) Document (contract) by Milanesi-Vasari I, 610/611 and Poggi, *Riv. D’A.* II, 1904, 223/224; there also receipt for two payments 1416. – It is not clear, whether the picture was the high altar panel; it is not described in the literary sources, since the Bigallo crest appears in the pediment, will have been transferred from the Bigallo confraternity into the new residence in 1425; mentioned in the inventory of 1453 and 1576; From van Marle IX, 1927, 209, 215f. and Berenson, *Dedalo* XI, 2, 1930/31, identified as from 1296 with an image now located in an American private collection (Figure in Berenson, ibid., 1307).
+(45) Document (contract) by Milanesi-Vasari I, 610/611 and Poggi, *Riv. D’A.* II, 1904, 223/224; there also receipt for two payments 1416. – It is not clear, whether the picture was the high altar panel; it is not described in the literary sources, since the Bigallo crest appears in the pediment, will have been transferred from the Bigallo confraternity into the new residence in 1425; mentioned in the inventory of 1453 and 1576; From van Marle IX, 1927, 209, 215f. and Berenson, *Dedalo* XI, 2, 1930/31, identified as from 1296 with an image now located in an American private collection (Figure in Berenson, ibid., 1307).
 
-46) Vasari VI, 538; described in detail by Landini, *Bigallo*, 1779, XVII/XVIII; older literature in Note 29; see also Poggi, *Riv. D’A.* II, 1904, 197.
+(46) Vasari VI, 538; described in detail by Landini, *Bigallo*, 1779, XVII/XVIII; older literature in Note 29; see also Poggi, *Riv. D’A.* II, 1904, 197.
 
-47) Richa VIII, 1758, 284; Landini, *Bigallo*, 1779, XVI; Poggi, *Riv. D’A*. II, 1904, 197.
+(47) Richa VIII, 1758, 284; Landini, *Bigallo*, 1779, XVI; Poggi, *Riv. D’A*. II, 1904, 197.
 
-48) Del Migliore, 1684, 79; Richa VII, 1758, 287/288, reconstruction of engraving on page 252; Landini, *Bigallo*, 1779, XIII; Ill. For. IV, 1839, 29 (the image was previously located in the oratory on the gospel side, so on the south wall). – The epigraph from Richa ibid., *Ill. fior.* ibid., Passerini, *Stab.* 1853, 6f.; Ricci, *Riv. d’A.* II, 1904, 221; see also *Forschungen z. G. Florenz IV*, 1908, 427.
+(48) Del Migliore, 1684, 79; Richa VII, 1758, 287/288, reconstruction of engraving on page 252; Landini, *Bigallo*, 1779, XIII; Ill. For. IV, 1839, 29 (the image was previously located in the oratory on the gospel side, so on the south wall). – The epigraph from Richa ibid., *Ill. fior.* ibid., Passerini, *Stab.* 1853, 6f.; Ricci, *Riv. d’A.* II, 1904, 221; see also *Forschungen z. G. Florenz IV*, 1908, 427.
 
-49) Venturi, *Storia* V, 1907, 462 Note: giottesk; van Marle III, 1924, 403/404: Emulation of Bern. Daddi; Berenson, Ital. pictures, 1932, 274: late work of Jacopo di Cione.
+(49) Venturi, *Storia* V, 1907, 462 Note: giottesk; van Marle III, 1924, 403/404: Emulation of Bern. Daddi; Berenson, Ital. pictures, 1932, 274: late work of Jacopo di Cione.
 
-50) Landini, *Bigallo*, 1779, XXIX; Poggi, *Riv. D’A.* II, 1904, 206.
+(50) Landini, *Bigallo*, 1779, XXIX; Poggi, *Riv. D’A.* II, 1904, 206.
 
-51) Milanesi-Vasari I, 643 Note 2; Poggi, *Riv. D’A.* II, 1904, 198, 238f.
+(51) Milanesi-Vasari I, 643 Note 2; Poggi, *Riv. D’A.* II, 1904, 198, 238f.
 
 # Bigallo I
 <h2 id="spezlit">Spezialliteratur</h2>
+P. Landini: Istoria dell'Oratorio di S. Maria del Bigallo e della ven. Compagnia della Misericordia, 1779 ( Landini, Bigallo).
+
+
+Poggi-Ricci-Supino: "La Compagnia del Bigallo," *Rivista d'Arte*. II, 1903, 189
+
 <h2 id="dername">Name</h2>
+1. Misericordia Vecchia (1).
+
+2. Oratorio della Misericordia Vecchia e Capitani del Bigallo (2)
+
+3. Oratorio del Bigallo; commonly, Bigallo (3). Baugeschichte (c. 1425).
 
 <h2 id="bauge">Baugeschichte</h2>
 Die Compagnia della Misericordia, eine mildtätige Bruderschaft (4), erwarb 1321 ein Haus an der Südseite der Piazza del Duomo, dem Portal des Baptisteriums gegenüber (5). Nachdem ihr Besitz durch die Schenkung des angrenzenden Grundstückes (an der Ecke der Via de'Calzaiuoli) im Jahre 1351 vergrößert worden war (6), begann man 1352 mit der Errichtung eines Baues, der eine Loggia, ein Oratorium, Versammlungs- und Wohnräume für die Mitglieder der Bruderschaft enthalten sollte (7). 1358 war der Bau bereits voll­endet (8). Als Architekt kann mit großer Wahrscheinlichkeit Alberto Arnoldi bezeichnet werden, der auch die wichtigsten Teile der plasti­schen Ausstattung lieferte (9).
