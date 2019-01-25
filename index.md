@@ -82,6 +82,9 @@ layout: default
 				<li>
 					<a href="http://florenceasitwas.wlu.edu/texts/bigallo-paatz.html" class="essaylink">Paatz on the Bigallo</a>
 				</li>
+				<li>
+					<a href="http://florenceasitwas.wlu.edu/texts/orsanmichele-paatz-dau.html" class="essaylink">Paatz on Orsanmichele</a>
+				</li>
 			</div>
 		</article>
 		<article>
