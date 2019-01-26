@@ -8,9 +8,11 @@ tags: bigallo
 status: live
 ---
 
-#Nardo di Cione, *Last Judgment,* ca. 1363
+# Nardo di Cione, *Last Judgment,* ca. 1363
 
 The wall just within the confines of the [Bigallo’s loggia](insert link) contains a now-damaged and detached fresco that probably illustrated the theme of the *Last Judgment* that artists like [Nardo di Cione](insert link) found so appealing during the fourteenth century (figure 1). The painting faced out toward the public from the chamber just inside the entrance, positioned on its west wall and facing east toward the [Campanile](insert link) that [Andrea Pisano](insert link) had recently ornamented with dozens of [marble reliefs](insert link).
+
+<!-- more -->
 
 The composition features the figure of Christ, who blesses viewers from his perch on a celestial cloudbank while holding in his left hand the open book emblazoned with the Alpha and Omega (the first and last letters of the Greek alphabet, symbolic of the notion that Christ is the beginning and the ending of all things). Two pairs of angels flank him, some genuflecting with musical instruments in their hands and the others crossing their arms over their chests while gazing at their performing mates (figure 2). A constellation of gold stars covers what remains of the blue field below, damaged when the [sculptural ensemble](insert link) produced by [Alberto Arnoldi](insert link) was removed and relocated elsewhere in the Bigallo.
 

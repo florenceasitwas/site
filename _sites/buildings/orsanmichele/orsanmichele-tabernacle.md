@@ -6,12 +6,12 @@ tags:
 status: live
 ---
 
-##Andrea di Cione, *Baldacchino*, 1352-59#
-###Orsanmichele##
-
-<!-- more -->
+## Andrea di Cione, *Baldacchino*, 1352-59
+### Orsanmichele
 
 Framing magnificently the famed miracle-working [*Madonna of Orsanmichele*](insert link) by [Bernardo Daddi](insert link), Andrea di Cione’s *Baldacchino* articulated perfectly the mid-Trecento aesthetic that appealed to Florentine audiences of the day. A massive structure, carved in marble with sections of inlaid gold and mosaic tesserae sprinkled throughout, the tabernacle both framed the picture that, in 1365, was named the “official painting of Florence” and stood on its own as a cultural curiosity that brought in local and international viewers in droves (figure 1).
+
+<!-- more -->
 
 Andrea di Cione, or “Orcagna” as he was known to contemporaries, received the commission to sculpt this absolutely massive ensemble in 1352, some four years after the passing of the Black Death. The commission to replace the [previous tabernacle](insert link) that had stood since the second decade of the century may have been initiated by the Captains of the Confraternity of Orsanmichele as a response to the extensive criticism it had just received for the way in which they handled and then spent the windfall of profits the institution had just accepted after the wills of thousands of Florentine plague victims were opened and their bequests distributed all at the same time. Matteo Villani, in his Chronicle of Florence, vehemently condemned the captains, accusing them of embezzlement and condemning them for their selfishness. Orcagna received his commission shortly thereafter.
 

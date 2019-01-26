@@ -6,12 +6,16 @@ tags:
 status: live
 ---
 
-##Andrea di Cione and Jacopo di Cione, *St. Matthew*, 1369
-###Uffizi Galleries (ex-Orsanmichele, south pier)
+## Andrea di Cione and Jacopo di Cione, *St. Matthew*, 1369
+### Uffizi Galleries (ex-Orsanmichele, south pier)
 
 <!-- more -->
 
-The guilds of Florence agreed in 1336 to place effigies of their patron saints inside and outside the centrally located edifice of [Orsanmichele](insert link), the grain distribution center that became a church in the middle of the fourteenth century. Only a few of them actually did so, and one of those was the Bankers guild, or [Arte del Cambio](insert link). In 1367 the elderly painter Andrea di Cione, called Orcagna, received the commission to produce a painting of *St. Matthew* with four narrative panels flanking the central figure of the standing evangelist (see figure 1). Orcagna ingeniously altered the typical triptych format commonly used by artists when producing devotional pictures so that the side panels folded backwards, rather than forwards over the central compartment, to allow it to fit around the contours of a pier that supported one of the open loggias on the south wall of the building. But Orcagna would not live long enough to see the project through to completion, and his much younger brother, Jacopo, was called upon to finish the job when Orcagna died in 1368.
+The guilds of Florence agreed in 1336 to place effigies of their patron saints inside and outside the centrally located edifice of [Orsanmichele](insert link), the grain distribution center that became a church in the middle of the fourteenth century. Only a few of them actually did so, and one of those was the Bankers guild, or [Arte del Cambio](insert link).
+
+<!-- more -->
+
+In 1367 the elderly painter Andrea di Cione, called Orcagna, received the commission to produce a painting of *St. Matthew* with four narrative panels flanking the central figure of the standing evangelist (see figure 1). Orcagna ingeniously altered the typical triptych format commonly used by artists when producing devotional pictures so that the side panels folded backwards, rather than forwards over the central compartment, to allow it to fit around the contours of a pier that supported one of the open loggias on the south wall of the building. But Orcagna would not live long enough to see the project through to completion, and his much younger brother, Jacopo, was called upon to finish the job when Orcagna died in 1368.
 
 
 Exactly who painted what has remained an open question, as the features of the figures in all five zones retain a certain consistency of form. Matthew stands in a typically Orcagnesque frontal pose, with a stylus in his right hand and an open book in his left (see figure 2). The figure’s furrowed brow, high cheekbones, and finely painted hair (and whiskers!) recall the stern Christ figure in Andrea’s [*Strozzi Altarpiece*](insert link) for the church of [S. Maria Novella](insert link) from 1357. The pink robe that surrounds Matthew’s blue garment fits loosely around his torso and arms, and then falls in diagonal folds from the upper left to the lower right, another feature common in Andrea’s oeuvre. But there’s a kind of dullness about the figure that does not correspond precisely to an autograph work by Orcagna, and that gives specialists a certain pause when evaluating the painting. A compelling interpretation is that Orcagna designed the image and got as far as roughly out the compositions, but that Jacopo then took up the project upon his brother’s death in 1368 and did the actual painting of the triptych.
