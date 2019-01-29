@@ -3,9 +3,32 @@ layout: page
 title: Orsanmichele
 image: orsanmichele_1.jpg
 category: church
-status:
+status: live
 ---
 
+Located in the very heart of the ancient city center, Orsanmichele has been a cult center, civic monument, and emblem of communal unity since the thirteenth century. It has, for six hundred years, represented an ideal that Florentines have always wished to present to the outside world. Examine the fourteenth-century structure that was built to replace the old loggia that once served as the city’s grain dispensary, see the images that once ornamented its interior, and learn about the fifteenth-century sculptures by the day’s finest artists that fit inside the niches on its façade.
+
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/2059306057114419bbc67fc200f3a862/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <p style="font-size: 14px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+      <a href="https://sketchfab.com/models/2059306057114419bbc67fc200f3a862?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Osm 8M Full Set</a>
+      by <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>
+      on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+  </p>
+</div>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/3ad2848fbde145a483b4f54c7c59c869/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <p style="font-size: 14px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+      <a href="https://sketchfab.com/models/3ad2848fbde145a483b4f54c7c59c869?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Orsanmichele - Laser scan cutaway</a>
+      by <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>
+      on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+  </p>
+</div>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/0af7f781e05f40eeb8bd03b2a317f1a8/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <p style="font-size: 14px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+      <a href="https://sketchfab.com/models/0af7f781e05f40eeb8bd03b2a317f1a8?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Orsanmichele Interior Laser Scan</a>
+      by <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>
+      on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+  </p>
+</div>
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/1bda4429362149d294e90fe39bc4ef1d/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
       <a href="https://sketchfab.com/models/1bda4429362149d294e90fe39bc4ef1d?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">The Incredulity of Thomas</a>
@@ -14,8 +37,7 @@ status:
   </p>
 </div>
 
-
-Here is the *Incredulity of Saint Thomas* by Andrea del Verrocchio, one of the most famous works of art related to the historically important Church of Orsanmichele. Please visit our [Sketchfab](https://sketchfab.com/FLAW/models) page to examine the other Orsanmichele niche statues while we continue to work on this page. Thank you!
+Here is the *Incredulity of Saint Thomas* by Andrea del Verrocchio, one of the most famous works of art related to the historically important Church of Orsanmichele. Please visit our [Sketchfab](https://sketchfab.com/FLAW/models) page to examine the other Orsanmichele niche statues.
 
 <!--
 #Information on Orsanmichele
