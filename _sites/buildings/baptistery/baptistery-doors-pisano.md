@@ -6,8 +6,8 @@ category: sculpture
 status: live
 ---
 
-# Baptistery of S. Giovanni, South Doors (1330-1336)
-## Andrea Pisano
+### Baptistery of S. Giovanni, South Doors (1330-1336)
+### Andrea Pisano
 
 The south portal of the Florentine [Baptistery of S. Giovanni](http://florenceasitwas.wlu.edu/sites/baptistery.html) was originally adorned with a wooden door. In 1322 members of the [Arte della Calimala](insert link), the Cloth Merchants Guild that was responsible for the building’s maintenance, upkeep, and decorations, moved to cover those doors with metal plates that they felt would act as a sign of the structure’s importance. By 1329 this approach was amended with a plan to make entirely new doors for the portal that would be made wholly of metal or brass.
 
@@ -32,7 +32,7 @@ Andrea, while certainly inventive and highly creative in his approach to these s
 
 
 Although large effigies by Arnolfo di Cambio and [Tina da Camaino](insert link) were already installed on the cathedral’s façade by 1336, Andrea Pisano’s bronze reliefs were for almost one hundred years among the most highly prized images in the entire city
-
+-----
 
 Bent, George. *Public Painting and Visual Culture in Early Renaissance Florence* (Cambridge University Press: New York, 2017).
 

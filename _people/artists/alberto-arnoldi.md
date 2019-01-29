@@ -6,8 +6,8 @@ category: sculptor
 status:
 ---
 
-## ca. 1320? – ca. 1370?
-## Sculptor
+### ca. 1320? – ca. 1370?
+### Sculptor
 
 Alberto Arnoldi appears to have been born in Florence, although the date of his birth has never been discovered. Indeed, practically nothing about this sculptor of note is known, and our understanding of his work and his legacy comes down to us only circumstantially.
 
@@ -26,7 +26,7 @@ However, we must temper this evaluation with important caveats. First, Arnoldi p
 Alberto Arnoldi was the fourteenth-century equivalent of a One-Hit Wonder. The sculptures for the Bigallo are all that’s left for us to consider from his career.
 
 ---
-See:
+Bibliography
 
 Earenfight, Phillip. “Sacred Sites in Civic Spaces:  The Misericordia and Orsanmichele in Post-Plague Florence,” in *The Historian’s Eye:  Essays on Italian Art in Honor of Andrew Ladis,* Hayden B. J. Maginnis and Shelley E. Zuraw, eds., Athens, GA, 2009, 15-32.
 

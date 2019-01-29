@@ -5,12 +5,12 @@ image:
 tags: painter, architect
 status: live
 ---
-**Giotto di Bondone (ca. 1265 – 1337)
-Painter and Architect**
+### Giotto di Bondone (ca. 1265 – 1337)
+### Painter and Architect
 
 Few artists in the history of Western Civilization have received as much attention and adulation as Giotto di Bondone, a leading practitioner of a kind of pictorial representation that critics since the time of [Giorgio Vasari](insert link) have credited with initiating a New Style of Art that we now associate with the period we call the “Renaissance.” Legends surrounding his genius cropped up during his lifetime, and the productivity of his large and active workshop – which extended from the university town of Padua in Northeast Italy all the way down to Naples in the southeast – both inspired generations of imitators and fooled the eyes of generations of critics that followed: as a result, the number of paintings ascribed to his hand is probably much larger than the actual number of images for which he was truly responsible.
 
-<!--more-->
+<!-- more -->
 
 His origins, like those of most of his peers, can only be guessed at. Giotto appears to have been born in or around the year 1267, and he was certainly a contemporary of the famed poet, [Dante Alighieri](insert link) (who mentions him by name in Purgatorio XI: 91-96), the Sienese master [Duccio di Buoninsegna](insert link), and the painter [Cimabue](insert link), who [Lorenzo Ghiberti](insert link) and then Vasari claimed was his master. These two artists, Cimabue and Giotto, were linked together at the height of the latter’s career. As early as 1315, Dante celebrated them in a rather backwards way by using them as examples of the fleetingness of fame, when he famously wrote: 	
 
@@ -57,25 +57,19 @@ Giotto’s innovative spirit captured the imagination of writers during and afte
 
 
 Importantly, some of Giotto’s stylistic and intellectual innovations were disseminated even before his death. His talented workshop almost certainly included [Taddeo Gaddi](insert link) and [Maso di Banco](insert link), two of the most gifted painters of the fourteenth century who gained their independence and produced important works of their own as soon as Giotto left for Naples in 1328. In fact, many of the figures and scenes credited to Giotto’s hand in the 1310s and ‘20s were, in all probability, actually executed by these great masters-in-training, thanks to the tradition of workshop production that dictated a delegation of productivity among assistants on the scaffold. But even painters who did train directly with Giotto looked to his art for inspiration. [Pacino di Buonaguida](insert link) and Bernardo Daddi, excellent painters in their own right, quoted the details of Giotto’s passages with frequency and skill, even though they appear to have come from different pictorial traditions. Even after the passing of the [Black Death](insert link) in 1348 – that watershed event that, at least chronologically (if not psychologically), divides the late Middle Ages from the early Modern period – Giotto’s compositions, figures, gestures, and narrative solutions still held sway among painters like [Andrea Orcagna](insert link) and [Nardo di Cione](insert link), [Niccolò di Pietro Gerini](insert link), and even [Lorenzo Monaco](insert link) into the fifteenth century. Only with the advent of Masaccio, the first painter of the Quattrocento to truly understand Giotto and his approach to naturalistic representation, did artists begin to build upon the traditions he had founded in the early Trecento.
+-----
 
-
-Bibliography:
-
+Bibliography
 
 Barasch, Moshe. *Giotto and the Language of Gesture* (Cambridge University Press: New York and London, 1987).
 
-
 Bellosi, Luciano. *Giotto Complete Works* (Scala: Riverside, 1992).
-
 
 Land, Norman. "GIOTTO'S ELOQUENCE." *Source: Notes in the History of Art* 23, no. 3 (2004): 15-19.
 
-
 Stubblebine, James H. *Giotto: The Arena Chapel Frescoes*. (W.W. Norton: New York, 1969).
 
-
 Vasari, Giorgio. *Lives of the Artists*, trans. George Bull (Penguin Classics: New York, 1965).
-
 
 
 

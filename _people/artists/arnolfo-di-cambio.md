@@ -5,12 +5,12 @@ image:
 tags: sculptor, master mason
 status: live
 ---
-**Arnolfo di Cambio (ca. 1240 – 1302)
-Sculptor and Master Mason**
+### Arnolfo di Cambio (ca. 1240 – 1302)
+### Sculptor and Master Mason
 
 Although Arnolfo di Cambio is best known for his architectural achievements in Florence, the Sienese sculptor and architect (c. 1240) began as a student and assistant to Nicola Pisano, who many consider the leading figure in the art of sculpture, just as [Giotto](insert link) was an innovator in painting. During his time under Nicola Pisano, Arnolfo helped with the construction of the reliefs for the marble pulpit of Siena Cathedral (1265) and those for the Tomb of San Dominic (1264-67). Arnolfo developed his classical style during this period and continued working in this idiom throughout his career.
 
-<!--more-->
+<!-- more -->
 
 Although he remained heavily influenced by Nicola Pisano in Siena, Arnolfo’s own style evolved after his move to Rome around 1277. While in the service of Charles of Anjou, Arnolfo revived the classical past in works such as the representation of the enthroned *French Duke* (c. 1280), which is thought to be one of the earliest portrait statues since ancient times, and the bronze statue of *St. Peter* for the Vatican (c. 1290), which is still venerated by pilgrims to this day. Arnolfo also carved the innovative *Monument to Cardinal De Braye* (1282) in the church of S. Domenico, Orvieto. By combining the classicist’s attention to volume and proportion with the elegance and intricacy of a Gothicizing artist, the sculptor created a theatrical scene that relates the death of the cardinal to his eternal salvation above. The style and construction that he used would influence wall tombs for over a century.
 
@@ -37,4 +37,5 @@ White, John. “Arnolfo di Cambio and S. Croce in Florence.” *Art and Architec
 
 
 Chris McCrackin
+
 Reggie Zhao

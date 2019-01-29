@@ -8,7 +8,7 @@ tags: bigallo
 status: live
 ---
 
-# Nardo di Cione, *Last Judgment,* ca. 1363
+### Nardo di Cione, *Last Judgment,* ca. 1363
 
 The wall just within the confines of the [Bigallo’s loggia](insert link) contains a now-damaged and detached fresco that probably illustrated the theme of the *Last Judgment* that artists like [Nardo di Cione](insert link) found so appealing during the fourteenth century (figure 1). The painting faced out toward the public from the chamber just inside the entrance, positioned on its west wall and facing east toward the [Campanile](insert link) that [Andrea Pisano](insert link) had recently ornamented with dozens of [marble reliefs](insert link).
 

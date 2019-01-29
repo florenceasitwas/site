@@ -6,13 +6,12 @@ tags: painter
 status:
 ---
 
-## Nardo di Cione
-## died c. 1366
-## Painter
-
-<!-- more -->
+### Nardo di Cione, died c. 1366
+### Painter
 
 Nardo di Cione partnered with his brother, [Andrea di Cione](insert link), to form one of the most successful and influential artistic workshops in post-plague Florence. Particularly gifted in the realm of fresco painting, Nardo’s works adorned a wide array of institutions across the city, and the famous [letter of 1349](insert link) lists him (as well as his fraternal colleague) as one of the best painters working in Florence at the time.
+
+<!-- more -->
 
 Most of Nardo’s life was lived in the parish of S. Michele Visdomini, the neighborhood abutting the cathedral to the north that was heavily populated by painters. But near the end of his life, Nardo moved closer to [S. Maria Novella](insert link), at the city’s west end. He died there in 1365 and, like his older brother, he seems to have felt a spiritual tug that caused him to bequeath to the [Company of the Misericordia](insert link) a decent sum of money in his will, one of a number of [documents](insert link) pertaining to his life and legacy that have been discovered in the Florentine Archives.
 
@@ -25,6 +24,7 @@ Nardo’s stylistic choices influenced generations of painters – including suc
 Bracketed by the sparkling innovative spirit of [Giotto](insert link) and the equally transformative approach of [Masaccio](insert link), Nardo di Cione and his mid-fourteenth-century peers often get overlooked when considering the grand sweep of Italian art in the early Renaissance period. But his adoption of the tenets of the older artist, combined with his own nuanced sense of spiritual rigor, formed a transitional bridge between the early fourteenth century and the fifteenth in ways that cannot be over-emphasized. He’s truly one of the great painters of the Florentine Trecento.
 
 ---
+Bibliography
 
 Becherucci, Luisa and Giulia Brunetti. *Il Museo dell’Opera del Duomo di Firenze I and II* (Milan and Florence, 1969-70).
 

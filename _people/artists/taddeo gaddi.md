@@ -5,8 +5,8 @@ image:
 tags: painter
 status: live
 ---
-## (ca. 1290-1366)
-## Painter
+### (ca. 1290-1366)
+### Painter
 
 Taddeo Gaddi, born circa 1290, is often described as one of the most talented artists and builders living in Florence during the medieval era. Heralded as one of [Giotto’s](insert link) most able pupils, Gaddi exuded a reverence for his master’s stylistic technique and sought to follow the artistic method of his teacher. Sometimes this resulted in a kind of imitative quality that caused [Giorgio Vasari ](insert link) to comment harshly on Gaddi’s aping of Giotto’s aesthetic, stating “(Gaddi) always continued Giotto’s manner without improving it,”  a backwards compliment that suggests a slavish imitation on the part of Taddeo Gaddi.
 

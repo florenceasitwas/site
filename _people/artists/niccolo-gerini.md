@@ -5,13 +5,13 @@ tags: painter
 status:
 ---
 
-**Niccolo Gerini
-ca. 1340–1416
-Painter**
+### Niccolo Gerini, ca. 1340–1416
+### Painter
 
-<!-- more -->
 
 Niccolò di Pietro Gerini is not a household name today. His conservative style extended the innovations of [Giotto](insert link) and the traditions of [Bernardo Daddi](insert link), but a full century after the advent of this new style of painting reached the vantage point of Florentine viewers. However, at the height of his career at the turn of the fifteenth century, few painters in Tuscany enjoyed the kind of popularity that he did among patrons and audiences alike.
+
+<!-- more -->
 
 We know nothing of his origins, his training, or his demeanor, but the archives do tell us that both his father and his son were also painters. It stands to reason that the family members worked together as a team for over one hundred years.
 
@@ -22,6 +22,7 @@ Two haunting paintings of the [*Man of Sorrows*](insert link) – one for the Fl
 Gerini’s approach to painting clearly demonstrates an affinity for the rather hard and massive forms popularized by [Andrea Orcagna di Cione](insert link) and his brother, [Nardo di Cione](insert link), both of whom followed closely the traditions formulated by their probable master, [Bernardo Daddi](insert link). Gerini’s lively compositions often revolved around narrative themes, sometimes invented from whole cloth by the artist: the *Abandonment and Restitution of Children* on the Bigallo and the *Man of Sorrows* in S. Maria Novella include references to contemporary people and practices that the artist either witnessed for himself or imagined in the design phase of the process. His color palette, filled with rich blues, greens, and vermilions, creates decorative patterns of unusual complexity and aesthetic brilliance. But his adherence to traditional representations of space, generic renderings of anatomical forms, and time-tested religious iconography make his impact on contemporaries and later generations minimal at best. Indeed, the advent of [Lorenzo Monaco](insert link) in the early fifteenth century and the arrival on the scene of [Masaccio](insert link) in 1422 swayed other Florentine painters away from Niccolò’s precedents, even though both Lorenzo and (to a lesser degree) Masaccio owed Gerini some important artistic debts. But for an important chunk of time between about 1380 and about 1405, Niccolò di Pietro Gerini was a leading artist in a city filled with capable competitors.
 
 ---
+Bibliography
 
 Arthur, Kathleen Giles. “Cult Objects and Artistic Patronage of the Fourteenth-Century Flagellant Confraternity of Gesù Pellegrino.” In *Christianity and the Renaissance: Image and Religious Imagination in the Quattrocento*, eds. Timothy Verdon and John Henderson, Syracuse, 1990, 336-60.
 
