@@ -5,12 +5,12 @@ image:
 tags: painter
 status: live
 ---
-#Taddeo Gaddi (ca. 1290-1366)
-##Painter
+## (ca. 1290-1366)
+## Painter
 
 Taddeo Gaddi, born circa 1290, is often described as one of the most talented artists and builders living in Florence during the medieval era. Heralded as one of [Giotto’s](insert link) most able pupils, Gaddi exuded a reverence for his master’s stylistic technique and sought to follow the artistic method of his teacher. Sometimes this resulted in a kind of imitative quality that caused [Giorgio Vasari ](insert link) to comment harshly on Gaddi’s aping of Giotto’s aesthetic, stating “(Gaddi) always continued Giotto’s manner without improving it,”  a backwards compliment that suggests a slavish imitation on the part of Taddeo Gaddi.
 
-<!--more-->
+<!-- more -->
 
 Despite working in the shadow of his famous master, Gaddi enjoyed a successful career in art, opening his own shop and receiving some of the most lucrative commissions in all of Florence. One such commission came from the Franciscan friary in the city, where Taddeo Gaddi was assigned as chief decorator for the group’s main worship center, the Basilica of [Santa Croce](insert link). This ornate building contains important works by Gaddi, including his frescoes of the *Tree of Life* on the west wall of the conventual [Refectory](insert link), quatrefoil panels of the Life of Francis that ornamented a large cabinet, and murals for the [Cappella Baroncelli (1328-1330)](insert link). Annunciation and visitation scenes align the altar walls of this latter space, and the large murals present themselves to viewers in grand fashion. Iconographically, these paintings are unmistakably evocative of Giotto’s work in the Arena Chapel at Padua (ca. 1305) and this imitation showcases Gaddi’s ceaseless reliance on his teacher as a fountain for inspiration. Despite Vasari’s critique, Gaddi did not merely imitate Giotto’s style, but managed to advance his master’s groundbreaking achievements: his ability to utilize natural light and rich hues to achieve perfect representations of color, seen in the Baroncelli *Adoration of the Magi*, displays Gaddi’s mastery of the color wheel that surpasses even that of Giotto’s.
 

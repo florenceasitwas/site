@@ -6,13 +6,12 @@ category: sculptor
 status:
 ---
 
-## Alberto Arnoldi
 ## ca. 1320? – ca. 1370?
 ## Sculptor
 
-<!-- more -->
-
 Alberto Arnoldi appears to have been born in Florence, although the date of his birth has never been discovered. Indeed, practically nothing about this sculptor of note is known, and our understanding of his work and his legacy comes down to us only circumstantially.
+
+<!-- more -->
 
 Arnoldi must have been highly regarded by his peers and his patrons. His abilities were such that the officers of the Company of the Misericordia hired him to sculpt two different projects in the late 1350s and early 1360s for their residence on the Piazza S. Giovanni, now known as the [Bigallo](insert link) (Passerini, note 3, who cites documents contained in Archivio di Stato, Firenze, *Bigallo*, Deliberazioni dei Capitano II, II, 12). They chose him, the documents say, because they believed the quality of his sculptures would be comparable to those recently completed by [Andrea Pisano](insert link) for the [Baptistery](insert link) and the [Campanile](insert link):
 

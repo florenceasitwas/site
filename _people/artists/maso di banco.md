@@ -5,8 +5,8 @@ image:
 tags: painter
 status: live
 ---
-#Maso di Banco (ca. 1305 – ca. 1350)
-##Painter
+**Maso di Banco (ca. 1305 – ca. 1350)
+Painter**
 
 Though he only worked for a short period in the first half of the 14th century, Maso di Banco is considered one of the greatest students of [Giotto](insert link). Despite his illustrious teacher and accomplished personal career, almost no information remains about his life. Though it is known that he worked in Florence circa 1330-1350, none of his work was ever signed or dated, a fact which has furthered the mystery surrounding his brief career.
 

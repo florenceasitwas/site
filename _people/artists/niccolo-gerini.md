@@ -5,9 +5,9 @@ tags: painter
 status:
 ---
 
-## Niccolo Gerini
-## ca. 1340–1416
-## Painter
+**Niccolo Gerini
+ca. 1340–1416
+Painter**
 
 <!-- more -->
 

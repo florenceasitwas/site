@@ -5,8 +5,8 @@ image:
 tags: painter, architect
 status: live
 ---
-#Giotto di Bondone (ca. 1265 – 1337)
-##Painter and Architect
+**Giotto di Bondone (ca. 1265 – 1337)
+Painter and Architect**
 
 Few artists in the history of Western Civilization have received as much attention and adulation as Giotto di Bondone, a leading practitioner of a kind of pictorial representation that critics since the time of [Giorgio Vasari](insert link) have credited with initiating a New Style of Art that we now associate with the period we call the “Renaissance.” Legends surrounding his genius cropped up during his lifetime, and the productivity of his large and active workshop – which extended from the university town of Padua in Northeast Italy all the way down to Naples in the southeast – both inspired generations of imitators and fooled the eyes of generations of critics that followed: as a result, the number of paintings ascribed to his hand is probably much larger than the actual number of images for which he was truly responsible.
 
