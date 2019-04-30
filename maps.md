@@ -1,19 +1,25 @@
 ---
 layout: page
 title: Maps
-image: buonsignori_2.jpg
+image:
 ---
-
+<!--
 <p align="center"><i>Image courtesy of Harvard Libraries</i></p>
 <br/>
+-->
+
+<div class="embed-container">
+
+<iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//washlee.maps.arcgis.com/apps/Embed/index.html?webmap=64e5b688503249ee9eae480e4bf57bc4&extent=11.2486,43.7711,11.2549,43.7735&zoom=true&previewImage=false&scale=false&disable_scroll=true&theme=light"></iframe></div>
+<a href="//washlee.maps.arcgis.com/apps/Embed/index.html?webmap=64e5b688503249ee9eae480e4bf57bc4&extent=11.2486,43.7711,11.2549,43.7735&zoom=true&scale=false&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="blank">View larger map</a>
+
+***
 
 Our 2-D map will be based on a collection of maps of Florence through the centuries:
   + Catena
   + Carocci
   + late 16th-century map created by Stefano Buonsignori
   + ArcGIS
-
-To see the work-in-progress, click [here](http://arcg.is/0b4uav).
 
 Our 3-D map will be created entirely by Washington and Lee students, using historical records, contemporary sources, and existing structures in an effort to recreate the look and feel of 15th-century Florence as closely as possible.
 
