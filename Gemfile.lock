@@ -1,8 +1,3 @@
-PATH
-  remote: .
-  specs:
-    editorial_jekyll_theme (0.1.2)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -46,7 +41,6 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
-    rake (10.5.0)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -63,10 +57,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bundler (~> 1.12)
-  editorial_jekyll_theme!
-  jekyll (~> 3.3)
-  rake (~> 10.0)
+  jekyll (~> 3.8.5)
 
 BUNDLED WITH
    1.17.3
