@@ -5,6 +5,7 @@ image:
 tags: painter, architect
 status: live
 ---
+
 ### Giotto di Bondone (ca. 1265 – 1337)
 ### Painter and Architect
 
