@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Buonsignori Biography
-image:
+image: buonsignori_1.jpg
 tags:
-status:
+status: live
 ---
-
 *Mark Rosen
 University of Texas at Dallas*
 
