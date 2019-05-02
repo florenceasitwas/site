@@ -13,7 +13,7 @@ image:
 <div class="embed-container">
 
 <iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//washlee.maps.arcgis.com/apps/Embed/index.html?webmap=64e5b688503249ee9eae480e4bf57bc4&extent=11.2487,43.7691,11.2613,43.7741&zoom=true&previewImage=false&scale=false&disable_scroll=true&theme=light"></iframe></div>
-<a href="//washlee.maps.arcgis.com/apps/Embed/index.html?webmap=64e5b688503249ee9eae480e4bf57bc4&extent=11.2487,43.7691,11.2613,43.7741&zoom=true&scale=false&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="blank">View larger map</a>
+<a href="http://arcg.is/1GLGbj" style="color:#0000FF;text-align:left" target="blank">View larger map</a>
 
 ***
 
