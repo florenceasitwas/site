@@ -8,7 +8,7 @@ image:
 <br/>
 -->
 
-[The Buonsignori Map of 1584](/texts/buonsignori-rosen.html)
+Mark Rosen, [Buonsignori Map of 1584](/texts/buonsignori-rosen.html)
 
 <div class="embed-container">
 
