@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Affilitations
+title: Affiliations
 ---
 
 ## Affiliations/Partner Universities
@@ -19,11 +19,13 @@ University of Chicago
 
 [Guild of the Dome](http://www.guildofthedome.com/)
 
-## An Incredible Thank You to the Following:
+## Thank You to the Following:
 
 Opera del Duomo and Mons. Timothy Verdon
 
 Kunsthistorisches Instituit and Dr. Alessandro Nova
+
+Villa I Tatti, the Harvard Center for Italian Renaissance Studies and Dr. Alina Payne
 
 Florence Office of Tourism and Dott. Andrea Giordani
 
