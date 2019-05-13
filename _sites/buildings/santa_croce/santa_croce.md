@@ -15,6 +15,15 @@ Built in the middle of the fourteenth century, the Oratory of the Misericordia (
 1341-1365
 1365-1400
 
+<span class="image main">
+  <img src="/assets/images/thumbnail_CrocePlan.jpg" usemap="#image-map">
+</span>
+
+<map name="image-map">
+    <area alt="Gaddi" title="Gaddi" href="/people/taddeo-gaddi.html" coords="215,121,215,196,224,214,292,213,302,201,297,122,276,99,240,99" shape="poly">
+    <area alt="Banco" title="Banco" href="/people/maso-di-banco.html" coords="131,614,197,527" shape="rect">
+</map>
+
 <!-- more -->
 
 <!--
