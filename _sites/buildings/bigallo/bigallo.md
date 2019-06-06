@@ -18,7 +18,8 @@ Built in the middle of the fourteenth century, the Oratory of the Misericordia (
       on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
   </p>
 </div>
-<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/119126e5304946938282f4a0ccda2539/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="sketchfab-embed-wrapper">
+<iframe width="100%" height="480" src="https://sketchfab.com/models/119126e5304946938282f4a0ccda2539/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 14px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/models/119126e5304946938282f4a0ccda2539?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Bigallo Interior</a>
