@@ -8,6 +8,7 @@ layout: default
 		<h2>Buildings</h2>
 	</header>
 	<div class="posts">
+	<!--
 		<article>
 			<a href="{{ '/sites/bigallo.html' | absolute_url }}" class="image"><img src="assets/images/bigallo_1.jpg" alt="" /></a>
 			<h3>Bigallo</h3>
@@ -16,6 +17,7 @@ layout: default
 				<li><a href="{{ '/sites/bigallo.html' | absolute_url }}" class="button small">More</a></li>
 			</ul>
 		</article>
+		-->
 		<article>
 			<a href="{{ '/sites/orsanmichele.html' | absolute_url }}" class="image"><img src="assets/images/orsanmichele_1.jpg" alt="" /></a>
 			<h3>Orsanmichele</h3>
@@ -24,6 +26,14 @@ layout: default
 				<li><a href="{{ '/sites/orsanmichele.html' | absolute_url }}" class="button small">More</a></li>
 			</ul>
 		</article>
+		<article>
+			<a href="{{ '/sites/santa-croce.html' | absolute_url }}" class="image"><img src="assets/images/thumbnail_CrocePlan.jpg" alt="A blueprint of the floorplan of Santa Croce." /></a>
+			<h3>Santa Croce</h3>
+			<p>Located on the site of a facility that had housed early followers of St. Francis as early as 1212, the enormous mendicant church was initiated in 1295 thanks to plans crafted (according to legend) by Arnolfo di Cambio. Despite its location in the midst of laborers engaged in the messy, dangerous, and thankless work of wool production, the friary catered to the spiritual interests and needs of some of the city’s wealthiest elites. Click "More" to see an animation of the church's development from the 1250s to the 1400s.</p>
+			<ul class="actions">
+				<li><a href="{{ '/sites/santa-croce.html' | absolute_url }}" class="button small">More</a></li>
+			</ul>
+			</article>
 	</div>
 </section>
 
