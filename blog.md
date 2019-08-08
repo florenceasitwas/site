@@ -5,8 +5,6 @@ title: Project Blog
 
 This blog represents an ongoing record of our contributors' efforts, thoughts, work processes, and more.
 
-*Work in Progress*
-
 <!-- THIS NEEDS SO MUCH WORK. AV -->
 
 <div class="posts">
