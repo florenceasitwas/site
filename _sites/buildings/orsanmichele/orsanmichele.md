@@ -4,7 +4,7 @@ title: Orsanmichele
 image: orsanmichele_1.jpg
 category: church
 status: live
-blurb: Fourteenth-century granery and church of the guilds
+blurb: Fourteenth-century granary and church of the guilds
 thumbnail: Orsanmichele_thumbnail.jpg
 front_page: live
 ---
