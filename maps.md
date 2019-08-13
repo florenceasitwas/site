@@ -10,13 +10,19 @@ image:
 
 Mark Rosen, [Buonsignori Map of 1584](/texts/buonsignori-rosen.html)
 
-<div class="embed-container">
+This is our in-progress, two dimensional map of Florence using Buonsignori's 1584 map of Florence; you can find more information about that in the link above. Here's how you can explore the map!
 
-<iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//washlee.maps.arcgis.com/apps/Embed/index.html?webmap=64e5b688503249ee9eae480e4bf57bc4&extent=11.2487,43.7691,11.2613,43.7741&zoom=true&previewImage=false&scale=false&disable_scroll=true&theme=light"></iframe></div>
+  + Click and drag to pan across the map, and click + or - in the top left to change the scale.
+  + Click any colored dot to find out more about a building or location through a pop-up box.
+  + The pop-up boxes of some sites, such as Santa Croce and Orsanmichele, contain links to its building page and to our 3D Potree model. You can find these under "Website" and "3D Model" respectively.
+  + Click "View larger map" below to go to a larger, more customizable map on ArcGIS.
+
 <a href="http://arcg.is/1GLGbj" style="color:#0000FF;text-align:left" target="blank">View larger map</a>
 
-***
+<div class="embed-container">
+<iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//washlee.maps.arcgis.com/apps/Embed/index.html?webmap=64e5b688503249ee9eae480e4bf57bc4&extent=11.2487,43.7691,11.2613,43.7741&zoom=true&previewImage=false&scale=false&disable_scroll=true&theme=light"></iframe></div>
 
+<!--
 Our 2-D map will be based on a collection of maps of Florence through the centuries:
   + Catena
   + Carocci
@@ -25,7 +31,6 @@ Our 2-D map will be based on a collection of maps of Florence through the centur
 
 Our 3-D map will be created entirely by Washington and Lee students, using historical records, contemporary sources, and existing structures in an effort to recreate the look and feel of 15th-century Florence as closely as possible.
 
-<!--
 ## The Maps
 
 ### Catena
