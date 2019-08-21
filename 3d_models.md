@@ -27,5 +27,37 @@ status:
           </p>
         </div>
     </article>
+		<article>
+			<p>Above is an example of one of our newer photogrammetric models on <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="blank">Sketchfab; click here to view more like it.</a> To navigate:</p>
+			<ul>
+				<li>Press the play button to load the model.</li>
+				<li>Left click and drag on the model to rotate it.</li>
+				<li>Right click and drag on the model to pan across it.</li>
+				<li>Scroll to fly forward or backward through the model.</li>
+				<li>Click on the arrows in the lower right corner to make the model full screen.</li>
+				<li>Click the box in the lower left corner to visit the Sketchfab page.</li>
+			</ul>
+			<p>These photogrammetric models were assembled by taking hundreds of photos of buildings, artwork, or rooms and running them through a program that lets us view those spaces in high-detail 3D. Using this technology brings this art and architecture from Florence to viewers around the world, and gives us perspectives never possible until now - view the Bardi di Vernio's upper frescoes up close for the first time.</p>
+			<p>You can view the rest of our collection on <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="blank">Sketchfab.</a></p>
+		</article>
+		<article>
+			<p>Although we are still getting used to the software, above is an example of one of our point cloud models made using Potree. <b>Click <a href="http://3d.wlu.edu/model/SCroce125M.html" target="blank">here</a> to view a much larger version of this model.</b> To navigate:</p>
+			<ul>
+				<li>Click the box in the upper left corner to expand or hide the options bar.</li>
+				<li>Left click and drag on the model to rotate it.</li>
+				<li>Right click and drag on the model to pan across it.</li>
+				<li>Scroll to zoom in or out of the point you are currently rotating around.</li>
+			</ul>
+			<p>Within the options bar on the left:</p>
+			<ul>
+				<li>Adjust the "point budget" slider to control how detailed the model is.</li>
+				<li>Toggle "enable" under eye-dome-lighting to make the model a little sharper.</li>
+				<li>Select "volume clip" under clipping to cut chunks away from the model.</li>
+				<li>Full navigational options are located under navigation.</li>
+				<li>Again, click <a href="http://3d.wlu.edu/model/SCroce125M.html" target="blank">here</a> to view a much larger version of this model.</li>
+			</ul>
+			<p>These point cloud models were created by using a 360 degree laser scanner, which creates accurate models of their surroundings down to the millimeter. They're different from the photogrammetric model, such as the one on the left, because they don't make a solid model - they're composed of millions of colored points that only look solid when viewed from enough distance.</p>
+			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</a></p>
+		</article>
   </div>
 </section>
