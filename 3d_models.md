@@ -16,19 +16,7 @@ status:
             on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
         </p>
         </div>
-		</article>
-    <article>
-      <h2>Potree Pointcloud Models</h2>
-        <div class="sketchfab-embed-wrapper">
-          <iframe width="100%" height="350" src="http://3d.wlu.edu/model/SCroce125M.html" frameborder="0"></iframe>
-
-          <p style="font-size: 13px; font-weight: normal; margin: 5px;">
-              <a href="http://3d.wlu.edu/model/SCroce125M.html" style="font-weight: bold;">Santa Croce Point Cloud</a>
-          </p>
-        </div>
-    </article>
-		<article>
-			<p>Above is an example of one of our newer photogrammetric models on <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="blank">Sketchfab; click here to view more like it.</a> To navigate:</p>
+			<p>This is an example of one of our newer photogrammetric models on <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="blank">Sketchfab; click here to view more like it.</a> To navigate:</p>
 			<ul>
 				<li>Press the play button to load the model.</li>
 				<li>Left click and drag on the model to rotate it.</li>
@@ -40,8 +28,16 @@ status:
 			<p>These photogrammetric models were assembled by taking hundreds of photos of buildings, artwork, or rooms and running them through a program that lets us view those spaces in high-detail 3D. Using this technology brings this art and architecture from Florence to viewers around the world, and gives us perspectives never possible until now - view the Bardi di Vernio's upper frescoes up close for the first time.</p>
 			<p>You can view the rest of our collection on <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="blank">Sketchfab.</a></p>
 		</article>
-		<article>
-			<p>Although we are still getting used to the software, above is an example of one of our point cloud models made using Potree. <b>Click <a href="http://3d.wlu.edu/model/SCroce125M.html" target="blank">here</a> to view a much larger version of this model.</b> To navigate:</p>
+    <article>
+      <h2>Potree Pointcloud Models</h2>
+        <div class="sketchfab-embed-wrapper">
+          <iframe width="100%" height="350" src="http://3d.wlu.edu/model/SCroce125M.html" frameborder="0"></iframe>
+
+          <p style="font-size: 13px; font-weight: normal; margin: 5px;">
+              <a href="http://3d.wlu.edu/model/SCroce125M.html" style="font-weight: bold;">Santa Croce Point Cloud</a>
+          </p>
+        </div>
+			<p>Although we are still getting used to the software, this is an example of one of our point cloud models made using Potree. <b>Click <a href="http://3d.wlu.edu/model/SCroce125M.html" target="blank">here</a> to view a much larger version of this model.</b> To navigate:</p>
 			<ul>
 				<li>Click the box in the upper left corner to expand or hide the options bar.</li>
 				<li>Left click and drag on the model to rotate it.</li>
