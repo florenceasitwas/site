@@ -2231,7 +2231,6 @@
 	}
 
 	pre {
-		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
@@ -3740,7 +3739,6 @@
 				}
 
 				#sidebar > .inner {
-					-webkit-overflow-scrolling: touch;
 					height: 100%;
 					left: 0;
 					overflow-x: hidden;
