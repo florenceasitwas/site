@@ -3,13 +3,23 @@ layout: page
 title: Affiliations
 ---
 
-## Affiliations/Partner Universities
+## <em>Florentia Illustrata</em> Consortium:
 
 Washington and Lee University
 
 University of Chicago
 
-<!--University of Toronto-->
+University of Toronto
+
+Università di Firenze
+
+Cambridge University
+
+Exeter University
+
+Digital Sepultuario
+
+Harvard University Center for Italian and Renaissance Studies, Villa I Tatti
 
 ## Organizations
 
@@ -21,9 +31,11 @@ University of Chicago
 
 ## Thank You to the Following:
 
+The Lounsbury Foundation
+
 Opera del Duomo and Mons. Timothy Verdon
 
-Kunsthistorisches Instituit and Dr. Alessandro Nova
+Kunsthistorisches Instituit, Firenze and Dr. Alessandro Nova
 
 Villa I Tatti, the Harvard Center for Italian Renaissance Studies and Dr. Alina Payne
 
@@ -42,6 +54,46 @@ Dott. Giuseppe De Micheli
 Dott. Andrea Giordani
 
 Dott.essa Carlatta Viviano
+
+Don and Sydney Childress
+
+George, Carol, and Catherine Overend
+
+Sonia Chiodo
+
+Timothy Verdon
+
+Chiara Marinelli and the Guild of the Dome
+
+Fabrizio and Francesca Pacetti
+
+Lorenzo Cafaggi
+
+Paola D'Agostini
+
+Arabella Natalini
+
+Andrea Giordani
+
+Stefano Filipponi
+
+Giuseppe de Marchi
+
+Claudia Timossi
+
+William Hood
+
+Carlo Zappia
+
+Patrizia Lattarulo
+
+Erik Gustafson
+
+Paul Youngman
+
+Marc Conner
+
+Lena Hill
 
 ## Related and Similar Projects
 
