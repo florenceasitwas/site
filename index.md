@@ -129,7 +129,7 @@ layout: default
 
 <section>
 	<div class="affiliation">
-	<h2>Affiliations</h2>
+	<h2>Supporters</h2>
 
 	<p> A member of the <em>Florentia Illustrata</em> Consortium. View all of our <a href= "http://florenceasitwas.wlu.edu/affiliations.html"> affiliations.</a> </p>
 	<div>
@@ -139,8 +139,9 @@ layout: default
 			<img src="/assets/images/logo_dhwlu.png" alt="" height ="80"></a>&emsp;
 		<a href="https://mellon.org/">
 			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>&emsp;
-		<a href="https://www.uchicago.edu/">
-			<img src="assets/images/logo_uchicago.png" alt="" height="60"></a>
+		<a href="https://www.rlounsbery.org/">
+			<img src="assets/images/logo_rl.png" alt="" height="80"></a>&emsp;
+		
 	</div>
 	</div>
 </section>
