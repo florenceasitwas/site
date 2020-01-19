@@ -4179,3 +4179,14 @@
 .embed-container iframe,
 .embed-container object,
 .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}
+
+div#borb img {
+	max-width: 70%;
+}
+
+div#borb figure {
+	margin-left: auto;
+margin-right: auto;
+display:block;
+text-align:center;
+}
