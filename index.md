@@ -140,7 +140,7 @@ layout: default
 		<a href="https://mellon.org/">
 			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>&emsp;
 		<a href="https://www.rlounsbery.org/">
-			<img src="assets/images/logo_RL.png" alt="" height="80"></a>&emsp;
+			<img src="assets/images/logo_rl.png" alt="" height="80"></a>&emsp;
 		
 	</div>
 	</div>
