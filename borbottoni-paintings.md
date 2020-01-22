@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Borbottoni Paintings
+title: 19th-Century Views of Florence
 ---
-
-Fabio Borbottoni (1820-1902)
+## Paintings by Fabio Borbottoni (1820-1902)
 
 ***
 
-# [Mercato Vecchio:](#mercatovecchio)
+### [Mercato Vecchio:](#mercatovecchio)
 - [Piazza S. Andrea](#sandrea)
 - [Arte dei Linaioli e Rigattieri](#linerig)
 - [S. Maria degli Ughi](#smariaughi)
@@ -21,19 +20,19 @@ Fabio Borbottoni (1820-1902)
 - [Piazza Fonte](#fonte)
 - [Palazzo Strozzi](#palstrozzi)
 
-# [Piazza del Duomo:](#pdelduomo)
+### [Piazza del Duomo:](#pdelduomo)
 - [Bishop's Palace](#bishopspal)
 - [Bigallo](#bigallo)
 - [Misericordia](#misericordia)
 
-# [Government Buildings:](#govtbuild)
+### [Government Buildings:](#govtbuild)
 - [Loggia dei Lanzi](#loggialanzi)
 - [Palazzo della Signoria](#pdelsignoria)
 - [Orsanmichele](#orsanmichele)
 - [Bargello](#bargello)
 - [Stinche](#stinche)
 
-# [Bridges:](#bridge)
+### [Bridges:](#bridge)
 - [Ponte alle Grazie](#pagrazie)
 - [Ponte Vecchio](#pvecchio)
 - [Porta S. Niccolo](#psniccolo)
