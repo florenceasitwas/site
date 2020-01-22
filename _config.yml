@@ -5,7 +5,7 @@ email: florenceasitwas@wlu.edu
 email2: bentg@wlu.edu
 description: A Washington & Lee Digital Humanities Project
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://florenceasitwas.wlu.edu" # the base hostname & protocol for your site
+url: "https://florenceasitwas.wlu.edu" # the base hostname & protocol for your site
 author: Professor George Bent
 street_address: 204 W. Washington St.
 city: Lexington
