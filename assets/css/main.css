@@ -3068,6 +3068,14 @@
 			opacity: 0.25;
 		}
 
+	#returnbutton {
+		position: fixed;
+    float: right;
+    right: 10px;
+    bottom: 10px;
+		font-size: 60%;
+	}
+
 /* Mini Posts */
 
 	.mini-posts article {

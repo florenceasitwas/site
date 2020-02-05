@@ -2,47 +2,48 @@
 layout: page
 title: 19th-Century Views of Florence
 ---
-## Paintings by Fabio Borbottoni (1820-1902)
+## Paintings by Fabio Borbottoni (1820-1902) <a id="paintings"></a>
+<a href="{{ '/people/borbottoni.html' | absolute_url }}">Biography</a>
 
 ***
 
 ### [Mercato Vecchio:](#mercatovecchio)
 - [Piazza S. Andrea](#sandrea)
-- [Arte dei Linaioli e Rigattieri](#linerig)
+- [Arte dei Linaioli e Rigattieri](#linaioli)
 - [S. Maria degli Ughi](#smariaughi)
-- [S. Maria in Campidoglio](#smariacampi)
-- [S. Pier Buonconsiglio](#spierbuon)
+- [Palazzo Strozzi](#palazzostrozzi)
+- [S. Maria in Campidoglio](#smariacampidoglio)
+- [S. Pier Buonconsiglio](#spierbuonconsiglio)
 - [S. Tommaso](#stommaso)
 - [Via Strozzi](#viastrozzi)
-- [S. Maria Tromba](#smtromba)
+- [S. Maria Tromba](#smariatromba)
 - [Loggia del Pesce](#loggiadelpesce)
-- [Palazzo Amieri](#amieri)
-- [Piazza Fonte](#fonte)
-- [Palazzo Strozzi](#palstrozzi)
+- [Palazzo Amieri](#palazzoamieri)
+- [Piazza Fonte](#piazzafonte)
 
-### [Piazza del Duomo:](#pdelduomo)
-- [Bishop's Palace](#bishopspal)
+### [Piazza del Duomo:](#piazzadelduomo)
+- [Bishop's Palace](#bishopspalace)
 - [Bigallo](#bigallo)
 - [Misericordia](#misericordia)
 
-### [Government Buildings:](#govtbuild)
-- [Loggia dei Lanzi](#loggialanzi)
-- [Palazzo della Signoria](#pdelsignoria)
+### [Government Buildings:](#government)
+- [Loggia dei Lanzi](#loggiadeilanzi)
+- [Palazzo della Signoria](#palazzosignoria)
 - [Orsanmichele](#orsanmichele)
 - [Bargello](#bargello)
 - [Stinche](#stinche)
 
-### [Bridges:](#bridge)
-- [Ponte alle Grazie](#pagrazie)
-- [Ponte Vecchio](#pvecchio)
-- [Porta S. Niccolo](#psniccolo)
+### [Bridges:](#bridges)
+- [Ponte alle Grazie](#pontegrazie)
+- [Ponte Vecchio](#pontevecchio)
+- [Porta S. Niccolo](#portasniccolo)
 
 ***
 <div id="borb" markdown="1">
 
-# Mercato Vecchio <a name="mercatovecchio"></a>
+# Mercato Vecchio <a id="mercatovecchio"></a>
 
-## Piazza S. Andrea <a class="sandrea" name="sandrea"></a>
+## Piazza S. Andrea <a id="sandrea"></a>
 <figure>
 <img src="assets/images/borbottoni/01 Piazza S Andrea 2.jpg" alt="01 S Andrea">
  <figcaption markdown="1">
@@ -51,15 +52,15 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
+<figure id="sandrea2">
 <img src="assets/images/borbottoni/02 Piazza S Andrea.jpg" alt="02 S Andrea">
  <figcaption markdown="1">
 *Via dei Cavalieri presa dalla Piazza di S. Andrea*
-<p>"Via dei Cavalieri taken from the Piazza di S. Andrea"</p>
+<p>"View of the Via dei Cavalieri from the Piazza di S. Andrea"</p>
 </figcaption>
 </figure>
 
-## Arte dei Linaioli e Rigattieri <a class="sandrea" name="linerig"></a>
+## Arte dei Linaioli e Rigattieri <a id="linaioli"></a>
 <figure>
 <img src="assets/images/borbottoni/03 Rigattieri and Linaioli.jpg" alt="03 Rigattieri">
  <figcaption markdown="1">
@@ -68,16 +69,25 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## S. Maria degli Ughi <a name="smariaughi"></a>
+## S. Maria degli Ughi <a id="smariaughi"></a>
 <figure>
 <img src="assets/images/borbottoni/04 S Maria degli Ughi.jpg" alt="04 SM Ughi">
 <figcaption markdown="1">
 *Piazza degli Strozzi o della Cipolle con il Chiesino degli Strozzi e S. Maria degli Ughi, accanto al Palazzo dello Strozzino*
-<p>"Piazza degli Strozzi or della Cipolle with the Chiesino degli Strozzi and S. Maria degli Ughi, next to the Palazzo dello Strozzino"</p>
+<p>"Piazza degli Strozzi, also known as the Piazza della Cipolle, with the Chiesino degli Strozzi and S. Maria degli Ughi, next to the Palazzo dello Strozzino"</p>
 </figcaption>
 </figure>
 
-## S. Maria in Campidoglio <a name="smariacampi"></a>
+## Palazzo Strozzi <a id="palazzostrozzi"></a>
+<figure>
+<img src="assets/images/borbottoni/16 Palazzo Strozzi.jpg" alt="strozzi">
+<figcaption markdown="1">
+*Veduta del Palazzo e della Piazza degli Strozzi detta d. Cipolle, dell'Arco dei Pescioni e di S. Maria degli Ughi o Gran Madre del Buonconsiglio, accanto al Palazzo dello Strozzino*
+<p>"View of the Palace and the Piazza degli Strozzi, also known as the Piazza delle Cipolle, the Arco dei Pescioni and S. Maria degli Ughi or Gran Madre del Buonconsiglio, next to the Palazzo dello Strozzino"</p>
+</figcaption>
+</figure>
+
+## S. Maria in Campidoglio <a id="smariacampidoglio"></a>
 <figure>
 <img src="assets/images/borbottoni/05 S Maria in Campidoglio Mercato Vecchio 2.jpg" alt="05 SM Camp">
 <figcaption markdown="1">
@@ -86,7 +96,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
+<figure id="smariacampidoglio2">
 <img src="assets/images/borbottoni/06 S Maria in Campidoglio Mercato Vecchio.jpg" alt="06 Campidoglio">
 <figcaption markdown="1">
 *Veduta in prospetto dell'Albergo della Palla, gia` S. Maria in Campidoglio, nel vecchio mercato di Firenze*
@@ -94,7 +104,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## S. Pier Buonconsiglio <a name="spierbuon"></a>
+## S. Pier Buonconsiglio <a id="spierbuonconsiglio"></a>
 <figure>
 <img src="assets/images/borbottoni/07 S Pier Buonconsiglio Mercato Vecchio.jpg" alt="07 spier">
 <figcaption markdown="1">
@@ -103,7 +113,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## S. Tommaso <a name="stommaso"></a>
+## S. Tommaso <a id="stommaso"></a>
 <figure>
 <img src="assets/images/borbottoni/08 S Tommaso Mercato Vecchio.jpg" alt="08 STomasso">
 <figcaption markdown="1">
@@ -112,7 +122,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## Via Strozzi <a name="viastrozzi"></a>
+## Via Strozzi <a id="viastrozzi"></a>
 <figure>
 <img src="assets/images/borbottoni/09 Via Strozzi Mercato Vecchio 2.jpg" alt="09 strozzi">
 <figcaption markdown="1">
@@ -121,7 +131,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## S. Maria Tromba <a name="smtromba"></a>
+## S. Maria Tromba <a id="smariatromba"></a>
 <figure>
 <img src="assets/images/borbottoni/10 S Maria Tromba Mercato Vecchio 2.jpg" alt="tromba">
 <figcaption markdown="1">
@@ -130,19 +140,19 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/11 S Maria Tromba Mercato Vecchio.jpg" alt="tromba2"> <a name="smtromba2"></a>
+<figure id="smariatromba2">
+<img src="assets/images/borbottoni/11 S Maria Tromba Mercato Vecchio.jpg" alt="tromba2">
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/12 Mercato Vecchio from Tromba.jpg" alt="tromba3"> <a name="smtromba3"></a>
+<figure id="smariatromba3">
+<img src="assets/images/borbottoni/12 Mercato Vecchio from Tromba.jpg" alt="tromba3">
 <figcaption markdown="1">
 *Veduta della Piazza Grande del Vecchio Mercato di Firenze, presa dal Tabernacolo di S. Maria della Tromba*
 <p>"View of the Piazza Grande of the Old Market of Florence from the Tabernacle of S. Maria della Tromba"</p>
 </figcaption>
 </figure>
 
-## Loggia del Pesce <a name="loggiadelpesce"></a>
+## Loggia del Pesce <a id="loggiadelpesce"></a>
 <figure>
 <img src="assets/images/borbottoni/13 Mercato Vecchio.jpg" alt="pesce">
 <figcaption markdown="1">
@@ -151,16 +161,16 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## Palazzo Amieri <a name="amieri"></a>
+## Palazzo Amieri <a id="palazzoamieri"></a>
 <figure>
 <img src="assets/images/borbottoni/14 Palazzo Amieri Mercato Vecchio 3.jpg" alt="amieri">
 <figcaption markdown="1">
-*Piazza grande del Mercato Vecchio di Firenze con in prospetto la Corre e Casa degli Amieri, presa dalla cantonata della Palla*
-<p>"Piazza Grande of the Old Market of Florence with the Corre and Casa degli Amieri on the front, taken from the corner of the Ball"</p>
+*Piazza grande del Mercato Vecchio di Firenze con in prospetto la Torre e Casa degli Amieri, presa dalla cantonata della Palla*
+<p>"Piazza Grande of the Old Market of Florence with the Torre and Casa degli Amieri on the front, taken from the corner of the square"</p>
 </figcaption>
 </figure>
 
-## Piazza Fonte <a name="fonte"></a>
+## Piazza Fonte <a id="piazzafonte"></a>
 <figure>
 <img src="assets/images/borbottoni/15 Piazza fonte Mercato Vecchio.jpg" alt="fonte">
 <figcaption markdown="1">
@@ -169,18 +179,9 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## Palazzo Strozzi <a name="palstrozzi"></a>
-<figure>
-<img src="assets/images/borbottoni/16 Palazzo Strozzi.jpg" alt="strozzi">
-<figcaption markdown="1">
-*Veduta del Palazzo e della Piazza degli Strozzi detta d. Cipolle, dell'Arco dei Pescioni e di S. Maria degli Ughi o Gran Madre del Buonconsiglio, accanto al Palazzo dello Strozzino*
-<p>"View of the Palace and the Piazza degli Strozzi called D. Cipolle, the Arco dei Pescioni and S. Maria degli Ughi or Gran Madre del Buonconsiglio, next to the Palazzo dello Strozzino"</p>
-</figcaption>
-</figure>
+# Piazza del Duomo <a id="piazzadelduomo"></a>
 
-# Piazza del Duomo <a name="pdelduomo"></a>
-
-## Bishop's Palace <a name="bishopspal"></a>
+## Bishop's Palace <a id="bishopspalace"></a>
 <figure>
 <img src="assets/images/borbottoni/20 Bishop's Palace Entrance.jpg" alt="arcivescovado">
 <figcaption markdown="1">
@@ -189,15 +190,15 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/21 Arco dei Pecori and Bishop's Palace.jpg" alt="arcivescovado2"> <a name="bishopspal2"></a>
+<figure id="bishopspalace2">
+<img src="assets/images/borbottoni/21 Arco dei Pecori and Bishop's Palace.jpg" alt="arcivescovado2">
 <figcaption markdown="1">
 *Piazza del Duomo e S. Giovanni con veduta dell'Arco dei Pecori e di parte del Palazzo Arcivescovile, preso dalla porta del Bigallo*
 <p>"Piazza del Duomo and S. Giovanni with a view of the Arco dei Pecori and part of the Archbishop's Palace, taken from the door of the Bigallo"</p>
 </figcaption>
 </figure>
 
-## Bigallo <a name="bigallo"></a>
+## Bigallo <a id="bigallo"></a>
 <figure>
 <img src="assets/images/borbottoni/23 Bigallo and Misericordia.jpg" alt="bigallo">
 <figcaption markdown="1">
@@ -206,7 +207,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## Misericordia <a name="misericordia"></a>
+## Misericordia <a id="misericordia"></a>
 <figure>
 <img src="assets/images/borbottoni/24 Misericordia and Campanile.jpg" alt="misericordia">
 <figcaption markdown="1">
@@ -215,9 +216,9 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-# Government Buildings <a name="govtbuild"></a>
+# Government Buildings <a id="government"></a>
 
-## Loggia dei Lanzi <a name="loggialanzi"></a>
+## Loggia dei Lanzi <a id="loggiadeilanzi"></a>
 <figure>
 <img src="assets/images/borbottoni/25 Loggia dei Lanzi S Pier Scheraggio Fantasy.jpg" alt="lanzi">
 <figcaption markdown="1">
@@ -226,7 +227,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## Piazza della Signoria <a name="pdelsignoria"></a>
+## Piazza della Signoria <a id="palazzosignoria"></a>
 <figure>
 <img src="assets/images/borbottoni/26 Piazza Signoria 2.jpg" alt="signoria1">
 <figcaption markdown="1">
@@ -235,15 +236,15 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/27 Piazza Signoria.jpg" alt="signoria2"> <a name="pdelsignoria2"></a>
+<figure id="palazzosignoria2">
+<img src="assets/images/borbottoni/27 Piazza Signoria.jpg" alt="signoria2">
 <figcaption markdown="1">
 *Antico tetto dei Pisani in Piazza della Signoria a Firenze e Campanile di S. Cecilia*
 <p>"Ancient roof of the Pisans in the Piazza della Signoria of Florence and the bell tower of S. Cecilia"</p>
 </figcaption>
 </figure>
 
-## Orsanmichele <a name="orsanmichele"></a>
+## Orsanmichele <a id="orsanmichele"></a>
 <figure>
 <img src="assets/images/borbottoni/18 Orsanmichele and via Calziouli.jpg" alt="orsan1">
 <figcaption markdown="1">
@@ -252,7 +253,7 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
+<figure id="orsanmichele2">
 <img src="assets/images/borbottoni/19 Orsanmichele and Wool Guild.jpg" alt="orsan2"> <a name="orsanmichele2"></a>
 <figcaption markdown="1">
 *Residenza dell'Arte della Lana e Scala dell'Archivio sulla Via d'Orsanmichele*
@@ -260,16 +261,16 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-## Bargello <a name="bargello"></a>
+## Bargello <a id="bargello"></a>
 <figure>
 <img src="assets/images/borbottoni/22 Bargello.jpg" alt="bargello">
 <figcaption markdown="1">
 *Piazza di S. Firenze, lato accanto a Badia, Palazzo del Podesta` e Chiesa di S. Apollinare*
-<p>"Piazza di S. Firenze from side next to the Badia, with the Palazzo del Podestà and Church of S. Apollinare"</p>
+<p>"Side view of the Piazza di S. Firenze and the Badia, with the Palazzo del Podestà and Church of S. Apollinare to the right</p>
 </figcaption>
 </figure>
 
-## Stinche <a name="stinche"></a>
+## Stinche <a id="stinche"></a>
 <figure>
 <img src="assets/images/borbottoni/36 Stinche.jpg" alt="stinche1">
 <figcaption markdown="1">
@@ -278,21 +279,21 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/37 Stinche 2.jpg" alt="stinche2"> <a name="stinche2"></a>
+<figure id="stinche2">
+<img src="assets/images/borbottoni/37 Stinche 2.jpg" alt="stinche2">
 <figcaption markdown="1">
 *Veduta esterna dell'antica Isola delle Stinche presso S. Croce, lato sulla Via Ghibellina*
 <p>"External view of the ancient Isola delle Stinche near S. Croce from the Via Ghibellina"</p>
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/38 Stinche 3.jpg" alt="stinche3"> <a name="stinche3"></a>
+<figure id="stinche3">
+<img src="assets/images/borbottoni/38 Stinche 3.jpg" alt="stinche3">
 </figure>
 
-# Bridges <a name="bridge"></a>
+# Bridges <a name="bridges"></a>
 
-## Ponte alle Grazie <a name="pagrazie"></a>
+## Ponte alle Grazie <a name="pontegrazie"></a>
 <figure>
 <img src="assets/images/borbottoni/30 Ponte alle Grazie.jpg" alt="grazie1">
 <figcaption markdown="1">
@@ -301,23 +302,23 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/31 Ponte alle Grazie 2.jpg" alt="grazie2"> <a name="pagrazie2"></a>
+<figure id="pontegrazie2">
+<img src="assets/images/borbottoni/31 Ponte alle Grazie 2.jpg" alt="grazie2">
 <figcaption markdown="1">
 *Veduta del Ponte alle Grazie con le Casine, del Tiratojo, della Porticciola e Scalo e del principio degli Sportici di via degli Archibusieri, prima della costruzione del Viale dei Colli e del Lungarno Corrigiani*
 <p>View of the Ponte alle Grazia with the nuns' cells, the wool loom, the gate and the stairs of the principal entrance to the Via degli Archibusieri, before the construction of the Via delle Colle and the Lungarno Corrigiani</p>
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/32 Ponte alle Grazie 3.jpg" alt="grazie3"> <a name="pagrazie3"></a>
+<figure id="pontegrazie3">
+<img src="assets/images/borbottoni/32 Ponte alle Grazie 3.jpg" alt="grazie3">
 <figcaption markdown="1">
 *Veduta del Monte alle Croci, delle Molina sui Renai e del Ponte alle Grazie, presa nel momento della costruzione del Lungarno Corrigiani*
 <p>"View of Monte alle Croci, Molina sui Renai and Ponte alle Grazie, taken at the time of construction of the Lungarno Corrigiani"</p>
 </figcaption>
 </figure>
 
-## Ponte Vecchio <a name="pvecchio"></a>
+## Ponte Vecchio <a id="pontevecchio"></a>
 <figure>
 <img src="assets/images/borbottoni/33 Ponte Vecchio 1.jpg" alt="pvecchio1">
 <figcaption markdown="1">
@@ -326,15 +327,15 @@ title: 19th-Century Views of Florence
 </figcaption>
 </figure>
 
-<figure>
-<img src="assets/images/borbottoni/34 Ponte Vecchio fantasy.jpg" alt="pvecchio2"> <a name="pvecchio2"></a>
+<figure id="pontevecchio2">
+<img src="assets/images/borbottoni/34 Ponte Vecchio fantasy.jpg" alt="pvecchio2">
 <figcaption markdown="1">
 *Veduta del Ponte Vecchio fortificato come era anticamente*
 <p>"View of the Ponte Vecchio fortified as it was in ancient times"</p>
 </figcaption>
 </figure>
 
-## Porta S. Niccolo <a name="psniccolo"></a>
+## Porta S. Niccolo <a id="portasniccolo"></a>
 <figure>
 <img src="assets/images/borbottoni/35 Porta S Niccolo.jpg" alt="sniccolo">
 <figcaption markdown="1">
@@ -345,3 +346,5 @@ title: 19th-Century Views of Florence
 
 
 </div>
+
+<a id="returnbutton" href="#paintings" class="button">Back to Top</a>
