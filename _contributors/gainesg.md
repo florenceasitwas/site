@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Georgie Gaines
-image:
+image: bio_gainesg.jpg
 category:
 status: current
 ---
