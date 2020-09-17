@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ellie Penner
-image: bio_pennere.jpg
 category:
 status: current
 ---
