@@ -18,19 +18,7 @@ layout: default
 			</ul>
 		</article>
 		-->
-		<article>
-		<table style="width:100%">
-		 {% assign building = site.sites | where:"front_page","live" %}
-		   {% for item in building %}
-			 		<tr>
-						<td><b><h3><a href="{{ item.url | absolute_url }}">{{item.title}}</a></h3></b></td>
-						<td><img src="assets/images/{{item.thumbnail}}" /></td>
-						<td>{{item.blurb}}</td>
-					</tr>
-		   {% endfor %}
-		 </table>
-		 </article>
-
+	
 	 <!--
 		<article>
 			<a href="{{ '/sites/orsanmichele.html' | absolute_url }}" class="image"><img src="assets/images/orsanmichele_1.jpg" alt="" /></a>
