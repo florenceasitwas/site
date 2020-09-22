@@ -48,6 +48,7 @@ layout: default
 				<li><a href="{{ '/sites/santa-croce.html' | absolute_url }}" class="button small">More</a></li>
 			</ul>
 			</article>
+			-->
 		
 	<!--
 		<article>
