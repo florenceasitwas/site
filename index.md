@@ -57,7 +57,7 @@ layout: default
 			<ul class="actions">
 				<li><a href="{{ '/sites/miniato.html' | absolute_url }}" class="button small">More</a></li>
 			</ul>
-			</article>
+		</article>
 			-->
 	<article>
 	<table style="width:100%">
