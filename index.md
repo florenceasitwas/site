@@ -49,6 +49,28 @@ layout: default
 			</ul>
 			</article>
 			-->
+		<!--
+	<article>
+		<a href="{{ '/sites/miniato.html' | absolute_url }}" class="image"><img src="assets/images/san_miniato.jpeg" alt="" /></a>
+		<h3>San Miniato</h3>
+		<p>Built c. 1080, this is one of the oldest and highest elevated locations in Florence.</p>
+		<ul class="actions">
+			<li><a href="{{ '/sites/miniato.html' | absolute_url }}" class="button small">More</a></li>
+		</ul>
+	</article>
+	-->
+	<article>
+	<table style="width:100%">
+	 {% assign building = site.sites | where:"front_page","live" %}
+	   {% for item in building %}
+		 		<tr>
+					<td><b><h3><a href="{{ item.url | absolute_url }}">{{item.title}}</a></h3></b></td>
+					<td><img src="assets/images/{{item.thumbnail}}" /></td>
+					<td>{{item.blurb}}</td>
+				</tr>
+	   {% endfor %}
+	 </table>
+	 </article>
 </section>
 
 <section>
