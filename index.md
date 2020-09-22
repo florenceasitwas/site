@@ -141,6 +141,8 @@ layout: default
 			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>&emsp;
 		<a href="https://www.rlounsbery.org/">
 			<img src="assets/images/logo_rl.png" alt="" height="80"></a>&emsp;
+		<a href="http://itatti.harvard.edu/">
+			<img src="assets/images/itatti.png" alt="" height="80"></a>&emsp;
 		
 	</div>
 	</div>
