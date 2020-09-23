@@ -20,17 +20,17 @@ layout: default
 		-->
 		<article>
 		<table style="width:100%">
-		 {% assign building = site.sites | where:"front_page","live" %}
-		   {% for item in building %}
-			 		<tr>
-						<td><b><h3><a href="{{ item.url | absolute_url }}">{{item.title}}</a></h3></b></td>
-						<td><img src="assets/images/{{item.thumbnail}}" /></td>
-						<td>{{item.blurb}}</td>
-					</tr>
-		   {% endfor %}
-		 </table>
-		 </article>
-
+	 	 {% assign building = site.sites | where:"front_page","live" %}
+	   	  {% for item in building %}
+		 		<tr>
+					<td><b><h3><a href="{{ item.url | absolute_url }}">{{item.title}}</a></h3></b></td>
+					<td><img src="assets/images/{{item.thumbnail}}" /></td>
+					<td>{{item.blurb}}</td>
+				</tr>
+	   {% endfor %}
+	 </table>
+	 </article>
+	
 	 <!--
 		<article>
 			<a href="{{ '/sites/orsanmichele.html' | absolute_url }}" class="image"><img src="assets/images/orsanmichele_1.jpg" alt="" /></a>
@@ -47,8 +47,17 @@ layout: default
 			<ul class="actions">
 				<li><a href="{{ '/sites/santa-croce.html' | absolute_url }}" class="button small">More</a></li>
 			</ul>
-			</article>
+		</article>
+		<article>
+			<a href="{{ '/sites/miniato.html' | absolute_url }}" class="image"><img src="assets/images/san_miniato.jpeg" alt="" /></a>
+			<h3>San Miniato</h3>
+			<p>Built c. 1080, this is one of the oldest and highest elevated locations in Florence.</p>
+			<ul class="actions">
+				<li><a href="{{ '/sites/miniato.html' | absolute_url }}" class="button small">More</a></li>
+			</ul>
+		</article>
 			-->
+	
 </section>
 
 <section>
@@ -141,6 +150,8 @@ layout: default
 			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>&emsp;
 		<a href="https://www.rlounsbery.org/">
 			<img src="assets/images/logo_rl.png" alt="" height="80"></a>&emsp;
+		<a href="http://itatti.harvard.edu/">
+			<img src="assets/images/itatti.png" alt="" height="80"></a>&emsp;
 		
 	</div>
 	</div>
