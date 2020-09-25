@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: article
 title: Baptism
 image:
 tags:
 status: live
+author: Colby Gilley
 ---
 
-### Baptism in Florence  
+## Baptism in Florence  
 
 The ritual of baptism was a crucial feature of fourteenth- and fifteenth-century Florence. This symbolic practice carried both a spiritual and social weight integral for full participation in the fabric of Florentine society. Baptism was not only a means of defense against hellfire, but an introduction to civic society and a foundational moment in each individual’s life. While some of the finer details of the practice are unclear to contemporary scholars, we now know that by 1128 the ritual was performed at the octagonal Baptistery of San Giovanni, located directly across from the cathedral.  
 
@@ -23,7 +24,7 @@ The social importance of baptism was emphasized in the creation of the public fr
 Taking place daily, in the center of the city, in front of the greatest church in Florence, the ritual of baptism was a fixture of Renaissance Florence whose practice greatly influenced both the communal and familial spheres of life.  
 
 
-##### Bibliography
+## Bibliography
 Bent, George. *Public Painting and Visual Culture in Early Republican Florence*. Cambridge
 University Press, 2016.  
 

@@ -2034,6 +2034,8 @@
 
 	}
 
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -2072,7 +2074,7 @@
 	body, input, select, textarea {
 		color: #2d2d2d;
 		font-family: "Open Sans", sans-serif;
-		font-size: 14pt;
+		font-size: 16pt;
 		font-weight: 500;
 		line-height: 1.65;
 	}
@@ -2080,7 +2082,7 @@
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 		}
@@ -4197,4 +4199,13 @@ div#borb figure {
 margin-right: auto;
 display:block;
 text-align:center;
+}
+
+.encyclopedia ul {
+	list-style: none;
+}
+
+.encyclopedia > article {
+	width: 50%;
+	line-height: 2;
 }
