@@ -1,4 +1,4 @@
-I"Ç<section>
+I"Á<section>
 	<div class="posts">
 		<article>
       <h2>Sketchfab Models</h2>
@@ -26,7 +26,7 @@
 <article>
       <h2>Potree Pointcloud Models</h2>
         <div class="sketchfab-embed-wrapper">
-          <iframe width="100%" height="350" src="http://3d.wlu.edu/model/SCroce125M.html" frameborder="0"></iframe>
+          <iframe width="100%" height="350" src="http://3d.wlu.edu/model/SCroce.html" frameborder="0"></iframe>
 
   <p style="font-size: 13px; font-weight: normal; margin: 5px;">
               <a href="http://3d.wlu.edu/model/SCroce.html" style="font-weight: bold;">Santa Croce Point Cloud</a>
@@ -49,7 +49,7 @@
 			</ul>
 			<p>These point cloud models were created by using a 360 degree laser scanner, which creates accurate models of their surroundings down to the millimeter. They're different from the photogrammetric model, such as the one on the left, because they don't make a solid model - they're composed of millions of colored points that only look solid when viewed from enough distance.</p>
 			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</a></p>
-		</article>
+</article>
   </div>
 </section>
 :ET

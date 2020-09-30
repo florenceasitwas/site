@@ -23,8 +23,16 @@
                 <section>
                 	<header class="main">
                 		<h1>{{ page.title }}</h1>
-                    <h2>{{ page.author}}</h2>
-                    <hr />
+                    <div class="metadata">
+                    <p>Author: {{ page.author_first }} {{ page.author_last }}</p>
+                    <p>Date Published: {{ page.date_published }}</p>
+                    {% if page.updated %}<p>Date Updated: {{ page.date_updated }}</p>{% endif %}
+                    <p>Preferred Citation: {{ page.author_last }}, {{ page.author_first }}. "{{ page.title }}." <em>Florence As It Was</em>. http://florenceasitwas.wlu.edu{{ page.url }}</p>
+</div>
+
+                    <p class="toc">Table of Contents:
+                 {% include toc.html html=content class="toc" %}</p>
+                   <hr />
                 	</header>
 
                   {% if page.image %}

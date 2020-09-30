@@ -2276,11 +2276,12 @@
 
 	header p {
 		font-family: "Roboto Slab", serif;
-		font-size: 1em;
+		
 		font-weight: 400;
-		letter-spacing: 0.075em;
+		
 		margin-top: -0.5em;
-		text-transform: uppercase;
+		margin-bottom:.7em;
+		
 	}
 
 	header.major > :last-child {
@@ -4209,4 +4210,13 @@ text-align:center;
 .encyclopedia > article {
 	width: 50%;
 	line-height: 2;
+}
+
+p.toc {
+	margin-top:2em;
+}
+
+ul.toc {
+	font-family: "Roboto Slab", serif;
+	list-style: square;
 }
