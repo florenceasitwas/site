@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: article
 title: Andrea di Bonaiuto
 image:
-tags: painter
+category: painter
 status: live
+author_first: Alice
+author_last: Chambers
+date_published: January 2019
+date_updated: October 2020
 ---
 
-### (ca. 1325-1379)
-### Painter
+
+## Andrea di Bonaiuto (ca. 1325-1379) 
 
 Born around 1325, the painter Andrea di Bonaiuto survived the bubonic plague which swept through Florence in 1348 and worked in Pisa and Florence until his death in 1379. Relatively few archival records of his life remain, and he signed and dated virtually none of his works. However, his most significant achievement, the fresco cycle in the chapterhouse of Santa Maria Novella (for which documents do survive), serves as one of the great artistic triumphs of the *Trecento*, and provides important insights into Florentine religious life.
 
@@ -19,9 +23,9 @@ The Dominican chapterhouse served as one of the focal points of daily Dominican 
 
 Although one of the Dominicans probably devised the mural cycle’s sophisticated program, their decision to commission Andrea for the chapterhouse decorations demonstrates their esteem for him and his work. Scenes from the *Passion of Christ* make up the cycle’s central image, with images of the *Way to Calvary*, the *Crucifixion*, and the *Harrowing of Hell* covering the north wall of the chapel. Other images such as the [*Via Veritatis*](insert link) depict Saints Dominic, Peter Martyr, and Thomas Aquinas celebrating the intellectual and spiritual triumphs of the Order. In the same year he received the chapterhouse commission, civic leaders in Florence appointed Andrea to a [committee](insert link) tasked with designing the dome for Florence’s cathedral. He served as a committee member for two years until 1367, and the representation of the domed cathedral in the *Via Veritatis* surely reflects his own conception of how that cupola ought to have looked.
 
-Andrea spent brief periods of the next ten years working in both Orvieto and Pisa. Upon his death in 1379, he left behind only a meager sum for his widow and child, suggesting that Andrea’s expenses largely outpaced his revenues. Despite the rather quiet end to his career, Andrea’s frescos on the walls of Santa Maria Novella’s chapterhouse document Dominican identity, preserve examples of their particular world view, and present their take on larger issues of Christian ideology. These images stand as some of western Europe’s most important achievements of late fourteenth-century painting.
-----
-Bibliography
+Andrea spent brief periods of the next ten years working in both Orvieto and Pisa. Upon his death in 1379, he left behind only a meager sum for his widow and child, suggesting that Andrea's expenses largely outpaced his revenues. Despite the rather quiet end to his career, Andrea's frescos on the walls of Santa Maria Novella's chapterhouse document Dominican identity, preserve examples of their particular world view, and present their take on larger issues of Christian ideology. These images stand as some of western Europe's most important achievements of late fourteenth-century painting. 
+
+## Bibliography 
 
 Bent, George. "Andrea Di Bonaiuto." In *Medieval Italy: An Encyclopedia*, edited by Christopher Kleinhenz, 33-34. Vol. 1, 2. New York, London: Routledge, 2004.
 
@@ -29,4 +33,3 @@ Gardner, Julian. *Patrons, Painters, and Saints: Studies in Medieval Italian Pai
 
 Polzer, Joseph. "Andrea Di Bonaiuto's Via Veritatis and Dominican Thought in Late Medieval Italy." *The Art Bulletin* 77, no. 2 (1995): 263-89.
 
-Alice Chambers
