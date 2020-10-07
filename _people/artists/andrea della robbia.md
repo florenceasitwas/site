@@ -34,5 +34,3 @@ Henderson, John. *The Renaissance Hospital: Healing the Body and Healing the Sou
 National Gallery of Art. *Della Robbia: A Closer Look.* https://www.nga.gov/features/della-robbia-a-closer-look.html#item1_8
 
 Presciutti, Diana Bullen. *Visual Cultures of Foundling Care in Renaissance Italy*. Ashgate Publishing, Ltd, 2015, 73-100.  
-
-__Emma Derr__
