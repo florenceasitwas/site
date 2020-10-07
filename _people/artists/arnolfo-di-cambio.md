@@ -1,12 +1,17 @@
 ---
-layout: page
+layout: article
 title: Arnolfo di Cambio
 image:
-tags: sculptor, master mason
+category: sculptor, mason
 status: live
+author_first: Chris, and Reggie Zhao. 
+author_last: McCrackin 
+date_published: January 2019
+date_updated: October 2020
 ---
-### Arnolfo di Cambio (ca. 1240 – 1302)
-### Sculptor and Master Mason
+
+
+## Arnolfo di Cambio (ca. 1240-1302)
 
 Although Arnolfo di Cambio is best known for his architectural achievements in Florence, the Sienese sculptor and architect (c. 1240) began as a student and assistant to Nicola Pisano, who many consider the leading figure in the art of sculpture, just as [Giotto](insert link) was an innovator in painting. During his time under Nicola Pisano, Arnolfo helped with the construction of the reliefs for the marble pulpit of Siena Cathedral (1265) and those for the Tomb of San Dominic (1264-67). Arnolfo developed his classical style during this period and continued working in this idiom throughout his career.
 
@@ -20,8 +25,7 @@ Although he contributed greatly to the beautification of the city, Arnolfo di Ca
 
 For his work in Florence, Arnolfo di Cambio would be honored by the Council of One Hundred in 1300, but the artist enjoyed this prestigious award only briefly: his activity was cut short by his untimely death in 1302.
 
--------
-Bibliography
+## Bibliography
 
 Chilvers, Ian. “Arnolfo di Cambio.” *Oxford Dictionary of Art*. Oxford, Oxford University Press, 2004.
 
