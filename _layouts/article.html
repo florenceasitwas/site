@@ -24,7 +24,7 @@
                 	<header class="main">
                 		<h1>{{ page.title }}</h1>
                     <div class="metadata">
-                    <p>Author: {{ page.author_first }} {{ page.author_last }}</p>
+                    <p>Author: {{ page.author_first }} {{ page.author_last }} {%if page.2author_first %} & {{ page.2author_first }} {{ page.2author_last }}</p>
                     <p>Date Published: {{ page.date_published }}</p>
                     {% if page.updated %}<p>Date Updated: {{ page.date_updated }}</p>{% endif %}
                     <p>Preferred Citation: {{ page.author_last }}, {{ page.author_first }}. "{{ page.title }}." <em>Florence As It Was</em>. http://florenceasitwas.wlu.edu{{ page.url }}</p>
