@@ -4,8 +4,8 @@ title: Arnolfo di Cambio
 image:
 category: sculptor, mason
 status: live
-author_first: Chris, and Reggie Zhao. 
-author_last: McCrackin 
+author_first: 
+author_last: 
 date_published: January 2019
 date_updated: October 2020
 ---
