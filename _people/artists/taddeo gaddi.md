@@ -6,7 +6,7 @@ category: painter
 status: live
 author_first: John Carr
 author_last: Haden
-date_published: November 2019
+date_published: January 2019
 date_updated: October 2020
 ---
 
