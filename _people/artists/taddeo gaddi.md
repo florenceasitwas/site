@@ -1,12 +1,17 @@
 ---
-layout: page
+layout: article
 title: Taddeo Gaddi
 image:
-tags: painter
+category: painter
 status: live
+author_first: John Carr
+author_last: Haden
+date_published: November 2019
+date_updated: October 2020
 ---
-### (ca. 1290-1366)
-### Painter
+
+
+## Taddeo Gaddi (ca. 1290-1366)
 
 Taddeo Gaddi, born circa 1290, is often described as one of the most talented artists and builders living in Florence during the medieval era. Heralded as one of [Giotto’s](insert link) most able pupils, Gaddi exuded a reverence for his master’s stylistic technique and sought to follow the artistic method of his teacher. Sometimes this resulted in a kind of imitative quality that caused [Giorgio Vasari ](insert link) to comment harshly on Gaddi’s aping of Giotto’s aesthetic, stating “(Gaddi) always continued Giotto’s manner without improving it,”  a backwards compliment that suggests a slavish imitation on the part of Taddeo Gaddi.
 
@@ -16,8 +21,7 @@ Despite working in the shadow of his famous master, Gaddi enjoyed a successful c
 
 Until his death in 1366 Taddeo Gaddi was one of the most influential men in Florentine artistic culture. Despite being viewed as a simple follower of Giotto, Taddeo triumphantly surpassed his liege in the methodology of colors and light. His work in the Basilica Santa Croce provides a canonical viewing of Gaddi’s copycat style while also underscoring his heightened proficiency with color.
 
------
-Bibliography:
+## Bibliography 
 
 Gardner, Julian. “Reviewed Work: *Taddeo Gaddi* by Andrew Ladis,” *The Burlington Magazine* 126, no. 978 (1984): 571-73.
 
@@ -30,5 +34,3 @@ Ladis, Andrew. *Taddeo Gaddi* (University of Missouri Press: Columbia, MO, 1981)
 Parker, Deborah. "BETTER THAN GIOTTO?" *Source: Notes in the History of Art* 32, no. 3 (2013): 1-4.
 
 Sirén, Osvald. "A Madonna by Taddeo Gaddi." *The Burlington Magazine for Connoisseurs* 48, no. 277 (1926): 185-86.
-
-John Carr Haden
