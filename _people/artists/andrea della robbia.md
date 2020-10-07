@@ -12,8 +12,7 @@ date_updated: October 2020
 
 
 ## Andrea della Robbia
-status: live
----
+
 The distinctive roundels on the Loggia feature white glazed terracotta infants on blue backgrounds. Set between the arches of the Loggia, the ten sculpted children have become the symbols of the Ospedale degli Innocenti. Sculpted figures in lunettes were often employed to distinguish a building’s façade from those of other similar structures in the city, but the Innocenti’s emphasis on the function of the hospital created an unprecedented level of clarity. The roundels represent the Innocenti as an institution, revealing a depth of history about the hospital’s *segno*, and stylistically, they speak to the mastery of Andrea della Robbia.
 
 <!-- more -->
