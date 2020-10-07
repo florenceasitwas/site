@@ -1,8 +1,17 @@
 ---
-layout: page
+layout: article
 title: Andrea della Robbia
 image:
-tags: painter
+category: painter
+status: live
+author_first: Emma
+author_last: Derr
+date_published: November 2019
+date_updated: October 2020
+---
+
+
+## Andrea della Robbia
 status: live
 ---
 The distinctive roundels on the Loggia feature white glazed terracotta infants on blue backgrounds. Set between the arches of the Loggia, the ten sculpted children have become the symbols of the Ospedale degli Innocenti. Sculpted figures in lunettes were often employed to distinguish a building’s façade from those of other similar structures in the city, but the Innocenti’s emphasis on the function of the hospital created an unprecedented level of clarity. The roundels represent the Innocenti as an institution, revealing a depth of history about the hospital’s *segno*, and stylistically, they speak to the mastery of Andrea della Robbia.
@@ -17,7 +26,7 @@ The ten roundels represent a similar *segno* but each contain creative differenc
 
 In his *History of Florence* (1423), merchant Goro Dati described the Innocenti and praised its insignia, which shaped how the Florentine people perceived the institution and its function. The swaddled infant as an emblem was unprecedented and developed over time to become a recognizable symbol. Andrea della Robbia’s roundels reflect this desire to establish an official insignia, and his work at the Innocenti became famous in its own right.
 
-Bibliography
+## Bibliography
 
 Domestici, Fiamma. *Della Robbia: a Family of Artists*. Florence, SCALA, 1992.
 
