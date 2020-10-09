@@ -6,8 +6,8 @@ category: sculptor, mason
 status: live
 author_first: Chris
 author_last: McCrackin
-2author_first: Reggie
-2author_last: Zhao
+secondauthor_first: Reggie
+secondauthor_last: Zhao
 date_published: January 2019
 date_updated: October 2020
 ---
