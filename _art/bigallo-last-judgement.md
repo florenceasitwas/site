@@ -6,6 +6,7 @@ artist: Nardo di Cione
 dates: ca. 1363
 tags: bigallo
 status: live
+building: bigallo
 ---
 
 ### Nardo di Cione, *Last Judgment,* ca. 1363

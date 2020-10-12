@@ -5,6 +5,7 @@ title: Bigallo Audience Hall
 artist:
 dates:
 tags: bigallo
+building: bigallo
 status:
 ---
 
