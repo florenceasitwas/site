@@ -32,6 +32,12 @@ excerpt_separator: <!-- more -->
 
 # Collections
 collections:
+  art:
+    output: true
+    permalink: /art/:name:output_ext
+  architecture:
+    output: true
+    permalink: /architecture/:name:output_ext
   contributors:
     output: true
     permalink: /contributors/:name:output_ext
