@@ -50,6 +50,6 @@ collections:
   sites:
     output: true
     permalink: /sites/:name:output_ext
-  texts:
+  sources:
     output: true
-    permalink: /texts/:name:output_ext
+    permalink: /sources/:name:output_ext
