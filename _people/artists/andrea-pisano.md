@@ -1,11 +1,17 @@
 ---
-layout: page
+layout: article 
 image: architettura_campanile.jpg
 title: Andrea Pisano
 dates: ca. 1295 – 1348
 tags: sculptor, architect
-status: live
+status: live 
+author_first: George
+author_last: Bent
+date_published: 2017
+date_updated: October 2020
 ---
+
+## Andrea Pisano 
 
 As his surname suggests, Andrea Pisano came from the city of Pisa, located some 45 miles to the west of Florence on the banks of the Mediterranean Sea. Although not directly descended from the father-son team of [Nicola](insert link) and [Giovanni Pisano](insert link), Andrea’s contributions to the legacy of fourteenth-century art are no less important than those of his more famous predecessors.
 
@@ -17,6 +23,8 @@ As this project came to a conclusion, Andrea picked up a second major commission
 
 By 1343 Andrea had returned to his homeland, where he formed a working partnership with his son, Tino, in the city of Pisa. He stayed there for four years, overseeing the design and completion of a number of monumental sculptures for various churches in the city, including the cathedral, S. Caterina, and S. Maria della Spina. But in 1347 he moved back to Orvieto to take up duties of capomaestro of the cathedral’s works, a short-lived endeavor. By 1349, Andrea was either dead or retired, with Nino taking over for him as head of the works for that site. The absence of references to him after that year suggests that Andrea Pisano, like so many others in Europe, fell victim to the [Black Death](insert link) of 1348.
 
+## Style and Influence
+
 Andrea Pisano’s stylistic choices reveal a faithful adherence to the traditions forged by his senior Pisan forebear, Giovanni Pisano. With a preference for elongated figures that sway with Gothic undulations, Andrea’s approach to narrative and didactic art intentionally sacrifices rational order and distinctively naturalistic settings in order to highlight emotionally charged and dramatically compelling actions. Diminutive trees, abstracted mountains, and streams that have no perceptible banks serve merely as contexts for the more important gestural and expressive qualities of characters that Andrea tries to imbue with spiritual vivacity.
 
 Andrea Pisano’s role in shaping the late medieval taste for sculpture in Florence cannot be exaggerated. The south portal of the Baptistery of S. Giovanni was the most important setting for the all-important ritual of [baptism](insert link) that welcomed infants into the community and forged essential links between parents, godparents, and family members. Andrea’s reliefs literally and figuratively framed that ritual after their completion in 1336, and it’s safe to say that every single person who had been born or who had parented a child in the city after that year had spent a long time looking at them at least once in her or his lifetime. The hexagonal and diamond-shaped reliefs that Andrea executed for the Campanile, while more difficult to see due to their elevated placement, were among the only other public works of sculpture that anyone could examine in Florence: the effigies in the niches of Orsanmichele, many of the [sculptures for the façade](insert link) of the Duomo, and Ghiberti’s relief panels for the [North](insert link) and [East](insert link) doors of the Baptistery all came decades later.
@@ -24,6 +32,7 @@ Andrea Pisano’s role in shaping the late medieval taste for sculpture in Flore
 The power of this Pisan artist at first served as an influential exemplum of the fashionable style in sculpture that was all the rage in Pisa, Paris, and beyond, and then later served as the foil for those artists of the next generations who aimed to alter that style and the tastes that celebrated it. Andrea Pisano both set the standard that future sculptors strove to meet and represented all the things they hoped to avoid.  
 
 ---
+## Bibliography 
 
 Moskowitz, Anita. *The Sculpture of Andrea and Nino Pisano* (Cambridge University Press: New York, 1986).
 
@@ -33,7 +42,7 @@ White, John. *Art and Architecture in Italy: 1250-1400* (Penguin Books: Baltimor
 
 ---
 
-# Documents
+## Documents
 
 The records from the Arte della Calimala were recorded in summary form by Carlo Strozzi in the seventeenth century (see A.S.F., *Strozziane*, Serie II, vol. LI, I and *Strozziane*, Serie II, vol. LI, II). They are now lost. Gino Corti and Anita Moskowitz republished many of the references to Andrea Pisano in 1986: their work forms the basis for the documents recorded here.
 
