@@ -4,6 +4,7 @@ title: Del Migliore on the Bigallo
 image:
 tags: bigallo
 status:
+building: bigallo
 ---
 
 Ferdinando Leopoldo del Migliore, Firenze: Città Nobilissima Illustrata (Arnaldo Forni: Florence, 1684).

@@ -8,7 +8,7 @@ status:
 <article>
 <h2><span class="icon fa-paint-brush"></span> Original Sources</h2>
 <ul>
-{% assign var1 = site.art | where:"building","bigallo" %}
+{% assign var1 = site.sources | where:"building","bigallo" %}
 {% for item in var1 %}
   <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
 {% endfor %}
@@ -18,7 +18,7 @@ status:
 <article>
 <h2><span class="icon fa-users"></span> Translations</h2>
 <ul>
-{% assign var2 = site.people | where:"building","bigallo" %}
+{% assign var2 = site.sources | where:"category","translation" %}
 {% for item in var2 %}
   <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
 {% endfor %}

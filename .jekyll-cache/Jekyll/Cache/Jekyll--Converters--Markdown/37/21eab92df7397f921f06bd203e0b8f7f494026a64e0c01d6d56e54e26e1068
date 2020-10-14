@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<!-- Section -->
+I"$<!-- Section -->
 <section>
 	<header class="major">
 		<h2>Buildings</h2>
@@ -10,50 +6,68 @@ layout: default
 
 	<!--
 		<article>
-			<a href="{{ '/architecture/bigallo.html' | absolute_url }}" class="image"><img src="assets/images/bigallo_1.jpg" alt="" /></a>
+			<a href="http://localhost:4000/architecture/bigallo.html" class="image"><img src="assets/images/bigallo_1.jpg" alt="" /></a>
 			<h3>Bigallo</h3>
 			<p>Built in c. 1360, the Oratory of the Misericordia, as it was then known, has endured expansions, fires, renovations, a merger, and more to become the elegant structure that stands on the Piazza del Duomo today. Read more about the structure's tumultous history here. Explore the headquarters of one of the city's most prominent charities, the Confraternity of the Misericordia, later merged with that of the Bigallo, and see the art that it commissioned to assert its place in Florentine society.</p>
 			<ul class="actions">
-				<li><a href="{{ '/architecture/bigallo.html' | absolute_url }}" class="button small">More</a></li>
+				<li><a href="http://localhost:4000/architecture/bigallo.html" class="button small">More</a></li>
 			</ul>
 		</article>
 		-->
 		<article>
 		<table style="width:100%">
-	 	 {% assign building = site.architecture | where:"front_page","live" %}
-	   	  {% for item in building %}
+	 	 
+	   	  
 		 		<tr>
-					<td><b><h3><a href="{{ item.url | absolute_url }}">{{item.title}}</a></h3></b></td>
-					<td><img src="assets/images/{{item.thumbnail}}" /></td>
-					<td>{{item.blurb}}</td>
+					<td><b><h3><a href="http://localhost:4000/architecture/bigallo.html">The Bigallo</a></h3></b></td>
+					<td><img src="assets/images/Bigallo_thumbnail.jpg" /></td>
+					<td>Fourteenth-century charitable institution</td>
 				</tr>
-	   {% endfor %}
+	   
+		 		<tr>
+					<td><b><h3><a href="http://localhost:4000/architecture/orsanmichele.html">Orsanmichele</a></h3></b></td>
+					<td><img src="assets/images/Orsanmichele_thumbnail.jpg" /></td>
+					<td>Fourteenth-century granary and church of the guilds</td>
+				</tr>
+	   
+		 		<tr>
+					<td><b><h3><a href="http://localhost:4000/architecture/san-miniato.html">San Miniato</a></h3></b></td>
+					<td><img src="assets/images/" /></td>
+					<td>Eleventh-century Olivetan church and monastery</td>
+				</tr>
+	   
+		 		<tr>
+					<td><b><h3><a href="http://localhost:4000/architecture/santa-croce.html">Santa Croce</a></h3></b></td>
+					<td><img src="assets/images/SantaCroce_thumbnail.jpg" /></td>
+					<td>Fourteenth- and fifteenth-century Franciscan church and friary</td>
+				</tr>
+	   
 	 </table>
 	 </article>
 	
 	 <!--
 		<article>
-			<a href="{{ '/sites/orsanmichele.html' | absolute_url }}" class="image"><img src="assets/images/orsanmichele_1.jpg" alt="" /></a>
+			<a href="http://localhost:4000/sites/orsanmichele.html" class="image"><img src="assets/images/orsanmichele_1.jpg" alt="" /></a>
 			<h3>Orsanmichele</h3>
 			<p>View the monumental statues produced by Florence's leading sculptors for the city's guilds, which were commissioned to decorate this grain market-turned-church. One of the city's grandest examples of the Medieval and Renaissance connection between religion, politics, and art, the granary and later church of Orsanmichele has an extremely complex history. To help make sense of it, we've collected some sources here for edification.</p>
 			<ul class="actions">
-				<li><a href="{{ '/sites/orsanmichele.html' | absolute_url }}" class="button small">More</a></li>
+				<li><a href="http://localhost:4000/sites/orsanmichele.html" class="button small">More</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="{{ '/sites/santa-croce.html' | absolute_url }}" class="image"><img src="assets/images/thumbnail_CrocePlan.jpg" alt="A blueprint of the floorplan of Santa Croce." /></a>
+			<a href="http://localhost:4000/sites/santa-croce.html" class="image"><img src="assets/images/thumbnail_CrocePlan.jpg" alt="A blueprint of the floorplan of Santa Croce." /></a>
 			<h3>Santa Croce</h3>
 			<p>Located on the site of a facility that had housed early followers of St. Francis as early as 1212, the enormous mendicant church was initiated in 1295 thanks to plans crafted (according to legend) by Arnolfo di Cambio. Despite its location in the midst of laborers engaged in the messy, dangerous, and thankless work of wool production, the friary catered to the spiritual interests and needs of some of the city’s wealthiest elites. Click "More" to see an animation of the church's development from the 1250s to the 1400s.</p>
 			<ul class="actions">
-				<li><a href="{{ '/sites/santa-croce.html' | absolute_url }}" class="button small">More</a></li>
+				<li><a href="http://localhost:4000/sites/santa-croce.html" class="button small">More</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="{{ '/sites/miniato.html' | absolute_url }}" class="image"><img src="assets/images/san_miniato.jpeg" alt="" /></a>
+			<a href="http://localhost:4000/sites/miniato.html" class="image"><img src="assets/images/san_miniato.jpeg" alt="" /></a>
 			<h3>San Miniato</h3>
 			<p>Built c. 1080, this is one of the oldest and highest elevated locations in Florence.</p>
 			<ul class="actions">
-				<li><a href="{{ '/sites/miniato.html' | absolute_url }}" class="button small">More</a></li>
+				<li><a href="http://localhost:4000/sites/miniato.html" class="button small">More</a></li>
 			</ul>
 		</article>
 			-->
@@ -67,11 +81,11 @@ layout: default
 	<div class="posts">
 		<article>
 			<div class="sketchfab-embed-wrapper">
-			<iframe width="100%" height="480" src="https://sketchfab.com/models/611e480a37db4ddca53216bfe7c98dc0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+			<iframe width="100%" height="480" src="https://sketchfab.com/models/611e480a37db4ddca53216bfe7c98dc0/embed" frameborder="0" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 				<p style="font-size: 12px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-				    <a href="https://sketchfab.com/models/611e480a37db4ddca53216bfe7c98dc0?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Bigallo</a>
-				    by <b>Sam Joseph</b> for <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>
-				    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+				    <a href="https://sketchfab.com/models/611e480a37db4ddca53216bfe7c98dc0?utm_medium=embed&amp;utm_source=website&amp;utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Bigallo</a>
+				    by <b>Sam Joseph</b> for <a href="https://sketchfab.com/FLAW?utm_medium=embed&amp;utm_source=website&amp;utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>
+				    on <a href="https://sketchfab.com?utm_medium=embed&amp;utm_source=website&amp;utm_campain=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 				</p>
 			</div>
 		</article>
@@ -125,10 +139,8 @@ layout: default
 			<div class="content">
 				<h3>Miscellaneous</h3>
 				<p>Context-Dependent Sources</p>
-				{% assign texts = site.texts | where:"category", "misc" %}
-				{% for text in texts %}
-				<li><a href="{{ text.url | absolute_url }}">{{ text.title }}</a></li>
-				{% endfor %}
+				
+				
 			</div>
 		</article>
 	</div>
@@ -140,19 +152,20 @@ layout: default
 	<div class="affiliation">
 	<h2>Supporters</h2>
 
-	<p> A member of the <em>Florentia Illustrata</em> Consortium. View all of our <a href= "http://florenceasitwas.wlu.edu/affiliations.html"> affiliations.</a> </p>
+	<p> A member of the <em>Florentia Illustrata</em> Consortium. View all of our <a href="http://florenceasitwas.wlu.edu/affiliations.html"> affiliations.</a> </p>
 	<div>
 		<a href="https://wlu.edu/">
-			<img src="/assets/images/logo_wlu.png" alt="" height ="80"></a>&emsp;
+			<img src="/assets/images/logo_wlu.png" alt="" height="80" /></a>&emsp;
 		<a href="https://digitalhumanities.wlu.edu/">
-			<img src="/assets/images/logo_dhwlu.png" alt="" height ="80"></a>&emsp;
+			<img src="/assets/images/logo_dhwlu.png" alt="" height="80" /></a>&emsp;
 		<a href="https://mellon.org/">
-			<img src="assets/images/logo_mellon.png" alt="" height="80"></a>&emsp;
+			<img src="assets/images/logo_mellon.png" alt="" height="80" /></a>&emsp;
 		<a href="https://www.rlounsbery.org/">
-			<img src="assets/images/logo_rl.png" alt="" height="80"></a>&emsp;
+			<img src="assets/images/logo_rl.png" alt="" height="80" /></a>&emsp;
 		<a href="http://itatti.harvard.edu/">
-			<img src="assets/images/itatti.png" alt="" height="80"></a>&emsp;
+			<img src="assets/images/itatti.png" alt="" height="80" /></a>&emsp;
 		
 	</div>
 	</div>
 </section>
+:ET
