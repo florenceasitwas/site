@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: article
 title: La Loggetta del Bigallo
 building: bigallo
 tags:
+category: translation
 status: live
 ---
 

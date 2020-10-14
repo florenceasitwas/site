@@ -30,7 +30,20 @@ Here you will find the compendium of all our Florentine research and scholarship
 </ul>
 </article>
 </div>
+
+
 <div class="row encyclopedia">
+<article>
+<h2><span class="icon fa-balance-scale"></span> Culture</h2>
+<ul>
+{% assign var3 = site.culture | where:"status","live" | sort: 'title' %}
+{% for item in var3 %}
+  <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
+{% endfor %}
+</ul>
+</article>
+
+
 <article>
   <h2><span class="icon fa-file-text"></span> Original Sources</h2>
   <ul>
@@ -41,11 +54,17 @@ Here you will find the compendium of all our Florentine research and scholarship
   </ul>
 </article>
 
+</div>
+
+
+<div class="row encyclopedia">
+
+
 <article>
 <h2><span class="icon fa-users"></span> People</h2>
 <ul>
-{% assign var3 = site.people | where:"status","live" | sort: 'title' %}
-{% for item in var3 %}
+{% assign var5 = site.people | where:"status","live" | sort: 'title' %}
+{% for item in var5 %}
   <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
 {% endfor %}
 </ul>
