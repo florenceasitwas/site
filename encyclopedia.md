@@ -34,7 +34,7 @@ Here you will find the compendium of all our Florentine research and scholarship
 <article>
   <h2><span class="icon fa-file-text"></span> Original Sources</h2>
   <ul>
-  {% assign var4 = site.sources | where:"status","live" | | sort: 'title' %}
+  {% assign var4 = site.sources | where:"status","live" | sort: 'title' %}
     {% for item in var4 %}
         <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>      
     {% endfor %}

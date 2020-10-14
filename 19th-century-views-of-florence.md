@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: 19th-Century Views of Florence
 ---
 ## Paintings by Fabio Borbottoni (1820-1902) <a id="paintings"></a>
@@ -45,7 +45,7 @@ title: 19th-Century Views of Florence
 
 ## Piazza S. Andrea <a id="sandrea"></a>
 <figure>
-<img src="assets/images/borbottoni/01 Piazza S Andrea 2.jpg" alt="01 S Andrea">
+<a href="{{ root_url }}/assets/images/borbottoni/01 Piazza S Andrea 2.jpg"><img src="assets/images/borbottoni/01 Piazza S Andrea 2.jpg" alt="01 S Andrea"></a>
  <figcaption markdown="1">
 *Veduta della Piazza della Chiesa di S. Andrea nel Vecchio Mercato di Firenze*
 <p>"View of the Piazza della Chiesa di S. Andrea in the Old Market of Florence"</p>
