@@ -2,7 +2,8 @@
 layout: article
 title: Giottino
 image:
-category: painter
+category: artist
+tags: painter
 status: live
 author_first: Henry
 author_last: Heery 
