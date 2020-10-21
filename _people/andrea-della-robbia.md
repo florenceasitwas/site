@@ -2,7 +2,8 @@
 layout: article
 title: Andrea della Robbia
 image:
-category: painter
+category: artist
+tags: painter
 status: live
 author_first: Emma
 author_last: Derr
