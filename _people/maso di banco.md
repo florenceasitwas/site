@@ -1,12 +1,17 @@
 ---
-layout: page
+layout: article
 title: Maso di Banco
 image:
+category: artist
 tags: painter
+dates: ca. 1305-1350
+author_first: Audrey
+author_last: Overholt
+secondauthor_first: Sofia
+secondauthor_last: Yasin
 status: live
 ---
-### Maso di Banco (ca. 1305 – ca. 1350)
-### Painter
+## Maso di Banco (ca. 1305 – ca. 1350)
 
 Though he only worked for a short period in the first half of the 14th century, Maso di Banco is considered one of the greatest students of [Giotto](insert link). Despite his illustrious teacher and accomplished personal career, almost no information remains about his life. Though it is known that he worked in Florence circa 1330-1350, none of his work was ever signed or dated, a fact which has furthered the mystery surrounding his brief career.
 
@@ -21,7 +26,7 @@ These stylistic tendencies reappear in the fresco on the opposite wall of the Ba
 The little information we have about Maso includes the mention of him in guild records and registers, such as his matriculation into the [Arte de’ Medici e Speziali guild](insert link) in 1346 and the appearance of his name in the Register of the [Compagnia di S. Luca](insert link) in 1350. But there is no mention of him at any time after this. Given this lack of documentation, Maso di Banco’s legacy relies chiefly on Ghiberti’s accounts of his skill and range, his status as a pupil of Giotto, and most importantly his frescoes in the Bardi di Vernio Chapel.
 
 -----
-Bibliography
+## Bibliography
 
 Chilvers, Ian, Harold Osborne, and Dennis Farr. “Maso Di Banco.” *The Oxford Dictionary of Art*. Oxford: Oxford  University Press, 2002.
 
@@ -30,6 +35,3 @@ Turner, Jane, ed. *The Dictionary of Art*. Vol. 20. New York: Grove, 1996.
 Wilkins, David George. *Maso di Banco: A Florentine Artist of the Early Trecento*. University of Michigan, ProQuest Dissertations Publishing, 1969.
 
 
-Audrey Overholt
-
-Sofia Yasin
