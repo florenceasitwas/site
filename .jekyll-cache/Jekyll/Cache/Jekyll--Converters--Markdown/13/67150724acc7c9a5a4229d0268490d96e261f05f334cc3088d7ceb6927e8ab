@@ -1,0 +1,32 @@
+I"Ë<div class="encyclopedia">
+<article>
+<h2><span class="icon fa-file-text"></span> Documents</h2>
+<ul>
+
+
+  <li><a href="http://localhost:4000/sources/bigallo-migliore.html">Del Migliore on the Bigallo</a></li>
+
+  <li><a href="http://localhost:4000/sources/bigallo-hotspots.html">Bigallo Hotspots</a></li>
+
+  <li><a href="http://localhost:4000/sources/bigallo-passerini.html">La Loggetta del Bigallo</a></li>
+
+  <li><a href="http://localhost:4000/sources/bigallo-saalman.html">Primary Sources Used by Saalman</a></li>
+
+  <li><a href="http://localhost:4000/sources/bigallo-sichi.html">Il Bigallo - Un'Istituzione di Beneficenza Fiorentina</a></li>
+
+</ul>
+</article>
+
+<article>
+<h2><span class="icon fa-globe"></span> Translations</h2>
+<ul>
+
+
+  <li><a href="http://localhost:4000/sources/bigallo-migliore.html">Del Migliore on the Bigallo</a></li>
+
+  <li><a href="http://localhost:4000/sources/bigallo-passerini.html">La Loggetta del Bigallo</a></li>
+
+</ul>
+</article>
+</div>
+:ET
