@@ -1,13 +1,16 @@
 ---
-layout: page
+layout: article
 title: Alberto Arnoldi
 image:
-category: sculptor
+category: artist
+tags: sculptor
+dates: ca. 1320-1370
+author_first: George
+author_last: Bent
 status:
 ---
 
-### ca. 1320? – ca. 1370?
-### Sculptor
+## Alberto Arnoldi (ca. 1320 - 1370)
 
 Alberto Arnoldi appears to have been born in Florence, although the date of his birth has never been discovered. Indeed, practically nothing about this sculptor of note is known, and our understanding of his work and his legacy comes down to us only circumstantially.
 
@@ -26,7 +29,7 @@ However, we must temper this evaluation with important caveats. First, Arnoldi p
 Alberto Arnoldi was the fourteenth-century equivalent of a One-Hit Wonder. The sculptures for the Bigallo are all that’s left for us to consider from his career.
 
 ---
-Bibliography
+## Bibliography
 
 Earenfight, Phillip. “Sacred Sites in Civic Spaces:  The Misericordia and Orsanmichele in Post-Plague Florence,” in *The Historian’s Eye:  Essays on Italian Art in Honor of Andrew Ladis,* Hayden B. J. Maginnis and Shelley E. Zuraw, eds., Athens, GA, 2009, 15-32.
 
@@ -35,5 +38,3 @@ Kreytenberg, Gert. “Die Trecenteske Dekoration der Stirnwand im Oratorio del B
 Levin, William.  “Advertising Charity in the Trecento:  The Public Decorations of the Misericordia in Florence,” *Studies in Iconography* 17 (1996), 215-309.
 
 Passerini, Luigi. *Curiosità storico-artistiche Fiorentine* (Florence, 1866), 91-98.
-
-__GB__
