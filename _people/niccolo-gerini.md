@@ -5,6 +5,7 @@ tags: painter
 dates: ca. 1340-1416
 author_first: George
 author_last: Bent
+date_published: October 2020
 status: live
 ---
 
