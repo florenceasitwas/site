@@ -3,6 +3,7 @@ layout: article
 image: architettura_campanile.jpg
 title: Andrea Pisano
 dates: ca. 1295 – 1348
+category: artist
 tags: sculptor, architect
 status: live 
 author_first: George
