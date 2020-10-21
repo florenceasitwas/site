@@ -23,18 +23,19 @@ Few artists in the history of Western Civilization have received as much attenti
 His origins, like those of most of his peers, can only be guessed at. Giotto appears to have been born in or around the year 1267, and he was certainly a contemporary of the famed poet, [Dante Alighieri](insert link) (who mentions him by name in Purgatorio XI: 91-96), the Sienese master [Duccio di Buoninsegna](insert link), and the painter [Cimabue](insert link), who [Lorenzo Ghiberti](insert link) and then Vasari claimed was his master. These two artists, Cimabue and Giotto, were linked together at the height of the latter’s career. As early as 1315, Dante celebrated them in a rather backwards way by using them as examples of the fleetingness of fame, when he famously wrote: 	
 
 
-O, empty glory of the powers of humans!
-	How briefly does green endure upon the peak –
+> O, empty glory of the powers of humans!\
+	How briefly does green endure upon the peak –\
 	Unless an age of dullness follows it.
-		In painting, Cimabue thought he held
-	The field, but now it’s Giotto they acclaim –
-	The former only keeps a shadowed fame.
+	
+> In painting, Cimabue thought he held\
+The field, but now it’s Giotto they acclaim –\
+The former only keeps a shadowed fame.
 
 
 The connection between Cimabue and Giotto was underscored in Ghiberti’s *Commentarii* of about 1450, in which the oft-repeated legend of the older artist’s discovery of the child prodigy – drawing a picture of a sheep on a rock – was first articulated. This initial comment on Giotto’s interest in using nature as a guide became the signature theme in Ghiberti’s biography of the painter. Wrote Ghiberti,
 
 
-“Giotto was an enormously important figure in the field of painting. He brought forth to prominence the new art, abandoning the clumsiness of the Greeks. He made towering works of greatness, especially in the city of Florence (and in many other places) and collected disciples who were, in every way, the equal of the ancients. Indeed, one sees in Giotto’s art works that his followers could not better. He elevated nature in art, and with it a certain gentility, without ignoring proper proportions and measures. He was extremely skilled in all the arts, was an inventor and discoverer of many theories which had been buried for almost 600 years. When nature wanted to concede something, it conceded without a single complaint.”
+> Giotto was an enormously important figure in the field of painting. He brought forth to prominence the new art, abandoning the clumsiness of the Greeks. He made towering works of greatness, especially in the city of Florence (and in many other places) and collected disciples who were, in every way, the equal of the ancients. Indeed, one sees in Giotto’s art works that his followers could not better. He elevated nature in art, and with it a certain gentility, without ignoring proper proportions and measures. He was extremely skilled in all the arts, was an inventor and discoverer of many theories which had been buried for almost 600 years. When nature wanted to concede something, it conceded without a single complaint.
 
 
 Embedded in his lengthier biography of Giotto is Vasari’s terse remark that Giotto, “freed himself from the rude manner of the Greeks and brought back to life the true art of painting.”
