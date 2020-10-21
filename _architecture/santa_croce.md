@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: architecture
 title: Santa Croce
 category:
+building: santa_croce
 image: Santa_Croce.gif
 alt_text: This gif is a timelapse of Santa Croce's development
 status: live
