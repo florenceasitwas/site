@@ -2,7 +2,9 @@
 layout: article
 title: Andrea di Bonaiuto
 image:
-category: painter
+category: artist
+tags: painter
+dates: ca. 1325-1379
 status: live
 author_first: Alice
 author_last: Chambers
