@@ -5,7 +5,7 @@ tags: painter
 dates: ca. 1340-1416
 author_first: George
 author_last: Bent
-status:
+status: live
 ---
 
 ## Niccolo Gerini (ca. 1340–1416)
