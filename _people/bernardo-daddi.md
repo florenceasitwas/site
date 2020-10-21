@@ -3,6 +3,7 @@ layout: article
 image: misericordia_alt.jpg
 title: Bernardo Daddi
 dates: ca. 1280 – 1348
+category: artist
 tags: painter
 status: live
 author_first: George
