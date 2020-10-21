@@ -2,7 +2,9 @@
 layout: article
 title: Arnolfo di Cambio
 image:
-category: sculptor, mason
+category: artist
+tags: sculptor, mason
+dates: ca. 1240-1302
 status: live
 author_first: Chris
 author_last: McCrackin
