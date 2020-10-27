@@ -3,6 +3,7 @@ layout: article
 title: Niccolo di Pietro Gerini
 tags: painter
 dates: ca. 1340-1416
+building: bigallo
 author_first: George
 author_last: Bent
 date_published: October 2020
