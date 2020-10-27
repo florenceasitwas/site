@@ -3,6 +3,7 @@ layout: article
 title: Taddeo Gaddi
 image:
 category: painter
+building: santa-croce
 status: live
 author_first: John Carr
 author_last: Haden
