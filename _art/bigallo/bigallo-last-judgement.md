@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 image:
 title: Bigallo Last Judgement
 artist: Nardo di Cione
@@ -7,9 +7,13 @@ dates: ca. 1363
 tags: bigallo
 status: live
 building: bigallo
+author_first: George
+author_last: Bent
+date_published:
+date_updated: October 2020
 ---
 
-### Nardo di Cione, *Last Judgment,* ca. 1363
+## Nardo di Cione, *Last Judgment,* ca. 1363
 
 The wall just within the confines of the [Bigallo’s loggia](insert link) contains a now-damaged and detached fresco that probably illustrated the theme of the *Last Judgment* that artists like [Nardo di Cione](insert link) found so appealing during the fourteenth century (figure 1). The painting faced out toward the public from the chamber just inside the entrance, positioned on its west wall and facing east toward the [Campanile](insert link) that [Andrea Pisano](insert link) had recently ornamented with dozens of [marble reliefs](insert link).
 
@@ -22,9 +26,9 @@ Circumstantial evidence points toward Nardo as the artist responsible for the *L
 The damage to this fresco obviously impedes our understanding and interpretation of it within the context of the Bigallo’s development as a charitable, social, and political institution. Certainly its subject matter made clear the spiritual qualities to which the [Company of the Misericordia](insert link) aspired, while the rather fierce representation of the uncompromising Christ figure must have injected into this setting – and projected onto the street where passersby could see it – a severe reminder of the fleetingness of time and the certainty of judgment at the End of Days. For precisely these reasons the *Last Judgment* was the perfect image for a confraternity eager to coax new members (and deep-pocketed donors) into its midst, for this reminder of the importance the Christian faith placed on works of charity was more than a subtle hint that this was a place worth supporting.
 
 ---
+## Bibliography
 
 Bent, George R. *Public Painting and Visual Culture in Early Republican Florence* (Cambridge University Press: New York, 2017)
 
 Kreytenberg, Gert. “Die Trecenteske Dekoration der Stirnwand im Oratorio del Bigallo.” *Mitteilungen des Kunsthistorischen Institutes in Florenz* 20 (1976): 397-403.
 
-**GB**
