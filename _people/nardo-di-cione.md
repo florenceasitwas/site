@@ -5,7 +5,7 @@ image:
 category: artist 
 tags: painter
 dates: c. 1366
-building: bigallo
+building: bigallo, santa-croce
 author_first: George
 author_last: Bent
 date_published: October 2020
