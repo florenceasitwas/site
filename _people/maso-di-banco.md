@@ -5,6 +5,7 @@ image:
 category: artist
 tags: painter
 dates: ca. 1305-1350
+building: santa-croce
 author_first: Audrey
 author_last: Overholt
 secondauthor_first: Sofia
