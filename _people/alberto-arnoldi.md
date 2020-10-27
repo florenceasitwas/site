@@ -5,6 +5,7 @@ image:
 category: artist
 tags: sculptor
 dates: ca. 1320-1370
+building: bigallo
 author_first: George
 author_last: Bent
 status: live 
