@@ -5,7 +5,7 @@ image:
 category: artist
 tags: sculptor, mason
 dates: ca. 1240-1302
-building: santa croce 
+building: santa-croce 
 status: live
 author_first: Chris
 author_last: McCrackin
