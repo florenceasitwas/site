@@ -5,6 +5,7 @@ title: Bernardo Daddi
 dates: ca. 1280 – 1348
 category: artist
 tags: painter
+building: santa-croce
 status: live
 author_first: George
 author_last: Bent
@@ -28,7 +29,7 @@ Although Giotto is usually credited with the transition away from “Romanesque�
 
 ---
 
-## Archival References to Bernardo Daddi
+## Archival References
 
 Recorded in Richard Offner, A Critical and Historical Corpus of Florentine Painting, Section III, Volume III (New York, 1930).
 
