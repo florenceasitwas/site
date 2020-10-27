@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: article
 title: Nardo di Cione
 image:
+category: artist 
 tags: painter
-status:
+dates: c. 1366
+author_first: George
+author_last: Bent
+date_published: October 2020
+status: live
 ---
 
-### Nardo di Cione, died c. 1366
-### Painter
+## Nardo di Cione (died c.1366)
 
 Nardo di Cione partnered with his brother, [Andrea di Cione](insert link), to form one of the most successful and influential artistic workshops in post-plague Florence. Particularly gifted in the realm of fresco painting, Nardo’s works adorned a wide array of institutions across the city, and the famous [letter of 1349](insert link) lists him (as well as his fraternal colleague) as one of the best painters working in Florence at the time.
 
@@ -15,16 +19,16 @@ Nardo di Cione partnered with his brother, [Andrea di Cione](insert link), to fo
 
 Most of Nardo’s life was lived in the parish of S. Michele Visdomini, the neighborhood abutting the cathedral to the north that was heavily populated by painters. But near the end of his life, Nardo moved closer to [S. Maria Novella](insert link), at the city’s west end. He died there in 1365 and, like his older brother, he seems to have felt a spiritual tug that caused him to bequeath to the [Company of the Misericordia](insert link) a decent sum of money in his will, one of a number of [documents](insert link) pertaining to his life and legacy that have been discovered in the Florentine Archives.
 
-Nardo’s earliest works may have been produced in the nave of the Franciscan church of [S. Croce](insert link), where Andrea di Cione appears to have led a large-scale project to paint a vast image of the [*Last Judgment*](insert link) on the south wall of the nave (image). He then seems to have worked inside the headquarters of the [Arte della Lana](insert link), the Wool Guild, where we still see an image of the [*Judgment of Brutus*](insert link) that adorns the north wall of the Audience Hall (image). After surviving the [Black Death](insert link) of 1348, Nardo was engaged in the complicated fresco cycle of the [*Last Judgment*](insert link) in the recently constructed chapel in the transept of S. Maria Novella that was maintained by the Strozzi Family. He painted frescoes in the [Bigallo](insert link) as well, but also produced modestly-sized devotional triptychs for private viewers, like the [one in Washington’s National Gallery](insert link), and altarpieces for local churches, like the [*Trinity*](insert link) and [*Madonna and Child Enthroned*](insert link) for the Chapterhouse of the Camaldolese monastery of [S. Maria degli Angeli](insert link).
+Nardo’s earliest works may have been produced in the nave of the Franciscan church of [S. Croce](insert link), where Andrea di Cione appears to have led a large-scale project to paint a vast image of the [*Last Judgment*](insert link) on the south wall of the nave. He then seems to have worked inside the headquarters of the [Arte della Lana](insert link), the Wool Guild, where we still see an image of the [*Judgment of Brutus*](insert link) that adorns the north wall of the Audience Hall. After surviving the [Black Death](insert link) of 1348, Nardo was engaged in the complicated fresco cycle of the [*Last Judgment*](insert link) in the recently constructed chapel in the transept of S. Maria Novella that was maintained by the Strozzi Family. He painted frescoes in the [Bigallo](insert link) as well, and even produced modestly-sized devotional triptychs for private viewers, like the [one in Washington’s National Gallery](insert link), and altarpieces for local churches, like the [*Trinity*](insert link) and [*Madonna and Child Enthroned*](insert link) for the Chapterhouse of the Camaldolese monastery of [S. Maria degli Angeli](insert link).
 
-Nardo’s stylistic approach matches that of his brother, Andrea. His proportionally accurate figures exert a kind of volumetric heft that’s articulated by subtle suggestions of light that move across draperies undulating over bodies. Facial features suggest of stoic rigor, and often include furrowed brows and drooping lips surrounded by white whiskers. The throats of his male characters in particular often bulge with shaded muscles that converge in a V pattern around the Adam’s Apple.
+Nardo’s stylistic approach matches that of his brother, Andrea. His proportionally accurate figures exert a kind of volumetric heft that’s articulated by subtle suggestions of light that move across draperies undulating over bodies. Facial features suggest stoic rigor, and often include furrowed brows and drooping lips surrounded by white whiskers. The throats of his male characters in particular often bulge with shaded muscles that converge in a V pattern around the Adam’s Apple.
 
 Nardo’s stylistic choices influenced generations of painters – including such popular figures as [Niccolò di Pietro Gerini](insert link), [Giovanni del Biondo](insert link), and his younger brother [Jacopo di Cione](insert link). Even the florid brushwork of [Lorenzo Monaco](insert link), the great painter of the early fifteenth century, can be considered as a form of dialogue with the approaches taken by Nardo di Cione.
 
 Bracketed by the sparkling innovative spirit of [Giotto](insert link) and the equally transformative approach of [Masaccio](insert link), Nardo di Cione and his mid-fourteenth-century peers often get overlooked when considering the grand sweep of Italian art in the early Renaissance period. But his adoption of the tenets of the older artist, combined with his own nuanced sense of spiritual rigor, formed a transitional bridge between the early fourteenth century and the fifteenth in ways that cannot be over-emphasized. He’s truly one of the great painters of the Florentine Trecento.
 
 ---
-Bibliography
+## Bibliography
 
 Becherucci, Luisa and Giulia Brunetti. *Il Museo dell’Opera del Duomo di Firenze I and II* (Milan and Florence, 1969-70).
 
@@ -44,9 +48,9 @@ Offner, Richard. *A Critical and Historical Corpus of Florentine Painting*, Sect
 
 Pitts, Frances. “Nardo di Cione and the Strozzi Chapel Frescoes.” Ph.D dissertation (University of California, Berkeley, 1982).
 
-**GB**
-
 ---
+
+## Archival References 
 
 As the Florentine new year began on March 25, all references to events transpiring in the three preceding months are marked with both the original year according to the old calendar and, in parentheses, the year according to our modern one.
 
