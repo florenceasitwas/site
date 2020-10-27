@@ -5,6 +5,7 @@ image:
 category: artist
 tags: painter, architect
 dates: ca. 1265-1337
+building: santa-croce
 author_first: George
 author_last: Bent
 secondauthor_first: Cadence
