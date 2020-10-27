@@ -9,7 +9,7 @@ blurb: Fourteenth-century granary and church of the guilds
 thumbnail: Orsanmichele_thumbnail.jpg
 front_page: live
 image-model: orsanmichele_1.jpg
-image-image: 
+image-image: orsanmichele_biadaiolo.jpg
 image-articles: 
 image-sources: 
 ---
