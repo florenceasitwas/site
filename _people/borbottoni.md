@@ -4,13 +4,12 @@ title: Fabio Borbottoni
 category: historian
 author_first: George
 author_last: Bent
-date_published:
+date_published: 2017
 date_updated:
 status: live
 ---
 
-## Fabio Borbottoni 
-### Railroad Employee, Amateur Painter, Unrepentant Romantic
+## Fabio Borbottoni: Railroad Employee, Amateur Painter, Unrepentant Romantic
 
 Fabio Borbottoni (1823-1901), a minor official in the Italian Railroad system, practiced painting as a hobby. The Florentine native produced over 120 small, square pictures of the city’s medieval structures as they appeared to him during the years of the Risorgimento – the period of Italian unification and statehood that arose during the decade of the 1860s and the latter decades of the nineteenth century when a national identity began to formulate.
 
