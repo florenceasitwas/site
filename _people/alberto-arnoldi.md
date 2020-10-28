@@ -8,6 +8,7 @@ dates: ca. 1320-1370
 building: bigallo
 author_first: George
 author_last: Bent
+date_published: October 2020
 status: live 
 ---
 
