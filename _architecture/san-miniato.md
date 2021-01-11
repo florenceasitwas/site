@@ -7,7 +7,7 @@ image: miniato.png
 blurb: Eleventh-century Olivetan church and monastery
 status: live
 image-model: miniato.png
-image-image: miniato.png
+image-image: 
 image-articles: 
 image-sources:
 front_page: live
