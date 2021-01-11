@@ -9,7 +9,7 @@ status: live
 image-model: miniato.png
 image-image: 
 image-articles: 
-image-sources:
+image-sources: san-miniato.png
 front_page: live
 ---
 
