@@ -3,7 +3,7 @@ layout: architecture
 title: Orsanmichele
 category: church
 building: orsanmichele
-image: miniato.png
+image: orsanmichele_1.jpg
 status: live
 blurb: Fourteenth-century granary and church of the guilds
 thumbnail: Orsanmichele_thumbnail.jpg
