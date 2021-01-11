@@ -1,7 +1,7 @@
 ---
 layout: architecture
 title: San Miniato
-category: church
+category: 
 building: san-miniato
 image: san-miniato.png
 blurb: Eleventh-century Olivetan church and monastery
