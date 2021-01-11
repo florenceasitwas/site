@@ -5,7 +5,7 @@ category:
 building: san-miniato
 image: SantaCroce_thumbnail.jpg
 blurb: Eleventh-century Olivetan church and monastery
-thumbnail: SantaCroce_thumbnail.jpg
+thumbnail: san-miniato_thumbnail.png
 status: live
 image-model: miniato.png
 image-image: 
