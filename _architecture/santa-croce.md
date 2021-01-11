@@ -7,7 +7,7 @@ image: Santa_Croce.gif
 alt_text: This gif is a timelapse of Santa Croce's development
 status: live
 blurb: Fourteenth- and fifteenth-century Franciscan church and friary
-thumbnail: san-miniato_image.png
+thumbnail: SantaCroce_thumbnail.jpg
 front_page: live
 image-model: image-model-santa-croce.png
 image-image: image-images-santa-croce.png
