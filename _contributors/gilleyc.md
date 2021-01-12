@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colby Gilley
-image: bio_gilleyc.jpg
+image: bio_gilleyc.jpeg
 category:
 status: past
 ---
