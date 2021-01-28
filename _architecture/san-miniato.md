@@ -8,7 +8,7 @@ blurb: Eleventh-century Olivetan church and monastery
 thumbnail: san-miniato_thumbnail.png
 status: live
 image-model: miniato.png
-image-image: 
+image-image: san-miniato_images.png
 image-articles: san-miniato_articles.png
 image-sources: san-miniato.png
 front_page: live
