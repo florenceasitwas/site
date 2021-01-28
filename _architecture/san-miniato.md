@@ -9,7 +9,7 @@ thumbnail: san-miniato_thumbnail.png
 status: live
 image-model: miniato.png
 image-image: 
-image-articles: 
+image-articles: san-miniato_articles.png
 image-sources: san-miniato.png
 front_page: live
 ---
