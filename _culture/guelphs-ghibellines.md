@@ -8,7 +8,7 @@ dates:
 author_first: Max
 author_last: Weaver
 date_published: January 2021
-status: 
+status: live
 ---
 
 ## The Guelph-Ghibelline Rivalry 
