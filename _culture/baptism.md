@@ -6,8 +6,8 @@ tags:
 building: baptistery 
 author_first: Colby
 author_last: Gilley
-date_published: 
-date_updated: 
+date_published: November 2017
+date_updated: January 2021
 status: live
 ---
 
