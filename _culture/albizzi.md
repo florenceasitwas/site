@@ -1,6 +1,6 @@
 ---
 layout: article
-title: The Albizzi Regime
+title: The Albizzi Family
 image:
 category: culture
 tags: 
@@ -11,7 +11,7 @@ date_published: February 2021
 status: live
 ---
 
-## The Albizzi Family and Florence
+## The Albizzi Family
 
 The obsession with power among Florentine elites that revolved around a desire to enjoy political immunity and tax concessions defined the latter half of the Trecento. These elite aligned themselves in several ways, including through familial alliances, guilds, and political parties. The Albizzi family in particular rose to power during the last quarter of the fourteenth century through their increasing influence over bureaucratic offices and their perceived interest in the common good. 
 
