@@ -3,6 +3,7 @@ layout: page
 title: St. Matthew, Orsanmichele Pier
 image:
 tags:
+building: orsanmichele
 status: live
 ---
 
