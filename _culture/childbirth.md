@@ -23,7 +23,7 @@ Men happily left the women to their work during labor because childbirth came wi
   
  Despite the many assistants, the risk of death remained high for both the woman and her newborn child. One estimate based on data from the years 1424, 1425, and 1430 claims that childbirth accounted for one-fifth of the deaths of married Florentine women. Even if both mother and child initially survived, the threat of infection, illness, or a fresh wave of the Black Death discouraged parents from getting too attached to their children. The practice of sending children to wet nurses or *balia* within just days of their birth and baptism contributed to the emotional separation between parent and child necessary for surviving uncertain times. This distant attitude toward young children manifested in glaring oversights in *catasto* records such as the underreporting of infants and generous rounding of ages. Though helpful as a coping mechanism, this separation also deprived a mother of an opportunity to exert some influence over her children, a facet of a woman’s life usually considered safely within the domestic realm and thus properly under her control. 
  
- ## Bibliography 
+## Bibliography 
  
 Haas, Louis. *The Renaissance Man and His Children: Childbirth and Early Childhood in Florence, 1300-1600* (New York: St. Martin’s Press, 1998). 
 
