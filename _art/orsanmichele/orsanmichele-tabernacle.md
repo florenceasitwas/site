@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: article
 title: Orsanmichele Tabernacle
 image: orsanmichele_tabernacle.jpg
 tags:
+building: orsanmichele
+author_first: George
+author_last: Bent
+date_published: 
 status: live
 ---
 
@@ -23,9 +27,7 @@ Circling up and around the actual picture appear sets of angels who pull back a 
 
 Orcagna’s tabernacle received great acclaim almost as soon as it was completed. Only months after its installation in 1359, the artist was offered the position of Master of the Cathedral by the canons of the Duomo in the papal retreat town of Orvieto, about halfway between Florence and Rome: that endeavor lasted roughly three years, and by 1362 Orcagna was back in Florence, where he soon accepted the commission to produce a painted effigy of [*St. Matthew*](insert link) for the [Arte del Cambio](insert link), or Bankers Guild, of Florence. The decision to name the miracle-working picture inside it as the official painting of the city seems to have motivated, in part, by the sumptuous sculptural loggia that Orcagna had built around it. And when Stefano Marchioni wrote his chronicle of the city in 1377, Orcagna's s *Baldacchino* was the only work of art that the author bothered to mention, thus prioritizing this sculpture over the paintings by [Giotto](insert link), the reliefs by [Andrea Pisano](insert link), and the architecture of [Arnolfo di Cambio](insert link) as the image of primacy in a city filled with other logical candidates.
 
-GB
-
----
+## Bibliography 
 
 Cassidy, Brendan. “The Financing of the Tabernacle of Orsanmichele.” *Source* 8 (1988): 1-6.
 
