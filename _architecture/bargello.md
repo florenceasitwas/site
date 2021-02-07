@@ -3,9 +3,9 @@ layout: architecture
 title: The Bargello
 category: 
 building: bargello
-image: bargello-articles.png
+image: 
 blurb: 
-thumbnail: bargello-articles.png
+thumbnail: 
 status: live
 image-model: bargello-models.png
 image-image: bargello-images.png
