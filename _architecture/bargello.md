@@ -9,7 +9,7 @@ thumbnail: bargello-articles.png
 status: live
 image-model: bargello-models.png
 image-image: bargello-images.png
-image-articles: bargello-articles.png
+image-articles: bargello-articles2.png
 image-sources: bargello-sources.png
 front_page: live
 ---
