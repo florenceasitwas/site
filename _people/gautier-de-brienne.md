@@ -12,8 +12,7 @@ date_published: February 2021
 status: live 
 ---
 
-## Gautier de Brienne 
-### Duke of Athens
+## Gautier de Brienne: Duke of Athens
 
 Walter VI of Brienne (Gautier de Brienne), better known as the Duke of Athens, was a French nobleman invited to Florence in 1342 to help the Florentines defeat Pisa and gain possession of Lucca, a neighboring town. Described by the Florentine chronicler Giovanni Villani as cruel, cunning, avaricious, proud, and dictatorial, the duke was criticized by many for his tyrannical rule. 
 
