@@ -4,7 +4,7 @@ title: The Bargello
 category: 
 building: bargello
 image: bargello-articles.png
-blurb: 
+blurb: Palace of the Podestà, jail, and chapel for the condemned
 thumbnail: bargello-articles.png
 status: live
 image-model: bargello-models.png
