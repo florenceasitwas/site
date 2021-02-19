@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: article
 title: St. Matthew, Orsanmichele Pier
 image:
 tags:
+author_first:
+author_last:
 building: orsanmichele
 status: live
 ---
@@ -42,6 +44,7 @@ All the same, one cannot overlook the rather strange underlying message that the
 
 When, in 1369, the painting was finally installed in Orsanmichele, Jacopo di Cione submitted his portion of the painting to the [Arte dei Medici e Speziali](insert link) as a presentation piece by which his skills could be evaluated in anticipation of entry into the guild. At that time the picture faced the nearby tabernacle that Orcagna had completed only ten years earlier, as well as [Bernardo Daddi’s](insert link) miracle-working dossal of the [*Madonna del Orsanmichele*](insert link) inside it (figure 5). In a way, the single panel of Matthew and the narrative images next to it formed a sort of detached polyptych when see in tandem with the *Madonna* and the other pier panels and frescoes the surrounded it. Along with [Giovanni del Biondo’s](insert link) [*St. John the Evangelist*](insert link) (figure 6) and a number of other panel paintings of patron saints just like it, the image of *St. Matthew* injected a sense of pictorial elegance and gold-encrusted spirituality to the new church of Orsanmichele that now stood in place of the former grain distribution center of Florence.
 
+## Bibliography 
 
 Bent, George R. *Public Painting and Visual Culture in Early Republican Florence* (New York, 2017).
 
