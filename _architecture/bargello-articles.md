@@ -39,4 +39,14 @@ status:
 {% endfor %}
 </ul>
 </article>
+  
+ <article>
+<h2><span class="icon fa-paint-brush"></span> Architecture</h2>
+<ul>
+{% assign var1 = site.architecture | where:"building","bargello" %}
+{% for item in var1 %}
+  <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
+{% endfor %}
+</ul>
+</article>
 </div>
