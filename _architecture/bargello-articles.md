@@ -41,7 +41,7 @@ status:
 </article>
   
  <article>
-<h2><span class="icon fa-paint-brush"></span> Architecture</h2>
+<h2><span class="image fit arch"></span> Architecture</h2>
 <ul>
 {% assign var1 = site.architecture | where:"building","bargello" %}
 {% for item in var1 %}
