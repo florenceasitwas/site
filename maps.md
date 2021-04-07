@@ -17,8 +17,6 @@ This is our in-progress, two dimensional map of Florence using Buonsignori's 158
   + The pop-up boxes of some sites, such as Santa Croce and Orsanmichele, contain links to its building page and to our 3D Potree model. You can find these under "Website" and "3D Model" respectively.
   + Click "View larger map" below to go to a larger, more customizable map on ArcGIS.
 
-<a href="http://arcg.is/1GLGbj" style="color:#0000FF;text-align:left" target="blank">View larger map</a>
-
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
 
