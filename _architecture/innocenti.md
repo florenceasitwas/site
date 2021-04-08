@@ -1,6 +1,6 @@
 ---
 layout: architecture
-title: Innocenti
+title: The Innocenti
 category: 
 building: innocenti
 image: innocenti-models.png
