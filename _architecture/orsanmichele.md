@@ -6,7 +6,7 @@ building: orsanmichele
 image: orsanmichele_1.jpg
 status: live
 blurb: Fourteenth-century granary and church of the guilds
-thumbnail: Orsanmichele_thumbnail.jpg
+thumbnail: Orsanmichele_thumbnail2.jpg
 front_page: live
 image-model: orsanmichele-model.png
 image-image: orsanmichele.png
