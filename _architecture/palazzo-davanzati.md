@@ -4,7 +4,7 @@ title: Palazzo Davanzati
 category: 
 building: palazzo-davanzati
 image: palazzo-davanzati-thumbnail.png
-blurb: 
+blurb: 14th century merchant's residence
 thumbnail: palazzo-davanzati-thumbnail.png
 status: live
 image-model: palazzo-davanzati-models.png
