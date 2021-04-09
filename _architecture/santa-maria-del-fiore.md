@@ -2,7 +2,7 @@
 layout: architecture
 title: Santa Maria del Fiore (The Duomo)
 category: 
-building: santa maria del fiore
+building: santa-maria-del-fiore
 image: santa-maria-del-fiore-thumbnail.png
 blurb: 
 thumbnail: santa-maria-del-fiore-thumbnail.png
