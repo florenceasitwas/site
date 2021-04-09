@@ -4,7 +4,7 @@ title: The Innocenti
 category: 
 building: innocenti
 image: innocenti-models.png
-blurb: 
+blurb: 15th century children's hospital
 thumbnail: innocenti-thumbnail.png
 status: live
 image-model: innocenti-models.png
