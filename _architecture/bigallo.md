@@ -6,7 +6,7 @@ building: bigallo
 dates: ca. 1352 – 1358
 status: live
 blurb: Fourteenth-century charitable institution
-thumbnail: Bigallo_thumbnail.jpg
+thumbnail: Bigallo_thumbnail2.jpeg
 front_page: live
 image-model: image-model-bigallo.png
 image-image: image-image-bigallo.png
