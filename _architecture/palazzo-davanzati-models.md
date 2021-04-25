@@ -4,7 +4,7 @@ title: Models of the Palazzo Davanzati
 status: 
 ---
 
-<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/b91983f2635c4dd598d24db5ef901c95/embed"0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/b91983f2635c4dd598d24db5ef901c95/embed" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/3d-models/davanzati-10m-v1b-b91983f2635c4dd598d24db5ef901c95?utm_medium=embed&utm_campaign=share-popup&utm_content=b91983f2635c4dd598d24db5ef901c95">Palazzo Davanzati</a>
     by <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>
