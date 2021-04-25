@@ -39,5 +39,11 @@ status: live
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
-
+<div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/a82cab3bd20241759dff50ba252d7298/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/osm-annunciation2-a82cab3bd20241759dff50ba252d7298?utm_medium=embed&utm_campaign=share-popup&utm_content=a82cab3bd20241759dff50ba252d7298">The Annunciation</a>
+    by <a href="https://sketchfab.com/FLAW?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Florence As It Was</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
 
