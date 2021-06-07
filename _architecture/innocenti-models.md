@@ -3,6 +3,7 @@ layout: page
 title: Models of the Innocenti 
 status: 
 ---
+<iframe src="http://3d.wlu.Edu/v21/pages/innocenti_v3.html" width="800" height="600" frameborder="0"></iframe>
 
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/aeec5ac1ce37491c871e1ff166d39aa3/embed" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
