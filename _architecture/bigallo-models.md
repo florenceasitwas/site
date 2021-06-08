@@ -3,7 +3,13 @@ layout: page
 title: Bigallo Models
 status: live
 ---
-
+ <article>
+     <h2>Potree Pointcloud Models</h2>
+ <p>
+  <a href="http://3d.wlu.edu/v20/Bargello.html" title="Redirect to Bargello Model">
+    <img src="/assets/images/bargello-models-pointcloud.png" alt="Bargello Model" />
+  </a>
+</p>
 <div class="sketchfab-embed-wrapper">
 <iframe width="100%" height="480" src="https://sketchfab.com/models/611e480a37db4ddca53216bfe7c98dc0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
   <p style="font-size: 14px; font-weight: normal; margin: 5px; color: #4A4A4A;">
