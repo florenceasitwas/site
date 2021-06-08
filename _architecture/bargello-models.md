@@ -3,7 +3,13 @@ layout: page
 title: Models of the Bargello 
 status: 
 ---
-
+<article>
+     <h2>Potree Pointcloud Models</h2>
+ <p>
+  <a href="http://3d.wlu.edu/v20/Bargello.html" title="Redirect to Bargello Model">
+    <img src="/assets/images/bargello-models-pointcloud.png" alt="Bargello Model" />
+  </a>
+</p>
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/f7a44f983110464b9658759e4d29e55e/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/3d-models/verrocchios-bust-of-ginevra-test-1-f7a44f983110464b9658759e4d29e55e?utm_medium=embed&utm_campaign=share-popup&utm_content=f7a44f983110464b9658759e4d29e55e">Verrocchio's Bust of Ginevra</a>
