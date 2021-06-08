@@ -3,7 +3,13 @@ layout: page
 title: Models of Santa Croce
 status: live
 ---
-
+<article>
+     <h2>Potree Pointcloud Models</h2>
+ <p>
+  <a href="http://3d.wlu.edu/model//SCroce.html" title="Redirect to Santa Croce Model">
+    <img src="/assets/images/image-model-santa-croce.png" alt="Santa Croce Model" />
+  </a>
+</p>
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/178f57ccce134c81bb6f56bd5ad12f62/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/3d-models/bardi-chapel-178f57ccce134c81bb6f56bd5ad12f62?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Bardi Chapel</a>
