@@ -7,7 +7,7 @@ status:
      <h2>Potree Pointcloud Models</h2>
  <p>
   <a href="http://3d.wlu.edu/v21/pages/innocenti_v3.html" title="Redirect to Innocenti Model">
-    <img src="/assets/images/innocenti-models.png" alt="Innocenti" />
+    <img src="/assets/images/innocenti-models-pointcloud.png" alt="Innocenti" />
   </a>
 </p>
   <article>
