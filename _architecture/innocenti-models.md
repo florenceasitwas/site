@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Models of the Innocenti 
+image: innocenti-models.png
 status: 
 ---
  <article>
