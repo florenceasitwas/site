@@ -5,6 +5,7 @@ status:
 ---
  <article>
      <h2>Potree Pointcloud Models</h2>
+ <h3>To view the Pointcloud model, click the image below and see the Innocenti in 3D.</h3>
  <p>
   <a href="http://3d.wlu.edu/v21/pages/innocenti_v3.html" title="Redirect to Innocenti Model">
     <img src="/assets/images/innocenti-models-pointcloud.png" alt="Innocenti" />
