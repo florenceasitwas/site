@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elyssa Mcmaster
-image: bio_mcmastere.png
+image: bio_mcmastere.jpeg
 category:
 status: current
 ---
