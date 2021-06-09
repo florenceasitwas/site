@@ -5,7 +5,7 @@ status:
 ---
 <article>
      <h2>Potree Pointcloud Models</h2>
-     <h3>To view the Pointcloud model, click the image below and experience the Bargello in 3D.</h3>
+     <h3>To view the Pointcloud model, click the image below and experience the Palazzo Davanzati in 3D.</h3>
  <p>
   <a href="http://3d.wlu.edu/v20/davanzati.html" title="Redirect to Palazzo Davanzati Model">
     <img src="/assets/images/palazzo-davanzati-models-pointcloud.png" alt="Palazzo Davanzati Model" />
