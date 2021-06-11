@@ -53,7 +53,7 @@ title: 19th-Century Views of Florence
 </figure>
 
 <figure id="sandrea2">
-<a href="{{ root_url }}/assets/images/borbottoni/02 Piazza S Andrea.jpg"><img src="}/assets/images/borbottoni/02 Piazza S Andrea.jpg" alt="02 S Andrea"></a>
+<a href="{{ root_url }}/assets/images/borbottoni/02 Piazza S Andrea.jpg"><img src="assets/images/borbottoni/02 Piazza S Andrea.jpg" alt="02 S Andrea"></a>
  <figcaption markdown="1">
 *Via dei Cavalieri presa dalla Piazza di S. Andrea*
 <p>"View of the Via dei Cavalieri from the Piazza di S. Andrea"</p>
