@@ -30,9 +30,11 @@ status:
 		</article>
 <article>
       <h2>Potree Pointcloud Models</h2>
-        <div class="sketchfab-embed-wrapper">
-          <iframe width="100%" height="350" src="http://3d.wlu.edu/model/SCroce.html" frameborder="0"></iframe>
-
+	 <p>
+  <a href="http://3d.wlu.edu/model//SCroce.html" title="Redirect to Santa Croce Model">
+    <img src="/assets/images/santa-croce-models-pointcloud.png" alt="Santa Croce Model" />
+  </a>
+</p>
   <p style="font-size: 13px; font-weight: normal; margin: 5px;">
               <a href="http://3d.wlu.edu/model/SCroce.html" style="font-weight: bold;">Santa Croce Point Cloud</a>
           </p>
