@@ -254,7 +254,7 @@ title: 19th-Century Views of Florence
 </figure>
 
 <figure id="orsanmichele2">
-<a href="{{ root_url }}/assets/images/borbottoni/19OrsanmicheleandWoolGuild.jpg"><img src="assets/images/borbottoni/19OrsanmicheleandWoolGuild.jpg" alt="orsan2"></a> name="orsanmichele2"></a>
+<a href="{{ root_url }}/assets/images/borbottoni/19OrsanmicheleandWoolGuild.jpg"><img src="assets/images/borbottoni/19OrsanmicheleandWoolGuild.jpg" alt="orsan2"> name="orsanmichele2"></a>
 <figcaption markdown="1">
 *Residenza dell'Arte della Lana e Scala dell'Archivio sulla Via d'Orsanmichele*
 <p>"Headquarters of the Wool Guild and the stairs of the Archive on the Via d'Orsanmichele"</p>
