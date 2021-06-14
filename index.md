@@ -104,7 +104,7 @@ layout: default
 				<h3>Richa</h3>
 				<p>Italian, 1752-1760</p>
 				<p></p>
-					<li><a href="http://florenceasitwas.wlu.edu/texts/bigallo-richa.html" class="essaylink">Richa on the Bigallo</a></li>
+					<li><a href="site/_sources/richa-bigallo.md" class="essaylink">Richa on the Bigallo</a></li>
 			</div>
 		</article>
 		<article>
