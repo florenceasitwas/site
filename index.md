@@ -113,7 +113,7 @@ layout: default
 				<h3>Paatz</h3>
 				<p>Paatz - German, 1952-1955 - A German husband-and-wife team of art historians with an incredible attention to detail.</p>
 				<li>
-					<a href="http://florenceasitwas.wlu.edu/site/_sources/paatz-bigallo.md" class="essaylink">Paatz on the Bigallo</a>
+					<a href="http://florenceasitwas.wlu.edu/site/_sources/paatz-bigallo.html" class="essaylink">Paatz on the Bigallo</a>
 				</li>
 				<li>
 					<a href="http://florenceasitwas.wlu.edu/texts/orsanmichele-paatz-dau.html" class="essaylink">Paatz on Orsanmichele</a>
