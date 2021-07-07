@@ -38,7 +38,7 @@ status:
   <p style="font-size: 13px; font-weight: normal; margin: 5px;">
               <a href="http://3d.wlu.edu/model/SCroce.html" style="font-weight: bold;">Click on the image above to view the Santa Croce Point Cloud</a>
           </p>
-			<p>Although we are still getting used to the software, this is an example of one of our point cloud models made using Potree. <b>Click <a href="http://http://3d.wlu.edu/model/SCroce.html" target="blank">here</a> to view a much larger version of this model.</b> To navigate:</p>
+			<p>Although we are still getting used to the software, this is an example of one of our point cloud models made using Potree. <b>Click <a href="http://3d.wlu.edu/model/SCroce.html" target="blank">here</a> to view a much larger version of this model.</b> To navigate:</p>
 			<ul>
 				<li>Click the box in the upper left corner to expand or hide the options bar.</li>
 				<li>Left click and drag on the model to rotate it.</li>
