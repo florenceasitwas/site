@@ -116,7 +116,7 @@ layout: default
 					<a href="https://florenceasitwas.wlu.edu/sources/paatz-bigallo.html" class="essaylink">Paatz on the Bigallo</a>
 				</li>
 				<li>
-					<a href="http://florenceasitwas.wlu.edu/texts/orsanmichele-paatz-dau.html" class="essaylink">Paatz on Orsanmichele</a>
+					<a href="https://florenceasitwas.wlu.edu/sources/paatz-orsanmichele.html" class="essaylink">Paatz on Orsanmichele</a>
 				</li>
 			</div>
 		</article>
