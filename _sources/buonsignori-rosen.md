@@ -7,6 +7,7 @@ status: live
 ---
 *Mark Rosen
 University of Texas at Dallas*
+<img src="/assets/images/buonsignori_2.jpg" alt="Buonsignori Map” />
 
 __Don Stefano Buonsignori: A Brief Biography__
 
