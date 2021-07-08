@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Thoughts on Florence 
-date: YYYY-MM-DD
 tags:
 ---
 
