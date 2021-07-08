@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thoughts on Florence 
-image: SMNnavescan2021.jpg
+image: SMNnavescan2021.jpeg
 tags:
 ---
 
