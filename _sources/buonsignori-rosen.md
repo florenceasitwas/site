@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buonsignori Biography
-image: buonsignori_1.jpg
+image: buonsignori_2.jpg
 tags:
 status: live
 ---
