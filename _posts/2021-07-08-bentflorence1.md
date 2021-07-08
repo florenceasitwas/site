@@ -25,7 +25,6 @@ tags:
 <p>The transept and high altar were captured with success, although the scaffolding in both the Cappella Maggiore and the Rucellai Chapel on the east end prevented a clean scan. The Strozzi Chapel, built in the 1340s and decorated by Andrea and Nardo di Cione in 1350s were cordoned off to prevent public access (the first time I’ve seen that there in the thirty-five years I’ve visited the church), so I was able to take my time there.</p>
 
 <p>The basilica is normally filled with tourists, particularly during the early summer weeks when the growing swell of foreigners becomes a genuine torrent. But in 2021 only a few brave souls ventured into the city, and the foot traffic inside S. Maria Novella was considerably lighter than normal. Periodically a curious visitor might ask about the scanner, but largely my time in the nave was uneventful.</p>
-</p> 
 
 <p> And, as always, stay up to date with our work here and on twitter (@florenceasitwas)!</p>
   
