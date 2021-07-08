@@ -20,7 +20,7 @@ This is our in-progress, two dimensional map of Florence using Buonsignori's 158
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
 
-<div class="embed-container"><small><a href="//https://washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c&extent=11.2492,43.7691,11.2611,43.7743&zoom=true&scale=true&legendlayers=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//https://washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c&extent=11.2492,43.7691,11.2611,43.7743&zoom=true&previewImage=false&scale=true&legendlayers=true&disable_scroll=true&theme=light"></iframe></div>
+<div class="embed-container"><small><a href="//https://washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//https://washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c"></iframe></div>
 <!--
 Our 2-D map will be based on a collection of maps of Florence through the centuries:
   + Catena
