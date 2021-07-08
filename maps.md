@@ -18,7 +18,7 @@ This is our in-progress, two dimensional map of Florence using Buonsignori's 158
   + Click "View larger map" below to go to a larger, more customizable map on ArcGIS.
 
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: 15px;}</style>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -30px;}</style>
 <div></div>
 <div class="embed-container"><small><a href="//washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c"></iframe></div>
 <!--
