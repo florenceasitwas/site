@@ -4,7 +4,7 @@ title: Thoughts on Florence
 image: SMNnavescan2021.jpeg
 tags:
 ---
-
+<p> July 8, 2021 </p>
 <p> Welcome Back! </p>
 
 <p> We're excited to welcome Professor Bent back to Lexington, and can't wait to share all the data he brought back with you all! While we work on the essays, models, and more, here are some thoughts from Professor Bent about his trip. </p>
