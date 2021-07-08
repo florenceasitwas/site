@@ -8,7 +8,7 @@ tags:
 <p> Welcome Back! </p>
 
 <p> We're excited to welcome Professor Bent back to Lexington, and can't wait to share all the data he brought back with you all! While we work on the essays, models, and more, here are some thoughts from Professor Bent about his trip. </p>
-
+<!-- more -->
 <p> S. Maria Novella </p>
 
 <p> The Dominican basilica and cloisters of S. Maria Novella as we know it today were founded on the eleventh-century foundations of another church called S. Maria delle Vigne (St. Mary of the Vines, a reference to the fields that surrounded that part of Florence until the 19th century). With the permission of the Comune, the opera of S. Maria Novella, and the friars in the community – and with the personal assistance of church architect Francesco Scamberulli and FLAW ally Giovanni Pescarmona – I had the privilege of scanning nearly every section of the surviving architectural spaces between June 6 and June 22, 2021, including the crypt, nave, transept, cemetery, and rafters of the church, as well as the Green Cloisters, Cloisters of the Dead, Spanish Chapel, and bell tower to the west, and most of the complex’s exterior (including sections of the church’s rooftop).
