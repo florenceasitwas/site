@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Orsanmichele Tabernacle
-image: 
+image: dicionetabernacle.png
 tags:
 building: orsanmichele
 author_first: George
