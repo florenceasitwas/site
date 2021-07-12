@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Doubting Thomas
+title: Doubting Thomas, Orsanmichele Facade
 image:
 tags:
 author_first: 
