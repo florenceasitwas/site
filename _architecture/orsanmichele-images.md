@@ -9,4 +9,6 @@ status: live
     <img src="/assets/images/mark_orsanmichele.png" alt="St. Mark Sculpture" />
 <a href="https://florenceasitwas.wlu.edu/art/doubtingthomas.html" title="Redirect to Doubting Thomas Sculpture">
     <img src="/assets/images/doubtingthomas.png" alt="Doubting Thomas Sculpture" />
+<a href="https://florenceasitwas.wlu.edu/art/stephen-orsanmichele.html" title="Redirect to St. Stephen Sculpture">
+    <img src="/assets/images/stephenorsanmichele.jpg" alt="St. Stephen Sculpture" />
     
