@@ -2,20 +2,31 @@
 layout: page
 title: Project Methodology
 ---
-
- <h2>Methodology</h2>
- 
- | words  | picture |
-| ------------- | ------------- |
-|  Florence As It Was has multiple aims within its broad goal of recreating selected structures in the city as they appeared in the year 1500. The point-clouds and photogrammetric models we build certainly serve their purposes as visual portals into the past, but the translations of early modern descriptions, transcriptions of contemporary documents, and the creation of a database of people, places, and things weaves these images into layers of information that help us interpret what we see. Intended as a study tool (as opposed to a substitution for the real thing), this project provides users with a combination of the type of original source materials that historians of art and architecture in particular typically use when crafting scholarly works. Its multi-variances routinely force us to make choices and adhere to a list of priorities as we go.  
+<section>
+	<div class="posts">
+		<article>
+      <h2>Images</h2>
+        <div class="sketchfab-embed-wrapper">
+     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+      <img src="/assets/images/methodology1.png" alt="San Miniato Frescoes" /> 
+        </p>
+        </div>
+		</article>
+<article>
+      <h2>Words</h2>
+	 <p>
+<h2>Methodology</h2>
+Florence As It Was has multiple aims within its broad goal of recreating selected structures in the city as they appeared in the year 1500. The point-clouds and photogrammetric models we build certainly serve their purposes as visual portals into the past, but the translations of early modern descriptions, transcriptions of contemporary documents, and the creation of a database of people, places, and things weaves these images into layers of information that help us interpret what we see. Intended as a study tool (as opposed to a substitution for the real thing), this project provides users with a combination of the type of original source materials that historians of art and architecture in particular typically use when crafting scholarly works. Its multi-variances routinely force us to make choices and adhere to a list of priorities as we go.  
  
 We have progressed deliberately and with an eye toward posting the most original portions of our work first, and then filling in the gaps later on. We have concentrated much of our attention on the physically and politically challenging work of securing permissions, traveling to Florence, and then using state-of-the-art technology to scan the most important structures in the city before editing and modeling those scans so that they reflect accurately the dimensions and color patterns of those buildings.  
  
 We are guided by a number of governing principles that have never wavered since the origins of the project in 2016.  
  
-•	First, we always demonstrate our respect for the structures we scan as monuments of cultural heritage and as work environments for the staff who care for them. We touch nothing of historical value during our visits and always return modern objects to their original positions, as they may have been moved for the sake of the scanner (see fig. 1).   | <img src="/assets/images/methodology1.png" alt="San Miniato Frescoes" /> |
-| Content Cell  | Content Cell  |
- 
+•	First, we always demonstrate our respect for the structures we scan as monuments of cultural heritage and as work environments for the staff who care for them. We touch nothing of historical value during our visits and always return modern objects to their original positions, as they may have been moved for the sake of the scanner (see fig. 1).   
+</p>
+</article>
+  </div>
+</section>
                                                 
 Second, we conduct our work in the spirit of collaboration with the proprietors of the buildings we scan. When we have modeled and edited a building to completion, we share the point-clouds we have made with those proprietors as .E57 files so that they may be used internally as reference guides for restoration/renovation purposes. We also encourage proprietors to use our models freely for didactic purposes on their premises (see fig. 2).  
 
