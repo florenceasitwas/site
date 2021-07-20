@@ -5,14 +5,6 @@ title: Project Methodology
 <section>
 	<div class="posts">
 		<article>
-      <h2>Images</h2>
-        <div class="sketchfab-embed-wrapper">
-     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-      <img src="/assets/images/methodology1.png" alt="San Miniato Frescoes" /> 
-        </p>
-        </div>
-		</article>
-<article>
       <h2>Words</h2>
 	 <p>
 <h2>Methodology</h2>
@@ -26,7 +18,15 @@ We are guided by a number of governing principles that have never wavered since 
 </p>
 </article>
   </div>
-</section>
+<article>
+      <h2>Images</h2>
+	<div class="sketchfab-embed-wrapper">
+     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+      <img src="/assets/images/methodology1.png" alt="San Miniato Frescoes" /> 
+        </p>
+        </div>
+		</article>
+	</section>
                                                 
 Second, we conduct our work in the spirit of collaboration with the proprietors of the buildings we scan. When we have modeled and edited a building to completion, we share the point-clouds we have made with those proprietors as .E57 files so that they may be used internally as reference guides for restoration/renovation purposes. We also encourage proprietors to use our models freely for didactic purposes on their premises (see fig. 2).  
 
