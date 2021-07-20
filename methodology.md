@@ -122,8 +122,8 @@ We are enormously proud of the work we have done at Florence As It Was, the effo
  
 This ongoing project – the end of which is nowhere near in sight – will expand, improve, and surely change as the years go by. We hope you’re here every step of the way to see us through all of it. 
 <section>
-      <h2>Potree Pointcloud Models</h2>
-<p style="font-size: 13px; font-weight: normal; margin: 5px;">
+      <h2>Images</h2>
+<p style="font-size: 13px; font-weight: normal; margin: 10px;">
 <img src="/assets/images/santa-croce-3d-page.png" alt="Santa Croce Model" />
 </p>
 </article>
