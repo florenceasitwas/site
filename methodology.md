@@ -7,9 +7,10 @@ title: Project Methodology
 		<article>
       <h2>Methodology</h2>
 <p float="left">
-  <img src="/assets/images/methodology1.png" width="100" />
+	<img src="/assets/images/methodology2.png" alt="San Miniato Frescoes" />
 </p>
- 
+</div>
+</article>
 Florence As It Was has multiple aims within its broad goal of recreating selected structures in the city as they appeared in the year 1500. The point-clouds and photogrammetric models we build certainly serve their purposes as visual portals into the past, but the translations of early modern descriptions, transcriptions of contemporary documents, and the creation of a database of people, places, and things weaves these images into layers of information that help us interpret what we see. Intended as a study tool (as opposed to a substitution for the real thing), this project provides users with a combination of the type of original source materials that historians of art and architecture in particular typically use when crafting scholarly works. Its multi-variances routinely force us to make choices and adhere to a list of priorities as we go.  
  
 We have progressed deliberately and with an eye toward posting the most original portions of our work first, and then filling in the gaps later on. We have concentrated much of our attention on the physically and politically challenging work of securing permissions, traveling to Florence, and then using state-of-the-art technology to scan the most important structures in the city before editing and modeling those scans so that they reflect accurately the dimensions and color patterns of those buildings.  
