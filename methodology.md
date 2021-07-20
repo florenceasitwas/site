@@ -126,8 +126,6 @@ This ongoing project – the end of which is nowhere near in sight – will expa
 <p style="font-size: 13px; font-weight: normal; margin: 10px;">
 <img src="/assets/images/santa-croce-3d-page.png" alt="Santa Croce Model" />
 </p>
-</article>
-  </div>
 </section>
 
 
