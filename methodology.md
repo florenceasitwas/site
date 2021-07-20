@@ -2,8 +2,10 @@
 layout: page
 title: Project Methodology
 ---
-
-Methodology 
+<section>
+	<div class="posts">
+		<article>
+      <h2>Methodology</h2>
  
 Florence As It Was has multiple aims within its broad goal of recreating selected structures in the city as they appeared in the year 1500. The point-clouds and photogrammetric models we build certainly serve their purposes as visual portals into the past, but the translations of early modern descriptions, transcriptions of contemporary documents, and the creation of a database of people, places, and things weaves these images into layers of information that help us interpret what we see. Intended as a study tool (as opposed to a substitution for the real thing), this project provides users with a combination of the type of original source materials that historians of art and architecture in particular typically use when crafting scholarly works. Its multi-variances routinely force us to make choices and adhere to a list of priorities as we go.  
  
@@ -26,7 +28,7 @@ Second, we conduct our work in the spirit of collaboration with the proprietors 
  
 <img src="/assets/images/methodology3.png" alt="San Miniato Frescoes" />
 
-The Buildings 
+<h2>The Buildings</h2> 
  
 The city of Florence has changed dramatically over the centuries as fire, bombs, urban renewal projects, and general structural decay have claimed most of the buildings that once dotted its urban landscape. The Mercato Vecchio at the very heart of that landscape was demolished at the end of the nineteenth century to make way for the very Parisian-like Piazza della Republica that stands there today (see fig. 4). 
 
@@ -66,7 +68,7 @@ Heavily trafficked interior areas are scanned before or after opening hours; lig
 At Washington and Lee University, files are downloaded onto local and cloud-based drives. Each individual project is linked and modeled. Individual scans are edited to eliminate evidence of human beings, automated vehicles, modern furnishings, and other random items that have no place in a fifteenth-century setting. Choices must be made when eliminating large objects that obscure wall spaces: deleting scaffolding from a chapel space, for example, results in a void in the model. Sometimes this void is better than the offending object we wish to remove, but sometimes the hole in the model is so great that alternatives must be sought <img src="/assets/images/methodology13.png" alt="San Miniato Frescoes" />
 
  
-Art Works 
+<h2>Art Works</h2> 
  
 The structures modeled with LiDAR technology do not fully represent the appearance of those buildings as visitors would have known them in the fifteenth century. Styles, rituals, and the needs of users shift over time – sometimes radically and quite quickly – meaning that liturgical objects were often replaced periodically (see fig. 14). 
 <img src="/assets/images/methodology14.png" alt="San Miniato Frescoes" />
@@ -89,7 +91,7 @@ A quick comparison with photographs produced at exactly the same time by the Ali
 Any person with a smart phone or digital camera may photograph a work of art. Publishing those photographs as printed materials requires permissions from the owners of the works. The Internet is still a gray area in this regard, and Florence As It Was has delayed this phase of the project in order to understand fully its fiduciary and legal obligations. 
  
  
-Sources 
+   <h2>Sources</h2> 
  
 The elimination of modern elements can be easily determined: fire extinguishers, cordon ropes, and electrical cords obviously have no place in a Renaissance building. But cutting away architectural structures to reveal earlier areas must be done carefully, always considering the original source material and scholarly interpretations that have argued persuasively for a particular appearance. The decisions about where to place models of art works that originally decorated the spaces we have scanned are equally delicate. Before making decisions to eliminate architectonic elements, we 
  
@@ -100,7 +102,7 @@ The elimination of modern elements can be easily determined: fire extinguishers,
 •	collaborate with other digital humanities projects that may be considering the same space in the same way. 
  
  
-Interpretative Essays, Translations, and Transcriptions 
+<h2>Interpretative Essays, Translations, and Transcriptions</h2> 
  
 We have insisted from the beginning that Florence As It Was exhibits informative content as well as visual interpretations of the original appearance of the city’s architectural monuments. We have also insisted that this content shall be collected and disseminated by multiple voices in a truly collaborative fashion. George Bent, an art historian of the Florentine Renaissance who has written extensively about both monastic and public art in the fourteenth century, produces some of these interpretative essays. Students at Washington and Lee University pen a majority of the others, but always with Bent’s supervision and final editorial eye: any errors in these texts are entirely his responsibility. Some members of the academic community have also volunteered to write descriptive texts about images or structures that fall within their particular area of expertise (most notably Anne Leader’s annotations of the Tedaldi Tomb in S. Croce’s nave and Mark Rosen’s essay about the Buonsignori Map of 1584 that serves as the platform for this project – see figs. 18 and 19). 
 <img src="/assets/images/methodology18.png" alt="San Miniato Frescoes" />
@@ -115,14 +117,14 @@ Descriptions of Florentine buildings guide our thinking when editing point cloud
 Similarly, documents published over the centuries by scholars of the period are collected together, transcribed, and then annotated. These documents are organized chronologically according to each building we model and according to projects within that building (see fig. 22). Obviously, choices must be made about which documents to include in this site: the number of published archival references to the comparatively small granary/cult center/church of Orsanmichele are so numerous as to fill the pages of an entire book, and space limitations (and copyright issues) make it impossible to include every entry here. Still, we do our best to identify key documents that help tell the story of a building’s construction, its decorations, and the people involved in the projects that made that edifice so important in the early Modern era. 
  <img src="/assets/images/methodology22.png" alt="San Miniato Frescoes" />
  
-The Database 
+<h2>The Database</h2> 
  
 Florence As It Was revolves around the structures and images that appeared before viewers and visitors to the city in the fourteenth and fifteenth centuries. As such, the information we include in our database pertains specifically to these topics: we celebrate the efforts of our colleagues and peers to present mappable interpretations of social, political, and economic history through the digitized datasets of fifteenth- and sixteenth-century census records, but we choose not to replicate that important work. Instead, we map the images, image-creators, patrons, subjects, materials, and chronological sequencing of art objects and architectural structures in Renaissance Florence to help users identify patterns of production and representations, networks of patronage and associations, and the gradual accretion of images in the city over time.  
  
 Supervised by Mackenzie Brooks, students have designed this database and entered information into its structure according to scholarly publications that confirm the names, places, and dates of surviving works of art known to have decorated Florentine buildings by 1500. 
  
  
-Endnote 
+<h2>Endnote</h2>
  
 Formed on the foundations of thirty years of scholarly experience in the city of Florence, this project attempts to present a thoughtful representation of an early modern city based on archival information, archaeological evidence, and decades of academic interpretation. We present reproductions and representations of standing monuments in ways that permit users to consider objects of art and architecture from angles unavailable to them in situ. We offer textual information that simultaneously educates and hypothesizes scholars, students, and the general public. And we provide a physical context for the images and objects that all of us gaze upon in wonder, in curiosity, and (in some cases) in rapture. None of this would be possible without the explicit cooperation and collaborative spirit of the Italian institutions whose structures and decorative items we include here, nor would we have managed to progress with such speed without the support of specific members of the Florentine art and architectural historical community who have shown their faith in us and in what we’re trying to do: to each of them individually and to all of them collectively go our sincere and heartfelt thanks. 
  
