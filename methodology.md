@@ -5,9 +5,7 @@ title: Project Methodology
 <section>
 	<div class="posts">
 		<article>
-      <h2>Sketchfab Models</h2>
-        <div class="sketchfab-embed-wrapper">
-            Methodology 
+   <h2>Methodology</h2>
  
 Florence As It Was has multiple aims within its broad goal of recreating selected structures in the city as they appeared in the year 1500. The point-clouds and photogrammetric models we build certainly serve their purposes as visual portals into the past, but the translations of early modern descriptions, transcriptions of contemporary documents, and the creation of a database of people, places, and things weaves these images into layers of information that help us interpret what we see. Intended as a study tool (as opposed to a substitution for the real thing), this project provides users with a combination of the type of original source materials that historians of art and architecture in particular typically use when crafting scholarly works. Its multi-variances routinely force us to make choices and adhere to a list of priorities as we go.  
  
