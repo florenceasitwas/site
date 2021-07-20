@@ -127,7 +127,7 @@ This ongoing project – the end of which is nowhere near in sight – will expa
 		</article>
 <article>
       <h2>Potree Pointcloud Models</h2>
-	 <p>    
+<p style="font-size: 13px; font-weight: normal; margin: 5px;">
 <img src="/assets/images/santa-croce-3d-page.png" alt="Santa Croce Model" />
 </p>
 </article>
