@@ -4,15 +4,33 @@ title: Project Methodology
 ---
 coming soon
 <section>
-<html>
-	<div class="row">
-											<div class="col-6 col-12-small">
-												<h3>Sem turpis amet semper</h3>
-												<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-											</div>
-											<div class="col-6 col-12-small">
-												<h3>Magna odio tempus commodo</h3>
-												<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan.</p>
-											</div>
-											<!-- Break -->
-		</html>
+<article> 
+	<p>Call for American Ceramic Circle Symposium Scholarships 2021
+  
+In support of inclusivity and accessibility within the field of ceramics, the American Ceramic Circle annually awards up to five Symposium Scholarships and up to five Symposium Travel Scholarships to undergraduate, graduate and recently graduated students.
+ 
+The deadline for applications is August 20th for the 2021 ACC Symposium, to be held at Winterthur Museum & Gardens in Delaware, October 28th-30th. More information will be available soon on the ACC website.
+ 
+Please send a CV, letter of interest (indicate scholarship type), letter of recommendation, and financial need statement (if applying for Travel Scholarship) to Elizabeth A. Williams, ACC Grants Chairman and Scholarship Chair, eawilliams@risd.edu.
+ 
+ 
+•        Symposium Scholarships ($400 total), includes Symposium registration and meals, and one-year ACC membership.
+ 
+•        Symposium Travel Scholarships ($1,400 total), includes the above benefits, plus $1,000 travel stipend. Please include a brief financial need statement.    
+	</p>
+	</article>
+	<article> 
+	<p>Call for American Ceramic Circle Symposium Scholarships 2021
+  
+In support of inclusivity and accessibility within the field of ceramics, the American Ceramic Circle annually awards up to five Symposium Scholarships and up to five Symposium Travel Scholarships to undergraduate, graduate and recently graduated students.
+ 
+The deadline for applications is August 20th for the 2021 ACC Symposium, to be held at Winterthur Museum & Gardens in Delaware, October 28th-30th. More information will be available soon on the ACC website.
+ 
+Please send a CV, letter of interest (indicate scholarship type), letter of recommendation, and financial need statement (if applying for Travel Scholarship) to Elizabeth A. Williams, ACC Grants Chairman and Scholarship Chair, eawilliams@risd.edu.
+ 
+ 
+•        Symposium Scholarships ($400 total), includes Symposium registration and meals, and one-year ACC membership.
+ 
+•        Symposium Travel Scholarships ($1,400 total), includes the above benefits, plus $1,000 travel stipend. Please include a brief financial need statement.    
+	</p>
+	</article>
