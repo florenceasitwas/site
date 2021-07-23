@@ -14,7 +14,7 @@ tags:
 
 
 
-Near the end of the project, Francesco invited me to climb the scaffolding on the outside of the Cappella Maggiore that covers the church exterior that faces the city train station. I jumped at the chance, not knowing exactly what was in store for me.
+Near the end of the project, Francesco invited me to climb the scaffolding on the outside of the Cappella Maggiore that covers the church exterior that faces the city train station. I jumped at the chance, not knowing exactly what was in store for me. <!-- more -->
 
 The two of us entered the scaffolding at the entrance to the work site that faces the station. As we scaled the first of a dozen ladders, each one leading to the next level up, it quickly became clear that the great combined girth of the scanner and its unusually wide carrier – that would be me – would make it nearly impossible to squeeze all the way up to the top. Francesco solved the problem immediately by scampering nearly all the way up to the top of the scaffold and then lowering down a mechanically operated rope with a hook on it. To it we attached the backpack containing the scanner, batteries, and iPad and then we watched it rise rather quickly up the side of the church. My heart essentially stopped for the duration of that journey, but Francesco’s solution proved to be perfectly safe and utterly uneventful. I climbed up the ladders behind the scanner and reached the church’s summit within a couple of minutes.
 
