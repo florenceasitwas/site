@@ -1,6 +1,6 @@
 ---
 layout: page
-title: S. Maria Novella Rafters and Bell Tower 
+title: S. Maria Novella Crypt and Roof
 image: Cryptblogpost.jpeg
 tags:
 ---
