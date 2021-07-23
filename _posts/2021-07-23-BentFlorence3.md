@@ -1,7 +1,7 @@
 ---
 layout: page
 title: S. Maria Novella Rafters and Bell Tower 
-image: Transeptrp.jpeg
+image: Cryptblogpost.jpeg
 tags:
 ---
 <p> July 23, 2021 </p>
