@@ -101,7 +101,7 @@ title: Project Methodology
 	<article>
       <h2>Images</h2>
 	 <p> 
-<img src="/assets/images/methodology1.png" alt="Methodology” />
+<img src="/img1.png" width="100"/>
 	</p>
 </article>
   </div>
