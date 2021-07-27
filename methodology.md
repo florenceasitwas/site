@@ -100,7 +100,8 @@ title: Project Methodology
 </article>
 	<article>
       <h2>Images</h2>
-	 <p>Coming Soon</p>
+	 <p> <img src="/assets/images/methodology1.png" alt="Methodology” />
+	</p>
 </article>
   </div>
 </section>
