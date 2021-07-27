@@ -102,6 +102,10 @@ title: Project Methodology
       <h2>Images</h2>
 	 <p> 
 <img src="methodology1.png"/>
+<img src="methodology2.png"/>
+<img src="methodology3.png"/>
+<img src="methodology5.png"/>
+<img src="methodology6.png"/>
 	</p>
 </article>
   </div>
