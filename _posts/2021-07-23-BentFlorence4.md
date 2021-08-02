@@ -5,7 +5,7 @@ image: slorenzoblog1.jpeg
 tags:
 ---
 <p> August 2, 2021 </p>
-<p><b> Olympic LiDar Scanner</b></p>
+<p><b> Olympic LiDAR Scanner</b></p>
 
 <p> Professor Bent's work in Florence continues with the scanning of S. Lorenzo. </p>
 
