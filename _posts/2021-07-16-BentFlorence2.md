@@ -5,12 +5,10 @@ image: Transeptrp.jpeg
 tags:
 ---
 <p> July 16, 2021 </p>
-<p> The Upper Levels </p>
+<p><b>S. Maria Novella - The Rafters</b></p>
 
 <p> Welcome back for another installment of Prof. Bent's Thoughts on Florence! </p>
 
-
-<p><b>S. Maria Novella - The Rafters</b></p>
 
 <p>As I mounted the stairs of the pulpit, <!-- more --> Francesco Sgambelluri introduced himself to me as the church architect. Unassuming in appearance and demeanor, but blessed with an encyclopedic understanding of the basilica and all of its spaces, the church architect quickly became my most important guide through S. Maria Novella. He invited me, first, to venture to the roof of the west side aisle, and then to explore the vaulting system in the rafters of the church that few of us have seen. This journey introduced me to the lower sections of the bell tower that lead to the vault over the Sacristy (we’ll get to that in a minute), which in turn permits one to venture onto the ceramic tiles of the roof along the west edge of the nave. Thus began my adventure in the furnace that was the attic of S. Maria Novella.</p>
 
