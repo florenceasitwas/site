@@ -106,6 +106,19 @@ title: Project Methodology
 <img src="methodology3.png"/>
 <img src="methodology5.png"/>
 <img src="methodology6.png"/>
+<img src="methodology7.png"/>
+<img src="methodology8.png"/>
+<img src="methodology9.png"/>
+<img src="methodology10.png"/>
+<img src="methodology11.png"/>
+<img src="methodology12.png"/>
+<img src="methodology13.png"/>
+<img src="methodology14.png"/>
+<img src="methodology15.png"/>
+<img src="methodology16.png"/>
+<img src="methodology17.png"/>
+<img src="methodology18.png"/>
+<img src="methodology19.png"/>
 	</p>
 </article>
   </div>
