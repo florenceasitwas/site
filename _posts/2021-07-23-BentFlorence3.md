@@ -29,6 +29,6 @@ It became increasingly clear to me during this project that Francesco Sgambellur
 
 Of the eleven structures we have scanned, the complex at S. Maria Novella will probably wind up being the most complete – even though we did not have access to the west cloister, the pilgrims’ dormitory, or sections of the church blocked by scaffolding (the frescoes by Domenico Ghirlandaio, the opening of the Rucellai Chapel, and the exterior of the north wall could not be scanned properly during this trip). This is due largely to the generosity, curiosity, and collaborative spirit of the different directors of the area, and I wish to thank personally Sonia Colucci, Sara Velenza, and Gaia Ravelli for their advocacy and assistance as this project unfolded during the pandemic spring of 2021. But it was the active guidance and suggestive brilliance of Francesco Sgambelluri that will make the model of S. Maria Novella the most comprehensive one of this entire project.
 
-<p><i> Prof. Bent </i></p>
+<p><i> Professor Bent </i></p>
 
 <p><em> Check back next week for Prof. Bent's thoughts on San Lorenzo, as well as an update from our students on campus! </em></p>
