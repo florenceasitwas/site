@@ -28,5 +28,5 @@ tags:
 
 <p> And, as always, stay up to date with our work here and on twitter (@florenceasitwas)!</p>
   
-  <p>Bent</p>
+  <p><i> Professor Bent</i></p>
   <p>7/16/2021</p>
