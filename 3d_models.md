@@ -57,6 +57,7 @@ status:
 			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</a></p>
 </article>
   </div>
+	<hr>
 <div>				
 <section>
 	<article>
