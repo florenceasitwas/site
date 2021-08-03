@@ -137,6 +137,14 @@ title: Project Methodology
 		<p><em> Fig 17. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology18.png"/>
 		<p><em> Fig 18. - Altarpiece with scanner </em></p>
+<img class="image fit arch" img src="methodology19.png"/>
+		<p><em> Fig 19. - Altarpiece with scanner </em></p>
+<img class="image fit arch" img src="methodology20.png"/>
+		<p><em> Fig 20. - Altarpiece with scanner </em></p>
+<img class="image fit arch" img src="methodology21.png"/>
+		<p><em> Fig 21. - Altarpiece with scanner </em></p>
+<img class="image fit arch" img src="methodology22.png"/>
+		<p><em> Fig 22. - Altarpiece with scanner </em></p>
 	</p>
 </article>
   </div>
