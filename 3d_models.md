@@ -55,10 +55,8 @@ status:
 			</ul>
 			<p>These point cloud models were created by using a 360 degree laser scanner, which creates accurate models of their surroundings down to the millimeter. They're different from the photogrammetric model, such as the one on the left, because they don't make a solid model - they're composed of millions of colored points that only look solid when viewed from enough distance.</p>
 			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</p>
-<p>
-	<a href="https://www.youtube.com/watch?v=xWqQ1-G3MvQ" title="Redirect to Potree Tutorial>
     <img src="/assets/images/potreetutorial.png" alt=“Potree Tutorial Video />
-</p>
+  <a href="https://www.youtube.com/watch?v=xWqQ1-G3MvQ" title="Redirect to Potree Tutorial>
   </a>
 </article>
   </div>
