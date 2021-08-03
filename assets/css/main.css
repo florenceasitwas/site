@@ -4224,13 +4224,11 @@ text-align:center;
 .methodology > article {
 		border-left: solid 3px rgba(210, 215, 217, 0.75);
 		width: 50%;
-		margin: 0 2px 0 2px;
 		line-height: 2;
 }
 	.methodology article:first-child {
 		border-left: 0;
 		width: 50%;
-		margin: 0 2px 0 2px;
 		line-height: 2;
 }
 
