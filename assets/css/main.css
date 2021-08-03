@@ -4226,6 +4226,11 @@ text-align:center;
 		width: 50%;		
 		line-height: 2;
 }
+	.methodology article:first-child {
+		border-left: 0;
+		width: 50%;		
+		line-height: 2;
+}
 
 p.toc {
 	margin-top:2em;
