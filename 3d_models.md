@@ -63,6 +63,7 @@ status:
       <h2>Pointcloud Tutorial</h2>
 			<h3>To learn more about using our Pointcloud Models, click the image below for a YouTube tutorial on navigating the interface.</h3>
 		<p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/xWqQ1-G3MvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <a href="https://www.youtube.com/watch?v=xWqQ1-G3MvQ" title="Redirect to Santa Croce Model">
     <img src="/assets/images/potreetutorial.png" alt="Santa Croce Model" />
   </a>
