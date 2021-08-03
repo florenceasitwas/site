@@ -101,7 +101,10 @@ title: Project Methodology
 	<article>
       <h2>Images</h2>
 	 <p> 
-<img class="image fit arch" img src="methodology1.png"/>
+		 <figure>
+  <<img class="image fit arch" img src="methodology1.png"/>>
+  <figcaption>Fig.1 - Big Altar idk.</figcaption>
+</figure>
 <img class="image fit arch" img src="methodology2.png"/>
 <img class="image fit arch" img src="methodology3.png"/>
 <img class="image fit arch" img src="methodology5.png"/>
