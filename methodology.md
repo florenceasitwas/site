@@ -3,7 +3,7 @@ layout: page
 title: Project Methodology
 ---
  <section>
-	<div class= "row methodology">
+	<div class= "row encyclopedia">
 	<article>
       <h2>Methodology</h2>
 		<p><i>(Not to be confused with “Work Flow”)</i></p>
