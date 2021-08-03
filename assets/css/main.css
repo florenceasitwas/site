@@ -4221,6 +4221,11 @@ text-align:center;
 	text-align: center;
 }
 
+.methodology > article {
+		border-left: solid 3px rgba(210, 215, 217, 0.75);
+		width: 50%;		
+		line-height: 2;
+}
 
 p.toc {
 	margin-top:2em;
