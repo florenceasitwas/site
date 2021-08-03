@@ -58,7 +58,7 @@ status:
 </article>
 		<article>
       <h2>Pointcloud Tutorial</h2>
-			<h3>To learn more about navigating our Pointcloud Models, click the image below for a YouTube tutorial on navigating the interface.</h3>
+			<h3>To learn more about using our Pointcloud Models, click the image below for a YouTube tutorial on navigating the interface.</h3>
 		<p>
   <a href="https://www.youtube.com/watch?v=xWqQ1-G3MvQ" title="Redirect to Santa Croce Model">
     <img src="/assets/images/potreetutorial.png" alt="Santa Croce Model" />
