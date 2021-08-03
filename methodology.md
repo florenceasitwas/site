@@ -104,39 +104,39 @@ title: Project Methodology
   <img class="image fit arch" img src="methodology1.png"/>
 		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology2.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 2. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology3.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 3. - Altarpiece with scanner </em></p>
+<img class="image fit arch" img src="methodology4.png"/>
+		<p><em> Fig 4. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology5.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 5. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology6.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 6. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology7.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 7. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology8.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 8. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology9.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 9. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology10.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 10. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology11.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 11. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology12.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 12. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology13.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 13. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology14.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 14. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology15.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 15. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology16.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 16. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology17.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 17. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology18.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
-<img class="image fit arch" img src="methodology19.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 18. - Altarpiece with scanner </em></p>
 	</p>
 </article>
   </div>
