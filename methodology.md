@@ -101,7 +101,7 @@ title: Project Methodology
 	<article>
       <h2>Images</h2>
 	 <p> 
-<img src="methodology1.png"/>
+<img class="image fit arch" img src="methodology1.png"/>
 <img src="methodology2.png"/>
 <img src="methodology3.png"/>
 <img src="methodology5.png"/>
