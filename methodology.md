@@ -101,27 +101,42 @@ title: Project Methodology
 	<article>
       <h2>Images</h2>
 	 <p> 
-		 <figure>
   <img class="image fit arch" img src="methodology1.png"/>
-  <figcaption>Fig.1 - Big Altar idk.</figcaption>
-</figure>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology2.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology3.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology5.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology6.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology7.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology8.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology9.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology10.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology11.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology12.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology13.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology14.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology15.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology16.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology17.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology18.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 <img class="image fit arch" img src="methodology19.png"/>
+		<p><em> Fig 1. - Altarpiece with scanner </em></p>
 	</p>
 </article>
   </div>
