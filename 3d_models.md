@@ -4,7 +4,7 @@ title: 3D Models
 status:
 ---
 <section>
-	<div class="row encyclopedia">
+	<div class="row methology">
 		<article>
       <h2>Sketchfab Models</h2>
         <div class="sketchfab-embed-wrapper">
