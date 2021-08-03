@@ -57,7 +57,7 @@ status:
 			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</a></p>
 	<p>
   <a href="https://www.youtube.com/watch?v=xWqQ1-G3MvQ" title="Redirect to Potree Tutorial>
-    <img src="/assets/images/potreetutorial.png" alt=“Potree Tutorial Video />
+    <img src="potreetutorial.png" alt=“Potree Tutorial Video />
   </a>
 </p>
 </article>
