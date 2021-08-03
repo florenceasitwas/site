@@ -102,23 +102,23 @@ title: Project Methodology
       <h2>Images</h2>
 	 <p> 
 <img class="image fit arch" img src="methodology1.png"/>
-<img src="methodology2.png"/>
-<img src="methodology3.png"/>
-<img src="methodology5.png"/>
-<img src="methodology6.png"/>
-<img src="methodology7.png"/>
-<img src="methodology8.png"/>
-<img src="methodology9.png"/>
-<img src="methodology10.png"/>
-<img src="methodology11.png"/>
-<img src="methodology12.png"/>
-<img src="methodology13.png"/>
-<img src="methodology14.png"/>
-<img src="methodology15.png"/>
-<img src="methodology16.png"/>
-<img src="methodology17.png"/>
-<img src="methodology18.png"/>
-<img src="methodology19.png"/>
+<img class="image fit arch" img src="methodology2.png"/>
+<img class="image fit arch" img src="methodology3.png"/>
+<img class="image fit arch" img src="methodology5.png"/>
+<img class="image fit arch" img src="methodology6.png"/>
+<img class="image fit arch" img src="methodology7.png"/>
+<img class="image fit arch" img src="methodology8.png"/>
+<img class="image fit arch" img src="methodology9.png"/>
+<img class="image fit arch" img src="methodology10.png"/>
+<img class="image fit arch" img src="methodology11.png"/>
+<img class="image fit arch" img src="methodology12.png"/>
+<img class="image fit arch" img src="methodology13.png"/>
+<img class="image fit arch" img src="methodology14.png"/>
+<img class="image fit arch" img src="methodology15.png"/>
+<img class="image fit arch" img src="methodology16.png"/>
+<img class="image fit arch" img src="methodology17.png"/>
+<img class="image fit arch" img src="methodology18.png"/>
+<img class="image fit arch" img src="methodology19.png"/>
 	</p>
 </article>
   </div>
