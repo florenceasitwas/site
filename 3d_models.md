@@ -57,8 +57,7 @@ status:
 			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</a></p>
 </article>
   </div>
-<div>
-</section>				
+<div>				
 <section>
 	<article>
       <h2>Pointcloud Tutorial</h2>
