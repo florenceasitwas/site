@@ -64,7 +64,7 @@ status:
      <h2 style="text-align:center;">Pointcloud Tutorial</h2>
 			<h3>To learn more about using our Pointcloud Models, click below for a YouTube tutorial on navigating the interface.</h3>
 		<p>
-		<iframe width="1300" height="731" src="https://www.youtube.com/embed/xWqQ1-G3MvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="1244" height="700" src="https://www.youtube.com/embed/xWqQ1-G3MvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </p>
 </article>
