@@ -56,6 +56,8 @@ status:
 			<p>These point cloud models were created by using a 360 degree laser scanner, which creates accurate models of their surroundings down to the millimeter. They're different from the photogrammetric model, such as the one on the left, because they don't make a solid model - they're composed of millions of colored points that only look solid when viewed from enough distance.</p>
 			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</p>
 </article>
+</section>
+	<section>
 		<article>
       <h2>Pointcloud Tutorial</h2>
 			<h3>To learn more about using our Pointcloud Models, click the image below for a YouTube tutorial on navigating the interface.</h3>
@@ -64,5 +66,6 @@ status:
     <img src="/assets/images/potreetutorial.png" alt="Santa Croce Model" />
   </a>
 </p>
-  </div>
+		</article>
 </section>
+  </div>
