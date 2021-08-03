@@ -52,13 +52,15 @@ status:
 				<li>Select "volume clip" under clipping to cut chunks away from the model.</li>
 				<li>Full navigational options are located under navigation.</li>
 				<li>Again, click <a href="https://3d.wlu.edu/v21/pages/S_Croce_v20.html" target="blank">here</a> to view a much larger version of this model.</li>
-			</ul>
-			<p>These point cloud models were created by using a 360 degree laser scanner, which creates accurate models of their surroundings down to the millimeter. They're different from the photogrammetric model, such as the one on the left, because they don't make a solid model - they're composed of millions of colored points that only look solid when viewed from enough distance.</p>
-			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</p>
+			</ul>	
+		<p>These point cloud models were created by using a 360 degree laser scanner, which creates accurate models of their surroundings down to the millimeter. They're different from the photogrammetric model, such as the one on the left, because they don't make a solid model - they're composed of millions of colored points that only look solid when viewed from enough distance.</p>
+			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</a></p>
 </article>
-</section>
-	<section>
-		<article>
+  </div>
+<div>
+</section>				
+<section>
+	<article>
       <h2>Pointcloud Tutorial</h2>
 			<h3>To learn more about using our Pointcloud Models, click the image below for a YouTube tutorial on navigating the interface.</h3>
 		<p>
@@ -66,6 +68,6 @@ status:
     <img src="/assets/images/potreetutorial.png" alt="Santa Croce Model" />
   </a>
 </p>
-		</article>
+</article>
 </section>
-  </div>
+ </div>
