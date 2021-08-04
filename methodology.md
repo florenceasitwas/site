@@ -102,49 +102,49 @@ title: Project Methodology
       <h2>Images</h2>
 	 <p> 
   <img class="image fit arch" img src="methodology1.png"/>
-		<p><em> Fig 1. - Altarpiece with scanner </em></p>
+		<p><em> Fig 1. - Tomb of Galileo with 14th C. Frescoes, nave, North Wall, S. Croce, Florence.</em></p>
 <img class="image fit arch" img src="methodology2.png"/>
-		<p><em> Fig 2. - Altarpiece with scanner </em></p>
+		<p><em> Fig 2. - Screenshot cutaway Aerial view, S. Croce, Florence.  BLK360 Scans, Potree Viewer. </em></p>
 <img class="image fit arch" img src="methodology3.png"/>
-		<p><em> Fig 3. - Altarpiece with scanner </em></p>
+		<p><em> Fig 3. - Mesh & Pointcloud combination, interior, Orsanmichele, Florence. BLK360 Scans, iPhone 8 Plus photographs, Potree Viewer. </em></p>
 <img class="image fit arch" img src="methodology4.png"/>
-		<p><em> Fig 4. - Altarpiece with scanner </em></p>
+		<p><em> Fig 4. - Mercato Vecchio (Pre-demolition), S. Maria della Tromba, Alinar, Florence.</em></p>
 <img class="image fit arch" img src="methodology5.png"/>
-		<p><em> Fig 5. - Altarpiece with scanner </em></p>
+		<p><em> Fig 5. - Johannes Stradanus, Joust at S. Croce, Palazzo Vecchio, Florence. </em></p>
 <img class="image fit arch" img src="methodology6.png"/>
-		<p><em> Fig 6. - Altarpiece with scanner </em></p>
+		<p><em> Fig 6. - Demolition of Ponte S. Trinita (July, 1944), Photographer Unknown, Florence.  </em></p>
 <img class="image fit arch" img src="methodology7.png"/>
-		<p><em> Fig 7. - Altarpiece with scanner </em></p>
+		<p><em> Fig 7. - Flooded Piazza della Signoria, November 4th, 1966, Photographer Unknown, Florence.  </em></p>
 <img class="image fit arch" img src="methodology8.png"/>
-		<p><em> Fig 8. - Altarpiece with scanner </em></p>
+		<p><em> Fig 8. - Exterior wall, Arte della Lana (Modern Clothing Store), George Bent, Florence. </em></p>
 <img class="image fit arch" img src="methodology9.png"/>
-		<p><em> Fig 9. - Altarpiece with scanner </em></p>
+		<p><em> Fig 9. - View of Strozzi Altarpiece from transept rafters, Santa Maria Novella, George Bent, Florence. </em></p>
 <img class="image fit arch" img src="methodology10.png"/>
-		<p><em> Fig 10. - Altarpiece with scanner </em></p>
+		<p><em> Fig 10. - Scanner & facade of S. Maria Novella, George Bent, Florence.  </em></p>
 <img class="image fit arch" img src="methodology11.png"/>
-		<p><em> Fig 11. - Altarpiece with scanner </em></p>
+		<p><em> Fig 11. - Scanner & Choir, San Lorenzo, George Bent, Florence.  </em></p>
 <img class="image fit arch" img src="methodology12.png"/>
-		<p><em> Fig 12. - Altarpiece with scanner </em></p>
+		<p><em> Fig 12. - Screenshot, Loggia, Ospedale degli Innocenti, Florence.  BLK360 Scans, Potree Viewer.  </em></p>
 <img class="image fit arch" img src="methodology13.png"/>
-		<p><em> Fig 13. - Altarpiece with scanner </em></p>
+		<p><em> Fig 13. - Screenshot, Interior, Bigallo, Florence.  BLK360 Scans, Potree Viewer.  </em></p>
 <img class="image fit arch" img src="methodology14.png"/>
-		<p><em> Fig 14. - Altarpiece with scanner </em></p>
+		<p><em> Fig 14. - Tomb of Galileo with 14th C. Frescoes, nave, North Wall, S. Croce, Florence. </em></p>
 <img class="image fit arch" img src="methodology15.png"/>
-		<p><em> Fig 15. - Altarpiece with scanner </em></p>
+		<p><em> Fig 15. - Mesh & Pointcloud combination, loggia, Ospedale degli Innocenti, Florence. BLK360 Scans, Nikon D7500 photographs, Potree Viewer. </em></p>
 <img class="image fit arch" img src="methodology16.png"/>
-		<p><em> Fig 16. - Altarpiece with scanner </em></p>
+		<p><em> Fig 16. - Fabio Borbottoni, Loggia del Bigallo, Cassa di Risparmio, Florence. </em></p>
 <img class="image fit arch" img src="methodology17.png"/>
-		<p><em> Fig 17. - Altarpiece with scanner </em></p>
+		<p><em> Fig 17. - Loggia del Bigallo, Photographer Unknown, Florence.  </em></p>
 <img class="image fit arch" img src="methodology18.png"/>
-		<p><em> Fig 18. - Altarpiece with scanner </em></p>
+		<p><em> Fig 18. - Screenshot Tedaldi Tomb with Annotation by Anne Leader, Mesh model, Nikon D7500 photographs, Sketchfab Viewer.  </em></p>
 <img class="image fit arch" img src="methodology19.png"/>
-		<p><em> Fig 19. - Altarpiece with scanner </em></p>
+		<p><em> Fig 19. - Screenshot, Essay on Stefano Buonsignori, Mark Rosen, florenceasitwas.wlu.edu. </em></p>
 <img class="image fit arch" img src="methodology20.png"/>
-		<p><em> Fig 20. - Altarpiece with scanner </em></p>
+		<p><em> Fig 20. - Screenshot, Translation of Walter & Elisabeth Paatz on Orsanmichele, Katherine Dau, florenceasitwas.wlu.edu. </em></p>
 <img class="image fit arch" img src="methodology21.png"/>
-		<p><em> Fig 21. - Altarpiece with scanner </em></p>
+		<p><em> Fig 21. - Screenshot, Translation of Ferdinando del Migliore on the Bigallo, George Bent, florenceasitwas.wlu.edu. </em></p>
 <img class="image fit arch" img src="methodology22.png"/>
-		<p><em> Fig 22. - Altarpiece with scanner </em></p>
+		<p><em> Fig 22. - Screenshot, Primary Sources, Bigallo, Howard Saalman, florenceasitwas.wlu.edu.  </em></p>
 	</p>
 </article>
   </div>
