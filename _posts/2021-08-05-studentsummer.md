@@ -14,7 +14,7 @@ tags:
 <p>Ellie – This summer has been a ton of data entry, and trying to consolidate all of our information from different sources. I’ve gotten good at maintaining the website, and cleaned up a ton of broken links leftover from website updates. Also on the website, I updated our encyclopedia with some new pages – and its still growing!  I practiced my photogrammetry, and worked through a bunch of artworks in our Sketchfab collection. I’m currently working on editing the model of S. Lorenzo, and getting ready to take Prof. Bent’s class on the Medici family in the fall! </p>
 
 
-<p>Elyssa – </p>
+<p>Elyssa – So far I've added objects and sites in Florence to our database, researched objects we could reasonably drive to from Lexington to create photogrammetry models of them and added those we’ll certainly do this summer to the database, learned the entire process of photogrammetry from beginning to end to use on those objects, wrote annotations for the models and about the artists that will be added soon, did some website management with the Potree models, and started the process of my senior thesis which will involve analysis of Florentine liturgical manuscript illuminations from the 1370s using artificial intelligence. </p>
 	
 <p>And, what I’m sure you all came to this post for, a list of the other things we’ve done this summer: </p>
 <ul>
@@ -26,6 +26,8 @@ tags:
 <li>-	Founds out I was really good at open water swimming</li>
 <li>-	Found out I was really bad at open water swimming (two different students) </li>
 <li>-	Plenty of hiking </li>
+<li>-	Visited Iceland </li>
+<li>-	Attended a Mets game</li>
 <li>-	About 100,0000 games of Codenames and Categories</li>
 <li>-	Took a data science course</li>
 <li>-	Rock Climbing </li>
