@@ -1,10 +1,10 @@
 ---
 layout: page
-title: North Carolina Museum of Art 
+title: National Gallery of Art, Washington, D.C.
 image: 
 tags:
 ---
-<p> August 16, 2021 </p>
+<p> August 25-26, 2021 </p>
 <p><b>National Gallery of Art  </b></p>
 <p> Washington, D.C. </p>
 
