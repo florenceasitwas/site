@@ -23,6 +23,8 @@ tags:
   <li>-	Worked in a law clinic </li>
 <li>-	Finished the soccer summer workout packet </li>
 <li>-	Got really good at paddle boarding </li>
+<li>-	Visited Hawaii </li>
+<li>-	Sung Karaoke  </li>
 <li>-	Founds out I was really good at open water swimming</li>
 <li>-	Found out I was really bad at open water swimming (two different students) </li>
 <li>-	Plenty of hiking </li>
