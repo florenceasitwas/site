@@ -3,9 +3,13 @@ layout: page
 title: Encyclopedia Fiorentina
 image:
 ---
+<article>
+  <p><em>Here you will find the compendium of all our Florentine research and scholarship.</em></p>
+</article>
 
-Here you will find the compendium of all our Florentine research and scholarship.
-
+ </div>
+	<hr>
+<div>
 
 <div class="row encyclopedia">
 <article>
