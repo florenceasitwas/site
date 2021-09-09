@@ -7,9 +7,9 @@ image:
   <p><em>Here you will find the compendium of all our Florentine research and scholarship.</em></p>
 </article>
 
- </div>
+ <div>
 	<hr>
-<div>
+</div>
 
 <div class="row encyclopedia">
 <article>
