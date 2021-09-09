@@ -3,7 +3,15 @@ layout: page
 title: Orsanmichele Models
 status: live
 ---
-
+ <article>
+     <h2>Potree Pointcloud Models</h2>
+ <h3>To view the Pointcloud model, click the image below and experience the Orsanmichele in 3D.</h3>
+ <p>
+  <a href="https://3d.wlu.edu/v21/pages/orsanmichele.html" title="Redirect to Orsanmichele Model">
+    <img src="/assets/images/orsanmichele-models-pointcloud.png" alt="Innocenti" />
+  </a>
+</p>
+  
 <div class="sketchfab-embed-wrapper"><iframe width="100%" height="480" src="https://sketchfab.com/models/2059306057114419bbc67fc200f3a862/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   <p style="font-size: 14px; font-weight: normal; margin: 5px; color: #4A4A4A;">
       <a href="https://sketchfab.com/models/2059306057114419bbc67fc200f3a862?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank_" style="font-weight: bold; color: #1CAAD9;">Osm 8M Full Set</a>
