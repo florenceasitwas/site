@@ -100,7 +100,12 @@ title: Project Methodology
 </article>
 	<article>
       <h2>Images</h2>
-	 <p> 
+<!--<figure>
+<a href="assets/images/methodology1.png"><img class="image fit arch" src="assets/images/methodology1.png"/></a>
+ <figcaption markdown="1">
+*Fig 1. - Tomb of Galileo with 14th C. Frescoes, nave, North Wall, S. Croce, Florence.*
+</figcaption>
+</figure>-->
   <img class="image fit arch" src="assets/images/methodology1.png"/>
 		<p><em> Fig 1. - Tomb of Galileo with 14th C. Frescoes, nave, North Wall, S. Croce, Florence.</em></p>
 <img class="image fit arch" src="assets/images/methodology2.png"/>
@@ -139,7 +144,7 @@ title: Project Methodology
 		<p><em> Fig 18. - Screenshot Tedaldi Tomb with Annotation by Anne Leader, Mesh model, Nikon D7500 photographs, Sketchfab Viewer.  </em></p>
 <img class="image fit arch"  src="assets/images/methodology19.png"/>
 		<p><em> Fig 19. - Screenshot, Essay on Stefano Buonsignori, Mark Rosen, florenceasitwas.wlu.edu. </em></p>
-<img class="image fit arch"  src="methodology20.png"/>
+<img class="image fit arch"  src="assets/images/methodology20.png"/>
 		<p><em> Fig 20. - Screenshot, Translation of Walter & Elisabeth Paatz on Orsanmichele, Katherine Dau, florenceasitwas.wlu.edu. </em></p>
 <img class="image fit arch" src="assets/images/methodology21.png"/>
 		<p><em> Fig 21. - Screenshot, Translation of Ferdinando del Migliore on the Bigallo, George Bent, florenceasitwas.wlu.edu. </em></p>
