@@ -1,0 +1,43 @@
+I"ß<div class="encyclopedia">
+
+
+
+
+<article>
+<h2><span class="icon fa-paint-brush"></span> Art</h2>
+<ul>
+
+
+  <li><a href="http://localhost:4000/art/doubtingthomas.html">Doubting Thomas, Orsanmichele Facade</a></li>
+
+  <li><a href="http://localhost:4000/art/george-orsanmichele.html">St. George, Orsanmichele Facade</a></li>
+
+  <li><a href="http://localhost:4000/art/mark-orsanmichele.html">St. Mark, Orsanmichele Facade</a></li>
+
+  <li><a href="http://localhost:4000/art/matthew-orsanmichele.html">St. Matthew, Orsanmichele Pier</a></li>
+
+  <li><a href="http://localhost:4000/art/orsanmichele-tabernacle.html">Orsanmichele Tabernacle</a></li>
+
+  <li><a href="http://localhost:4000/art/stephen-orsanmichele.html">St. Stephen, Orsanmichele Facade</a></li>
+
+</ul>
+</article>
+
+<article>
+<h2><span class="icon fa-balance-scale"></span> Culture</h2>
+<ul>
+
+
+</ul>
+</article>
+</div>
+<div class="encyclopedia">
+<article>
+<h2><span class="icon fa-users"></span> People</h2>
+<ul>
+
+
+</ul>
+</article>
+</div>
+:ET

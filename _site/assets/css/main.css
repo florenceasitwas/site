@@ -4221,6 +4221,18 @@ text-align:center;
 	text-align: center;
 }
 
+.methodology > article {
+		border-left: solid 3px rgba(210, 215, 217, 0.75);
+		width: 50%;
+		padding: 0 1em 0 1em;
+		line-height: 2;
+}
+	.methodology article:first-child {
+		border-left: 0;
+		width: 50%;
+		padding: 0 1em 0 1em;
+		line-height: 2;
+}
 
 p.toc {
 	margin-top:2em;
@@ -4230,3 +4242,4 @@ ul.toc {
 	font-family: "Roboto Slab", serif;
 	list-style: square;
 }
+
