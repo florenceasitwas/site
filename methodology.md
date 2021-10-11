@@ -78,7 +78,7 @@ Every essay and annotation that appears in Florence As It Was has been researche
 
 Descriptions of Florentine buildings guide our thinking when editing point clouds and adding photogrammetric models of art works. These descriptions have never been translated into the English language, which makes them accessible to a select group of readers. The team at Florence As It Was includes skilled German speakers who, under the tutelage of Prof. Paul Youngman, translate sections of the important encyclopedic history of the city’s churches published in the early 1950s by Walter and Elisabeth Paatz called Die Kirchen von Florenz (see <a href="assets/images/methodology20.png">fig. 20</a>). Bent focuses on texts written by Ferdinando del Migliore in the 17th century and Giuseppe Richa in the 18th, translating them from their original Italian into English (see <a href="assets/images/methodology21.png">fig. 21</a>). Together, these texts present readers with both an understanding of what these writers saw, what these researchers discovered, and how the interiors of Florentine buildings changed from one century to the next.
 
-Similarly, documents published over the centuries by scholars of the period are collected together, transcribed, and then annotated. These documents are organized chronologically according to each building we model and according to projects within that building (see fig. 22). Obviously, choices must be made about which documents to include in this site: the number of published archival references to the comparatively small granary/cult center/church of Orsanmichele are so numerous as to fill the pages of an entire book, and space limitations (and copyright issues) make it impossible to include every entry here. Still, we do our best to identify key documents that help tell the story of a building’s construction, its decorations, and the people involved in the projects that made that edifice so important in the early Modern era.
+Similarly, documents published over the centuries by scholars of the period are collected together, transcribed, and then annotated. These documents are organized chronologically according to each building we model and according to projects within that building (see <a href="assets/images/methodology22.png">fig. 22</a>). Obviously, choices must be made about which documents to include in this site: the number of published archival references to the comparatively small granary/cult center/church of Orsanmichele are so numerous as to fill the pages of an entire book, and space limitations (and copyright issues) make it impossible to include every entry here. Still, we do our best to identify key documents that help tell the story of a building’s construction, its decorations, and the people involved in the projects that made that edifice so important in the early Modern era.
 
 ### The Database
 
@@ -149,7 +149,7 @@ This ongoing project – the end of which is nowhere near in sight – will expa
 		<p><em> Fig 21. - Screenshot, Translation of Ferdinando del Migliore on the Bigallo, George Bent, florenceasitwas.wlu.edu. </em></p>
 <img class="image fit arch"  src="assets/images/methodology22.png"/>
 		<p><em> Fig 22. - Screenshot, Primary Sources, Bigallo, Howard Saalman, florenceasitwas.wlu.edu.  </em></p>
-	</p>
+
 </article>
   </div>
 </section>
