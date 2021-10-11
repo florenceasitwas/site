@@ -1,73 +1,4 @@
-<!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-
-<head>
-  <title>Florence As It Was</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css" />
-  <link rel="icon" href="http://localhost:4000/assets/images/logo_florence.png" sizes="16x16" />
-  <!--[if lte IE 9]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie9.css" /><![endif]-->
-  <!--[if lte IE 8]><link rel="stylesheet" href="http://localhost:4000/assets/css/ie8.css" /><![endif]-->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156667556-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-156667556-1');
-</script>
-
-</head>
-
-
-<body>
-
-    <!-- Wrapper -->
-    <div id="wrapper">
-
-        <!-- Main -->
-        <div id="main">
-            <div class="inner">
-
-                <!-- Header -->
-  <header id="header">
-    <a href="http://localhost:4000/" class="logo"><strong>Florence As It Was&#58;</strong> the Digital Reconstruction of a Medieval City</a>
-    <ul class="icons">
-      
-      <li><a href="https://twitter.com/florenceasitwas" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-      
-      
-      
-      
-      
-      
-      
-      
-      <li><a href="https://github.com/florenceasitwas" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-      
-      
-      
-    </ul>
-  </header>
-
-
-                <!-- Content -->
-                <section>
-                	<header class="main">
-                		<h1>Project Methodology</h1>
-                	</header>
-
-                  
-
-                <section>
+I"1c<section>
 	<div class="row methodology">
 	<article>
 
@@ -142,35 +73,35 @@
         <li>review published documents that trace construction dates, renovation projects, and artistic additions and subtractions;</li>
         <li>read and analyze scholarly publications dedicated to the building’s construction and decorative history, and occasionally correspond with living specialists (if possible) to corroborate our interpretations;</li>
         <li>consult the texts of Ferdinando del Migliore, Giuseppe Richa, Walter and Elisabeth Paatz, and any other descriptive texts that describe the space in question;</li>
-        <li>collaborate with other digital humanities projects that may be considering the same space in the same way.</li>
       </ul>
+      <li>•	collaborate with other digital humanities projects that may be considering the same space in the same way.</li>
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	&lt;/ul&gt;
+</code></pre></div>      </div>
 
-      <h3 id="interpretative-essays-translations-and-transcriptions">Interpretative Essays, Translations, and Transcriptions</h3>
+      <p><b>Interpretative Essays, Translations, and Transcriptions</b></p>
 
-      <p>We have insisted from the beginning that Florence As It Was exhibits informative content as well as visual interpretations of the original appearance of the city’s architectural monuments. We have also insisted that this content shall be collected and disseminated by multiple voices in a truly collaborative fashion. George Bent, an art historian of the Florentine Renaissance who has written extensively about both monastic and public art in the fourteenth century, produces some of these interpretative essays. Students at Washington and Lee University pen a majority of the others, but always with Bent’s supervision and final editorial eye: any errors in these texts are entirely his responsibility. Some members of the academic community have also volunteered to write descriptive texts about images or structures that fall within their particular area of expertise (most notably Anne Leader’s annotations of the Tedaldi Tomb in S. Croce’s nave and Mark Rosen’s essay about the Buonsignori Map of 1584 that serves as the platform for this project – see <a href="assets/images/methodology18.png">figs. 18</a> and <a href="assets/images/methodology19.png">19</a>).</p>
+      <p>We have insisted from the beginning that Florence As It Was exhibits informative content as well as visual interpretations of the original appearance of the city’s architectural monuments. We have also insisted that this content shall be collected and disseminated by multiple voices in a truly collaborative fashion. George Bent, an art historian of the Florentine Renaissance who has written extensively about both monastic and public art in the fourteenth century, produces some of these interpretative essays. Students at Washington and Lee University pen a majority of the others, but always with Bent’s supervision and final editorial eye: any errors in these texts are entirely his responsibility. Some members of the academic community have also volunteered to write descriptive texts about images or structures that fall within their particular area of expertise (most notably Anne Leader’s annotations of the Tedaldi Tomb in S. Croce’s nave and Mark Rosen’s essay about the Buonsignori Map of 1584 that serves as the platform for this project – see figs. 18 and 19).</p>
 
       <p>Every essay and annotation that appears in Florence As It Was has been researched using current scholarly interpretations published by leading specialists of the period and place. Abbreviated references often appear at the bottom of each essay to guide readers to other published sources (usually in English) should they wish to consult them.</p>
 
-      <p>Descriptions of Florentine buildings guide our thinking when editing point clouds and adding photogrammetric models of art works. These descriptions have never been translated into the English language, which makes them accessible to a select group of readers. The team at Florence As It Was includes skilled German speakers who, under the tutelage of Prof. Paul Youngman, translate sections of the important encyclopedic history of the city’s churches published in the early 1950s by Walter and Elisabeth Paatz called Die Kirchen von Florenz (see <a href="assets/images/methodology20.png">fig. 20</a>). Bent focuses on texts written by Ferdinando del Migliore in the 17th century and Giuseppe Richa in the 18th, translating them from their original Italian into English (see <a href="assets/images/methodology21.png">fig. 21</a>). Together, these texts present readers with both an understanding of what these writers saw, what these researchers discovered, and how the interiors of Florentine buildings changed from one century to the next.</p>
+      <p>Descriptions of Florentine buildings guide our thinking when editing point clouds and adding photogrammetric models of art works. These descriptions have never been translated into the English language, which makes them accessible to a select group of readers. The team at Florence As It Was includes skilled German speakers who, under the tutelage of Prof. Paul Youngman, translate sections of the important encyclopedic history of the city’s churches published in the early 1950s by Walter and Elisabeth Paatz called Die Kirchen von Florenz (see fig. 20). Bent focuses on texts written by Ferdinando del Migliore in the 17th century and Giuseppe Richa in the 18th, translating them from their original Italian into English (see fig. 21). Together, these texts present readers with both an understanding of what these writers saw, what these researchers discovered, and how the interiors of Florentine buildings changed from one century to the next.</p>
 
       <p>Similarly, documents published over the centuries by scholars of the period are collected together, transcribed, and then annotated. These documents are organized chronologically according to each building we model and according to projects within that building (see fig. 22). Obviously, choices must be made about which documents to include in this site: the number of published archival references to the comparatively small granary/cult center/church of Orsanmichele are so numerous as to fill the pages of an entire book, and space limitations (and copyright issues) make it impossible to include every entry here. Still, we do our best to identify key documents that help tell the story of a building’s construction, its decorations, and the people involved in the projects that made that edifice so important in the early Modern era.</p>
 
-      <h3 id="the-database">The Database</h3>
+      <p><b>The Database</b></p>
 
-      <p>Florence As It Was revolves around the structures and images that appeared before viewers and visitors to the city in the fourteenth and fifteenth centuries. As such, the information we include in our database pertains specifically to these topics: we celebrate the efforts of our colleagues and peers to present mappable interpretations of social, political, and economic history through the digitized datasets of fifteenth- and sixteenth-century census records, but we choose not to replicate that important work. Instead, we map the images, image-creators, patrons, subjects, materials, and chronological sequencing of art objects and architectural structures in Renaissance Florence to help users identify patterns of production and representations, networks of patronage and associations, and the gradual accretion of images in the city over time.</p>
+      <p>Florence As It Was revolves around the structures and images that appeared before viewers and visitors to the city in the fourteenth and fifteenth centuries. As such, the information we include in our database pertains specifically to these topics: we celebrate the efforts of our colleagues and peers to present mappable interpretations of social, political, and economic history through the digitized datasets of fifteenth- and sixteenth-century census records, but we choose not to replicate that important work. Instead, we map the images, image-creators, patrons, subjects, materials, and chronological sequencing of art objects and architectural structures in Renaissance Florence to help users identify patterns of production and representations, networks of patronage and associations, and the gradual accretion of images in the city over time. </p>
 
       <p>Supervised by Mackenzie Brooks, students have designed this database and entered information into its structure according to scholarly publications that confirm the names, places, and dates of surviving works of art known to have decorated Florentine buildings by 1500.</p>
 
-      <h3 id="endnote">Endnote</h3>
+      <p><b>Endnote</b></p>
 
       <p>Formed on the foundations of thirty years of scholarly experience in the city of Florence, this project attempts to present a thoughtful representation of an early modern city based on archival information, archaeological evidence, and decades of academic interpretation. We present reproductions and representations of standing monuments in ways that permit users to consider objects of art and architecture from angles unavailable to them in situ. We offer textual information that simultaneously educates and offers hypotheses for consideration by scholars, students, and the general public. And we provide a physical context for the images and objects that all of us gaze upon in wonder, in curiosity, and (in some cases) in rapture. None of this would be possible without the explicit cooperation and collaborative spirit of the Italian institutions whose structures and decorative items we include here, nor would we have managed to progress with such speed without the support of specific members of the Florentine art and architectural historical community who have shown their faith in us and in what we’re trying to do: to each of them individually and to all of them collectively go our sincere and heartfelt thanks.</p>
 
-      <p>We are enormously proud of the work we have done at Florence As It Was, the effort that scores of undergraduates have made to populate this site with important observations and information, and the results that, we believe, speak for themselves.</p>
+      <p>We are enormously proud of the work we have done at Florence As It Was, the effort that scores of undergraduates have made to populate this site with important observations and information, and the results that, we believe, speak for themselves. </p>
 
-      <p>This ongoing project – the end of which is nowhere near in sight – will expand, improve, and surely change as the years go by. We hope you’re here every step of the way to see us through all of it.</p>
-
-      <p>– George Bent, August 2021</p>
-
+      <p>This ongoing project – the end of which is nowhere near in sight – will expand, improve, and surely change as the years go by. We hope you’re here every step of the way to see us through all of it.
+</p>
     </article>
 	<article>
       <h2>Images</h2>
@@ -228,120 +159,4 @@
 </article>
   </div>
 </section>
-
-
-              </div>
-          </div>
-
-          <!-- Sidebar -->
-  <div id="sidebar">
-    <div class="inner">
-
-      <!-- Search 
-        <section id="search" class="alt">
-          <form method="post" action="#">
-            <input type="text" name="query" id="query" placeholder="Search" />
-          </form>
-        </section>-->
-      <!-- Picture -->
-        <section>
-          <div>
-            <a href="http://localhost:4000/"><img src="/assets/images/logo_florence.png" alt="" width="200"></a>
-          </div>
-        </section>
-
-
-
-      <!-- Menu -->
-        <nav id="menu">
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
-          <ul>
-            <li><a href="http://localhost:4000/">Home</a></li>
-            <li><a class="non_link">About</a><a href ="http://localhost:4000/about_it.html" class="lang_select">ITAL</a><a href ="http://localhost:4000/about.html" class="lang_select">ENGL</a></li>
-            <li><a href="http://localhost:4000/methodology.html">Methodology</a></li>
-            <li><a href="http://localhost:4000/maps.html">Maps</a></li>
-            <li><a href="http://localhost:4000/3d_models.html">3D Models + Instructions</a></li>
-            <li><a href="https://sketchfab.com/FLAW/collections">Sketchfab Collections</a></li>
-            <!--<li>
-              <span class="opener">Buildings</span>
-              <ul>
-                
-                
-              </ul>
-            </li>
-            <li><a href="http://localhost:4000/people.html">Historic Figures</a></li>-->
-            <li><a href="http://localhost:4000/encyclopedia.html">Encyclopedia Fiorentina</a></li>
-            <li><a href="http://localhost:4000/19th-century-views-of-florence.html">19th-Century Views of Florence</a></li>
-            <li><a href="http://localhost:4000/blog.html">Project Blog</a></li>
-            <li><a href="http://localhost:4000/contributors.html">Contributors</a></li>
-            <!--<li><a href="http://localhost:4000/methodology.html">Methodology</a></li>-->
-            <li><a href="affiliations.html">Affiliations</a></li>
-          </ul>
-        </nav>
-
-      <!-- Blog Section -->
-        <section>
-          <header class="major">
-            <h2>Recent Posts</h2>
-          </header>
-          <div class="mini-posts">
-              
-              <article>
-                <h3>National Gallery of Art, Washington, D.C.</h3>
-                <p> August 25-26, 2021 </p>
-<p><b>National Gallery of Art  </b></p>
-<p> Washington, D.C. </p>
-
-<p>Dave and EMac loaded cameras and suitcases into my car at 4:00 pm on Wednesday, August 25 and then debated the merits of Kanye West and Alt-Country Music for most of the three-hour drive to Washington, D.C. 
-</p>
-
-              </article>
-              
-          </div>
-          <br/>
-          <ul class="actions">
-            <li><a href="http://localhost:4000/blog.html" class="button">More</a></li>
-          </ul>
-        </section>
-
-      <!-- Section -->
-        <section>
-          <header class="major">
-            <h2>Contact Us</h2>
-          </header>
-          <ul class="contact">
-            <li class="fa-envelope-o"><a href="#">florenceasitwas@wlu.edu</a></li>
-            <li class="fa-envelope"><a href="#">bentg@wlu.edu</a></li>
-            <li class="fa-phone">(540) 458-8400</li>
-            <li class="fa-home">204 W. Washington St.<br />
-            Lexington, VA 24450<br />
-            United States of America</li>
-          </ul>
-        </section>
-
-      <!-- Footer -->
-        <footer id="footer">
-          <p class="copyright">&copy; Florence As It Was&#58; All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
-        </footer>
-
-    </div>
-  </div>
-
-
-      </div>
-
-      <!-- Scripts -->
-  <script src="http://localhost:4000/assets/js/jquery.min.js"></script>
-  <script src="http://localhost:4000/assets/js/skel.min.js"></script>
-  <script src="http://localhost:4000/assets/js/util.js"></script>
-  <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
-  <script src="http://localhost:4000/assets/js/main.js"></script>
-
-  <script src="http://localhost:4000/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="assets/css/lightbox.css">
-
-</body>
-
-</html>
+:ET
