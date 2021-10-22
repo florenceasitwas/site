@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anne Leader
-image: bio_leadera
+image: bio_leadera.jpeg
 category:
 status: current
 ---
