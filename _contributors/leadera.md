@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anne Leader
-image: bio_leadera.jpeg
+image: bio_leadera.png
 category:
 status: collaborator
 ---
