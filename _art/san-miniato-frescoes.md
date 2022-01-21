@@ -8,5 +8,5 @@ tags:
 author_first: Spinello
 author_last: di Aretino
 building: san-miniato
-status: live
+status: 
 ---
