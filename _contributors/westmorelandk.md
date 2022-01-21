@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kelsie Westmoreland    
-image: bio_westmorelandk.png    
+image: bio_westmorelandk2.png    
 category:
 status: current
 ---
