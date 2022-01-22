@@ -7,7 +7,7 @@ status:
      <h2>Potree Pointcloud Models</h2>
      <h3>To view the Pointcloud model, click the image below and experience the Bargello in 3D.</h3>
  <p>
-  <a href="http://3d.wlu.edu/v20/Bargello.html" title="Redirect to Bargello Model">
+  <a href="https://3d.wlu.edu/v21/pages/Bargello.html" title="Redirect to Bargello Model">
     <img src="/assets/images/bargello-models-pointcloud.png" alt="Bargello Model" />
   </a>
 </p>
