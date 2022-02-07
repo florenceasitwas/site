@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Haochen tu
-image: bio_tuh.jpg
+image: bio_tuh2.jpg
 category:
 status: current
 ---
