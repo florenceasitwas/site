@@ -13,5 +13,3 @@ image-articles: san-miniato_articles.png
 image-sources: san-miniato.png
 front_page: live
 ---
-
-
