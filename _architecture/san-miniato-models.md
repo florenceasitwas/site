@@ -7,7 +7,7 @@ status: live
     <h2>Potree Pointcloud Model</h2>
    <h3>To view the Pointcloud model, click the image below and experience the San Miniato in 3d.</h3>
    <p>
-   <a href="https://3d.wlu.edu/v21/pages/orsanmichele.html" title="Redirect to Orsanmichele Model">
+   <a href="https://3d.wlu.edu/v20/SMiniato.html" title="Redirect to San Miniato Model">
     <img src="/assets/images/SanMiniato-model-pointcloud.png" alt="SanMiniato" />
   </a>
     </p>
