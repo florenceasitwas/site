@@ -10,8 +10,9 @@ image:
 
 Mark Rosen, [Buonsignori Map of 1584](https://florenceasitwas.wlu.edu/sources/buonsignori-rosen.html)
 
-This is our in-progress, two dimensional map of Florence using Buonsignori's 1584 map of Florence; you can find more information about that in the link above. Here's how you can explore the map!
+This is our in-progress, two dimensional map of Florence using Buonsignori's 1584 map of Florence; you can find more information about that in the link above. 
 
+<h2> How To Navigate the Map </h2>
   + Click and drag to pan across the map, and click + or - in the top left to change the scale.
   + Click any colored dot to find out more about a building or location through a pop-up box.
   + The pop-up boxes of some sites, such as Santa Croce and Orsanmichele, contain links to its building page and to our 3D Potree model. You can find these under "Website" and "3D Model" respectively.
