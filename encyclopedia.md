@@ -2,6 +2,8 @@
 layout: page
 title: Encyclopedia Fiorentina
 image:
+excerpt: Here you will find the compendium of all our Florentine research and scholarship.
+status: live
 ---
 <article>
   <p><em>Here you will find the compendium of all our Florentine research and scholarship.</em></p>

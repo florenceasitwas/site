@@ -1,0 +1,10 @@
+I"¹<section id="search" class="alt">
+          
+<input type="text" name="query" id="search-input" placeholder="Search" />
+<br /><br /><br />
+<ul id="results-container"></ul>
+
+
+</section>
+
+:ET

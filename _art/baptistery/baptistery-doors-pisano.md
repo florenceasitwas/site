@@ -13,8 +13,6 @@ date_updated:
 ## Baptistery of S. Giovanni, South Doors (1330-1336)
 ## Andrea Pisano
 
-
-
 The south portal of the Florentine Baptistery of S. Giovanni was originally adorned with a wooden door. In 1322 members of the Arte della Calimala, the Cloth Merchants Guild that was responsible for the building’s maintenance, upkeep, and decorations, moved to cover those doors with metal plates that they felt would act as a sign of the structure’s importance. By 1329 this approach was amended with a plan to make entirely new doors for the portal that would be made wholly of metal or brass.
 
 <!-- more -->

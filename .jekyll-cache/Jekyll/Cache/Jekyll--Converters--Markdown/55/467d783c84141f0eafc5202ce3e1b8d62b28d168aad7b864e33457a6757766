@@ -1,0 +1,12 @@
+I"Ó<h1 id="search">Search</h1>
+
+<section id="fullSearch" class="alt">
+          
+<input type="text" name="query" id="search-input" placeholder="Search" />
+<br />
+<ul id="full-results-container"></ul>
+
+
+</section>
+
+:ET

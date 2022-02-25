@@ -99,8 +99,8 @@ Abbiamo quindi combinato con immagini satellitari contemporanee un insieme di ma
      
         <section id="search" class="alt">
           
-            <input type="text" name="query" id="search-input" placeholder="Search" />
-         
+            <input type="text" name="query" id="search-input" placeholder="Quick search" />
+         <nav id="menu"><ul><li><a href="http://localhost:4000/search.html">Full Search</a></li></ul></nav>
           <ul id="results-container"></ul>
         </section>
       <!-- Picture -->
@@ -205,9 +205,9 @@ Abbiamo quindi combinato con immagini satellitari contemporanee un insieme di ma
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<li><a href="{url}?query={query}" >{title}</a></li>',
         noResultsText: 'No results found',
-        limit: 10,
+        limit: 5,
         fuzzy: false,
         exclude: ['Welcome']
       })

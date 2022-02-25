@@ -4243,3 +4243,9 @@ ul.toc {
 	list-style: square;
 }
 
+#full-results-container li {
+	font-size: larger;
+	font-weight: bold;
+	list-style-type: none;
+	padding-left: 0;
+}
