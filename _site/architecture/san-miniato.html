@@ -68,18 +68,18 @@
                 	</header>
 <div class="row architecture">
                 <article>
-                <a href="san-miniato-models.html"><img class="image fit arch" src="/assets/images/san-miniato_image.png"> </a>
+                <a href="san-miniato-models.html"><img class="image fit arch" src="/assets/images/san-miniato-models2.png"> </a>
                 <h2><a href="san-miniato-models.html">Models</a></h2>
                 </article>
 
                 <article>
-                <a href="san-miniato-images.html"><img class="image fit arch" src="/assets/images/san-miniato_images.png"> </a>
+                <a href="san-miniato-images.html"><img class="image fit arch" src="/assets/images/san-miniato_images2.png"> </a>
                 <h2><a href="san-miniato-images.html">Images</a></h2>
                 </article>
 </div>
 <div class="row architecture">
                 <article>
-                <a href="san-miniato-articles.html"><img class="image fit arch" src="/assets/images/san-miniato_articles.png"> </a>
+                <a href="san-miniato-articles.html"><img class="image fit arch" src="/assets/images/san-miniato_articles2.png"> </a>
                 <h2><a href="san-miniato-articles.html">Articles</a></h2>
                 </article>
 
@@ -97,12 +97,13 @@
   <div id="sidebar">
     <div class="inner">
 
-      <!-- Search 
+     
         <section id="search" class="alt">
-          <form method="post" action="#">
-            <input type="text" name="query" id="query" placeholder="Search" />
-          </form>
-        </section>-->
+          
+            <input type="text" name="query" id="search-input" placeholder="Search" />
+         
+          <ul id="results-container"></ul>
+        </section>
       <!-- Picture -->
         <section>
           <div>
@@ -198,7 +199,20 @@
   <script src="http://localhost:4000/assets/js/util.js"></script>
   <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
   <script src="http://localhost:4000/assets/js/main.js"></script>
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
 
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
 
 </body>
 

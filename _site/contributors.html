@@ -102,12 +102,17 @@ EP</p>
     </article>
   
     <article>
-      <span><img src="assets/images/bio_tuh.jpg" /></span>
-      <p>Haochen Tu from Suzhou, China is a Business Administration major student at Washington and Lee University with the expected graduation date of 2022. Haochen also plans to minor in Computer Science and Renaissance Study. Haochen came to America alone after she finished middle school in China. Haochen speaks Chinese, English, Spanish and is currently learning Italian. She will study at Bocconi University in Milan, Italy in fall, 2019. Outside of class, Haochen is the co-founder and Vice-President of Badminton club, executive member of Polo Team, member of Venture Club and General Activities Board. Haochen is also a Soprano I at W&amp;L’s all female choir. Haochen is a big fan of the Harry Potter series and she loves watching films and traveling around the world.</p>
-
-<p>Haochen has a strong spatial imagination and is good at 3D model design from virtual reality. For Florence As It Was, she mainly works on the construction of 3D models of buildings built at the 14th-15th century in Florence As It Was by the use Autodesk Recap. Haochen loves her job and ready to learn and contribute more in the future.</p>
+      <span><img src="assets/images/bio_tuh3.jpg" /></span>
+      <p>Haochen Tu, class of 2022, is a Business Administration and Computer Science double major with a minor in Medieval and Renaissance Studies. She’s from Suzhou, China. Haochen has been on the FLAW team since 2018. On campus she’s the Co-Chair of General Activities Board and Co-President of Club Badminton. Haochen also enjoys going on outing club trips, traveling, and watching movies.</p>
 
 <p><strong>HT</strong></p>
+
+    </article>
+  
+    <article>
+      <span><img src="assets/images/bio_westmorelandk2.png" /></span>
+      <p>Kelsie Westmoreland, class of 2024, is a double major in Art History and Business Administration. Hailing from San Antonio, Texas, Kelsie enjoys cooking, ballet dance, reading, and spending time with her friends and family when she is not working on her school work. This is Kelsie’s first year working witht he Florence as it Was team. 
+KW</p>
 
     </article>
   
@@ -131,6 +136,12 @@ EP</p>
 <p>Sonia helped to establish and refine the project’s initial goals, from the planned nature of the VR experience, to the educational benefits of the 2D mapping aspect. She contributed research pertaining to Florence that appeared in her senior thesis, worked on the 2D map alongside Miles and Dave Pfaff, and translated Paatz’s German notes on the Bigallo.</p>
 
 <p><strong>SB</strong></p>
+
+    </article>
+  
+    <article>
+      <span><img src="assets/images/bio_chambersa.jpeg" /></span>
+      <p>Alice is a member of the class of 2020 from Houston, Texas double majoring in English and Art History with a minor in Medieval and Renaissance Studies. She spent time in summer 2019 gathering data for the project in Florence alongside Professor Bent and fellow contributor Win. She is a member of the University Singers and has enjoyed studying abroad in England, Ireland, and the Netherlands while at W&amp;L.</p>
 
     </article>
   
@@ -216,6 +227,12 @@ EP</p>
     </article>
   
     <article>
+      <span><img src="assets/images/bio_leadera.png" /></span>
+      <p>Anne Leader is Visiting Fellow at the University of Virginia’s Institute for Advanced Technology in the Humanities (IATH), where she is developing Digital Sepoltuario, an interactive website that chronicles the memorial landscape of medieval and Renaissance Florence.</p>
+
+    </article>
+  
+    <article>
       <span><img src="assets/images/bio_pfaffd.png" /></span>
       <p>Dave Pfaff is the coordinator for Washington and Lee’s IQ center. He works to foster cross-disciplinary and quantitative approaches to inspire creativity and problem solving in teaching and research. Without his incredible knowledge and willingness to help our team, this project would not be possible.</p>
 
@@ -231,12 +248,13 @@ EP</p>
   <div id="sidebar">
     <div class="inner">
 
-      <!-- Search 
+     
         <section id="search" class="alt">
-          <form method="post" action="#">
-            <input type="text" name="query" id="query" placeholder="Search" />
-          </form>
-        </section>-->
+          
+            <input type="text" name="query" id="search-input" placeholder="Search" />
+         
+          <ul id="results-container"></ul>
+        </section>
       <!-- Picture -->
         <section>
           <div>
@@ -332,9 +350,23 @@ EP</p>
   <script src="http://localhost:4000/assets/js/util.js"></script>
   <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
   <script src="http://localhost:4000/assets/js/main.js"></script>
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
 
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
   <script src="http://localhost:4000/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="assets/css/lightbox.css">
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
 </body>
 

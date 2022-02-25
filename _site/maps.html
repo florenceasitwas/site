@@ -74,8 +74,9 @@
 
 <p>Mark Rosen, <a href="https://florenceasitwas.wlu.edu/sources/buonsignori-rosen.html">Buonsignori Map of 1584</a></p>
 
-<p>This is our in-progress, two dimensional map of Florence using Buonsignori’s 1584 map of Florence; you can find more information about that in the link above. Here’s how you can explore the map!</p>
+<p>This is our in-progress, two dimensional map of Florence using Buonsignori’s 1584 map of Florence; you can find more information about that in the link above.</p>
 
+<h2> How to Navigate the Map </h2>
 <ul>
   <li>Click and drag to pan across the map, and click + or - in the top left to change the scale.</li>
   <li>Click any colored dot to find out more about a building or location through a pop-up box.</li>
@@ -118,12 +119,13 @@ Our map utilizes the previous three in a variety of ways: firstly, each map is v
   <div id="sidebar">
     <div class="inner">
 
-      <!-- Search 
+     
         <section id="search" class="alt">
-          <form method="post" action="#">
-            <input type="text" name="query" id="query" placeholder="Search" />
-          </form>
-        </section>-->
+          
+            <input type="text" name="query" id="search-input" placeholder="Search" />
+         
+          <ul id="results-container"></ul>
+        </section>
       <!-- Picture -->
         <section>
           <div>
@@ -219,9 +221,23 @@ Our map utilizes the previous three in a variety of ways: firstly, each map is v
   <script src="http://localhost:4000/assets/js/util.js"></script>
   <!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
   <script src="http://localhost:4000/assets/js/main.js"></script>
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
 
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
   <script src="http://localhost:4000/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="assets/css/lightbox.css">
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
 </body>
 
