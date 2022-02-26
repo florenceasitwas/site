@@ -1,8 +1,0 @@
-I"Y<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;section id="search" class="alt"&gt;
-      
-        &lt;input type="text" name="query" id="search-input" placeholder="Search" /&gt;
-     
-      &lt;ul id="results-container"&gt;&lt;/ul&gt;
-    &lt;/section&gt;
-</code></pre></div></div>
-:ET

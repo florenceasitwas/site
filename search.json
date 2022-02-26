@@ -15,9 +15,9 @@ layout: none
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ,
-    {% for page in all % }
+    {% for page in all %}
    {
-     {% if page.title != nil %}
+     
         "title"    : "{{ page.title | escape }}",
         "category" : "{{ page.category }}",
         "tags"     : "{{ page.tags | join: ', ' }}",
@@ -25,8 +25,7 @@ layout: none
         "date"     : "{{ page.date }}",
         "content"  : "{{ page.content | strip_html | strip_newlines | remove_chars | escape }}",
         "excerpt"  : "{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}"
-    {% endif %}
+    
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
-
 ]
