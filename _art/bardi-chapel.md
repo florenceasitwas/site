@@ -6,5 +6,5 @@ tags:
 author_first: Giotto
 author_last:
 building: santa-croce
-status: live
+status: 
 ---
