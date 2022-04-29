@@ -9,7 +9,7 @@ tags:
 
 
 <p>Ciao! Sorry for the late update – we’ve been super busy! In February the FLAW team went to Florence during our Washington break, 
-and we got a ton done! Professor Bent scanned parts of San Lorenzo, The Duomo, and the Baptistery, while Dave, McKenzie, Lorrie, Ava, and Elyssa 
+and we got a ton done:<!-- more --> Professor Bent scanned parts of San Lorenzo, The Duomo, and the Baptistery, while Dave, McKenzie, Lorrie, Ava, and Elyssa 
 took tons of pictures – for photogrammetry models of course. We also had some really good food, of course, which we really felt like we earned after
 climbing the 500 stairs up the Campanile! We’re super excited to get the models up and running – San Lorenzo is shaping up to be one of our best models yet! </p>
 
