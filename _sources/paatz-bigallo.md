@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paatz on the Bigallo I
+title: Paatz, Bigallo 
 image:
 tags: bigallo
 status: live
