@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Baptistery Notes by Paatz
+title: Baptistery, Paatz
 image:
 building: baptistery
 status: live
