@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paatz on Orsanmichele
+title: Paatz, Orsanmichele
 image:
 tags: Orsanmichele, building history, Paatz
 status: live
