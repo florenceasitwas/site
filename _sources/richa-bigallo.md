@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Historical Notes on the Florentine Churches VII - Bigallo
+title: Richa, Bigallo
 image:
 tags: bigallo
 status: live
