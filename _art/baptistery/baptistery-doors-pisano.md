@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Andrea Pisano's Baptistery Doors
+title: Baptistery, South Doors, Andrea Pisano
 image:
 category: sculpture
 status: live
