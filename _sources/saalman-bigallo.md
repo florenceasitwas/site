@@ -8,7 +8,7 @@ status: live
 
 __Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.__
 
-###THE BIGALLO AND THE COMPAGNIA DELLA MISERICORDIA
+### THE BIGALLO AND THE COMPAGNIA DELLA MISERICORDIA
 
 Documents
 
