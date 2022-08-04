@@ -1,6 +1,6 @@
 ---
 layout: article
-title: The Abandonment and Restitution of Children
+title: Bigallo, The Abandonment and Restitution of Children, Gerini and di Baldese
 image: abandonment-bigallo.jpg
 category: 
 building: bigallo
