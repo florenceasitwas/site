@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Doubting Thomas, Orsanmichele Facade
+title: Orsanmichele, Doubting Thomas, Verrocchio
 image: doubtingthomas.png
 tags:
 author_first: 
