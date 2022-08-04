@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Bigallo Hotspots
+title: Bigallo, Various Authors
 building: bigallo
 status: live
 category: document
