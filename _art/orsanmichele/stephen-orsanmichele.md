@@ -1,6 +1,6 @@
 ---
 layout: article
-title: St. Stephen, Orsanmichele Facade
+title: Orsanmichele, St. Stephen, Ghiberti
 image: 
 tags:
 author_first: Lorenzo
