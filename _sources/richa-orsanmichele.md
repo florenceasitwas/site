@@ -151,7 +151,7 @@ Ipse fibi vulgo dilaniatus obit MccccLxxXXlII."
   
   "CONGREGATIO VISITATIONIS PRESBYTERORVM." Meaning, "Association for the Visitation of Priests."
   
-  ## Italiano Originale: Notizie Istoriche della Chiese Fiorentine della Madonna di Orsanmichele
+  ### Italiano Originale: Notizie Istoriche della Chiese Fiorentine della Madonna di Orsanmichele
   
   Lezione Prima:
   
