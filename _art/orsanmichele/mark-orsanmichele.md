@@ -1,6 +1,6 @@
 ---
 layout: article
-title: St. Mark, Orsanmichele Facade
+title: Orsanmichele, St. Mark, Donatello
 image: 
 tags:
 author_first:
