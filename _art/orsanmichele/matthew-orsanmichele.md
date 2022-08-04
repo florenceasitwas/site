@@ -1,6 +1,6 @@
 ---
 layout: article
-title: St. Matthew, Orsanmichele Pier
+title: Orsanmichele, St. Matthew, di Cione
 image:
 tags:
 author_first:
