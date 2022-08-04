@@ -1,7 +1,7 @@
 ---
 layout: article
 image:
-title: Bigallo Last Judgement
+title: Bigallo, Last Judgement, di Cione
 artist: Nardo di Cione
 dates: ca. 1363
 tags: bigallo
