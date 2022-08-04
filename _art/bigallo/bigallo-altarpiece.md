@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Oratory of the Misericordia Altarpiece
+title: Bigallo, Oratory of the Misericordia Altarpiece, Daddi
 category: altarpiece
 building: bigallo
 image: misericordia-bigallo.jpg
