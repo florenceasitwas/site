@@ -1,6 +1,6 @@
 ---
 layout: article
-title: St. George, Orsanmichele Facade
+title: Orsanmichele, St. George, Donatello
 image: 
 tags:
 author_first:
