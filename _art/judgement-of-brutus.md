@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Judgement of Brutus
+title: Sala d'Udienza, The Judgement of Brutus, di Cione
 image:
 tags:
 status: live
