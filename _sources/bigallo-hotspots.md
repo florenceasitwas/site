@@ -1,6 +1,6 @@
 ---
 layout: source
-title: The Loggia
+title: Bigallo, Loggia
 building: bigallo
 status: live
 category: document
