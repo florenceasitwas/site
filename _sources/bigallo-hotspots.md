@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Bigallo, Various Authors
+title: The Loggia
 building: bigallo
 status: live
 category: document
