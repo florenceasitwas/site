@@ -8,7 +8,7 @@ status:
 
 
 <article>
-<h2><span class="icon fa-balance-scale"></span> Architecture</h2>
+<h2><span class="icon fa-university"></span> Architecture</h2>
 <ul>
 {% assign var3 = site.architecture | where:"building","bigallo" | sort: 'title' %}
 {% for item in var3 %}
@@ -16,6 +16,7 @@ status:
 {% endfor %}
 </ul>
 </article>
+ 
 
   
 <article>
