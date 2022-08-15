@@ -3,7 +3,7 @@ layout: architecture
 title: San Lorenzo
 category:
 building: san-lorenzo
-image: sanlorenzocover.png
+image: 
 alt_text: 
 status: live
 blurb: Fifteenth-century parish church, brainchild of Brunelleschi and burial ground of the early Medici
