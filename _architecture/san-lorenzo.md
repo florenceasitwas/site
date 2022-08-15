@@ -10,7 +10,7 @@ blurb: Fifteenth-century parish church, brainchild of Brunelleschi and burial gr
 thumbnail: sanlorenzothumbnail.png
 front_page: live
 image-model: sanlorenzocover.png
-image-image: image-images-sanlorenzo.png
-image-articles: image-articles-sanlorenzo.png
-image-sources: image-sources-sanlorenzo.png
+image-image: images-images-sanlorenzo.png
+image-articles: images-articles-sanlorenzo.png
+image-sources: images-sources-sanlorenzo.png
 ---
