@@ -10,7 +10,7 @@ blurb: Dominican convent and cloisters of Santa Maria Novella (1275 ff)
 thumbnail: smn-thumbnail.png
 front_page: live
 image-model: smn-models.png
-image-image: images-images-sanlorenzo.png
-image-articles: images-articles-sanlorenzo.png
-image-sources: images-sources-sanlorenzo.png
+image-image: smn-images.png
+image-articles: smn-articles.png
+image-sources: smn-sources.png
 ---
