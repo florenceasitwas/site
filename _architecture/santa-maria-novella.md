@@ -6,7 +6,7 @@ building: santa-maria-novella
 image: 
 alt_text: 
 status: live
-blurb: Dominican convent and cloisters of Santa Maria Novella (1275 ff)
+blurb: Dominican convent and cloisters of Santa Maria Novella (1275)
 thumbnail: smn-thumbnail.png
 front_page: live
 image-model: smn-models.png
