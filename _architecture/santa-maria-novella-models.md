@@ -11,3 +11,13 @@ status: live
     <img src="/assets/images/smn-models.png" alt="Santa Maria Novella" />
   </a>
 </p>
+<div>				
+<section>
+	<article>
+     <h2 style="text-align:center;">Santa Maria Novella Fly Through</h2>
+			<h3>To experience our Pointcloud Model of Santa Maria Novella, click below for a YouTube fly through!.</h3>
+		<iframe width="100%" height="700" src="https://www.youtube.com/watch?v=xzKZ3EPM9kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</article>
+</section>
+ </div>
