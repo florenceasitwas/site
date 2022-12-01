@@ -8,7 +8,7 @@ image:
 <br/>
 -->
 
-Mark Rosen, [Buonsignori Map of 1584](https://florenceasitwas.wlu.edu/sources/buonsignori-rosen.html)
+Mark Rosen, [Buonsignori Map of 1584](https://florenceasitwas.wlu.edu/sources/buonsignori-biography1.html)
 
 This is our in-progress, two dimensional map of Florence using Buonsignori's 1584 map of Florence; you can find more information about that in the link above. 
 
