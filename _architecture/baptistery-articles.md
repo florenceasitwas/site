@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles about the Bargello 
+title: Articles about the Baptistery 
 status: 
 ---
 
