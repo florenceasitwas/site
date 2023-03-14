@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sources for the Bargello 
+title: Sources for the Baptistery
 status: 
 ---
 
