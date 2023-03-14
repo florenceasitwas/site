@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: architecture
 title: The Baptistery
 building: baptistery
 image: baptistery_1.jpg
