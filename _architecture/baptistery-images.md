@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Images of the Baptistery
+title: Images of the Baptistery coming soon!
 status: 
 ---
