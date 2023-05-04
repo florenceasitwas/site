@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Models of the Bargello 
+title: Models of Santa Trinita
 status: 
 ---
 <article>
