@@ -1,7 +1,7 @@
 ---
 layout: architecture
 title: Santa Trinita
-building: Santa Trinita
+building: santa-trinita
 thumbnail: trinita-model.jpeg
 status: live
 image: trinita-model.jpeg
