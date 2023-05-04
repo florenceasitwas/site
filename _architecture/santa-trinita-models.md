@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Models of Santa Trinita
-status: 
+status: live
 ---
 <article>
      <h2>Potree Pointcloud Models</h2>
