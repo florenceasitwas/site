@@ -5,7 +5,7 @@ status: live
 ---
 <article>
      <h2>Potree Pointcloud Models</h2>
-     <h3>To view the Pointcloud model, click the image below and experience the Bargello in 3D.</h3>
+     <h3>To view the Pointcloud model, click the image below and experience Santa Trinita in 3D.</h3>
  <p>
   <a href="https://3d.wlu.edu/v21/pages/trinita.html" title="Redirect to Santa Trinita Model">
     <img src="/assets/images/trinita-model.jpeg" alt="Santa Trinita Model" />
