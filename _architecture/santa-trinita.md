@@ -11,3 +11,4 @@ image-model: trinita-model.jpeg
 image-image: trinita-images.jpg
 blurb: Thirteenth-century church of Santa Trinita
 front_page: live
+---
