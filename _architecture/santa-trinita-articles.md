@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles about the Bargello 
-status: 
+status: live
 ---
 
 <div class="encyclopedia">
