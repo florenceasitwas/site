@@ -2,11 +2,11 @@
 layout: architecture
 title: Santa Trinita
 building: Santa Trinita
-image: santa_trinita_1.jpg
-image-articles: trinitaimage1.png
-image-sources: trinitaimage2.png
-image-model: trinitaimage3.png 
-image-image: trinitaimage4.png
+image: trinita-model.jpeg
+image-articles: trinita-articles.jpg
+image-sources: trinita-sources.jpg
+image-model: trinita-model.jpeg 
+image-image: trinita-images.jpg
 blurb: Thirteenth-century church of Santa Trinita
 ---
 
