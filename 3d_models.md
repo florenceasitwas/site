@@ -6,7 +6,7 @@ status:
 <div class="row">
   <div class="col">
 		<div class="card">
-		  <img src="/assets/images/model-card-smn.png" class="card-img-top" alt="screencap of the 3D model of Santa Maria Novella">
+		  <img src="assets/images/model-card-smn.png" class="card-img-top" alt="screencap of the 3D model of Santa Maria Novella">
 				  <div class="card-body">
 				    <h5 class="card-title">Santa Maria Novella</h5>
 				    <p class="card-text">Date of Model?</p>
@@ -16,7 +16,7 @@ status:
 	</div>
 	  <div class="col">
 		<div class="card">
-		  <img src="/assets/images/model-card-smn.png" class="card-img-top" alt="screencap of the 3D model of Santa Maria Novella">
+		  <img src="assets/images/model-card-smn.png" class="card-img-top" alt="screencap of the 3D model of Santa Maria Novella">
 				  <div class="card-body">
 				    <h5 class="card-title">Santa Maria Novella</h5>
 				    <p class="card-text">Some model metadata</p>
@@ -26,7 +26,7 @@ status:
 	</div>
 	  <div class="col">
 		<div class="card">
-		  <img src="/assets/images/model-card-smn.png" class="card-img-top" alt="screencap of the 3D model of Santa Maria Novella">
+		  <img src="assets/images/model-card-smn.png" class="card-img-top" alt="screencap of the 3D model of Santa Maria Novella">
 				  <div class="card-body">
 				    <h5 class="card-title">Santa Maria Novella</h5>
 				    <p class="card-text">Date of Model?</p>
