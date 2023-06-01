@@ -1,0 +1,31 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Florence As It Was" # the name of your site, e.g. ACME Corp.
+
+sass:
+    sass_dir: _sass
+
+
+# Collections
+collections:
+  art:
+    output: true
+    permalink: /art/:name:output_ext
+  architecture:
+    output: true
+    permalink: /architecture/:name:output_ext
+  contributors:
+    output: true
+    permalink: /contributors/:name:output_ext
+  culture:
+    output: true
+    permalink: /culture/:name:output_ext
+  people:
+    output: true
+    permalink: /people/:name:output_ext
+  sites:
+    output: true
+    permalink: /sites/:name:output_ext
+  sources:
+    output: true
+    permalink: /sources/:name:output_ext

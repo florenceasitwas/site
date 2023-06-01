@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+{% include head.html %}
+  <body>
+ {% include nav.html %}
+  {% if page.image %}
+  <span class="image main"><img class="img-fluid" src="{{ root_url }}/assets/images/{{ page.image }}" alt="{{ page.alt_text }}" /></span>
+                  {% endif %}
+    <div class="container-md">
+      <h1>{{ page.title }}</h1>
+      </div>
+
+<div class="container-fluid">
+  <iframe width="100%" height="1000" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Florence Test map base" src="//washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c"></iframe>
+
+  <br />
+ 
+    <a align="right" href="//washlee.maps.arcgis.com/apps/webappviewer/index.html?id=26f7d0d21d0b463d8eb718d71673b14c">View map in new tab</a>
+
+</div>
+
+<div class="container-md">
+    {{ content }}
+  </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  
+{% include footer.html %}
+  </body>
+</html>

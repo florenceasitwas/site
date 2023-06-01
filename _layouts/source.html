@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+            
+
+                <!-- Content -->
+                <section>
+                	<header class="main">
+                		<h1>{{ page.title }}</h1>
+                    <div class="metadata">
+                    <p>Author: {{ page.author_first }} {{ page.author_last }} 
+
+                    {% if page.secondauthor_first %} & {{ page.secondauthor_first }} {{ page.secondauthor_last }} {% endif %}</p>
+
+                    <p>Translator: {% if page.translator_first %} {{ page.translator_first }} {{ page.translator_last }} {% endif %}
+
+                    <p>Date Published: {{ page.date_published }}</p>
+
+                    {% if page.updated %}<p>Date Updated: {{ page.date_updated }}</p>{% endif %}
+
+                    <p>Preferred Citation: {{ page.author_last }}, {{ page.author_first }}{% if page.secondauthor_first %}, and {{ page.secondauthor_first }} {{ page.secondauthor_last }}{% endif %}. "{{ page.title }}." {% if page.translator_first %} Translated by: {{ page.translator_first }} {{ page.translator_last }} {% endif %}<em>Florence As It Was</em>. http://florenceasitwas.wlu.edu{{ page.url }}</p>
+</div>
+
+                    <p class="toc">Table of Contents:
+                 {% include toc.html html=content class="toc" %}</p>
+                   <hr />
+                	</header>
+
+                  {% if page.image %}
+                	<span class="image main"><img src="{{ root_url }}/assets/images/{{ page.image }}" alt="{{ page.alt_text }}" /></span>
+                  {% endif %}
+
+                {{ content }}
+
+              </div>
+          </div>
+
+
+      </div>
+
+
+</body>
+
+</html>

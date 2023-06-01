@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+            
+
+                <!-- Content -->
+                <section>
+                	<header class="main">
+                		<h1>{{ page.title }}</h1>
+                    <p>{{ page.excerpt }}</p>
+                	</header>
+<div class="row architecture">
+                <article>
+                <a href="{{ page.building }}-models.html"><img class="image fit arch" src="{{ root_url }}/assets/images/{{ page.image-model }}"> </a>
+                <h2><a href="{{ page.building }}-models.html">Models</a></h2>
+                </article>
+
+                <article>
+                <a href="{{ page.building }}-images.html"><img class="image fit arch" src="{{ root_url }}/assets/images/{{ page.image-image }}"> </a>
+                <h2><a href="{{ page.building }}-images.html">Images</a></h2>
+                </article>
+</div>
+<div class="row architecture">
+                <article>
+                <a href="{{ page.building }}-articles.html"><img class="image fit arch" src="{{ root_url }}/assets/images/{{ page.image-articles }}"> </a>
+                <h2><a href="{{ page.building }}-articles.html">Articles</a></h2>
+                </article>
+
+                <article>
+                <a href="{{ page.building }}-sources.html"><img class="image fit arch" src="{{ root_url }}/assets/images/{{ page.image-sources }}"> </a>
+                <h2><a href="{{ page.building }}-sources.html">Original Sources</a></h2>
+                </article>
+</div>
+
+
+              </div>
+          </div>
+
+
+      </div>
+
+</body>
+
+</html>
