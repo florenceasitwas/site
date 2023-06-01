@@ -1,5 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "http://mackenziekbrooks.github.io/flaw-bootstrap" # the subpath of your site, e.g. /blog
+url: "http://mackenziekbrooks.github.io/flaw-bootstrap" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 title: "Florence As It Was" # the name of your site, e.g. ACME Corp.
 
 sass:
