@@ -21,7 +21,6 @@ image: florence_banner.jpg
 	</tr>
 		<tr>
 		<td>Digital Sepultuario</td>
-		<td>Harvard University Center for Italian and Renaissance Studies, Villa I Tatti</td>
 	</tr>
 </table>
 

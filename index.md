@@ -16,7 +16,7 @@ title: Florence As It Was
       <a href=""><img class="rounded" src="assets/images/flawhome1.png">
       <h3 class="lh-lg">Maps & Data</h3>
   </a>
-        <a href=""><img class="rounded" src="assets/images/flawhome2.png">
+        <a href="3d_models.md"><img class="rounded" src="assets/images/flawhome2.png">
       <h3>3D Models</h3>
   </a>
     </div>
