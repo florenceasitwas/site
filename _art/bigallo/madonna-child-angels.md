@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Bigallo, Madonna and Child with Angels, Arnoldi
+title: Bigallo, Madonna and Child with Angels, Alberto Arnoldi
 image: madonna-angels-bigallo.jpg
 category: 
 building: bigallo
