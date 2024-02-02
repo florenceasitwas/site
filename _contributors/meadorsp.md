@@ -1,7 +1,8 @@
 ---
 layout: page
 title: P.T. Meadors
-image: 
+image: bio_meadorsp.PNG
+category:
 status: current
 ---
 
