@@ -19,9 +19,9 @@ title: Contributors
   {% endfor %}
 </div>
 
-# Past
+# Collaborators
 <div class="posts">
-  {% for person in past %}
+  {% for person in collab %}
     <article>
       <span><img src="assets/images/{{person.image}}" /></span>
       {{ person.content }}
@@ -29,9 +29,9 @@ title: Contributors
   {% endfor %}
 </div>
 
-# Collaborators
+# Past
 <div class="posts">
-  {% for person in collab %}
+  {% for person in past %}
     <article>
       <span><img src="assets/images/{{person.image}}" /></span>
       {{ person.content }}
