@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mickie Brown
-image: 
+image: bio_brownm.jpg
 category:
 status: collaborator
 ---
