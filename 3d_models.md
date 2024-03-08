@@ -54,7 +54,7 @@ status:
 				<li>Again, click <a href="https://3d.wlu.edu/v21/pages/S_Croce_v20.html" target="blank">here</a> to view a much larger version of this model.</li>
 			</ul>	
 		<p>These point cloud models were created by using a 360 degree laser scanner, which creates accurate models of their surroundings down to the millimeter. They're different from the photogrammetric model, such as the one on the left, because they don't make a solid model - they're composed of millions of colored points that only look solid when viewed from enough distance.</p>
-			<p>You can view the rest of our growing collection <a href="http://3d.wlu.edu/model/" target="blank">here.</a></p>
+
 </article>
   </div>
 	<hr>
