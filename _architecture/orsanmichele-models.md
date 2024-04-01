@@ -7,7 +7,7 @@ status: live
      <h2>Potree Pointcloud Models</h2>
  <h3>To view the Pointcloud model, click the image below and experience the Orsanmichele in 3D.</h3>
  <p>
-  <a href="https://3d.wlu.edu/v21/pages/orsanmichele_test.html" title="Redirect to Orsanmichele Model">
+  <a href="https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html" title="Redirect to Orsanmichele Model">
     <img src="/assets/images/orsanmichele-models-pointcloud.png" alt="Orsanmichele" />
   </a>
 </p>
