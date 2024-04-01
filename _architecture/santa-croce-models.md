@@ -7,7 +7,7 @@ status: live
      <h2>Potree Pointcloud Models</h2>
      <h3>To view the Pointcloud model, click the image below and experience Santa Croce in 3D.</h3>
  <p>
-  <a href="https://3d.wlu.edu/v21/pages/S_Croce_v20.html" title="Redirect to Santa Croce Model">
+  <a href="https://3d.wlu.edu/v21/pages/SCroce/SCroce.html" title="Redirect to Santa Croce Model">
     <img src="/assets/images/santa-croce-models-pointcloud.png" alt="Santa Croce Model" />
   </a>
 </p>
