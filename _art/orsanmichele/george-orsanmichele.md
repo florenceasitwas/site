@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Orsanmichele, St. George, Donatello
+title: Donatello, St. George, Orsanmichele
 image: 
 tags:
 author_first:
