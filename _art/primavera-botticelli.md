@@ -10,8 +10,8 @@ date_published: May 2024
 date_updated:
 ---
 
-## Primavera (1482-83)
 ## Sandro Botticelli
+## Primavera (1482-83)
 
 The scene takes place in a semicircular meadow, theoretically the garden of Venus, with various plants and trees emerging from the grass. Venus appears in the center wearing a white headdress and translucent veil. She nods her head and gestures toward the viewer, while Cupid shoots an arrow from above. 
 
