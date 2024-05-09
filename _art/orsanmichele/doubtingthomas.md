@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Orsanmichele, Doubting Thomas, Verrocchio
+title: Verrocchio, Doubting Thomas, Orsanmichele
 image: doubtingthomas.png
 tags:
 author_first: 
