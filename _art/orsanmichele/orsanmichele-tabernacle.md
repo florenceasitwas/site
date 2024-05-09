@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Orsanmichele, Tabernacle (Baldacchino), di Cione
+title: Andrea di Cione, Tabernacle (Baldacchino), Orsanmichele
 image: dicionetabernacle.png
 tags:
 building: orsanmichele
