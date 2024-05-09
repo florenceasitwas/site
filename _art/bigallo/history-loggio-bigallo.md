@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Bigallo, the History of the Loggia
+title: the History of the Loggia, Bigallo
 image:
 category: 
 status: live
