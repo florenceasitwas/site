@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Orsanmichele, St. Mark, Donatello
+title: Donatello, St. Mark, Orsanmichele
 image: 
 tags:
 author_first:
