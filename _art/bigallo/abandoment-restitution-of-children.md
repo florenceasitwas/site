@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Bigallo, The Abandonment and Restitution of Children, Gerini and di Baldese
+title: Niccolò di Pietro Gerini and Ambrogio di Baldese, The Abandonment and Restitution of Children, Bigallo
 image: abandonment-bigallo.jpg
 category: 
 building: bigallo
