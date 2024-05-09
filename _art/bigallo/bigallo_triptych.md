@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Bigallo, Triptych, Daddi 
+title: Daddi, Triptych, Bigallo 
 category: altarpiece
 building: bigallo
 image: bigallo_triptych.png
