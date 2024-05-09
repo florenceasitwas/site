@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Orsanmichele, St. Stephen, Ghiberti
+title: Ghiberti, St. Stephen, Orsanmichele
 image: 
 tags:
 author_first: Lorenzo
