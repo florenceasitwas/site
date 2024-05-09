@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Primavera, Sandro Botticelli
+title: Sandro Botticelli, Primavera
 image:
 category: painting
 status: live
