@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Orsanmichele, St. Matthew, di Cione
+title: Andrea di Cione and Jacopo di Cione, St. Matthew, Orsanmichele
 image:
 tags:
 author_first:
