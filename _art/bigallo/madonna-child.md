@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Bigallo, Madonna and Child, Alberto Arnoldi
+title: Alberto Arnoldi, Madonna and Child, Bigallo
 image: madonna-child-bigallo.jpg
 category: 
 building: bigallo
