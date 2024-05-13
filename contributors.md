@@ -13,7 +13,7 @@ title: Contributors
 <div class="posts">
   {% for person in current %}
     <article>
-      <span><img src="assets/images/{{person.image}}" /></span>
+      <span><img src="assets/images/headshots/{{person.image}}" /></span>
       {{ person.content }}
     </article>
   {% endfor %}
@@ -23,7 +23,7 @@ title: Contributors
 <div class="posts">
   {% for person in past %}
     <article>
-      <span><img src="assets/images/{{person.image}}" /></span>
+      <span><img src="assets/images/headshots/{{person.image}}" /></span>
       {{ person.content }}
     </article>
   {% endfor %}
@@ -33,7 +33,7 @@ title: Contributors
 <div class="posts">
   {% for person in collab %}
     <article>
-      <span><img src="assets/images/{{person.image}}" /></span>
+      <span><img src="assets/images/headshots/{{person.image}}" /></span>
       {{ person.content }}
     </article>
   {% endfor %}
