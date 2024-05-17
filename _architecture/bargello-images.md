@@ -3,5 +3,7 @@ layout: page
 title: Images of the Bargello 
 status: 
 ---
- <img src="/assets/images/bargellostairs.jpg">
- <img src="/assets/images/bargellopalazzo.JPG">
+ <img src="/assets/images/bargello-models.png">
+ <img src="/assets/images/bargello-images.png">
+ <img src="/assets/images/bargello-articles2.png">
+ <img src="/assets/images/bargello-sources.png">
