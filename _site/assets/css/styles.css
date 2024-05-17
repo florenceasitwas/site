@@ -11580,6 +11580,13 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 
 #home-text {
   font-style: italic;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.nav-link {
+  white-space: nowrap;
 }
 
 .navbar-expand-lg .navbar-collapse {
@@ -11604,6 +11611,11 @@ footer {
 .card-img-top {
   height: 15rem;
   width: 100%;
+}
+
+.image_fit_arch {
+  width: 15vw;
+  height: 15vh;
 }
 
 /*# sourceMappingURL=styles.css.map */
