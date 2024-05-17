@@ -36,7 +36,7 @@ status:
                 <h2>Potree Pointcloud Models</h2>
                 <p>
                     <a href="https://3d.wlu.edu/v21/pages/SCroce/SCroce.html" title="Redirect to Santa Croce Model">
-                        <img class="image fit arch" src="/assets/images/santa-croce-3d-page.png" alt="Santa Croce Model">
+                        <img width="100%" height="350" class="image fit arch" src="/assets/images/santa-croce-3d-page.png" alt="Santa Croce Model">
                     </a>
                 </p>
                 <p style="font-size: 13px; font-weight: normal; margin: 5px;">
