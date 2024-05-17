@@ -11606,6 +11606,7 @@ footer {
 
 .card {
   height: 30rem;
+  margin-bottom: 2rem;
 }
 
 .card-img-top {

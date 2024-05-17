@@ -22,40 +22,83 @@ title: Florence As It Was
     </div>
   </div>
 <h2>Buildings</h2>
-<div class="row">
-  <div class="col">
-<div class="card">
-  <img src="https://florenceasitwas.wlu.edu/assets/images/borbottoni/22Bargello.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">The Bargello</h5>
-    <p class="card-text">Palace of the Podestà, jail, and chapel for the condemned.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-</div>
+<table style="width:100%">
+	 	 
+	   	  
+<tbody><tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/bargello">The Bargello</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/bargello-thumbnail.png"></td>
+					<td>Palace of the Podestà, jail, and chapel for the condemned</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/bigallo">The Bigallo</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/Bigallo_thumbnail2.jpeg"></td>
+					<td>Fourteenth-century charitable institution</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/innocenti">The Innocenti</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/innocenti-thumbnail.png"></td>
+					<td>15th century children's hospital</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/orsanmichele">Orsanmichele</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/Orsanmichele_thumbnail2.jpeg"></td>
+					<td>Fourteenth-century granary and church of the guilds</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/palazzo-davanzati">Palazzo Davanzati</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/palazzo-davanzati-thumbnail.png"></td>
+					<td>14th century merchant's residence</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/san-lorenzo">San Lorenzo</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/sanlorenzothumbnail.png"></td>
+					<td>Fifteenth-century parish church, brainchild of Brunelleschi and burial ground of the early Medici</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/san-miniato">San Miniato</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/san-miniato_thumbnail.png"></td>
+					<td>Eleventh-century Olivetan church and monastery</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/santa-croce">Santa Croce</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/SantaCroce_thumbnail.jpg"></td>
+					<td>Fourteenth- and fifteenth-century Franciscan church and friary</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/santa-maria-del-fiore">Santa Maria del Fiore (The Duomo)</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/santa-maria-del-fiore-thumbnail.png"></td>
+					<td>Early Christian foundations; 14th century nave; 15th century cupola</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/santa-maria-novella">Santa Maria Novella</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/smn-thumbnail.png"></td>
+					<td>Dominican convent and cloisters of Santa Maria Novella (1275)</td>
+				</tr>
+	   
+<tr>
+					<td><b><h3><a href="https://florenceasitwas.wlu.edu/architecture/santa-trinita">Santa Trinita</a></h3></b></td>
+					<td><img src="assets/images/thumbnail/trinita-thumbnail.jpeg"></td>
+					<td>Thirteenth-century church of Santa Trinita</td>
+				</tr>
+	   
+</tbody>
+</table>
 
-<div class="col">
-	<div class="card">
-	  <img src="https://florenceasitwas.wlu.edu/assets/images/image-image-bigallo.png" class="card-img-top" alt="...">
-		  <div class="card-body">
-		    <h5 class="card-title">The Bigallo</h5>
-		    <p class="card-text">Fourteenth-century charitable institution</p>
-		    <a href="#" class="btn btn-primary">Go somewhere</a>
-		  </div>
-	</div>
-</div>
-
-<div class="col">
-	<div class="card">
-  <img src="..." class="card-img-top" alt="...">
-  		<div class="card-body">
-   		<h5 class="card-title">Card title</h5>
-   		<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    	<a href="#" class="btn btn-primary">Go somewhere</a>
-  		</div>
-	</div>
-</div>
 
 
-</div>
+
+
+
+
+
 </div>
