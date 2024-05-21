@@ -25,4 +25,5 @@ Cosimo de’ Medici and his two sons Piero and Giovanni assume the characters of
 
 ## Bibliography 
 Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. Pg. 53. 
+
 Musée Luxembourg. *Botticelli: From Lorenzo the Magnificent to Savonarola.* New York: St. Martin’s Press, 2003. Pg 70. 
