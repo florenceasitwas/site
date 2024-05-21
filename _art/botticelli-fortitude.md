@@ -21,4 +21,5 @@ Botticelli’s virtue sits on a throne below a circular arch, posing in a way th
 
 ## Bibliography 
 Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. pg. 34. 
+
 Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 1). Berkeley: University of California Press, 1978. pg. 31-33.  
