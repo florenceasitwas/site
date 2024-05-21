@@ -25,4 +25,5 @@ St. Sebastian was believed to have regained his health after being pierced by ar
 
 ## Bibliography 
 Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. Pg. 36.  
+
 Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 1). Berkeley: University of California Press, 1978. Pg. 36-37. 
