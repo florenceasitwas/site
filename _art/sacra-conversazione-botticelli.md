@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Sandro Botticelli, Sacra Conversazione
-image: BotticelliSMNLamiAdorationMagi.jpg
+image: BotticelliSAmbrogioSacraConversazione.jpg
 category: painting
 status: live
 author_first: Madeleine 
