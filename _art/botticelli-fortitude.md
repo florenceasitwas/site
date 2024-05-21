@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Sandro Botticelli, Fortitude
-image:
+image: BotticelliMercanziaFortitude.jpg
 category: painting
 status: live
 author_first: Madeleine 
