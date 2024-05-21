@@ -21,5 +21,6 @@ Although we don’t know the original setting or patron for the work, we know th
 
 ## Bibliography 
 Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. Pg. 115. 
+
 Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 1). Berkeley: University of California Press, 1978. Pg. 73-81.
 
