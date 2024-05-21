@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Sandro Botticelli, Adoration of the Magi
-image:
+image: BotticelliSMNLamiAdorationMagi.jpg
 category: painting
 status: live
 author_first: Madeleine 
