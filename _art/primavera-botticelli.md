@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Sandro Botticelli, Primavera
-image:
+image: BotticelliPrimavera.jpg
 category: painting
 status: live
 author_first: Madeleine 
