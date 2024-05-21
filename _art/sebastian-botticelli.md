@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Sandro Botticelli, Sebastian
-image: 3d.wlu.edu/images/databaseimages/BotticelliSMariaMaggioreSebastian.jpg
+image: https://3d.wlu.edu/images/databaseimages/BotticelliSMariaMaggioreSebastian.jpg
 category: painting
 status: live
 author_first: Madeleine 
