@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Sandro Botticelli, Maestà: San Barnaba Altarpiece
-image: BotticelliBarnabaBVM.jpg
+image:
 category: painting
 status: live
 author_first: Madeleine 
