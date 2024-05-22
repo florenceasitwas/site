@@ -10,7 +10,6 @@ date_published: May 2024
 date_updated:
 ---
 
-
 ## Sandro Botticelli
 ## Maestà: Madonna and Child (1468)
 
