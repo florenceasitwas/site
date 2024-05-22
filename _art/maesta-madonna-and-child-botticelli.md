@@ -10,6 +10,7 @@ date_published: May 2024
 date_updated:
 ---
 
+
 ## Sandro Botticelli
 ## Maestà: Madonna and Child (1468)
 
@@ -17,4 +18,5 @@ This early work by Botticelli closely resembles the styles of his teachers: Verr
 
 ## Bibliography 
 Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 2). Berkeley: University of California Press, 1978. 
+
 Galleria Accademia Firenze. "Virgin and Child with the Young St. John the Baptist and Two Angels." https://www.galleriaaccademiafirenze.it/en/artworks/sandro-botticelli-madonna-con-bambino-san-giovannino-e-due-angeli/
