@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Sandro Botticelli, Maestà: San Barnaba Altarpiece
+title: Sandro Botticelli, Maestà San Barnaba Altarpiece
 image: BotticelliBarnabaBVM.jpg
 category: painting
 status: live
@@ -11,7 +11,7 @@ date_updated:
 ---
 
 ## Sandro Botticelli
-## Maestà: San Barnaba Altarpiece (1487-90)
+## Maestà San Barnaba Altarpiece (1487-90)
 
 Botticelli received this commission between 1487-90 from the patrons of San Barnaba, the Guild of Medici e Speziali. The painting was originally placed on the high altar but was moved behind the altar in the 17th Century. The painting was then moved to the Accademia in 1808 but was taken to the Uffizi in 1919, where it now lies. 
 
