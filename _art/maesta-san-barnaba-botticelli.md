@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Sandro Botticelli, Maesta: San Barnaba Altarpiece
+title: Sandro Botticelli, Maestà: San Barnaba Altarpiece
 image: BotticelliBarnabaBVM.jpg
 category: painting
 status: live
@@ -11,11 +11,9 @@ date_updated:
 ---
 
 ## Sandro Botticelli
-## Maesta: San Barnaba Altarpiece (1487-90)
+## Maestà: San Barnaba Altarpiece (1487-90)
 
 Botticelli received this commission between 1487-90 from the patrons of San Barnaba, the Guild of Medici e Speziali. The painting was originally placed on the high altar but was moved behind the altar in the 17th Century. The painting was then moved to the Accademia in 1808 but was taken to the Uffizi in 1919, where it now lies. 
-
- 
 
 Botticelli infused the scene with a variety of colors, surfaces, and textures. From left to right, the six saints in the front row are Catherine of Alexandria, Augustine, Barnabas, John the Baptist, Ignatius, and Michael. There were likely seven panels in the predella; the four that survive in the Uffizi display the Vision of St. Augustine. The scene represents the Heavenly Court in a lavish setting of marble, porphyry, and other valuable materials. The arched roof at the top of the scene likely mirrored the apse of the chapel. The rounded architectural design indicates Botticelli’s knowledge of Roman antiquity.  
 
