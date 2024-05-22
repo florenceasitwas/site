@@ -20,7 +20,7 @@ Botticelli received this commission from Giovanno d’Agnolo de’ Bardi around 
 Botticelli experimented with perspective by incorporating multiple eye levels in his scene. The Virgin and Child sit on a marble throne, located on an elevated ground line in comparison to the two saints. The viewer gazes up at the four lily vases that indicate Mary’s purity, but the ledge at the front of the throne can be viewed from above. Foliage lines the background and acts as a frame for each figure. 
 
  
-
+## Bibliography
 Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. pg. 38. 
 
 Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 1). Berkeley: University of California Press, 1978. Pg. 100. 
