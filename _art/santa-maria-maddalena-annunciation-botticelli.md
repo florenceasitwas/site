@@ -22,6 +22,6 @@ The kneeling angel Gabriel wears a crimson gown and holds a lily, while the Virg
 The red and white tile floor recedes toward a detailed landscape in the background that includes a castle, rivers, and green hills. The landscape provides a balance to the sparse interior and situates the scene within a larger setting. 
 
 ## Bibliography 
-Legouix, Susan. Botticelli. London: Chaucer Press, 2004. Pg 103. 
+Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. Pg 103. 
 
-Lightbown, Ronald. Sandro Botticelli: Life and Work (vol. 1). Berkeley: University of California Press, 1978. Pg 108. 
+Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 1). Berkeley: University of California Press, 1978. Pg 108. 
