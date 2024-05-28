@@ -22,7 +22,7 @@ The angel Gabriel appears to the Virgin, with raised wings and billowing hair. T
 Botticelli divided the space into four sections; the angel appears in the foreground to the left, corresponding to Mary in her antechamber to the right. The receding floor leads to Mary’s bed behind her, and the architecture on the left recedes to the enclosed garden behind the angel. The angel Gabriel would have appeared directly above the viewers entering the space through the portal below. The painted pillar bisecting the scene would have corresponded to the right jamb of the portal underneath, fusing the painting with the actual structure of San Martino.  
 
 ## Bibliography 
-Musée Luxembourg. Botticelli: From Lorenzo the Magnificent to Savonarola. New York: St. Martin’s Press, 2003. Pg 114 
+Musée Luxembourg. *Botticelli: From Lorenzo the Magnificent to Savonarola.* New York: St. Martin’s Press, 2003. Pg 114 
 
   
 Poggi, Giovanni. “The Annunciation of San Martino; by Botticelli.” The Burlington Magazine for Connoisseurs 28, no. 154 (Jan 1916): 128-130, 132-133, 137.
