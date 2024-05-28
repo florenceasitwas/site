@@ -24,9 +24,9 @@ Mary Magdalene contemplates this vision of Christ’s crucifixion, encouraging v
 Angels surround the cross upon which Christ has been crucified, which is held by God the Father. The Trinity is completed with the dove above Christ’s head, representing the Holy Spirit.  
  
 ## Bibliography 
-Lightbown, Ronald. Sandro Botticelli: Life and Work (vol. 1). Berkeley: University of California Press, 1978. pg. 110-111. 
+Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 1). Berkeley: University of California Press, 1978. pg. 110-111. 
 
 Yashiro, Yukio. “A Newly Discovered Botticelli.” The Burlington Magazine for Connoisseurs 46, no. 265 (April 1925): 156-159, 161-163, 166-167. 
 
  
-Musée Luxembourg. Botticelli: From Lorenzo the Magnificent to Savonarola. New York: St. Martin’s Press, 2003. pg. 48. 
+Musée Luxembourg. *Botticelli: From Lorenzo the Magnificent to Savonarola.* New York: St. Martin’s Press, 2003. pg. 48. 
