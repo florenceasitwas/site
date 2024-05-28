@@ -21,7 +21,7 @@ Mary arches in response to Gabriel’s gesture, likely resulting from both fear 
 
  
 ## Bibliography 
-Legouix, Susan. Botticelli. London: Chaucer Press, 2004. pg. 104. 
+Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. pg. 104. 
 
  
-Musée Luxembourg. Botticelli: From Lorenzo the Magnificent to Savonarola. New York: St. Martin’s Press, 2003. pg. 48. 
+Musée Luxembourg. *Botticelli: From Lorenzo the Magnificent to Savonarola.* New York: St. Martin’s Press, 2003. pg. 48. 
