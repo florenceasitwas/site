@@ -20,7 +20,7 @@ Botticelli received this commission from the Guild of Goldsmiths around 1490 for
 After Mary’s Earthly death, she was believed to have ascended to Heaven to receive her coronation as Queen of Heaven. Surrounded by bursts of gold and angels, Mary bows as Christ adorns her with her crown. St. John and St. Jerome gaze up in awe, further connecting the two realms. The prominence of gold throughout the scene refers to the riches and splendor of the Guild of Goldsmiths. 
  
 ## Bibliography
-Legouix, Susan. Botticelli. London: Chaucer Press, 2004. pg. 44-46. 
+Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. pg. 44-46. 
 
  
-Lightbown, Ronald. Sandro Botticelli: Life and Work (vol. 1). Berkeley: University of California Press, 1978. pg. 108-109. 
+Lightbown, Ronald. *Sandro Botticelli: Life and Work* (vol. 1). Berkeley: University of California Press, 1978. pg. 108-109. 
