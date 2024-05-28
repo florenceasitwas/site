@@ -20,6 +20,6 @@ Botticelli’s depiction of the Pieta for the Church of San Paolino perfectly ca
 Botticelli used a relatively muted color palette for this piece, likely to emphasize the solemnity of the subject. Christ is young and beardless, while the saints who view from the edges are evidently older. This contrast further enforces the tragedy of Christ’s death, since he had not reached old age when he was crucified. 
 
 ## Bibliography 
-Legouix, Susan. Botticelli. London: Chaucer Press, 2004. Pg. 107. 
+Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. Pg. 107. 
 
-Musée Luxembourg. Botticelli: From Lorenzo the Magnificent to Savonarola. New York: St. Martin’s Press, 2003. pg. 48. 
+Musée Luxembourg. *Botticelli: From Lorenzo the Magnificent to Savonarola.* New York: St. Martin’s Press, 2003. pg. 48. 
