@@ -16,6 +16,6 @@ date_updated:
 Botticelli’s Lamentation for a pillar in Santa Maria Maggiore presents a very similar scene to his other Lamentation that resides in Munich. Christ’s dead body stretches across the composition, and one of the Three Marys holds his head upright. Mary Magdalene rests her head on Christ’s feet, and St. John the Evangelist supports the Virgin Mary as she closes her eyes in grief. All of the figures interlock as they share in their grief, creating both rhythm and chaos. 
 
 ## Bibliography 
-Legouix, Susan. Botticelli. London: Chaucer Press, 2004. pg. 109. 
+Legouix, Susan. *Botticelli.* London: Chaucer Press, 2004. pg. 109. 
 
-Musée Luxembourg. Botticelli: From Lorenzo the Magnificent to Savonarola. New York: St. Martin’s Press, 2003. pg. 48. 
+Musée Luxembourg. *Botticelli: From Lorenzo the Magnificent to Savonarola.* New York: St. Martin’s Press, 2003. pg. 48. 
