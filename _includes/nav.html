@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand " href="{{ 'index.html' | absolute_url }}">
-      <img id="logo" alt="Florence As It Was" src="assets/images/logo-np.png" width="10%" class="d-inline-block align-text-center">
+      <img id="logo" alt="Florence As It Was" src="{{site.baseurl}}/assets/images/logo-florence.png" width="10%" class="d-inline-block align-text-center">
     Florence As It Was
   </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,10 +26,10 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="maps.html">Maps & Data</a>
+          <a class="nav-link" href="{{site.baseurl}}/maps.html">Maps & Data</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="models.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="{{site.baseurl}}/models.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Models
           </a>
           <ul class="dropdown-menu">
@@ -40,7 +40,7 @@
         </ul>
       </li>
         <li class="nav-item">
-          <a class="nav-link" href="encyclopedia.html">Encyclopedia</a>
+          <a class="nav-link" href="{{site.baseurl}}/encyclopedia.html">Encyclopedia</a>
         </li>
 
           <li>  <form class="d-flex" role="search">
