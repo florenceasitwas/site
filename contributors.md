@@ -14,7 +14,7 @@ title: Contributors
 <div class="row">
     {% for person in current %}
     <div class="col-lg-4">
-        <img src="assets/images/headshots/{{ person.image }}" alt="{{ person.name }}" class="bd-placeholder-img rounded-circle" width="140" height="140" style="margin-bottom: 1rem;" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <img src="assets/images/headshots/{{ person.image }}" alt="{{ person.name }}" class="bd-placeholder-img rounded-circle" width="250" height="250" style="margin-bottom: 1rem;" preserveAspectRatio="xMidYMid slice" focusable="false">
         {{ person.content }}
     </div><!-- /.col-lg-4 -->
     {% endfor %}
@@ -36,7 +36,7 @@ title: Contributors
 <div class="row">
     {% for person in past %}
     <div class="col-lg-4">
-        <img src="assets/images/headshots/{{ person.image }}" alt="{{ person.name }}" class="bd-placeholder-img rounded-circle" width="140" height="140" style="margin-bottom: 1rem;" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <img src="assets/images/headshots/{{ person.image }}" alt="{{ person.name }}" class="bd-placeholder-img rounded-circle" width="250" height="250" >
         {{ person.content }}
     </div><!-- /.col-lg-4 -->
     {% endfor %}
@@ -58,7 +58,7 @@ title: Contributors
 <div class="row">
     {% for person in collab %}
     <div class="col-lg-4">
-        <img src="assets/images/headshots/{{ person.image }}" alt="{{ person.name }}" class="bd-placeholder-img rounded-circle" width="140" height="140" style="margin-bottom: 1rem;" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <img src="assets/images/headshots/{{ person.image }}" alt="{{ person.name }}" class="bd-placeholder-img rounded-circle" width="250" height="250" s>
         {{ person.content }}
     </div><!-- /.col-lg-4 -->
     {% endfor %}

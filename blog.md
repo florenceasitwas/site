@@ -5,6 +5,16 @@ title: Project Blog
 
 This blog represents an ongoing record of our contributors' efforts, thoughts, work processes, and more.
 
+<div class="posts">
+	{% for post in site.posts %}
+	<ul >
+      <li><a href="{{ post.url | absolute_url }}" class="button small">{{post.title}}</a> - {{ post.date | date_to_long_string  }}</li>
+    </ul>
+	{% endfor %}
+</div>
+
+
+
 
 <div class="posts">
 	{% for post in site.posts %}

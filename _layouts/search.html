@@ -11,133 +11,16 @@
 {% include head.html %}
 
 <body>
+ {% include nav.html %}
+    <div class="container-md">
 
-    <!-- Wrapper -->
-    <div id="wrapper">
-
-        <!-- Main -->
-        <div id="main">
-            <div class="inner">
-
-                {% include header.html %}
-
+    <h1>{{ page.title}}</h1>
                 {{ content }}
 
             </div>
-        </div>
-
-        <!-- Sidebar -->
-  <div id="sidebar">
-    <div class="inner">
-
      
-      <!-- Picture -->
-        <section>
-          <div>
-            <a href="{{ '' | absolute_url }}"><img src="/assets/images/logo_florence.png" alt="" width="200"></a>
-          </div>
-        </section>
 
-
-
-      <!-- Menu -->
-        <nav id="menu">
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
-          <ul>
-            <li><a href="{{ '' | absolute_url }}">Home</a></li>
-            <li><a class="non_link">About</a><a href ="{{ 'about_it.html' | absolute_url }}" class="lang_select">ITAL</a><a href ="{{ 'about.html' | absolute_url }}" class="lang_select">ENGL</a></li>
-            <li><a href="{{ 'methodology.html' | absolute_url }}">Methodology</a></li>
-            <li><a href="{{ 'maps.html' | absolute_url }}">Maps</a></li>
-            <li><a href="{{ '3d_models.html' | absolute_url }}">3D Models + Instructions</a></li>
-            <li><a href="https://sketchfab.com/FLAW/collections">Sketchfab Collections</a></li>
-            <!--<li>
-              <span class="opener">Buildings</span>
-              <ul>
-                {% assign links = (site.buildings | where:"status", "active") %}
-                {% for building in links %}
-                    <li><a href="{{ building.url | absolute_url }}">{{ building.title }}</a></li>
-                {% endfor %}
-              </ul>
-            </li>
-            <li><a href="{{ 'people.html' | absolute_url }}">Historic Figures</a></li>-->
-            <li><a href="{{ 'encyclopedia.html' | absolute_url }}">Encyclopedia Fiorentina</a></li>
-            <li><a href="{{ '19th-century-views-of-florence.html' | absolute_url }}">19th-Century Views of Florence</a></li>
-            <li><a href="{{ 'blog.html' | absolute_url }}">Project Blog</a></li>
-            <li><a href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
-            <!--<li><a href="{{ 'methodology.html' | absolute_url }}">Methodology</a></li>-->
-            <li><a href="{{ 'affiliations.html' | absolute-url }}">Affiliations</a></li>
-          </ul>
-        </nav>
-
-      <!-- Blog Section -->
-        <section>
-          <header class="major">
-            <h2>Recent Posts</h2>
-          </header>
-          <div class="mini-posts">
-              {% for post in site.posts limit:1 %}
-              <article>
-                <h3>{{ post.title }}</h3>
-                {{ post.excerpt }}
-              </article>
-              {% endfor %}
-          </div>
-          <br/>
-          <ul class="actions">
-            <li><a href="{{ 'blog.html' | absolute_url }}" class="button">More</a></li>
-          </ul>
-        </section>
-
-      <!-- Section -->
-        <section>
-          <header class="major">
-            <h2>Contact Us</h2>
-          </header>
-          <ul class="contact">
-            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
-            <li class="fa-envelope"><a href="#">{{ site.email2 }}</a></li>
-            <li class="fa-phone">{{ site.phone }}</li>
-            <li class="fa-home">{{ site.street_address }}<br />
-            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
-            {{ site.country }}</li>
-          </ul>
-        </section>
-
-      <!-- Footer -->
-        <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }} All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
-        </footer>
-
-    </div>
-  </div>
-
-
-    </div>
-
-<!-- Scripts -->
-  <script src="{{ 'assets/js/jquery.min.js' | absolute_url }}"></script>
-  <script src="{{ 'assets/js/skel.min.js' | absolute_url }}"></script>
-  <script src="{{ 'assets/js/util.js' | absolute_url }}"></script>
-  <!--[if lte IE 8]><script src="{{ 'assets/js/ie/respond.min.js' | absolute_url }}"></script><![endif]-->
-  <script src="{{ 'assets/js/main.js' | absolute_url }}"></script>
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-
-<script>
-      window.simpleJekyllSearch = new SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('full-results-container'),
-        json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" >{title}</a></li><p>{excerpt}</p>',
-        noResultsText: 'No results found',
-        limit: 50,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
-</script>
-
-
+{% include footer.html %}
 </body>
 
 </html>

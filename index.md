@@ -13,12 +13,11 @@ title: Florence As It Was
 		<a href="about.html"><button type="button" class="btn btn-success">Learn More</button></a>
 	</div>
     <div class="col text-center">
-      <a href=""><img class="rounded" src="assets/images/flawhome1.png">
-      <h3 class="lh-lg">Maps & Data</h3>
+      <a href="{{site.absolute_url}}/maps.html"><img class="rounded" src="assets/images/flawhome1.png"></a>
+      <a href="{{site.absolute_url}}/maps.html"><h3 class="lh-lg">Maps & Data</h3>
   </a>
-        <a href="3d_models.md"><img class="rounded" src="assets/images/flawhome2.png">
-      <h3>3D Models</h3>
-  </a>
+        <a href="{{site.absolute_url}}/3d_models.md"><img class="rounded" src="assets/images/flawhome2.png"></a>
+      <a href="{{site.absolute_url}}/3d_models.md"><h3>3D Models</h3></a>
     </div>
   </div>
 
