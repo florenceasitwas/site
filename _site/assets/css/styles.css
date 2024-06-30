@@ -11627,4 +11627,8 @@ footer {
   font-family: "Roboto Slab";
 }
 
+div#borb img {
+  max-width: 70%;
+}
+
 /*# sourceMappingURL=styles.css.map */

@@ -1,14 +1,16 @@
 ---
-layout: page
+layout: article
+author_first: George
+author_last: Bent
+date_published: August 2021
 title: Project Methodology
 ---
- <section>
-	<div class= "row methodology">
-	<article markdown="1">
+
+<div class="row">
+<div class="col-8" markdown="1">
+
 
 ## Methodology
-
-*(Not to be confused with “Work Flow”)*
 
 Florence As It Was has multiple aims within its broad goal of recreating selected structures in the city as they appeared in the year 1500. The pointclouds and photogrammetric models we build certainly serve their purposes as visual portals into the past, but the translations of early modern descriptions, transcriptions of contemporary documents, and the creation of a database of people, places, and things weaves these images into layers of information that help us interpret what we see. Intended as a study tool (as opposed to a substitution for the real thing), this project provides users with a combination of the type of original source materials that historians of art and architecture in particular typically use when crafting scholarly works. Its multi-variances routinely force us to make choices and adhere to a list of priorities as we go.
 
@@ -25,7 +27,7 @@ We are guided by a number of governing principles that have never wavered since 
 	
 * And fourth, we freely acknowledge that the recreated spaces we produce here are based on the research we have conducted. Decisions must be made at every turn, and at important moments we are often faced with the delicate problem of deciding which and whose research to accept and which/whose to reject. This is, we know, the most difficult part of the entire process: our reconstructions are not meant to be definitive and always reflect the scholarly opinions of their creators (see <a href="assets/images/methodology3.png">fig. 3</a>).
 
-### The Buildings
+## The Buildings
 
 The city of Florence has changed dramatically over the centuries as fire, bombs, urban renewal projects, and general structural decay have claimed most of the buildings that once dotted its urban landscape. The Mercato Vecchio at the very heart of that landscape was demolished at the end of the nineteenth century to make way for the very Parisian-like Piazza della Republica that stands there today (see <a href="assets/images/methodology4.png">fig. 4</a>). Fire swept through the city in 1304, destroying most of the buildings between Orsanmichele and the Arno River. The Via dei Calzaiuoli (the road through Florence that connects the Duomo in the Piazza S. Giovanni to the Palazzo Vecchio in the Piazza della Signoria) was widened at the end of the fourteenth century and shaved a few meters off the fronts of multiple buildings in the city center as a result. Most of the large stone piazze that stand before the city’s most prominent churches were either filled with houses, tombstones, or dirt circuits (see <a href="assets/images/methodology5.png">fig. 5</a>). Nazi mines destroyed all but one of the bridges that spanned that river in 1944, along with most of the buildings that lined the avenues leading up to the famous Ponte Vecchio (see <a href="assets/images/methodology6.png">fig. 6</a>). The flood of 1966, covered live on CBS for 24 consecutive hours, significantly damaged images and objects in disastrous ways (see fig. 7). But most common were the renovation projects by various and sundry property owners who purchased shops or apartments, realized their decrepit condition, and went about the process of ripping them apart from the inside out in the name of modernization (and commercial success – see <a href="assets/images/methodology8.png">fig. 8</a>). We initially hoped to find ways to rebuild these lost structures, but the task proved too Herculean – even Sisyphean – for us to pursue seriously.
 
@@ -43,7 +45,7 @@ Still, roughly fifty structures from the late Middle Ages/Early Renaissance peri
 
 At Washington and Lee University, files are downloaded onto local and cloud-based drives. Each individual project is linked and modeled. Individual scans are edited to eliminate evidence of human beings, automated vehicles, modern furnishings, and other random items that have no place in a fifteenth-century setting. Choices must be made when eliminating large objects that obscure wall spaces: deleting scaffolding from a chapel space, for example, results in a void in the model. Sometimes this void is better than the offending object we wish to remove, but sometimes the hole in the model is so great that alternatives must be sought (see <a href="assets/images/methodology13.png">fig. 13</a>).
 
-### Art works
+## Art works
 
 The structures modeled with LiDAR technology do not fully represent the appearance of those buildings as visitors would have known them in the fifteenth century. Styles, rituals, and the needs of users shift over time – sometimes radically and quite quickly – meaning that liturgical objects were often replaced periodically (see fig. 14). Earlier iterations of altarpieces, tombs, relief sculptures, etc. were moved to other (usually smaller and less traveled) locations in need of decorative items, which in turn were emptied of their contents in the late eighteenth and early nineteenth centuries. These objects made their way into new facilities called ‘museums’ or into the hands of art dealers who sold them to buyers eager to take advantage of this new market of antiquities. As a result, Florentine buildings contain only a small fraction of the images they once held, and those images have been scattered to different corners of the globe.
 
@@ -59,7 +61,7 @@ Paintings produced by Fabio Borbottoni in the late nineteenth century have been 
 
 Any person with a smart phone or digital camera may photograph a work of art. Publishing those photographs as printed materials requires permissions from the owners of the works. The Internet is still a gray area in this regard, and Florence As It Was has delayed this phase of the project in order to understand fully its fiduciary and legal obligations.
 
-### Sources
+## Sources
 
 The elimination of modern elements can be easily determined: fire extinguishers, cordon ropes, and electrical cords obviously have no place in a Renaissance building. But cutting away architectural structures to reveal earlier areas must be done carefully, always considering the original source material and scholarly interpretations that have argued persuasively for a particular appearance. The decisions about where to place models of art works that originally decorated the spaces we have scanned are equally delicate. Before making decisions to eliminate architectonic elements, we:
 
@@ -70,7 +72,7 @@ The elimination of modern elements can be easily determined: fire extinguishers,
 * collaborate with other digital humanities projects that may be considering the same space in the same way.
 
 
-### Interpretative Essays, Translations, and Transcriptions
+## Interpretative Essays, Translations, and Transcriptions
 
 We have insisted from the beginning that Florence As It Was exhibits informative content as well as visual interpretations of the original appearance of the city’s architectural monuments. We have also insisted that this content shall be collected and disseminated by multiple voices in a truly collaborative fashion. George Bent, an art historian of the Florentine Renaissance who has written extensively about both monastic and public art in the fourteenth century, produces some of these interpretative essays. Students at Washington and Lee University pen a majority of the others, but always with Bent’s supervision and final editorial eye: any errors in these texts are entirely his responsibility. Some members of the academic community have also volunteered to write descriptive texts about images or structures that fall within their particular area of expertise (most notably Anne Leader’s annotations of the Tedaldi Tomb in S. Croce’s nave and Mark Rosen’s essay about the Buonsignori Map of 1584 that serves as the platform for this project – see <a href="assets/images/methodology18.png">figs. 18</a> and <a href="assets/images/methodology19.png">19</a>).
 
@@ -80,13 +82,13 @@ Descriptions of Florentine buildings guide our thinking when editing point cloud
 
 Similarly, documents published over the centuries by scholars of the period are collected together, transcribed, and then annotated. These documents are organized chronologically according to each building we model and according to projects within that building (see <a href="assets/images/methodology22.png">fig. 22</a>). Obviously, choices must be made about which documents to include in this site: the number of published archival references to the comparatively small granary/cult center/church of Orsanmichele are so numerous as to fill the pages of an entire book, and space limitations (and copyright issues) make it impossible to include every entry here. Still, we do our best to identify key documents that help tell the story of a building’s construction, its decorations, and the people involved in the projects that made that edifice so important in the early Modern era.
 
-### The Database
+## The Database
 
 Florence As It Was revolves around the structures and images that appeared before viewers and visitors to the city in the fourteenth and fifteenth centuries. As such, the information we include in our database pertains specifically to these topics: we celebrate the efforts of our colleagues and peers to present mappable interpretations of social, political, and economic history through the digitized datasets of fifteenth- and sixteenth-century census records, but we choose not to replicate that important work. Instead, we map the images, image-creators, patrons, subjects, materials, and chronological sequencing of art objects and architectural structures in Renaissance Florence to help users identify patterns of production and representations, networks of patronage and associations, and the gradual accretion of images in the city over time.
 
 Supervised by Mackenzie Brooks, students have designed this database and entered information into its structure according to scholarly publications that confirm the names, places, and dates of surviving works of art known to have decorated Florentine buildings by 1500.
 
-### Endnote
+## Endnote
 
 Formed on the foundations of thirty years of scholarly experience in the city of Florence, this project attempts to present a thoughtful representation of an early modern city based on archival information, archaeological evidence, and decades of academic interpretation. We present reproductions and representations of standing monuments in ways that permit users to consider objects of art and architecture from angles unavailable to them in situ. We offer textual information that simultaneously educates and offers hypotheses for consideration by scholars, students, and the general public. And we provide a physical context for the images and objects that all of us gaze upon in wonder, in curiosity, and (in some cases) in rapture. None of this would be possible without the explicit cooperation and collaborative spirit of the Italian institutions whose structures and decorative items we include here, nor would we have managed to progress with such speed without the support of specific members of the Florentine art and architectural historical community who have shown their faith in us and in what we’re trying to do: to each of them individually and to all of them collectively go our sincere and heartfelt thanks.
 
@@ -96,19 +98,28 @@ This ongoing project – the end of which is nowhere near in sight – will expa
 
 -- George Bent, August 2021
 
-</article>
-	<article>
-      <h2>Images</h2>
-<!--<figure>
-<a href="assets/images/methodology1.png"><img class="image_fit_arch" src="assets/images/methodology1.png"/></a>
- <figcaption markdown="1">
-*Fig 1. - Tomb of Galileo with 14th C. Frescoes, nave, North Wall, S. Croce, Florence.*
-</figcaption>
-</figure>-->
-  <img class="image_fit_arch" src="assets/images/methodology/methodology1.png"/>
-		<p><em> Fig 1. - Tomb of Galileo with 14th C. Frescoes, nave, North Wall, S. Croce, Florence.</em></p>
-<img class="image_fit_arch" src="assets/images/methodology/methodology2.png"/>
-		<p><em> Fig 2. - Screenshot cutaway Aerial view, S. Croce, Florence.  BLK360 Scans, Potree Viewer. </em></p>
+</div>
+
+<div class="col-4" markdown="1">
+
+## Images
+<figure>
+	<a href="{{site.baseurl}}/assets/images/methodology/methodology1.png">
+		<img class="rounded img-fluid" src="{{site.baseurl}}/assets/images/methodology/methodology1.png"/>
+	</a>
+	 <figcaption>Fig 1. - Tomb of Galileo with 14th C. Frescoes, nave, North Wall, S. Croce, Florence.
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="{{site.baseurl}}/assets/images/methodology/methodology2.png">
+		<img class="rounded img-fluid" src="{{site.baseurl}}/assets/images/methodology/methodology2.png"/>
+	</a>
+		<figcaption>Fig 2. - Screenshot cutaway Aerial view, S. Croce, Florence.  BLK360 Scans, Potree Viewer.</figcaption>
+</figure>
+
+
 <img class="image_fit_arch" src="assets/images/methodology/methodology3.png"/>
 		<p><em> Fig 3. - Mesh & Pointcloud combination, interior, Orsanmichele, Florence. BLK360 Scans, iPhone 8 Plus photographs, Potree Viewer. </em></p>
 <img class="image_fit_arch"  src="assets/images/methodology/methodology4.png"/>
@@ -150,6 +161,4 @@ This ongoing project – the end of which is nowhere near in sight – will expa
 <img class="image_fit_arch"  src="assets/images/methodology/methodology22.png"/>
 		<p><em> Fig 22. - Screenshot, Primary Sources, Bigallo, Howard Saalman, florenceasitwas.wlu.edu.  </em></p>
 
-</article>
-  </div>
-</section>
+</div></div>

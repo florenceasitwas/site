@@ -20,7 +20,7 @@ Leonardo Bartolini, et.al., Loggia, 1355-1363
 
 On January 21, 1355 (1354 o.s.) the company received a gift of territory – about twenty feet (“ten braccie”) – on the corner of the Piazza S. Giovanni, which they used to site construction of the open loggia that soon came to be recognized as a signature feature of the Florentine cityscape.  Eight years later, a workman named Ambrogio was paid for designing, casting, and installing the intricate iron lattice work the hugs the contours of the porch and that appears to have completed the architectural project.  The arches and walls bear images that mark the structure as an edifice of importance in the civic fabric of Florence.
 
-<!-- more -->
+[Read More]
 
 In 1321, a wealthy magnate named Baldinaccio Adimari gifted property that he owned in his family’s neighborhood to a newly formed charitable organization charged with the tasks of tending to the destitute, diseased, and disenfranchised. The building there housed the Misericordia from that time forward but, thanks to a series of additional gifts from neighbors, the company was able to expand its residence to the east and the west. Giovanni degli Albizzi Pellegrini, a member of one of the city’s most powerful families, donated property adjacent to the original building in 1351, and in 1355 the addition of the twenty feet at the corner of the Corso Adimari provided the company with the area needed for the loggia that now extended to the east.  
 
