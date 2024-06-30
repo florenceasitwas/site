@@ -9,9 +9,9 @@ blurb: Fourteenth-century granary and church of the guilds
 thumbnail: Orsanmichele_thumbnail2.jpeg
 front_page: live
 image-model: orsanmichele-model-2.png
-image-image: orsanmichele.png
-image-articles: orsanmichele_biadaiolo.jpg
-image-sources: orsanmichele_1.jpg
+model_link: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html
+model_thumbnail: /assets/images/thumbnail/orsanmichele-model.png
+model_info: 
 ---
 
 Located in the very heart of the ancient city center, Orsanmichele has been a cult center, civic monument, and emblem of communal unity since the thirteenth century. It has, for six hundred years, represented an ideal that Florentines have always wished to present to the outside world. Examine the fourteenth-century structure that was built to replace the old loggia that once served as the city’s grain dispensary, see the images that once ornamented its interior, and learn about the fifteenth-century sculptures by the day’s finest artists that fit inside the niches on its façade.

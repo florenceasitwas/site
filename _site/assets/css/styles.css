@@ -11619,4 +11619,12 @@ footer {
   height: 15vh;
 }
 
+.metadata {
+  font-family: "Roboto Slab";
+}
+
+.toc {
+  font-family: "Roboto Slab";
+}
+
 /*# sourceMappingURL=styles.css.map */
