@@ -1,10 +1,10 @@
 ---
 layout: architecture
-title: The Annunziata
+title: SS. Annunziata
 category: 
-building: annunziata
+building: SS. Annunziata
 image: annunziata-thumbnail.png
-blurb: The Basilica della Santissima Annunziata
+blurb: The Basilica of Santissima Annunziata
 thumbnail: annunziata-thumbnail.png
 status: live
 image-model: annunziata-models.png
