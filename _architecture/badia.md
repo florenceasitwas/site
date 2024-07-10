@@ -1,9 +1,9 @@
 ---
 layout: architecture
-title: The Badia
+title: Badia
 category: 
 building: badia
-blurb: The Badia...
+blurb: The Benedictine Abbey of Florence
 thumbnail: badia-image.png
 status: live
 front_page: live
