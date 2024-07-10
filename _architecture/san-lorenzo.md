@@ -1,8 +1,8 @@
 ---
 layout: architecture
-title: San Lorenzo
-category:
-building: san-lorenzo
+title: S. Lorenzo
+category: parish church
+building: San-Lorenzo
 image: 
 alt_text: 
 status: live
