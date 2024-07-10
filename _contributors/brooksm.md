@@ -3,7 +3,7 @@ layout: page
 title: Mackenzie Brooks
 image: bio_brooksm.jpg
 category: null
-status: collaborator
+status: Principle Investigator
 published: true
 ---
 
