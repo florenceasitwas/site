@@ -5,6 +5,9 @@ title: "Florence As It Was" # the name of your site, e.g. ACME Corp.
 sass:
     sass_dir: _sass
 
+# Build settings
+markdown: kramdown
+excerpt_separator: <!-- more -->
 
 # Collections
 collections:
