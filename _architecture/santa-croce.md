@@ -1,12 +1,12 @@
 ---
 layout: architecture
-title: Santa Croce
-category:
+title: S. Croce
+category: Friary
 building: santa-croce
 image: Santa_Croce.gif
 alt_text: This gif is a timelapse of Santa Croce's development
 status: live
-blurb: Fourteenth- and fifteenth-century Franciscan church and friary
+blurb: Thirteenth- and fourteenth-century Franciscan church and friary
 thumbnail: SantaCroce_thumbnail.jpg
 front_page: live
 model_link: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html
