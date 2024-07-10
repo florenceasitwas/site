@@ -1,7 +1,7 @@
 ---
 layout: architecture
 title: S. Trinita
-category: Parish church
+category: Parish Church
 building: santa-trinita
 image: 
 alt_text: 
