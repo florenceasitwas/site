@@ -2,7 +2,7 @@
 layout: architecture
 title: Palazzo Davanzati
 category: Residence
-building: Palazzo Davanzati
+building: Palazzo-Davanzati
 image: palazzo-davanzati-thumbnail.png
 blurb: 14th century merchant's residence, Davizzi family
 thumbnail: palazzo-davanzati-thumbnail.png
