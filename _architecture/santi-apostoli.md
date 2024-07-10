@@ -1,10 +1,10 @@
 ---
 layout: architecture
-title: Santi Apostoli
-category: 
-building: apostoli
+title: SS. Apostoli
+category: Parish church
+building: santi-apostoli
 image: apostoli-thumbnail.png
-blurb: Santi Apostoli
+blurb: Ninth-century parish church 
 thumbnail: apostoli-thumbnail.png
 status: live
 image-model: apostoli-models.png
