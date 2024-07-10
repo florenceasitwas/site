@@ -101,7 +101,7 @@
       window.simpleJekyllSearch = new SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('full-results-container'),
-        json: '/search.json',
+        json: 'http://localhost:4000/search.json',
         searchResultTemplate: '<li><a href="{url}?query={query}" >{title}</a></li>',
         noResultsText: 'No results found',
         limit: 5,
