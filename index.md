@@ -31,7 +31,7 @@ title: Florence As It Was
   <img src="assets/images/thumbnail/annunziata-image.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">The Annunziata</h5>
-    <p class="card-text">Insert.</p>
+    <p class="card-text">The Basilica della Santissima Annunziata</p>
     <a href="{{ 'architecture/annunziata.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
   </div>
 </div>
@@ -54,7 +54,7 @@ title: Florence As It Was
   <img src="assets/images/thumbnail/baptistery-image.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">The Baptistery</h5>
-    <p class="card-text">Insert.</p>
+    <p class="card-text">Eleventh-century baptistery of S. Giovanni</p>
     <a href="{{ 'architecture/baptistery.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
   </div>
 </div>
@@ -106,7 +106,7 @@ title: Florence As It Was
 	  <img src="{{site.absolute_url}}/assets/images/thumbnail/orsanmichele-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Orsanmichele</h5>
-		    <p class="card-text"></p>
+		    <p class="card-text">Fourteenth-century granary and church of the guilds</p>
 <a href="{{ 'architecture/orsanmichele.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
@@ -117,7 +117,7 @@ title: Florence As It Was
 	  <img src="assets/images/thumbnail/palazzo-davanzati-thumbnail.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Palazzo Davanzati</h5>
-		    <p class="card-text"></p>
+		    <p class="card-text">14th century merchant's residence</p>
 <a href="{{ 'architecture/palazzo-davanzati.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
@@ -143,7 +143,7 @@ title: Florence As It Was
 	  <img src="assets/images/thumbnail/sanlorenzo-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">San Lorenzo</h5>
-		    <p class="card-text">Insert</p>
+		    <p class="card-text">Fifteenth-century parish church, brainchild of Brunelleschi and burial ground of the early Medici</p>
 <a href="{{ 'architecture/san-lorenzo.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
@@ -154,7 +154,7 @@ title: Florence As It Was
 	  <img src="assets/images/thumbnail/sanminiato-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">San Miniato</h5>
-		    <p class="card-text">Insert</p>
+		    <p class="card-text">Eleventh-century Olivetan church and monastery</p>
 <a href="{{ 'architecture/san-miniato.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
@@ -192,7 +192,7 @@ title: Florence As It Was
 	  <img src="assets/images/thumbnail/santacroce-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Santa Croce</h5>
-		    <p class="card-text">Insert</p>
+		    <p class="card-text">Fourteenth- and fifteenth-century Franciscan church and friary</p>
 <a href="{{ 'architecture/santa-croce.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
@@ -205,7 +205,7 @@ title: Florence As It Was
 	  <img src="assets/images/thumbnail/duomo-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Santa Maria del Fiore</h5>
-		    <p class="card-text">Insert</p>
+		    <p class="card-text">Early Christian foundations; 14th century nave; 15th century cupola</p>
 <a href="{{ 'architecture/santa-maria-del-fiore.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
@@ -218,7 +218,7 @@ title: Florence As It Was
 	  <img src="assets/images/thumbnail/santamarianovella-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Santa Maria Novella</h5>
-		    <p class="card-text">Insert</p>
+		    <p class="card-text">Dominican convent and cloisters of Santa Maria Novella (1275)</p>
 <a href="{{ 'architecture/santa-maria-novella.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
@@ -238,7 +238,7 @@ title: Florence As It Was
 
 <div class="col">
 	<div class="card">
-	  <img src="/assets/images/thumbnail/santiapostoli-image.png" class="card-img-top" alt="...">
+	  <img src="assets/images/thumbnail/santiapostoli-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Santi Apostoli</h5>
 		    <p class="card-text">Insert</p>
