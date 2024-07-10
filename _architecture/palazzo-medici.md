@@ -2,7 +2,7 @@
 layout: architecture
 title: Palazzo Medici
 category: Residence
-building: Palazzo Medici
+building: Palazzo-Medici
 image: 
 status: live
 blurb: Residence built by Cosimo de' Medici
