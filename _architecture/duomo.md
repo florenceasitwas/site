@@ -1,10 +1,10 @@
 ---
 layout: architecture
-title: The Duomo
-category: 
-building: duomo
+title: S. Maria del Fiore
+category: Cathedral
+building: Cathedral of S. Maria del Fiore
 image: duomo-thumbnail.png
-blurb: The Duomo...	
+blurb: The Duomo of the fourteenth and fifteenth centuries; foundations of early church of S. Reparata	
 thumbnail: duomo-thumbnail.png
 status: live
 image-model: duomo-models.png
