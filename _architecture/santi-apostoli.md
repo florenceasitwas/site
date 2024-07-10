@@ -1,7 +1,7 @@
 ---
 layout: architecture
 title: SS. Apostoli
-category: Parish church
+category: Parish Church
 building: santi-apostoli
 image: apostoli-thumbnail.png
 blurb: Ninth-century parish church 
