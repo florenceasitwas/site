@@ -1,12 +1,12 @@
 ---
 layout: architecture
-title: Santa Trinita
-category:
-building: trinita
+title: S. Trinita
+category: Parish church
+building: santa-trinita
 image: 
 alt_text: 
 status: live
-blurb: 
+blurb: Fourteenth-century church built on top of twelfth-century structure
 thumbnail: 
 front_page: live
 image-model: trinita.png
