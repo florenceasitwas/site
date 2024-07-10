@@ -10,6 +10,6 @@ status: live
 image-model: annunziata-models.png
 front_page: live
 model_link: https://3d.wlu.edu/v21/pages/Annunziata/Annunziata.html
-model_thumbnail: /assets/images/thumbnail/annunziata-model.png
+model_thumbnail: /assets/images/thumbnail/annunziata-model-thumbnail.png
 model_info: 
 ---

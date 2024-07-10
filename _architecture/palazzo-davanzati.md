@@ -12,7 +12,7 @@ image-image: palazzo-davanzati-images.png
 image-articles: palazzo-davanzati-articles.png
 image-sources: palazzo-davanzati-sources.png
 front_page: live
-model_link: 
-model_thumbnail:
+model_link: https://3d.wlu.edu/v20/davanzati.html
+model_thumbnail: /assets/images/thumbnail/palazzodavanzati-model-thumbnail.png
 model_info: 
 ---

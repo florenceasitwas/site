@@ -11,6 +11,6 @@ thumbnail:
 front_page: live
 image-model: trinita.png
 model_link: https://3d.wlu.edu/v21/pages/Trinita/trinita.html
-model_thumbnail: 
+model_thumbnail: /assets/images/thumbnail/santatrinita-model-thumbnail.png
 model_info: 
 ---

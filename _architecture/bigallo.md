@@ -13,7 +13,7 @@ image-image: image-image-bigallo.png
 image-articles: image-articles-bigallo.png
 image-sources: image-sources-bigallo.png
 model_link: https://3d.wlu.edu/v21/pages/Bigallo/Bigallo.html
-model_thumbnail: /assets/images/thumbnail/bigallo-model.png
+model_thumbnail: /assets/images/thumbnail/bigallo-model-thumbnail.png
 ---
 
 Built in the middle of the fourteenth century, the Oratory of the Misericordia (as it was then known) has endured expansions, fires, renovations, a merger, and more to become the elegant structure that stands on the Piazza del Duomo today. Read more about the structure’s tumultuous history here. Explore the headquarters of one of the city’s most prominent charities, the Confraternity of the Misericordia, later merged with that of the Bigallo, and see the art that it commissioned to assert its place in Florentine society.

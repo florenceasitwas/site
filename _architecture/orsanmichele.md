@@ -10,7 +10,7 @@ thumbnail: Orsanmichele_thumbnail2.jpeg
 front_page: live
 image-model: orsanmichele-model-2.png
 model_link: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html
-model_thumbnail: /assets/images/thumbnail/orsanmichele-model.png
+model_thumbnail: /assets/images/thumbnail/orsanmichele-model-thumbnail.png
 model_info: 
 ---
 

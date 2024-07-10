@@ -9,8 +9,6 @@ status: live
 blurb: Dominican convent and cloisters of Santa Maria Novella (1275)
 thumbnail: smn-thumbnail.png
 front_page: live
-image-model: smn-models.png
-image-image: smn-images.png
-image-articles: smn-articles.png
-image-sources: smn-sources.png
+model_link: https://3d.wlu.edu/v21/pages/SMN/SMN.html
+model_thumbnail: /assets/images/thumbnail/smn-model-thumbnail.png
 ---

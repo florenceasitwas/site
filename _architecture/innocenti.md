@@ -10,6 +10,6 @@ status: live
 image-model: innocenti-models.png
 front_page: live
 model_link: https://3d.wlu.edu/v21/pages/Innocenti/innocenti.html
-model_thumbnail: /assets/images/thumbnail/innocenti-model.png
+model_thumbnail: /assets/images/thumbnail/innocenti-model-thumbnail.png
 model_info: 
 ---

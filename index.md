@@ -16,17 +16,43 @@ title: Florence As It Was
       <a href="{{site.absolute_url}}/maps.html"><img class="rounded" src="assets/images/flawhome1.png"></a>
       <a href="{{site.absolute_url}}/maps.html"><h3 class="lh-lg">Maps & Data</h3>
   </a>
-        <a href="{{site.absolute_url}}/3d_models.md"><img class="rounded" src="assets/images/flawhome2.png"></a>
-      <a href="{{site.absolute_url}}/3d_models.md"><h3>3D Models</h3></a>
+        <a href="{{site.absolute_url}}/3d_models.html"><img class="rounded" src="assets/images/flawhome2.png"></a>
+      <a href="{{site.absolute_url}}/3d_models.html"><h3>3D Models</h3></a>
     </div>
   </div>
 
 
 <h2>Buildings</h2>
+
 <div class="row">
+
+<div class="col">
+<div class="card">
+  <img src="assets/images/thumbnail/annunziata-image.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">The Annunziata</h5>
+    <p class="card-text">Insert.</p>
+    <a href="{{ 'architecture/annunziata.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
+  </div>
+</div>
+</div>
+
+
+<div class="col">
+<div class="card">
+  <img src="assets/images/thumbnail/badia-image.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">The Badia</h5>
+    <p class="card-text">Insert.</p>
+    <a href="{{ 'architecture/badia.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
+  </div>
+</div>
+</div>
+
+
   <div class="col">
 <div class="card">
-  <img src="assets/images/thumbnail/bargello-thumbnail.png" class="card-img-top" alt="...">
+  <img src="assets/images/thumbnail/bargello-image.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">The Bargello</h5>
     <p class="card-text">Palace of the Podestà, jail, and chapel for the condemned.</p>
@@ -34,10 +60,13 @@ title: Florence As It Was
   </div>
 </div>
 </div>
+</div>
+<div class="row">
+
 
 <div class="col">
 	<div class="card">
-	  <img src="assets/images/thumbnail/bigallo_thumbnail.jpg" class="card-img-top" alt="...">
+	  <img src="assets/images/thumbnail/bigallo-image.jpg" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">The Bigallo</h5>
 		    <p class="card-text">14th-century charitable institution</p>
@@ -46,9 +75,11 @@ title: Florence As It Was
 	</div>
 </div>
 
+
+
 <div class="col">
 	<div class="card">
-	  <img src="https://florenceasitwas.wlu.edu/assets/images/innocenti-thumbnail.png" class="card-img-top" alt="...">
+	  <img src="https://florenceasitwas.wlu.edu/assets/images/innocenti-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">The Innocenti</h5>
 		    <p class="card-text">15th century children's hospital</p>
@@ -56,6 +87,19 @@ title: Florence As It Was
 		  </div>
 	</div>
 </div>
+
+<div class="col">
+	<div class="card">
+	  <img src="https://florenceasitwas.wlu.edu/assets/images/innocenti-image.png" class="card-img-top" alt="...">
+		  <div class="card-body">
+		    <h5 class="card-title">The Innocenti</h5>
+		    <p class="card-text">15th century children's hospital</p>
+<a href="{{ 'architecture/innocenti.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
+		  </div>
+	</div>
+</div>
+
+
 
 </div>
 </div>

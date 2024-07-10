@@ -9,10 +9,8 @@ status: live
 blurb: Fourteenth- and fifteenth-century Franciscan church and friary
 thumbnail: SantaCroce_thumbnail.jpg
 front_page: live
-image-model: image-model-santa-croce.png
-image-image: image-images-santa-croce.png
-image-articles: image-articles-santa-croce.png
-image-sources: image-sources-santa-croce.png
+model_link: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html
+model_thumbnail: /assets/images/thumbnail/santacroce-model-thumbnail.png
 ---
 
 Located on the site of a facility that had housed early followers of St. Francis as early as 1212, the enormous mendicant church was initiated in 1295 thanks to plans crafted (according to legend) by Arnolfo di Cambio. Despite its location in the midst of laborers engaged in the messy, dangerous, and thankless work of wool production, the friary catered to the spiritual interests and needs of some of the city's wealthiest elites. Like the building history of S. Maria Novella, its rival counterpart to the west, S. Croce's church and dependencies evolved steadily through the fourteenth century. Burial chapels in the transept were secured by families like the Bardi, Peruzzi, Baroncelli, and Castellani families, some of the most powerful and privileged in all of Florence. In keeping with their status, the city's finest artists were commissioned to produce mural and panel decorations there: Giotto, Taddeo Gaddi, and Maso di Banco worked there in the first half of the Trecento, while Giovanni da Milano, Angolo Gaddi, and Niccolò di Pietro Gerini painted frescoes there between 1365 and 1390.

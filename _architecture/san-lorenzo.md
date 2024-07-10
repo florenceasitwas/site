@@ -11,7 +11,7 @@ thumbnail: sanlorenzothumbnail.png
 front_page: live
 image-model: sanlorenzocover.png
 model_link: https://3d.wlu.edu/v21/pages/Lorenzo/lorenzo.html
-model_thumbnail: /assets/images/thumbnail/annunziata-model.png
+model_thumbnail: /assets/images/thumbnail/sanlorenzo-model-thumbnail.png
 model_info: 
 ---
 
