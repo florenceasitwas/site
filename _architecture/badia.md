@@ -1,7 +1,7 @@
 ---
 layout: architecture
 title: Badia
-category: 
+category: Monastery
 building: Abbey
 blurb: The Benedictine Abbey of Florence
 thumbnail: badia-image.png
