@@ -1,10 +1,10 @@
 ---
 layout: architecture
-title: San Spirito
-category: church
-building: spirito	
+title: S. Spirito
+category: Monastery
+building: santo-spirito	
 image: 
-blurb: 
+blurb: Fifteenth-century Servite convent designed by Brunelleschi
 thumbnail: 
 status: live
 front_page: live
