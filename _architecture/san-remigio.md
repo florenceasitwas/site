@@ -1,10 +1,10 @@
 ---
 layout: architecture
-title: San Remigio
+title: S. Remigio
 category: church
-building: remigio	
+building: San-Remigio	
 image: 
-blurb: 
+blurb: thirteenth-century parish church
 thumbnail: 
 status: live
 front_page: live
