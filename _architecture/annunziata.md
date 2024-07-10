@@ -4,7 +4,7 @@ title: SS. Annunziata
 category: 
 building: SS. Annunziata
 image: annunziata-thumbnail.png
-blurb: The Basilica of Santissima Annunziata
+blurb: Cult center and convent of Santissima Annunziata
 thumbnail: annunziata-thumbnail.png
 status: live
 image-model: annunziata-models.png
