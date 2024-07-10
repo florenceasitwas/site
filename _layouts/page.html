@@ -4,7 +4,7 @@
   <body>
  {% include nav.html %}
   {% if page.image %}
-  <span class="image main"><img class="img-fluid" src="{{ root_url }}/assets/images/{{ page.image }}" alt="{{ page.alt_text }}" /></span>
+  <span class="image main"><img class="img-fluid" src="{{ absolute_url }}/assets/images/{{ page.image }}" alt="{{ page.alt_text }}" /></span>
                   {% endif %}
     <div class="container-md">
 <h1>{{ page.title }}</h1>
