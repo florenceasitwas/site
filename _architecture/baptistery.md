@@ -1,6 +1,6 @@
 ---
 layout: architecture
-title: The Baptistery
+title: S. Giovanni
 category: 
 building: baptistery
 image: baptistery-thumbnail.png
