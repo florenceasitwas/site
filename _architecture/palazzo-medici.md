@@ -1,11 +1,11 @@
 ---
 layout: architecture
 title: Palazzo Medici
-category: church
-building: palazzo-medici
+category: Residence
+building: Palazzo Medici
 image: 
 status: live
-blurb: 
+blurb: Residence built by Cosimo de' Medici
 thumbnail: 
 front_page: live
 image-model: 
