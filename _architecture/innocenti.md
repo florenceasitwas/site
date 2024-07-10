@@ -1,10 +1,10 @@
 ---
 layout: architecture
-title: The Innocenti
-category: 
-building: innocenti
+title: Ospedale degli Innocenti
+category: Hospital/Orphanage
+building: Ospedale degli Innocenti
 image: innocenti-models.png
-blurb: 15th century children's hospital
+blurb: 15th-century children's hospital
 thumbnail: innocenti-thumbnail.png
 status: live
 image-model: innocenti-models.png
