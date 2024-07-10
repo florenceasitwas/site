@@ -26,24 +26,24 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="maps.html">Maps & Data</a>
+          <a class="nav-link" href="{{ 'maps.html' | absolute_url }}">Maps & Data</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="{{ '3d_models.html' | absolute_url }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Models
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="3d_models.html">3D Models</a></li>
+            <li><a class="dropdown-item" href="{{ '3d_models.html' | absolute_url }}">3D Models</a></li>
             <li><a class="dropdown-item" href="https://sketchfab.com/FLAW">SketchFab</a></li>
             
         </li>
         </ul>
       </li>
         <li class="nav-item">
-          <a class="nav-link" href="encyclopedia.html">Encyclopedia</a>
+          <a class="nav-link" href="{{ 'encyclopedia.html' | absolute_url }}">Encyclopedia</a>
         </li>
 
-          <li class="nav-item">  <a class="nav-link" href="{{site.baseurl}}/search.html">Search</a>
+          <li class="nav-item">  <a class="nav-link" href="{{ 'search.html' | absolute_url }}">Search</a>
 </li>
       </ul>
     </div>
