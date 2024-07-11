@@ -1,12 +1,15 @@
 ---
 layout: architecture
-title: Santa Maria del Fiore (The Duomo)
-category: 
+title: S. Maria del Fiore
+category: Cathedral
 building: santa-maria-del-fiore
-image: santa-maria-del-fiore-thumbnail.png
-blurb: Early Christian foundations; 14th century nave; 15th century cupola 
-thumbnail: santa-maria-del-fiore-thumbnail.png
+image: duomo-thumbnail.png
+blurb: The Duomo of the fourteenth and fifteenth centuries; foundations of early church of S. Reparata	
+thumbnail: duomo-thumbnail.png
 status: live
-model_thumbnail: /assets/images/thumbnail/smf-model-thumbnail.png
+image-model: duomo-models.png
 front_page: live
+model_link: https://3d.wlu.edu/v21/pages/Duomo/Duomo.html
+model_thumbnail: /assets/images/thumbnail/duomo-model-thumbnail.png
+model_info: 
 ---

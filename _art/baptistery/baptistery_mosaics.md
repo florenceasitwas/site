@@ -5,6 +5,7 @@ title: Baptistery Mosaics
 dates: c. ---- – 1300
 tags: sculpture
 status:
+building: baptistery
 ---
 
 The octagonal dome of the Florentine Baptistery contains one of the most impressive mosaic programs from the Medieval era. The arrangement of the

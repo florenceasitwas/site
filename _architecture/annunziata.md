@@ -2,7 +2,7 @@
 layout: architecture
 title: SS. Annunziata
 category: 
-building: SS. Annunziata
+building: annunziata
 image: annunziata-thumbnail.png
 blurb: Cult center and convent of Santissima Annunziata
 thumbnail: annunziata-thumbnail.png

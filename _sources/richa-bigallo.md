@@ -2,6 +2,7 @@
 layout: page
 title: Richa, Bigallo
 image:
+building: bigallo
 tags: bigallo
 status: live
 ---

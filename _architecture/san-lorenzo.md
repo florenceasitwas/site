@@ -2,7 +2,7 @@
 layout: architecture
 title: S. Lorenzo
 category: Parish Church
-building: San-Lorenzo
+building: san-lorenzo
 image: 
 alt_text: 
 status: live

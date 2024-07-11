@@ -1,8 +1,8 @@
 ---
 layout: architecture
-title: The Bargello
+title: Bargello
 category: 
-building: Bargello
+building: bargello
 image: bargello-thumbnail.png
 blurb: Palace of the Podestà, jail, and chapel for the condemned
 thumbnail: bargello-thumbnail.png

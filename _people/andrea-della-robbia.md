@@ -5,6 +5,7 @@ image:
 category: artist
 tags: painter
 status: live
+building: innocenti
 author_first: Emma
 author_last: Derr
 date_published: November 2019

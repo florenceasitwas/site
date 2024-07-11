@@ -8,7 +8,7 @@ status:
         <div class="col-6">
             <h2>Models by Building</h2>
   <ul>
-  {% assign var1 = site.architecture | where:"front_page","live"  %}
+  {% assign var1 = site.architecture | where:"status","live" | sort:"title","first"  %}
   {% for item in var1 %}
     <li><a href="{{ item.model_link | absolute_url }}">{{item.title}}</a></li>
   {% endfor %}

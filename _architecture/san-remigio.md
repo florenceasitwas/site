@@ -2,7 +2,7 @@
 layout: architecture
 title: S. Remigio
 category: Parish Church
-building: San-Remigio	
+building: san-remigio	
 image: 
 blurb: thirteenth-century parish church
 thumbnail: 

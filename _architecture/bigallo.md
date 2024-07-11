@@ -1,8 +1,8 @@
 ---
 layout: architecture
-title: The Bigallo
+title: Bigallo
 category: Foster Care Center
-building: Bigallo
+building: bigallo
 dates: ca. 1352 – 1358
 status: live
 blurb: Fourteenth-century charitable institution

@@ -2,7 +2,7 @@
 layout: architecture
 title: Ospedale degli Innocenti
 category: Hospital/Orphanage
-building: Ospedale degli Innocenti
+building: innocenti
 image: innocenti-models.png
 blurb: 15th-century children's hospital
 thumbnail: innocenti-thumbnail.png

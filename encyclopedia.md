@@ -14,7 +14,7 @@ status: live
 <div class="col">
   <h2><span class="icon fa-university"></span> Architecture</h2>
   <ul>
-  {% assign var1 = site.architecture | where:"front_page","live"  %}
+  {% assign var1 = site.architecture | where:"status","live" | sort: "title", "first" %}
   {% for item in var1 %}
     <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
   {% endfor %}

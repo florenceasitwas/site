@@ -2,7 +2,7 @@
 layout: article
 title: Scenes from the Life of St. Benedict
 image: 
-- spinello1.png
+ - spinello1.png
  - spinello2.png
 tags:
 author_first: Spinello

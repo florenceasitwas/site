@@ -4,6 +4,7 @@ title: Bigallo, the History of the Loggia
 image:
 category: 
 status: live
+building: bigallo
 author_first: George 
 author_last: Bent
 date_published: 
