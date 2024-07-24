@@ -2,9 +2,8 @@
 layout: page
 title: Mackenzie Brooks
 image: bio_brooksm.jpg
-category: null
-status: Principle Investigator
+status: principle
 published: true
 ---
 
-Mackenzie Brooks is Associate Professor and Digital Humanities Librarian at Washington & Lee University. Prior to her current position, she worked as Metadata Librarian at W&L and at the Loyola University Chicago Health Sciences Library. As chair of the Digital Humanities Action Team, she advises faculty and students on best practices for metadata standards in digital humanities projects. She is a core faculty member in the Digital Culture & Information minor.
+Mackenzie K. Brooks is Associate Professor & Digital Humanities Librarian at Washington and Lee University. At W&L, she is the Program Coordinator for the Digital Culture and Information program and teaches courses on humanities data, born digital archives, and scholarly editing. Previously, she worked as Metadata Librarian at W&L and at Loyola University Chicago. She received her MLIS from Dominican University. Her research focuses on digital pedagogy, text encoding and publication, and metadata. Her work appears in the *Journal of Interactive Technology and Pedagogy*, *College and Undergraduate Libraries*, and *Art Documentation*. 

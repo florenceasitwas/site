@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project Blog
+image: team-croce-feb22.jpg
 ---
 
 This blog represents an ongoing record of our contributors' efforts, thoughts, work processes, and more.

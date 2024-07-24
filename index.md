@@ -103,7 +103,7 @@ title: Florence As It Was
 
 <div class="col">
 	<div class="card">
-	  <img src="{{site.absolute_url}}/assets/images/thumbnail/orsanmichele-image.png" class="card-img-top" alt="...">
+	  <img src="assets/images/thumbnail/orsanmichele-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Orsanmichele</h5>
 		    <p class="card-text">Fourteenth-century granary and church of the guilds.</p>
@@ -165,7 +165,7 @@ title: Florence As It Was
 
 <div class="col">
 	<div class="card">
-	  <img src="/assets/images/thumbnail/sanremigio-image.png" class="card-img-top" alt="...">
+	  <img src="assets/images/thumbnail/sanremigio-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">San Remigio</h5>
 		    <p class="card-text">Thirteenth-century parish church.</p>

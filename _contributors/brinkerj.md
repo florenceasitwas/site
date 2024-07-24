@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Julia Brinker
-image: bio_brinkerj.png
+image: bio_brinkerj25.png
 category:
 status: current
 ---
