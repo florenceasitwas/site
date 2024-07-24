@@ -56,6 +56,11 @@ status: live
     <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
   {% endfor %}
   </ul>
+
+  <h2>19th Century Views of Florence</h2>
+  <p><a href="{{site.url}}/19th-century-views-of-florence.html">View paintings by Fabio Borbottoni</a></p>
 </div>
+
+
 </div>
 

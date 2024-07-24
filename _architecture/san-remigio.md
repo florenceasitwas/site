@@ -4,7 +4,7 @@ title: S. Remigio
 category: Parish Church
 building: san-remigio	
 image: 
-blurb: thirteenth-century parish church
+blurb: Thirteenth-century parish church
 thumbnail: 
 status: live
 front_page: live

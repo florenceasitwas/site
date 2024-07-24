@@ -2,7 +2,9 @@
 layout: gallery
 title: 19th-Century Views of Florence
 ---
+
 ## Paintings by Fabio Borbottoni (1820-1902) <a id="paintings"></a>
+
 <p> Fabio Borbottoni (1823-1901), a minor official in the Italian Railroad system, practiced painting as a hobby. The Florentine native produced over 120 small, square pictures of the city’s medieval structures as they appeared to him during the years of the Risorgimento – the period of Italian unification and statehood that arose during the decade of the 1860s and the latter decades of the nineteenth century when a national identity began to formulate... </p>
 <a href="{{ '/people/borbottoni.html' | absolute_url }}">Continue Reading</a>
 
