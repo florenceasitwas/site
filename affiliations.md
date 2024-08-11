@@ -4,25 +4,13 @@ title: Affiliations
 image: florence_banner.jpg
 ---
 
-## <em>Florentia Illustrata</em> Consortium:
+## <em>Florentia Illustrata</em> Consortium (National Endowment for the Humanities):
 
-<table class="table">
-	<tr>
-		<td>Washington and Lee University</td>
-		<td>University of Chicago</td>
-	</tr>
-	<tr>
-		<td>University of Toronto</td>
-		<td>Università di Firenze</td>
-	</tr>
-	<tr>
-		<td>Cambridge University</td>
-		<td>Exeter University</td>
-	</tr>
-		<tr>
-		<td>Digital Sepultuario</td>
-	</tr>
-</table>
+* CATASTO, University of Chicago (Niall Atkinson, P.I.)
+* Digital Sepoltuario, University of Virginia (Anne Leader, P.I.)
+* PUPILI, Università di Bologna (Lorenzo Vigotti, P.I.)
+* Florentine Books of the Dead, University of Indiana, Kokomo (Peter Sposato, P.I.)
+
 
 ## Organizations
 
@@ -30,28 +18,13 @@ image: florence_banner.jpg
 * [Mellon Foundation](https://mellon.org/)
 * [Guild of the Dome](http://www.guildofthedome.com/)
 
+## Supporting Individuals:
+
+* Donald and Sidney Gause Childress
+* George, Carol, and Catherine Overend
+* Doug and Mary Scovanner
+
+
 ## Thank You to the Following:
 
-| The Richard Lounsbery Foundation  | Opera del Duomo and Mons. Timothy Verdon  | Kunsthistorisches Instituit, Firenze and Dr. Alessandro Nova|
-|Villa I Tatti, the Harvard Center for Italian Renaissance Studies and Dr. Alina Payne|Florence Office of Tourism and Dott. Andrea Giordani|Clara Marinelli of the Frilli Gallery|
-| Frate Bernardo and the brothers of S. Miniato al Monte |  Dott.ssa Paola D’Agostino| Dott.ssa Claudia Timossi  |
-| Dott. Giuseppe De Micheli  | Dott. Andrea Giordani  | Dott.essa Carlatta Viviano  |
-|Don and Sydney Childress   | George, Carol, and Catherine Overend  | Sonia Chiodo  |
-| Timothy Verdon  | Chiara Marinelli and the Guild of the Dome  |Fabrizio and Francesca Pacetti   |
-| Lorenzo Cafaggi  | Paola D'Agostini  | Arabella Natalini  |
-| Andrea Giordani  | Stefano Filipponi  | Giuseppe de Marchi  |
-| Claudia Timossi  | William Hood  | Carlo Zappia  |
-| Patrizia Lattarulo  | Erik Gustafson  | Paul Youngman  |
-| Marc Conner  | Lena Hill   |   |
-
-
-
-## Related and Similar Projects
-
-| [DECIMA](https://decima-map.net/) - University of Toronto |
-| [Cenobium](https://www.khi.fi.it/4824501/cenobium) - Kunsthistorisches Florenz |
-| [Map of Early Modern London](https://mapoflondon.uvic.ca/) - University of Victoria |
-| [Factum Arte](http://www.factum-arte.com/) - Madrid |
-| [San Pier Maggiore](https://www.youtube.com/watch?v=ZUXa1nDtOB0) - Cambridge |
-| [Cyark](http://www.cyark.org/) |
-| [The Medici Project](http://www.medici.org/) |
+Lorenzo Vigotti \| Giovanni Pescarmona \| Alessandro Nova \| the Communal Government of Florence \| the Ministry of Culture, Rome \| the Opera del Duomo \| the Opera di S. Maria Novella \| the Opera di S. Lorenzo \| the Opera di S. Croce \| Kunsthistorisches Institut, Firenze \| Florence Office of Tourism and Andrea Giordani \| Mandy Richter \| Gloria Tucci \| Clara Marinelli of the Frilli Gallery \| Frate Bernardo and the brothers of S. Miniato al Monte \| Paola D’Agostino \| Claudia Timossi \| Giuseppe De Micheli \| Andrea Giordani \| Carlatta Viviano \| Sonia Chiodo \| Timothy Verdon \| Gaia Ravalli \| Fabrizio and Francesca Pacetti \| Lorenzo Cafaggi \| Arabella Natalini \| Stefano Filipponi \| Giuseppe de Marchi \| Francesco Sgambelluri \| Eleonora Mazzocchi \| Claudia Timossi \| Angelo Tartuferi \| Lara Fantoni \| Francesco Matteuzzi \| Giuseppe Giari \| Ricciardo Artusi \| Giorgio Caselli \| Fabio Sforzi \| Maria Marinelli \| Giorgio Verdiani \| Fulvio Palmieri \| William Hood \| Niall Atkinson \| Nicholas Terpstra \| Anne Leader \| Peter Sposato \| Scott McAvoy \| Gregory Walsh \| Amanda Troth \| Giani Patri \| Carlo Zappia \| Patrizia Lattarulo \| Stefano Sacchetti \| Anna Lami \| Villa I Tatti, the Harvard Center for Italian Renaissance Studies \| Alina Payne \| Andrea Lepage \| Erik Gustafson \| Lindsey Hewitt \| Paul Youngman \| Marc Conner \| Lena Hill \| Chawne Kimber 

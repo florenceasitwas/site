@@ -9,7 +9,7 @@ title: Contributors
 
 <!-- is this as sleek as possible, or can it be further optimized? AV -->
 
-# Principle Investigators
+# Principal Investigators
 
 <div class="row">
     {% for person in principle %}

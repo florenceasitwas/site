@@ -1,6 +1,6 @@
 ---
 layout: map
-title: Maps & Data
+title: Maps & Databases
 image:
 ---
 
@@ -8,12 +8,20 @@ image:
 <p align="center"><i>Image courtesy of Harvard Libraries</i></p>
 <br/>
 -->
-## About 
+
+## About the Data 
+
+The query service (the magnifying glass icon) in ArcGIS searches our dataset of nearly 2000 artworks. The data has been compiled by the FLAW team and contains 30 descriptive fields for each image. A key feature is the ability to search by multiple iconographic descriptors. 
+
+We are in the process of migrating our data to Wikidata. 
+
+
+## About the Map
 Mark Rosen, [Buonsignori Map of 1584](https://florenceasitwas.wlu.edu/sources/buonsignori-biography1.html)
 
 This is our in-progress, two dimensional map of Florence using Buonsignori's 1584 map of Florence; you can find more information about that in the link above. 
 
-Image courtesy of Harvard Libraries
+Image courtesy of Harvard Libraries.
 
 ## How to Use
   + Click and drag to pan across the map, and click + or - in the top left to change the scale.
