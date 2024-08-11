@@ -27,10 +27,13 @@
 
 <h3>Culture</h3>
 <ul>
+
 {% assign var1 = site.culture | where:"building",page.building %}
+
 {% for item in var1 %}
   <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
 {% endfor %}
+
 </ul>
 
 

@@ -6,5 +6,5 @@ tags:
 author_first: 
 author_last: Verrocchio
 building: orsanmichele
-status: live
+status: 
 ---
