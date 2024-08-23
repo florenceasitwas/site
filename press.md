@@ -21,3 +21,5 @@ image: florence_banner.jpg
 ![Staniar View](https://github.com/florenceasitwas/site/blob/main/flaw-website-img/staniarfullview.jpg "View of Staniar Gallery") ![FLAW Team](https://github.com/florenceasitwas/site/blob/main/flaw-website-img/flawteam.jpg "FLAW Team") ![Staniar Candid](https://github.com/florenceasitwas/site/blob/main/flaw-website-img/staniarcandid.jpg "Staniar Candid Photo")
 
 In February 2024, _Florence As it Was: The Digital Reconstruction of a Medeival City_ opened in W&L's Staniar Gallery. The exhibition presented the ongoing art historical project _Florence As It Was_, which aims to digitally reconstruct the Italian city the way it appeared at the end of the fifteenth century. This exhibition featured some of the 27 point clouds and 181 photogrammetry models that have been produced by David Pfaff, George Bent, Mackenzie Brooks, and a host of W&L students since the project’s inception in 2016.
+
+<iframe src="https://wlu.app.box.com/s/tu477lqrvlpclbbvzuwsrn38u8bhekpk" width="600x" height="400px">
