@@ -3,7 +3,7 @@ layout: article
 author_first: Lindsey 
 author_last: Hill
 date_published: February 2021
-title: Bargello, Magdalene Chapel Frescoes, Giotto
+title: Giotto, Magdalene Chapel Frescoes, Bargello
 building: bargello
 status: live
 ---
