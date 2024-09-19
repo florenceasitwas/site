@@ -1,5 +1,5 @@
 ---
-layout: map
+layout: page
 title: WikiData
 image:
 ---
