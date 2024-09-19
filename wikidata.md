@@ -13,3 +13,6 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 * [Agnolo di Cosimo Bronzino](https://w.wiki/BEeg) (Q7803)
 * [Agnolo di Ventura](https://w.wiki/BEed) (Q374428) 
 
+## Images of items in building:
+
+* [SS. Annunziata](https://w.wiki/BEfB)
