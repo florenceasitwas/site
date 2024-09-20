@@ -1,7 +1,7 @@
 ---
 layout: source
 title: Borghigiani - Santa Maria Novella
-building: santa maria novella
+building: santa-maria-novella
 tags:
 status: 
 ---
