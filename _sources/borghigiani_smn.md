@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: source
 title: Borghigiani - Santa Maria Novella
 building: santa maria novella
 tags:
-status: live
+status: 
 ---
 
 **Elizabeth Bradford Smith, _Building Santa Maria Novella: Materials, Tradition, and Invention in Late Medieval Florence_ (Rome: ‘Lerma’ di Bretschneider, 2022), 175-204 (‘Borghigiani, Appendix’)**
