@@ -14,6 +14,10 @@ status:
   {% endfor %}
   </ul>
 
+  <ul>
+    <li><a href="https://3d.wlu.edu/v21/pages/PalazzoPubblico/PalazzoPubblico.html">Palazzo Pubblico (Siena)</a>
+    </li></ul>
+
   <h2>Potree Pointcloud Tutorial</h2>
             <p>To learn more about using our Pointcloud Models, click below for a YouTube tutorial on navigating the interface.</p>
             <iframe width="100%" height="400px" src="https://www.youtube.com/embed/xWqQ1-G3MvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
