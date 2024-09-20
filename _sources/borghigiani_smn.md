@@ -1,5 +1,5 @@
 ---
-layout: source
+layout: page
 title: Borghigiani - Santa Maria Novella
 building: santa maria novella
 tags:
