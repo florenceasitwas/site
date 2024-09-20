@@ -3,6 +3,8 @@ layout: article
 title: Borghigiani - Santa Maria Novella
 building: santa-maria-novella
 tags:
+author: Borghigiani
+translator: Elizabeth Bradford Smith
 status: live
 ---
 
