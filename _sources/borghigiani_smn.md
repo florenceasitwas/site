@@ -1,74 +1,10 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <link rel="stylesheet" href="https://florenceasitwas.wlu.edu/assets/css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Borghigiani, Santa Maria Novella - Florence As It Was</title>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156667556-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-156667556-1');
-</script>
-  </head>
-  <body>
- <nav class="navbar navbar-expand-lg bg-body-tertiary nav-fill">
-  <div class="container-fluid">
-    <a class="navbar-brand " href="https://florenceasitwas.wlu.edu/index.html">
-      <img id="logo" alt="Florence As It Was" src="https://florenceasitwas.wlu.edu/assets/images/logo-florence.png" width="25%" class="d-inline-block align-text-center">
-    Florence As It Was
-  </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse " id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="https://florenceasitwas.wlu.edu/index.html">Home</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="about.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            About
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/about.html">About - EN</a></li>
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/about_it.html">About - IT</a></li>
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/affiliations.html">Affiliations</a></li>
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/blog.html">Blog</a></li>
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/contributors.html">Contributors</a></li>
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/methodology.html">Methodology</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://florenceasitwas.wlu.edu/maps.html">Maps & Databases</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="https://florenceasitwas.wlu.edu/pointcloud-models.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Models
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/pointcloud-models.html">Pointcloud Models</a></li>
-            <li><a class="dropdown-item" href="https://florenceasitwas.wlu.edu/photogrammetry-models.html">Photogrammetry Models</a></li>
-            
-        </li>
-        </ul>
-      </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://florenceasitwas.wlu.edu/encyclopedia.html">Encyclopedia</a>
-        </li>
-
-          <li class="nav-item">  <a class="nav-link" href="https://florenceasitwas.wlu.edu/search.html">Search</a>
-</li>
-      </ul>
-    </div>
-  </div>
-</nav>
-  
-    <div class="container-md">
-<h1>Borghigiani, Santa Maria Novella</h1>
+---
+layout: source
+title: Borghigiani - Santa Maria Novella
+building: santa maria novella
+tags:
+status: 
+---
 
 **Elizabeth Bradford Smith, _Building Santa Maria Novella: Materials, Tradition, and Invention in Late Medieval Florence_ (Rome: ‘Lerma’ di Bretschneider, 2022), 175-204 (‘Borghigiani, Appendix’)**
 
