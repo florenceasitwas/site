@@ -11,8 +11,11 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 ## Images of works by:
 
 * [Agnolo di Cosimo Bronzino](https://w.wiki/BEeg) (Q7803)
-* [Agnolo di Ventura](https://w.wiki/BEed) (Q374428) 
+* [Agnolo di Ventura](https://w.wiki/BEed) (Q374428)
+* [Fra Angelico](https://w.wiki/BHTH) (Q5664)
 
 ## Images of items in building:
 
 * [SS. Annunziata](https://w.wiki/BEfB)
+* [S. Trinita](https://w.wiki/BHT9)
+* [Works of Fra Angelico in San Marco](https://w.wiki/BHTF)
