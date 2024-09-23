@@ -20,17 +20,15 @@ image: florence_banner.jpg
 
   <div class="row">
     <div class="col">
-    <img class="rounded" src="assets/images/staniar_tables.jpg" width="400x" height="400x">
+    <img class="rounded" src="assets/images/staniar_tables.jpg" width="400x" height="400x" style="margin-bottom:10px;">
   </div>
   <div class="col">
-    <img class="rounded" src="assets/images/staniar_team.jpg" width="400x" height="400x">
+    <img class="rounded" src="assets/images/staniar_team.jpg" width="400x" height="400x" style="margin-bottom:10px;">
   </div>
   <div class="col">
-    <img class="rounded" src="assets/images/staniar_candid.jpeg" width="400x" height="400x">
+    <img class="rounded" src="assets/images/staniar_candid.jpeg" width="400x" height="400x" style="margin-bottom:10px;">
   </div>
 </div>
-
-
 
 In February 2024, _Florence As it Was: The Digital Reconstruction of a Medeival City_ opened in W&L's Staniar Gallery. The exhibition presented the ongoing art historical project _Florence As It Was_, which aims to digitally reconstruct the Italian city the way it appeared at the end of the fifteenth century. This exhibition featured some of the 27 point clouds and 181 photogrammetry models that have been produced by David Pfaff, George Bent, Mackenzie Brooks, and a host of W&L students since the project’s inception in 2016.
 
