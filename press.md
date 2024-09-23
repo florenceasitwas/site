@@ -20,13 +20,13 @@ image: florence_banner.jpg
 
   <div class="row">
     <div class="col">
-    <img class="rounded" src="assets/images/staniar_tables.jpg" width="400x" height="400x" style="margin-bottom:10px;">
+    <img class="rounded" src="assets/images/staniar_tables.jpg" width="400x" height="400x">
   </div>
   <div class="col">
-    <img class="rounded" src="assets/images/staniar_team.jpg" width="400x" height="400x" style="margin-bottom:10px;">
+    <img class="rounded" src="assets/images/staniar_team.jpg" width="400x" height="400x">
   </div>
   <div class="col">
-    <img class="rounded" src="assets/images/staniar_candid.jpeg" width="400x" height="400x" style="margin-bottom:10px;">
+    <img class="rounded" src="assets/images/staniar_candid.jpeg" width="400x" height="400x">
   </div>
 </div>
 
