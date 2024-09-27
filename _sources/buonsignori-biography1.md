@@ -4,6 +4,7 @@ title: Don Stefano Buonsignori
 image: buonsignori_2.jpg
 tags:
 status: live
+type: description
 ---
 *Mark Rosen
 University of Texas at Dallas*

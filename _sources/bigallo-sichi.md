@@ -3,7 +3,8 @@ layout: source
 title: Il Bigallo - Un'Istituzione di Beneficenza Fiorentina
 building: bigallo
 tags:
-status:
+status: live
+type: description
 ---
 
 Capitolo I - L'arte e il Bigallo (91)

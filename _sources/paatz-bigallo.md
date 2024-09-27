@@ -4,6 +4,7 @@ title: Paatz, Bigallo
 image:
 tags: bigallo
 status: live
+type: description
 ---
 **Translation:** Sonia Brozak with edits by Katherine Dau
 

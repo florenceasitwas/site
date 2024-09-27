@@ -12,6 +12,7 @@ translated_author_first: del Migliore
 translated_author_last: Ferdinando Leopoldo
 date_published: 
 date_updated:
+type: description
 ---
 
 Ferdinando Leopoldo del Migliore. *Firenze: Città Nobilissima Illustrata* (Arnaldo Forni: Florence, 1684).

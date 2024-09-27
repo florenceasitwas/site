@@ -5,6 +5,7 @@ image:
 building: orsanmichele
 tags:
 status: live
+type: description
 ---
 **Translation:** Jorge Gomez
 

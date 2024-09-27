@@ -14,6 +14,7 @@ publisher:
 page: 91-98
 date_published: 1866
 date_updated:
+type: description
 ---
 
 

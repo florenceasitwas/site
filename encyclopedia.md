@@ -41,7 +41,7 @@ status: live
 <div class="col">
 
   <h2><span class="icon fa-file-text"></span> Sources</h2>
-  <h3>Primary Sources</h3>
+  <h3>Primary Source Documents</h3>
 
   <ul>
   {% assign var4 = site.sources | where:"status","live" | where:"type","primary-source" | sort: 'title' %}
