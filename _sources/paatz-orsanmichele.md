@@ -5,7 +5,6 @@ image:
 building: orsanmichele
 tags: Orsanmichele, building history, Paatz
 status: live
-type: description
 ---
 **Translation:** Katherine Dau
 

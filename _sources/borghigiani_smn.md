@@ -6,7 +6,6 @@ tags:
 author: Borghigiani
 translator: Elizabeth Bradford Smith
 status: live
-type: primary-source
 ---
 
 **Elizabeth Bradford Smith, _Building Santa Maria Novella: Materials, Tradition, and Invention in Late Medieval Florence_ (Rome: ‘Lerma’ di Bretschneider, 2022), 175-204 (‘Borghigiani, Appendix’)**

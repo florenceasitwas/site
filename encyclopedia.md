@@ -40,19 +40,9 @@ status: live
 </div>
 <div class="col">
 
-  <h2><span class="icon fa-file-text"></span>Sources</h2>
-  <h3>Primary Source Document</h3>
+  <h2><span class="icon fa-file-text"></span> Original Sources</h2>
   <ul>
-  {% assign var4 = site.sources | where:"status","live" | where: "type","primary-source" | sort: 'title' %}
-    {% for item in var4 %}
-        <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>      
-    {% endfor %}
-  </ul>
-
-
-  <h3>Modern Descriptions</h3>
-  <ul>
-  {% assign var4 = site.sources | where:"status","live" | where: "type","description" | sort: 'title' %}
+  {% assign var4 = site.sources | where:"status","live" | sort: 'title' %}
     {% for item in var4 %}
         <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>      
     {% endfor %}

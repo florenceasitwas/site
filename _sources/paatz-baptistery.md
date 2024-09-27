@@ -12,7 +12,6 @@ translated_author_first:
 translated_author_last: 
 date_published: 
 date_updated:
-type: description
 ---
 
 *Translated by Katherine Dau*
