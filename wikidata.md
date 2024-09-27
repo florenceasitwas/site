@@ -19,3 +19,7 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 * [SS. Annunziata](https://w.wiki/BEfB)
 * [S. Trinita](https://w.wiki/BHT9)
 * [Works of Fra Angelico in San Marco](https://w.wiki/BHTF)
+
+## Images depicting:
+
+* [St. John the Baptist between 1400-1500](https://w.wiki/BLG7)
