@@ -5,6 +5,7 @@ image:
 building: bigallo
 tags: bigallo
 status: live
+type: description
 ---
 
 *Translation by George Bent*

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: article
 title: Saalman, Bigallo
 building: bigallo
 tags:
 status: live
+type: primary-source
 ---
 
 __Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.__
