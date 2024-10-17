@@ -23,3 +23,6 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 ## Images depicting:
 
 * [St. John the Baptist between 1400-1500](https://w.wiki/BLG7)
+
+## Map based
+* [Minor basilicilas in Florence](https://w.wiki/BZxL)
