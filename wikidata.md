@@ -14,11 +14,12 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 * [Agnolo di Ventura](https://w.wiki/BEed) (Q374428)
 * [Fra Angelico](https://w.wiki/BHTH) (Q5664)
 
-## Images of items in building:
+## Images of items in location:
 
 * [SS. Annunziata](https://w.wiki/BEfB)
 * [S. Trinita](https://w.wiki/BHT9)
 * [Works of Fra Angelico in San Marco](https://w.wiki/BHTF)
+* [Fresco Paintings in Florence between 1200-1500](https://w.wiki/BZ$R)
 
 ## Images depicting:
 
@@ -26,3 +27,4 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 
 ## Map based
 * [Minor basilicilas in Florence](https://w.wiki/BZxL)
+* [Altarpieces in Florence between 1200-1500](https://w.wiki/BZ$P)
