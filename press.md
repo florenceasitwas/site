@@ -5,7 +5,7 @@ image: florence_banner.jpg
 ---
 
 
-* [Florence As It Was Chosen for National Competition](https://columns.wlu.edu/florence-as-it-was-chosen-for-national-competition/)
+* ["Florence As It Was Chosen for National Competition, The Columns, December 9, 2024"](https://columns.wlu.edu/florence-as-it-was-chosen-for-national-competition/)
 * ["Video game inspires massive online re-creation of a cultural hot spot in 1500," RadioIQ, August 19, 2024](https://www.wvtf.org/news/2024-08-19/video-game-inspires-massive-online-re-creation-of-a-cultural-hot-spot-in-1500)
 * ["Reconstructing the Past," The Columns, July 26, 2024](https://columns.wlu.edu/reconstructing-the-past/)
 * ["Project Consortium Awarded a National Endowment for the Humanities Grant," The Columns, May 8, 2024](https://columns.wlu.edu/project-consortium-awarded-a-national-endowment-for-the-humanities-grant/)
