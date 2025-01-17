@@ -11,6 +11,7 @@ title: Florence As It Was
 		<p>Here you can read, in English, the Italian and German interpretations of these people and places that were written by critics and scholars in the 17th, 18th, and 20th centuries. See the seat of government and power in the late Middle Ages. Walk through the streets and buildings where Cosimo de’ Medici spent much of his time. Examine the most important cult painting in the city and the tabernacle that framed it. Zoom in close, fly high above, or approach these places from below. Search for names, places, dates, and events, and see how links and connections can be made in unexpected ways. Above all, imagine.</p>
 		<p>There’s a lot of information and a lot of data in these sites, so have patience while they load. It’s worth the wait. </p>
 		<a href="about.html"><button type="button" class="btn btn-success">Learn More</button></a>
+	    <iframe width="560" height="315" src="https://www.youtube.com/embed/ET1Yaumugyc?si=ayd9mbgSF2FwBvxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	</div>
     <div class="col text-center">
       <a href="maps.html"><img class="rounded home-page-image" src="assets/images/flawhome1.png" ></a>
