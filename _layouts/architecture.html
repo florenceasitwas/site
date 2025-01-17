@@ -57,7 +57,7 @@
 
 <h4>Modern Descriptions</h4>
   <ul>
-  {% assign var5 = site.sources | where:"status","live" | where: "type","description" | sort: 'title' %}
+  {% assign var5 = site.sources | where:"status","live" | where: "type","description" | where:"building",page.building | sort: 'title' %}
     {% for item in var5 %}
         <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>      
     {% endfor %}
