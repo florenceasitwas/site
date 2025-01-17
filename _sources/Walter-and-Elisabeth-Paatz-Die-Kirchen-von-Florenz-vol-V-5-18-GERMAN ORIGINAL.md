@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Walter and Elisabeth Paatz, Die Kirchen von Florenz, vol. V, 5-18 (German Translation)
-building: bigallo
-tags:
+building: san-remigio
+tags: 
 status: live
 type: primary-source
 ---
