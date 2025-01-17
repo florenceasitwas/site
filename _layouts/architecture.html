@@ -49,7 +49,7 @@
   <h4>Primary Source Documents</h4>
 
   <ul>
-  {% assign var4 = site.sources | where:"status","live" | where:"type","primary-source" | sort: 'title' %}
+  {% assign var4 = site.sources | where:"status","live" | where:"type","primary-source" |  where:"building",page.building | sort: 'title' %}
     {% for item in var4 %}
         <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>      
     {% endfor %}
