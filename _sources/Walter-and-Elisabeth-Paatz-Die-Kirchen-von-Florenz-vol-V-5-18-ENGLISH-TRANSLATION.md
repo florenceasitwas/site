@@ -4,7 +4,7 @@ title: Walter and Elisabeth Paatz, Die Kirchen von Florenz, vol. V, 5-18 (Englis
 building: bigallo
 tags:
 status: live
-type: primary-source
+type: description
 ---
 Translated by Mariam Drammeh
 S. REMIGIO
