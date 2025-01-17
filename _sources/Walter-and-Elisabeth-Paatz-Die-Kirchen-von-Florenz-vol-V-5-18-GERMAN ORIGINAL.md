@@ -4,7 +4,7 @@ title: Walter and Elisabeth Paatz, Die Kirchen von Florenz, vol. V, 5-18 (German
 building: san-remigio
 tags: 
 status: live
-type: primary-source
+type: description
 ---
 
 __Translated by Mariam Drammeh__
