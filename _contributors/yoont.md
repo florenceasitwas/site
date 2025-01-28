@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teresa Yoon
-image: 
+image: bio_yoont.JPEG
 category:
 status: current
 ---
