@@ -2,20 +2,20 @@
 layout: source
 title: Paatz, S. Maria Novella
 image:
-building: santa maria novella
+building: santa-maria-novella
 status: live
 category: translation
 translator_first: Mariam
-translator_last: Drammeh
+translator_last: Drammeh, P.T. Meadors, and Catherine McKean
 translated_work: "Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch: Vol III"
 translated_author_first: Walter and Elisabeth
 translated_author_last: Paatz
-date_published: 
+date_published: 1952-1955
 date_updated:
 type: description
 ---
 
-*Translated by ​Mariam Drammeh*
+*Translated by ​Mariam Drammeh, P.T. Meadors, and Catherine McKean*
 
 ## S. MARIA NOVELLA
 
