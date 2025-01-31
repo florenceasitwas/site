@@ -31,7 +31,7 @@ Domenicani di S. Maria Novella della città di Firenze. Firenze 1737. P. Vincenz
 “S. Maria della Vigna: so named on the occasion of 1221 - apparently because of the location in
 the vineyards.”
 
-## Building History
+## BUILDING HISTORY
 
 S. Maria Novella is the head/main office of the Dominicans [in rel. to the Dominican Order] in
 Florence.
