@@ -31,7 +31,7 @@ Domenicani di S. Maria Novella della città di Firenze. Firenze 1737. P. Vincenz
 “S. Maria della Vigna: so named on the occasion of 1221 - apparently because of the location in
 the vineyards.”
 
-## BUILDING HISTORY
+## Building History
 
 S. Maria Novella is the head/main office of the Dominicans [in rel. to the Dominican Order] in
 Florence.
@@ -153,7 +153,7 @@ windows of the Cappella Rucellai (44). In the same year, replacement of the weat
 the façade (45). 1922 Addition of the previously unfinished eastern volute to the façade (based
 on the pattern of the western one) (46).
 
-## CLOISTER
+## Cloister
 
 There is a great deal of information about the history of the monastery buildings, but it is often
 inconclusive. The building survey provides results that also lack the ultimate clarity. There is a
