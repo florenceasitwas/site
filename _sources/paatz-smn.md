@@ -19,7 +19,7 @@ type: description
 
 *Translated by ​Mariam Drammeh, P.T. Meadors, and Catherine McKean*
 
-## S. MARIA NOVELLA
+# S. MARIA NOVELLA (English)
 
 Piazza S. Maria Novella
 
@@ -38,7 +38,7 @@ the vineyards.”
 S. Maria Novella is the head/main office of the Dominicans [in rel. to the Dominican Order] in
 Florence.
 
-CHURCH
+### CHURCH
 A chapel named S. Maria Novella was first mentioned in 983 [CE], in front of the city walls in
 the vineyards.
 
@@ -104,17 +104,9 @@ around 1300 (23). That was the most important part.
 The main features of the completed work were then gradually completed. A bell tower is
 mentioned as early as 1305, but the current one was not built until 1330 at the expense of the
 Dominican Archbishop Simone Saltarelli of Pisa (24). Between 1303 and 1325, the Rucellai
-Chapel was built in front of the eastern transept (25). Around 1350, the lower half of the façade
-
-
-was encrusted with marble; the donors were Turino Baldesi and Fra Minia Lapi (26). Around
-1350 - 60, Mainardi Cavalcanti had the present sacristy built in the angle between the western
+Chapel was built in front of the eastern transept (25). Around 1350, the lower half of the façade was encrusted with marble; the donors were Turino Baldesi and Fra Minia Lapi (26). Around 1350 - 60, Mainardi Cavalcanti had the present sacristy built in the angle between the western
 transverse arm and the country house (27). The master builder of the bell tower, the façade and
-the sacristy was most likely the then head of the building lodge, Fra Jacopo Talenti da Nipozzano
-
-(d. 1362), to whom the monastery necrology attributes "large parts of the church" (28). On April
-20, 1358, a lightning strike thru the spire and the crowning marble angel down onto the adjacent
-roofs; the damage was repaired in 1359 (29). In 1420, Pope Martin V celebrated the solemn final
+the sacristy was most likely the then head of the building lodge, Fra Jacopo Talenti da Nipozzano (d. 1362), to whom the monastery necrology attributes "large parts of the church" (28). On April 20, 1358, a lightning strike thru the spire and the crowning marble angel down onto the adjacent roofs; the damage was repaired in 1359 (29). In 1420, Pope Martin V celebrated the solemn final
 consecration of the church during a visit (30).
 
 Around 1456 ff. the extension of the façade was continued. Giovanni di Paolo Rucellai had
@@ -155,7 +147,7 @@ windows of the Cappella Rucellai (44). In the same year, replacement of the weat
 the façade (45). 1922 Addition of the previously unfinished eastern volute to the façade (based
 on the pattern of the western one) (46).
 
-## Cloister
+### Cloister
 
 There is a great deal of information about the history of the monastery buildings, but it is often
 inconclusive. The building survey provides results that also lack the ultimate clarity. There is a
@@ -377,7 +369,7 @@ disfigured by later alterations
 
 ## BUILDING DESCRIPTION
 
-## CHURCH
+### CHURCH
 
 Photographs of the building: Older drawings in the Uffizi (nos.
 4639,4650,4657,4682,4772);cf.Ferri,Indice,1885,52.-The most accurate ground-riB: by
@@ -392,11 +384,11 @@ which the central one is twice as large as the others.- Since the terrain under 
 slightly from east to west, and since the older cemetery was to be preserved under the church, an
 artificial base had to be built under the western half of the church to compensate for this; it partly
 contains burial vaults (cf. Wood-Brown, 1902, 96).
-Outside.
+#### Outside.
 South-north-facing Gothic quarry stone building; most of the structure is made of house stone
 (Macigno), a smaller part of brick. Marble incrustation on the façade.
 
-Facade.
+#### Facade.
 Its structure corresponds to the basilica cross-section of the nave behind it: a lower, wider part
 rises up to the height of the side aisles; above its center rises the front wall of the upper aisle
 (with a pediment), flanked by two volutes. The lower part has two storeys, a high ground floor
@@ -471,13 +463,9 @@ divided into wall bays by pilaster-like buttresses, each containing a window (og
 the side aisles, lancet windows in the clerestory). At the top of each nave a round-arched frieze,
 which is cranked over the buttresses on the side aisles (not on the central nave); lion heads as
 gargoyles on the crankings.The front, somewhat younger bays (after 1300) have slightly different
-window and frieze profiles than the last two bays in front of the transept, which are somewhat
+window and frieze profiles than the last two bays in front of the transept, which are somewhat older (around 1278-1300).- On the east side in the third bay, a later (around 1300), now walled-up, magnificent side portal (103a) in the type of a richly varied round-arched pillar-pillar portal.
 
-
-older (around 1278-1300).- On the east side in the third bay, a later (around 1300), now walled-
-up, magnificent side portal (103a) in the type of a richly varied round-arched pillar-pillar portal.
-
-Transept and choir chapels; around 1246-79.
+#### Transept and choir chapels; around 1246-79.
 Basic features. The two transepts, the crossing between them and the adjoining main choir chapel
 are somewhat lower than the central nave of the nave; chapels of much lower height are placed
 in front of the transepts all around, with a strong corner pillar of rectangular base at each corner
@@ -522,7 +510,7 @@ surrounded by the monastery buildings; the three pointed arches of the large win
 wall (see p. 691 below) are framed by a semi-circular blind arch. In front of the end wall is the
 high Strozzi Chapel (c. 1279), in which a lancet window opens.
 
-The bell tower; 1330.
+#### The bell tower; 1330.
 It leans against the southwest corner of the western transverse arm - probably the work of Fra
 Jacopo Talenti. Like the other work of the master, the façade, it appears very ancient, almost
 Romanesque, and was probably modeled on a building from the late 13th century, the bell tower
@@ -535,7 +523,7 @@ above which a slightly projecting round arch frieze forms a cornice. Above each 
 tower an eyelash gable, between which rises the four-sided helmet; it was renewed in 1778
 (112), generally probably fairly faithful.
 
-Interior.
+##### Interior.
 Monumental Gothic spatial creation, the oldest in Florence, groundbreaking for the beginnings of
 Florentine Gothic and always inspiring for its further development, highly significant and fruitful
 due to its bold security.
@@ -547,12 +535,12 @@ detailed account of the historical significance of this development.-The individ
 church are discussed from the choir to the façade, in the order in which they were built. -
 Fixtures and additions from later periods follow at the end.
 
-Structural system.
+##### Structural system.
 Articulated pillars (and corresponding wall pillars), pointed arches and ribbed vaults everywhere.
 All walls and vaults are made of lightly plastered quarry stone, all structures of gray-brown,
 finely worked sandstone (pietra serena).
 
-Choir chapels and transept; around 1246-79.
+#### Choir chapels and transept; around 1246-79.
 The transept is formed by three square bays of equal size: the crossing and the two transverse
 arms; at the back of the crossing is the main choir chapel of equal size and design, on either side
 of it, half the size, with two square side choirs on each transverse arm; this scheme is taken from
@@ -604,7 +592,7 @@ chapel, softly modeled acanthus foliage, richer profiles and half-figures in the
 Sienese pulpit by Niccolò Pisano-apparently more recent, refined creations by the decorators,
 who also executed the vault consoles in the side choirs on the right transverse arm (125).
 
-The mouth of the nave (around 1279).
+#### The mouth of the nave (around 1279).
 In the south transept wall facing the nave, the central part, which contains the entrances to the
 three naves, is slightly further south than the side parts, so that two wall steps run from bottom to
 top immediately next to the side aisle entrances, even through the two lancet windows that open
@@ -614,7 +602,7 @@ slightly to the south and at the same time the nave was built higher than origin
 capitals of the side aisles and the nave arcades are higher than the capitals of the side aisles, and
 the clerestory of the nave rises slightly higher than the crossing (126).
 
-The nave; 1279 to around 1310.
+#### The nave; 1279 to around 1310.
 Three naves, each with six bays of different lengths. Between the naves, which are arranged in a
 basilica-like arrangement, there are articulated pillars with pointed arch arcades, with
 corresponding wall pillars on the side aisle walls and a ribbed vault in each bay of each nave. A
