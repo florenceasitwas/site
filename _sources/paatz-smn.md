@@ -20,11 +20,10 @@ type: description
 *Translated by ​Mariam Drammeh, P.T. Meadors, and Catherine McKean*
 
 # S. MARIA NOVELLA (English)
+*Piazza S. Maria Novella*
 
-Piazza S. Maria Novella
-
-SPECIAL LITERATURE
-Giuseppe Maria Mecatti, Notizie storiche riguardanti il capitolo esistente nel Convento dei Padri
+## SPECIAL LITERATURE
+*Giuseppe Maria Mecatti*, Notizie storiche riguardanti il capitolo esistente nel Convento dei Padri
 Domenicani di S. Maria Novella della città di Firenze. Firenze 1737. P. Vincenzo Fineschi.
 
 ## NAME
@@ -38,7 +37,7 @@ the vineyards.”
 S. Maria Novella is the head/main office of the Dominicans [in rel. to the Dominican Order] in
 Florence.
 
-### CHURCH
+### Church
 A chapel named S. Maria Novella was first mentioned in 983 [CE], in front of the city walls in
 the vineyards.
 
@@ -106,8 +105,7 @@ mentioned as early as 1305, but the current one was not built until 1330 at the 
 Dominican Archbishop Simone Saltarelli of Pisa (24). Between 1303 and 1325, the Rucellai
 Chapel was built in front of the eastern transept (25). Around 1350, the lower half of the façade was encrusted with marble; the donors were Turino Baldesi and Fra Minia Lapi (26). Around 1350 - 60, Mainardi Cavalcanti had the present sacristy built in the angle between the western
 transverse arm and the country house (27). The master builder of the bell tower, the façade and
-the sacristy was most likely the then head of the building lodge, Fra Jacopo Talenti da Nipozzano (d. 1362), to whom the monastery necrology attributes "large parts of the church" (28). On April 20, 1358, a lightning strike thru the spire and the crowning marble angel down onto the adjacent roofs; the damage was repaired in 1359 (29). In 1420, Pope Martin V celebrated the solemn final
-consecration of the church during a visit (30).
+the sacristy was most likely the then head of the building lodge, Fra Jacopo Talenti da Nipozzano (d. 1362), to whom the monastery necrology attributes "large parts of the church" (28). On April 20, 1358, a lightning strike thru the spire and the crowning marble angel down onto the adjacent roofs; the damage was repaired in 1359 (29). In 1420, Pope Martin V celebrated the solemn final consecration of the church during a visit (30).
 
 Around 1456 ff. the extension of the façade was continued. Giovanni di Paolo Rucellai had
 Giovanni Bettini execute the famous Renaissance façade based on designs by Leone Battista
@@ -140,12 +138,8 @@ Baroque finish (39). In 1838, further restoration work was carried out on the be
 In 1857-61 the church was thoroughly and rather haphazardly restored. In particular, the window
 sills were raised in order to replace the Vasari tabernacles with large neo-Gothic altars (41). In
 1893, the bell tower, which had been altered over time, was restored to almost its original state
-(42). 1904 Exposure of the previously built-in choir (43). 1914 Opening of the walled-up
-
-
-windows of the Cappella Rucellai (44). In the same year, replacement of the weathered stones of
-the façade (45). 1922 Addition of the previously unfinished eastern volute to the façade (based
-on the pattern of the western one) (46).
+(42). 1904 Exposure of the previously built-in choir (43). 1914 Opening of the walled-up windows of the Cappella Rucellai (44). In the same year, replacement of the weathered stones of
+the façade (45). 1922 Addition of the previously unfinished eastern volute to the façade (based on the pattern of the western one) (46).
 
 ### Cloister
 
@@ -185,7 +179,6 @@ building (at the main gate) and on the "school" of the Laudesi brotherhood locat
 Around this time, the monastery still seems to have consisted of two separate main parts: the
 already renovated "Chiostro Vecchio" next to the transept of the new church and the farm
 buildings to the south (55).
-
 
 The completion of the church building freed up funds to create the connection between these
 parts, which had presumably been planned for a long time. Work began on the wing of the
@@ -228,10 +221,7 @@ Buonamico di Lapo Guidalotti, a wealthy friend of the prior, donated a new chapt
 monks, the choir of which was to serve as his burial chapel. The old chapel of S. Maria Novella,
 the forerunner of the Romanesque church, was sacrificed for this purpose; the chapter house with
 the first arcades of the "Chiostro Verde" in front of it was completed before 1355 (67). The other
-sides of this cloister were completed around 1360 on behalf of other families, as was the
-
-
-refectory to the west of the "Chiostro Verde", which was also begun around 1350 (probably as a
+sides of this cloister were completed around 1360 on behalf of other families, as was the refectory to the west of the "Chiostro Verde", which was also begun around 1350 (probably as a
 replacement for a somewhat older building donated by Prior Michele dei Pilastri?) (67).
 
 In the same decade - around 1356 - the large north wing of the "Chiostro Grande" with the huge
@@ -272,7 +262,6 @@ the "upper" cemetery, which had almost completely disappeared over time, were re
 1847 (83). Further, rather intrusive restorations were renewed in 1847 (83). Further, rather
 intrusive restorations: 1892/94, 1912, 1914, 1915/16 (84) and 1921/29 (85).
 
-
 The bell tower. Its original helmet was crowned with a cross flower and a figure of an angel and
 decorated with crabs on the edges (97).
 
@@ -307,18 +296,17 @@ infirmaries, a pharmacy, a school, library rooms and a hostel.
 
 The hostel; 1318/19. Located at the entrance to the monastery in Piazza S. Maria Novella.
 
-Chiostro Verde.
+#### *Chiostro Verde*
 Until the construction of the cloister (around 1350), there was a garden here that belonged to the
 monastery, but apparently not to the cloister - above the Gothic loggia of the cloister there was
 later an upper, Baroque loggia with pillars and basket arches, which probably dates from the 17th
 century (see note 84).
 
-Chiostro de'Morti
+#### *Chiostro de'Morti*
 Originally there was probably a Romanesque cloister, and from the mid-13th century to the mid-
 14th century perhaps a Gothic cloister loggia running around all four sides (cf. note 66) - For the
 reconstruction of the demolished buildings to the north of the Chiostro de'Morti, which are
 described below, see the plan on p. 693.
-
 
 Chapel of St. Benedict of the Tornaquinci (plan no. 18); probably built in the late 13th century -
 see Wood-Brown, 1902, 99.
@@ -369,26 +357,24 @@ disfigured by later alterations
 
 ## BUILDING DESCRIPTION
 
-### CHURCH
+### Church
 
-Photographs of the building: Older drawings in the Uffizi (nos.
-4639,4650,4657,4682,4772);cf.Ferri,Indice,1885,52.-The most accurate ground-riB: by
+Photographs of the building: Older drawings in the Uffizi (nos. 4639,4650,4657,4682,4772);cf.Ferri,Indice,1885,52.-The most accurate ground-riB: by
 Ferdinando Ruggieri, engraving in,,Esequie di Luigi I. cattolico Re della Spagna" etc., by
 Niccolò Marcelli Venuti, Firenze 1724.-Summary building records in Dehio-von Bezold, Kirch-
 liche Baukunst des Abendlandes, VIII,1901,534,539;Wood-Brown,1902; Supino, Gli albori,
-1906; Paatz, Werden und Wesen der Tre-centoarchitektur in Toskana, 1937, fig.1ff. (the ground
-plan fig. 27 is based on Ruggieri's ground plan).-fig. p.682.
+1906; Paatz, Werden und Wesen der Tre-centoarchitektur in Toskana, 1937, fig.1ff. (the ground plan fig. 27 is based on Ruggieri's ground plan).-fig. p.682.
 
 Type. Three-aisled Gothic pillar basilica with transept and five adjoining square choir chapels, of
 which the central one is twice as large as the others.- Since the terrain under the church slopes
 slightly from east to west, and since the older cemetery was to be preserved under the church, an
 artificial base had to be built under the western half of the church to compensate for this; it partly
 contains burial vaults (cf. Wood-Brown, 1902, 96).
-#### Outside.
+#### *Outside.*
 South-north-facing Gothic quarry stone building; most of the structure is made of house stone
 (Macigno), a smaller part of brick. Marble incrustation on the façade.
 
-#### Facade.
+#### *Facade.*
 Its structure corresponds to the basilica cross-section of the nave behind it: a lower, wider part
 rises up to the height of the side aisles; above its center rises the front wall of the upper aisle
 (with a pediment), flanked by two volutes. The lower part has two storeys, a high ground floor
@@ -418,13 +404,7 @@ follow one another; the rectangles of the upper row end in semicircular arches a
 
 The Renaissance parts: most important building photos: Laspeyres, Die Kirchen der Renaissance
 in Mittelitalien, 1882, XI;Stegmann-Gey-müller, Architektur der Renaissance in Toscana, IIIa,
-11, 12 (102).Leone Battista Alberti attempted to extract an antique composition from the existing
-
-
-state of the building: he gave the already incrusted ground floor a new rhythm by installing a
-monumental "order" of three-quarter columns; he designed the remaining area above as an attic;
-while he thus echoed the antique triumphal arch scheme on the lower, broader part of the façade,
-he gave the lower part of the façade an antique triumphal arch scheme.
+11, 12 (102).Leone Battista Alberti attempted to extract an antique composition from the existing state of the building: he gave the already incrusted ground floor a new rhythm by installing a monumental "order" of three-quarter columns; he designed the remaining area above as an attic; while he thus echoed the antique triumphal arch scheme on the lower, broader part of the façade, he gave the lower part of the façade an antique triumphal arch scheme.
 
 He gave the still undecorated front of the upper arcade the shape of a temple front. However, he
 was unable to fulfill the Renaissance demand for axial justice, as he adopted the Gothic system
@@ -455,9 +435,9 @@ The main portal was executed by the sculptor Gio-vanni di Bertino and his worksh
 closely associated with them, are attached there and to the relief and encrusted frieze under the
 attic as leitmotifs (103).
 
-Nave; around 1279-1310.
+*Nave*; around 1279-1310.
 
-Three-aisled basilica. Very simple structure, in striking contrast to French Gothic and in close
+*Three-aisled basilica*. Very simple structure, in striking contrast to French Gothic and in close
 connection with Italian-Romanesque building habits. The side aisles and the clerestory are
 divided into wall bays by pilaster-like buttresses, each containing a window (ogival windows in
 the side aisles, lancet windows in the clerestory). At the top of each nave a round-arched frieze,
@@ -465,7 +445,7 @@ which is cranked over the buttresses on the side aisles (not on the central nave
 gargoyles on the crankings.The front, somewhat younger bays (after 1300) have slightly different
 window and frieze profiles than the last two bays in front of the transept, which are somewhat older (around 1278-1300).- On the east side in the third bay, a later (around 1300), now walled-up, magnificent side portal (103a) in the type of a richly varied round-arched pillar-pillar portal.
 
-#### Transept and choir chapels; around 1246-79.
+#### *Transept and choir chapels; around 1246-79.*
 Basic features. The two transepts, the crossing between them and the adjoining main choir chapel
 are somewhat lower than the central nave of the nave; chapels of much lower height are placed
 in front of the transepts all around, with a strong corner pillar of rectangular base at each corner
@@ -504,13 +484,9 @@ The chapel extensions. The unadorned "Cappella della Pura" (late 15th century) i
 between the nave and the eastern transept; the Rucellai Chapel (around 1303/25) with three
 masonry lancet windows in front of the end wall of this transept. - The sacristy by Fra Jacopo
 Talenti (c. 1350/60) is located at a corresponding angle on the western transverse arm,
-surrounded by the monastery buildings; the three pointed arches of the large window in its rear
+surrounded by the monastery buildings; the three pointed arches of the large window in its rear wall (see p. 691 below) are framed by a semi-circular blind arch. In front of the end wall is the high Strozzi Chapel (c. 1279), in which a lancet window opens.
 
-
-wall (see p. 691 below) are framed by a semi-circular blind arch. In front of the end wall is the
-high Strozzi Chapel (c. 1279), in which a lancet window opens.
-
-#### The bell tower; 1330.
+#### *The bell tower; 1330.*
 It leans against the southwest corner of the western transverse arm - probably the work of Fra
 Jacopo Talenti. Like the other work of the master, the façade, it appears very ancient, almost
 Romanesque, and was probably modeled on a building from the late 13th century, the bell tower
@@ -523,7 +499,7 @@ above which a slightly projecting round arch frieze forms a cornice. Above each 
 tower an eyelash gable, between which rises the four-sided helmet; it was renewed in 1778
 (112), generally probably fairly faithful.
 
-##### Interior.
+##### *Interior.*
 Monumental Gothic spatial creation, the oldest in Florence, groundbreaking for the beginnings of
 Florentine Gothic and always inspiring for its further development, highly significant and fruitful
 due to its bold security.
@@ -535,19 +511,18 @@ detailed account of the historical significance of this development.-The individ
 church are discussed from the choir to the façade, in the order in which they were built. -
 Fixtures and additions from later periods follow at the end.
 
-##### Structural system.
+##### *Structural system.*
 Articulated pillars (and corresponding wall pillars), pointed arches and ribbed vaults everywhere.
 All walls and vaults are made of lightly plastered quarry stone, all structures of gray-brown,
 finely worked sandstone (pietra serena).
 
-#### Choir chapels and transept; around 1246-79.
+#### *Choir chapels and transept; around 1246-79.*
 The transept is formed by three square bays of equal size: the crossing and the two transverse
 arms; at the back of the crossing is the main choir chapel of equal size and design, on either side
 of it, half the size, with two square side choirs on each transverse arm; this scheme is taken from
 the Cistercian basilicas (114). In front of the side choirs there is a platform of two steps; in front
 of the main choir chapel, which is higher again, there is a staircase platform of five steps
 projecting into the crossing (115).
-
 
 The ground floor (c. 1246-65): the side choirs and the equally high lower parts of the main choir
 chapel and the transverse arms. The impression is determined by the pointed arched openings of
@@ -588,11 +563,10 @@ end wall of the right transept a Gothic rose window (124); the work may therefor
 promoted from left to right. On the capitals of the corner pillars at the front of the main choir
 chapel, softly modeled acanthus foliage, richer profiles and half-figures in the style of the
 
-
 Sienese pulpit by Niccolò Pisano-apparently more recent, refined creations by the decorators,
 who also executed the vault consoles in the side choirs on the right transverse arm (125).
 
-#### The mouth of the nave (around 1279).
+#### *The mouth of the nave (around 1279).*
 In the south transept wall facing the nave, the central part, which contains the entrances to the
 three naves, is slightly further south than the side parts, so that two wall steps run from bottom to
 top immediately next to the side aisle entrances, even through the two lancet windows that open
@@ -602,7 +576,7 @@ slightly to the south and at the same time the nave was built higher than origin
 capitals of the side aisles and the nave arcades are higher than the capitals of the side aisles, and
 the clerestory of the nave rises slightly higher than the crossing (126).
 
-#### The nave; 1279 to around 1310.
+#### *The nave; 1279 to around 1310.*
 Three naves, each with six bays of different lengths. Between the naves, which are arranged in a
 basilica-like arrangement, there are articulated pillars with pointed arch arcades, with
 corresponding wall pillars on the side aisle walls and a ribbed vault in each bay of each nave. A
@@ -615,7 +589,7 @@ in this Dominican building; 2. the tramezzo4 , which is two steps higher and enc
 last two bays before the crossing; until 1565/72 it contained the monks' choir in the central nave
 and, next to its façade, grilles that closed off the side aisles from the lay church (127).
 
-The monk's choir zone ("Tramezzo"); around 1279-90. Executed following the upper parts of the
+*The monk's choir zone ("Tramezzo")*; around 1279-90. Executed following the upper parts of the
 transept after a change of plan (see above), but by the same builders. As in the transept, the pillar
 bases are ancient (Attic), the ribbed profiles are early Gothic. -Following on from Tuscan-
 Romanesque buildings, a change in the shape of the pillars distinguishes this part of the nave
@@ -627,19 +601,12 @@ templates, and that one template rises above the others up into the clerestory t
 is the pillar scheme of S. Miniato and very probably also of the older, Romanesque church of S.
 Maria Novella, which was only demolished at the time. The next and last pair of pillars again
 correspond to the crossing pillars - the pillar and wall pillar capitals and their finely and richly
-profiled cover plates correspond stylistically to the forms in the upper part of the transept. A few
-
-
-capitals at the transept entrances have simpler cover plates and ancient Romanesque-Pisan motifs
-(dragons; medallions with half-figures); they were evidently made during the first construction
-phase (1246 ff.), but were not moved until long after (1279) (129). - According to Pisan-
-Romanesque custom, the arches of the tramezzo arcades are painted with a black and white
-wedge stone pattern.
+profiled cover plates correspond stylistically to the forms in the upper part of the transept. A few capitals at the transept entrances have simpler cover plates and ancient Romanesque-Pisan motifs (dragons; medallions with half-figures); they were evidently made during the first construction phase (1246 ff.), but were not moved until long after (1279) (129). - According to Pisan-Romanesque custom, the arches of the tramezzo arcades are painted with a black and white wedge stone pattern.
 
 The central aisle bays here are transversely rectangular, the side aisle bays longitudinally
 rectangular - similar to some Italian Cistercian churches (130).
 
-The lay house (the "lower church"); c. 1290-1310. The structure here is generally the same, but
+*The lay house (the "lower church")*; c. 1290-1310. The structure here is generally the same, but
 all the pillars are of the same type, the Tuscan-Romanesque of the central pair of pillars in the
 "Tramezzo", albeit somewhat modified into the mathematically abstract in accordance with the
 tendencies of the late 13th century. The edges between the half-columns are developed on three
@@ -660,19 +627,18 @@ given solidity by the unity of simple, large wall surfaces, it is given life by 
 the calmly powerful, soaring forms of the pillars, arches and windows and by the picturesque
 play of the shifting lights and shadows. Nevertheless, it ultimately appears different from the late
 Gothic halls of Central Europe. The organic physicality of the column-like pillars is original.
-Urflorentine and at the same time completely Dominican in its vivid unity, the plausible logic of
+**Urflorentine** and at the same time completely Dominican in its vivid unity, the plausible logic of
 this strong, simple, sweeping, ascending system of members (133). The dynamics of this
 Romanesque type of pillar, clamped together with Gothic pointed arches in the service of Gothic
 vaults, are incomparable: the intimate connection with the Gothic construction gives it something
 urgent that allows the force of the formal energies concentrated in it to be fully felt – it is no
 wonder Michelangelo particularly loved and praised this church (134).
 
-Additions and extensions.
+#### *Additions and extensions.*
 They are described in the same order as the furnishings: side altars in the nave; a neo-Gothic
 altar tabernacle in each aisle bay, 1857/61.
 
-
-Chapel "della Pura"; around 1472ff.
+##### *Chapel "della Pura"; around 1472ff.*
 Situated in the angle between the nave and the right transept. Rectangular room with two
 spherical vaults. In the inner corner the altar of the image of grace, a marble tabernacle in the
 style of the tabernacle of the image of grace in the SS. Annunziata: a column and two pilasters
@@ -683,8 +649,8 @@ built in 1841.Rucellai Chapel; between 1303 and 1325. Located in front of the en
 right transverse arm, above a vault; accessible via an open staircase. Irregular transverse
 rectangular room with a ribbed vault (136).
 
-Gondi Chapel (first side choir on the left transept); built by Giuliano da Sangallo around
-1503/08 (137); the only surviving example in Florence of Giuliano's late Roman-Classical style,
+##### *Gondi Chapel (first side choir on the left transept)*;
+built by Giuliano da Sangallo around 1503/08 (137); the only surviving example in Florence of Giuliano's late Roman-Classical style,
 which was so decisive for the development of the High Renaissance and Mannerism (138). Dry
 execution. On the altar wall, triumphal arch-like marble cladding, a large round-arched niche
 (138 a), flanked by two pilaster-framed narrow side bays, each containing a statue niche at the
@@ -696,8 +662,8 @@ Tuscan capitals with rosettes and egg-and-dart). - Giuliano's architecture only 
 half of the walls. The upper part of the altar wall was covered in Baroque style in 1602 by order
 of Simone Gondi (139).
 
-Gaddi Chapel (second side choir on the left transept); built by Giovan Antonio Dosio 1575- 78
-(140).-Ground plan, elevation, details etc. in Stegmann-Geymüller, Architektur der Renaissance
+##### *Gaddi Chapel (second side choir on the left transept)*;
+built by Giovan Antonio Dosio 1575- 78 (140).-Ground plan, elevation, details etc. in Stegmann-Geymüller, Architektur der Renaissance
 in Toscana, IX a, 1896, Figs. 3 and 4, Plates 4 and 6.-Main work of the classicist direction in
 Florentine late Mannerist architecture, unique due to the restrained richness of the decoration. In
 each wall there are two recessed corner columns; between them a sarcophagus below (a mensa
@@ -711,26 +677,19 @@ examples in Florence (142).Strozzi Chapel (at the front of the left, western tra
 higher than the transverse arm: above the vaults of the cloister); around 1279; longitudinal
 rectangular room with ribbed vaulting on corbels; a lancet window in the rear wall.
 
-Rucellai Chapel of All Saints;
+##### *Rucellai Chapel of All Saints;*
 c. 1246 ff. - To the left of the Strozzi Chapel. VgL above p. 685.
 
-Facade of the sacristy (south wall of the left transept) by Gherardo Silvani or Fabbrizio Boschi,
-1616 (143). Late, particularly interesting example of Michelangelesque "architectural sculpture"
+*Facade of the sacristy (south wall of the left transept)* by Gherardo Silvani or Fabbrizio Boschi,
+1616 (143). Late, particularly interesting example of Michelangelesque "architectural sculpture" in the sense of Buontalenti.three-door system with bizarre individual forms. Next to the main doorway are two pilasters with a bracket covering; above them are two gnarled, diverging pediment fragments that develop out of an inverted shell; above them is a bracket-covered lunette and a pediment as the upper end of the central section. Above the lower side doors, shell volutes and box-like fields.
 
-
-in the sense of Buontalenti.three-door system with bizarre individual forms. Next to the main
-doorway are two pilasters with a bracket covering; above them are two gnarled, diverging
-pediment fragments that develop out of an inverted shell; above them is a bracket-covered
-lunette and a pediment as the upper end of the central section. Above the lower side doors, shell
-volutes and box-like fields.
-
-Sacristy (in the angle between the left transverse arm and the nave); by Fra Jacopo Talenti;
+*Sacristy* (in the angle between the left transverse arm and the nave); by Fra Jacopo Talenti;
 around 1350. Longitudinally rectangular room with pointed ribbed vault on (neo-Gothic?) corner
 consoles (144); in the south wall a large, tripartite Gothic window of the type of the window in
 the main choir chapel: the central pointed arch rises higher than the two lateral ones, above each
 of which an eye is attached.
 
-UPPER CEMETERY
+### Upper Cemetery
 This is the name given to the walled area between the nave, the right transverse arm, Piazza S.
 Maria Novella and Via degli Avelli in memory of its medieval purpose; its south and east walls
 facing the square and the street are clad in white and green marble. The series of burial niches
@@ -743,8 +702,7 @@ flank of the church longhouse around the cemetery. Next to the church façade an
 Pura" chapel there is a higher arch as a portal - the whole was almost completely renovated in
 1847 and 1861 ff, but probably more or less faithful to the remains of the original state (145).
 
-## CLOISTER
-
+#### CLOISTER
 Photographs of the building. Older in a of the Uffizi drawing collection (146). Newer floor plans
 in Wood-Brown, 1902.- Cf. also our illustration on p.693.
 
@@ -753,7 +711,7 @@ outline here, especially as many of them have been preserved in poor condition a
 inaccessible. The location of the parts described can be seen from the ground plan mentioned
 above.
 
-The entrance.
+##### *The entrance.*
 The monastery façade is located in Piazza S. Maria Novella and adjoins the church façade at a
 right angle to the south. It consists of a wall designed to resemble the surrounding wall of the
 "upper cemetery", which was probably almost completely renovated around 1847/61: burial
@@ -761,17 +719,14 @@ niches ("avelli") and green and white marble incrustation. Directly next to the 
 small portal, further south a larger one. - Behind the wall is an unadorned rectangular forecourt.
 Behind the adjoining western wing of the
 
-```
-Chiostro della Porta.
-```
-
+##### *Chiostro della Porta.*
 Rectangular cloister, 5 x 5 round-arched Ionic column arcades in sober High Renaissance forms.
 Due to its location, it can be tentatively identified with the "Chiostro della Porta", which is said
 to have been built in 1505. - If you turn back to the forecourt from here, a passageway along the
 western flank of the church leads first to the "Chiostro Verde" (see below) and from its northern
 side to the "Chiostro Vecchio".
 
-Chiostro Vecchio or Chiostro dei Morti.
+##### *Chiostro Vecchio or Chiostro dei Morti.*
 Originally the monks' cemetery; the oldest part of the monastery, built on the site of Romanesque
 buildings in the later 13th and 14th centuries. The layout is due to the Romanesque buildings that
 have disappeared.
@@ -806,15 +761,12 @@ its south-east corner there is a capital of the type of the entrance con-soles, 
 corresponding capital, and above both (connecting them) a walled arch: here a Gothic chapel
 apparently originally opened; perhaps there were once other chapels adjoining it - on the west
 side of the cemetery a modernized building. - On the south side is the wall of the Spanish
-Chapel. Between it and the west wing is an intermediate building with an ancient cornice -
-
-
-perhaps the remains of a monastery built here before the Spanish Chapel. To the east, next to the
+Chapel. Between it and the west wing is an intermediate building with an ancient cornice - perhaps the remains of a monastery built here before the Spanish Chapel. To the east, next to the
 choir of the Spanish Chapel, is the Strozzi-Trinciavelli Chapel already described; above it are the
 western parts of the "Stanza dei Beati", a room accessible from the transept of the church. To the
 south of the entrance to the "Chiostro Vecchio" is the "Chiostro Verde".
 
-Chiostro Verde
+##### *Chiostro Verde*
 So called because of its gray-green in gray-green frescoes, built around 1350-60, probably by Fra
 Jacopo Talenti. The most beautiful Gothic cloister in the whole of Florence - one of the most
 perfect embodiments of the Italian Trecento architectural ideal thanks to the harmony of its space
@@ -828,7 +780,7 @@ pillars, delicately profiled plinths and strong leaf capitals (154), on the bows
 white wedge stone pattern (renewed in the 19th century) and painted zigzag bands on the ribs of
 the vault. The following buildings frame the cloister:
 
-The Spanish Chapel (on the north side).
+##### *The Spanish Chapel (on the north side).*
 So called since about 1540, when Duchess Eleonora of Toledo assigned it to the Spaniards in
 Florence as a national chapel (155); originally the main room served as a chapter house, the choir
 chapel as the family and burial chapel of Buonamico di Lapo Guidalotti (156). The whole is
@@ -844,21 +796,20 @@ design of the entire Italian Trecento (159). The chancel chapel was structured i
 main room, but was altered somewhat in the late 16th century, when the entrance arch in
 particular was removed.
 
-The south wing.
+*The south wing.*
 It now contains the monks' apartment and is inaccessible (160).
 
-The Capitolo del Nocentino and the refectory.
+##### *The Capitolo del Nocentino and the refectory.*
 Together they form the west wing of the cloister. The "Capitolo" is located in the northern end of
 this wing; it was built in 1303-08 and is a rectangular, almost square room with a round-arched
 ribbed vault on four five-sided corner pillars (161).
-
 
 The large rectangular hall with round-arched ribbed vaults on the corner and wall pillars; it was
 built in 1350-60, probably by Fra Jacopo Talenti. Its structure is based on that of the neighboring
 "Capitolo del Nocentino" and differs from it only in the richer profiling of the capitals. The tree
 effect is simple and powerful (162).
 
-Chiostro Dati
+##### *Chiostro Dati*
 So named after the famous Dominican order general and prior of S. María Novella Lionardo
 Dati, who inscribed himself next to the scroll consoles as the founder ("Leonardus generalis").
 Situated to the south in front of the southern end wall of the refectory just described, built around
@@ -869,7 +820,7 @@ and still somewhat Gothically stylized, loosely composed acanthus capitals (colu
 portals largely renewed). In the south wing, a broad, finely sculptured Gothic wall fountain
 façade.
 
-Chiostro Grande
+##### *Chiostro Grande*
 Huge cloister, the largest in medieval Florence; located to the west of the Chiostro Verde,
 accessible through a passage from its northwest corner. Built around 1303/40, it now belongs to
 the Scuola sott’ufficiale Carabinieri.
@@ -894,10 +845,7 @@ more recent additions. Before the profanation, the following rooms were located 
 Nigetti and provided with a rich portal; two reading rooms; a dormitory; the "Cappella del Papa",
 which belonged to the adjoining papal apartment (165); the chapel is still preserved, the other
 rooms have probably been disfigured by alterations. The entire west wing was occupied from
-1419 by the guest house, which was used for popes, princes and other distinguished guests of the
-
-
-monastery and the Florentine government and was incorporated into the SS Concezione nunnery
+1419 by the guest house, which was used for popes, princes and other distinguished guests of the monastery and the Florentine government and was incorporated into the SS Concezione nunnery
 in 1563/92 and rebuilt for this purpose (166); only a few pointed arch windows in the east wall
 have been preserved from the old forms; the interior is inaccessible. The south wing now
 contains the "Museo del Risorgimento"; on its ground floor are the simple, somewhat restored
@@ -907,13 +855,13 @@ to the upper floor, allegedly by Giorgio Vasari, around 1560 (168). The upper fl
 housed the novices' dormitory; it was later divided into smaller rooms. One of them, facing only
 the cloister, has been decorated with stucco since the 18th century. Stairs and stucco decorations.
 To the west of the last room is the former St. Nicholas Chapel of the Acciaiuoli from which the
-outside of the wall in this room is decorated with an arched frieze and a rich Gothic two-part
-window.
+outside of the wall in this room is decorated with an arched frieze and a rich Gothic two-part window.
 
 The chapel was built in 1332 and is inaccessible today; it probably has the shape of a rectangular
 hall. It has a sacristy, which can be reached from the Museo del Risorgimento through a
 courtyard ("Chiostro dell'Infermeria"). The chapel originally served as an oratory for the
 infirmary and was later incorporated into the buildings of the monastery pharmacy.
+
 
 ## FACILITIES
 
@@ -925,9 +873,9 @@ early Renaissance in general, and of Dominicanism in particular, in its seclusio
 A historical overview of the decoration of the church and monastery during the 15th and early
 16th centuries can be found in Wackernagel, Lebensraum, 1938, 43 ff.
 
-CHURCH
-Exteriors.
-Facade.
+## CHURCH
+### Exteriors.
+#### *Facade.*
 Frescoes in the arched panels of the three portals; in the middle St. Thomas Aquinas kneeling
 before the crucifix, in the background the Corpus Christi procession arriving in front of S. Maria
 Novella, the center of the celebrations; inscribed by Ulisse Ciocchi, dated 1616; on the left
@@ -936,11 +884,10 @@ Sacrifice of the Mass), by the same painter, completed in 1618 (169).
 On the left (next to the frame pilasters) astronomical instruments.1572/74, on the right sundial
 (horologium), inscription dated 1572 (170).
 
-Interior
+### Interior
 The best of the church's original furnishings have been preserved, in particular frescoes and
 tombstones from the 13th century. A series of altarpieces of the Mannerist school in the side
 aisles owe their creation to the Wasari Reform of 1565/72, which was commissioned by Grand
-
 
 Duke Cosimo I to remove the monks' choir and systematize the formerly forced arrangement of
 the side aisle furnishings, and the associated stone tabernacles were replaced by neo-Gothic ones
@@ -949,47 +896,44 @@ arranged in two rows, the windows were decorated with stained glass by the leadi
 Enrico Romoli and the painter Giuseppe Fattori and neo-Gothic blind doors were set into the side
 aisle walls as frames for confessionals (171).
 
-Facade wall.
-At the top center rose window with stained glass, Coronation of Mary, framed by praising
+#### *Facade wall.*
+At the top center rose window with stained glass, *Coronation of Mary*, framed by praising
 angels; perhaps executed by monks from Ognissanti according to designs by Andrea Bonaiuti da
 Firenze, mm 1365 (172).
 
 To the west, next to the main portal, fresco, Annunciation; below, in a predella-like stripe,
-Baptism of Christ, Adoration of the Magi and Nativity (with St. Bridget of Sweden); school of
+*Baptism of Christ*, *Adoration of the Magi* and *Nativit*y (with St. Bridget of Sweden); school of
 Agnolo Gaddi, around 1400 (173); very overpainted.
 
-Main portal after a drawing by Gaetano Baccani, 1857ff (174); fresco in its arched field, Nativity,
+Main portal after a drawing by Gaetano Baccani, 1857ff (174); fresco in its arched field, *Nativity*,
 by Sandro Botticelli, around 1470 (175).
 
-To the east of the main portal, fresco, Holy Trinity, by Masaccio, late major work by the artist, c.
+To the east of the main portal, fresco, *Holy Trinity*, by Masaccio, late major work by the artist, c.
 1427/28; the Crucified, held by God the Father, next to Mary and John; these figures stand under
 a barrel vault supported by two pillars; the founder and his wife kneel to the left and right in
 front of the pillars. In its present location since 1861 (176).
 
 In the right aisle, memorial plaque for Bernardo de' Veechietti, 1654 (176 a).
 
-Center nave.
-Upper nave window, bull's-eye panes with various colorful coats of arms, probably 14th century
-(?).
+#### *Center nave.*
+Upper nave window, bull's-eye panes with various colorful coats of arms, probably 14th century(?).
 On the first pillar on the right and left are holy water stoups; the right one is made of white
 marble with a red marble support, donated by Mongolieri Bellozzo and Bartolo, 1412
 (inscription); the left one is made of marble, 16th century.
 On the third pillar on the left, pulpit made of white, partially gilded marble, 1443-48; after a
-model by Brunelleschi; figurative reliefs: Annunciation, Nativity, Presentation in the Temple,
-Giving of the Belt to Thomas, by Andrea di Lazzaro Cavalcanti, called Buggiano; ornaments
+model by Brunelleschi; figurative reliefs: *Annunciation*, *Nativity*, *Presentation in the Temple*,
+*Giving of the Belt to Thomas*, by Andrea di Lazzaro Cavalcanti, called Buggiano; ornaments
 perhaps from the workshop of Giovanni di Piero del Ticcia; donated by the Rucellai (177).
 
 In front of the high altar, bronze tomb slab of the prior and Dominican general Lionardo Statii de
 Datis (+ 1423 or 1424), life-size reclining figure in bas-relief by Lorenzo Ghiberti; completed
 before 1427 (178).
 
-Right (eastern) aisle.
-
-
+#### *Right (eastern) aisle.*
 First bay (1399-1565 the altar was dedicated to the Madonna and St. Lawrence; patrons:
 Giuocchi; after 1556 belonging to the Brotherhood of St. Lawrence, in the 19th century to the
 Venturi family) (179) Wall tomb of Ippolito Venturi (+ 1817), inscribed by Stefano Ricci,
-around 1817 (180). - Altarpiece, Martyrdom of St. Lawrence, by Girolamo Macchietti, inscribed
+around 1817 (180). - Altarpiece, *Martyrdom of St. Lawrence*, by Girolamo Macchietti, inscribed
 and dated 1573 (181) - Altar tabernacle and stained glass from 1861 (cf. p. 701). Wall tomb of
 Anna Testard (+ 1809), wife of Ippolito Venturi; by Stefano Ricci (180).
 
@@ -999,18 +943,18 @@ Strozzi) (182). Wall tomb of Beata Villana (+ 1360), a pious citizen from the
 Maria Novella; by Bernardo Rossellino and his workshop, 1451/52; made of white marble on a
 red base. The most important parts have been preserved: the dead woman on an implied
 sarcophagus, above a canopy with two angels pulling back the curtain (183). Altarpiece,
-Adoration of the Shepherds, above God the Father and Glory of the Angels, by Giovanni Battista
+*Adoration of the Shepherds*, above God the Father and Glory of the Angels, by Giovanni Battista
 Naldini, inscribed and illegibly dated, unveiled in 1573 (184). Wall tomb of Blessed John of
 Salerno (+ 1242), founder of the Dominican foundation of S. Maria Novella; imitation of the
 tomb of Beata Villana, workshop of Vincenzo Danti, 1571 (185); with modern additions.
 
-Third bay (patrons of the altar since around 1570: the Sommaia family). Altarpiece, Presentation
-in the Temple, by Giovanni Battista Naldini, inscribed and dated 1577 (186). Neo-Gothic doors
+Third bay (patrons of the altar since around 1570: the Sommaia family). Altarpiece, *Presentation
+in the Temple*, by Giovanni Battista Naldini, inscribed and dated 1577 (186). Neo-Gothic doors
 to the left and right of the altar (cf. p. 701).
 
 Fourth bay (the altar is dedicated to St. Thomas Aquinas); wall tomb of Ruggiero Minerbetti (+
 1280), by Silvio Cosini, dated 1530 (187); marble sarcophagus and trophies, framed by pilasters,
-covered by an architrave. Altarpiece, Deposition from the Cross, by Giovanni Battista Naldini,
+covered by an architrave. Altarpiece, *Deposition from the Cross*, by Giovanni Battista Naldini,
 inscribed and dated 1572 (188); tomb of Tommaso Minerbetti (f 1499); wall tomb, around
 1550/65 (?), using an older wall tomb (around 1400), of which the right pillar and the base still
 survive; all other parts added afterwards, archaizing architrave (189). Holy water basin in the
@@ -1018,16 +962,15 @@ shape of a ship made of white marble, donated by Bartolomeo Cederni (inscription
 the 15th century.
 
 Fifth bay (former patrons of the altar: the Brotherhood of Gesù Pellegrino e del Tempio; since
-1861: Ricasoli) (190). Marble bust of Giuseppe Zanobi del Rosso (t 1831) Altarpiece, Sermon of
-St. Vincent Ferrer, on the side.St. Vincent Ferrer, saints and benefactors to the sides, Christ in
-Glory surrounded by angels above; inscribed by Jacopo Coppi, called del Meglio; date covered
+1861: Ricasoli) (190). Marble bust of Giuseppe Zanobi del Rosso (t 1831) Altarpiece, *Sermon of
+St. Vincent Ferrer*, on the side.St. Vincent Ferrer, saints and benefactors to the sides, *Christ in
+Glory* surrounded by angels above; inscribed by Jacopo Coppi, called del Meglio; date covered
 by the frame, 2nd century.
 t6. Century (191). Marble bust by Cosimo Rossi Melocchio (f1820)
 
 Next to it two neo-Gothic tower frames (cf. p. 701).
 
 Sixth bay. Entrance to the Cappella della Pura.
-
 
 Patrons: Ricasoli (192). Built between 1472 and 1497 (cf. p. 689); in the north-west corner,
 marble tabernacle with high baluster balustrade in the style of Giovanni di Bettino, around 1475,
@@ -1037,7 +980,7 @@ venerated by St. Agnes and a young man from the Lorini family; 14th century, ver
 east wall, wooden crucifix, early 14th century; Byzantinizing painting on the arms of the cross
 (Cimabue style ?); the scenes at the feet of Christ by Raffaello Ximenes, 17th century (194).
 Next to the crucifix, small painted silhouette figures on sawn-out wood, 17th century. Also a
-half-figure, Christ as the Man of Sorrows, terracotta or cartapesta, 2nd half of the 15th century,
+half-figure, *Christ as the Man of Sorrows*, terracotta or cartapesta, 2nd half of the 15th century,
 heavily overpainted.
 
 On the staircase leading to the subterranean room under the Rucellai Chapel (see note 136), a
@@ -1048,14 +991,14 @@ saints; excellent work from the end of the 17th century (Pier Dandini ?).
 Sixth bay, continuation: this part was built by Fra Domenico Pantaleoni, who died in 1376, as a
 burial place for the Dominicans without their own family chapel (196); at that time it was
 dedicated to the Madonna and St. Lawrence; later the altar came under the patronage of the
-Ricasoli, who dedicated it to St. Raimund (197). Altarpiece, Resurrection of a Dead Child by St.
-Raimund (in the background on a painted altarpiece Conversion of St. Paul), by Jacopo Ligozzi,
+Ricasoli, who dedicated it to St. Raimund (197). Altarpiece, *Resurrection of a Dead Child by St.
+Raimund* (in the background on a painted altarpiece *Conversion of St. Paul*), by Jacopo Ligozzi,
 end of the 16th century (198); wall tomb of Giovanni di Battista Ricasoli, Bishop of Pistoia,
 called dell' Ampollina († 1572); Niche with sarcophagus, above profile medallion and
 ornamentation; white and green marble; by Romolo Fvarnens (7), 2nd half of the 16th century
 (199). - Above bust of Cardinal Agostino Bausa († 1899), set in 1904.
 
-Eastern transverse arm.
+#### *Eastern transverse arm.*
 South rim. Terracotta bust of St. Dominican Archbishop Antoninus 1460 (?), in late Renaissance
 tabernacle (202). Early Renaissance door, around 1474 (entrance to the Cappella della Pura). On
 the right above the door, marble tomb of Tedice Aliotti, Bishop of Fiesole (f 1336); Florentine c.
@@ -1063,7 +1006,7 @@ the right above the door, marble tomb of Tedice Aliotti, Bishop of Fiesole (f 13
 consoles, surmounted by an arcade (201). - To the left of the door tomb of Patriarch Joseph of
 Constantinople (on the Florentine consilium 1439); high pedestal in relief with two putti holding
 an inscription; above it a round arch supported by two pairs of slender columns; in the pediment
-above it a Salvator Mundi and leaf ornament; in the arcade the fresco of the standing patriarch,
+above it a *Salvator Mundi* and leaf ornament; in the arcade the fresco of the standing patriarch,
 completely renewed; the marble arcade is an interesting example of the transitional style, around
 1439 (202). Above the tomb, wall tomb of Aldobrandino Cavalcanti, the founding prior of S.
 Maria Novella and Bishop of Orvieto (f 1279); c. 1279; strikingly conservative, still very
@@ -1072,11 +1015,10 @@ Dominicans behind him; Romanesque Hanken friezes on the sarcophagus; on the narr
 St. John the Baptist and another St. John the Baptist and another St.,: above the sarcophagus a
 pointed-arch arcade on unadorned pillars (203). In the arcade, on the sarcophagus, Marble
 
-
 Madonna by Nino Pisano; inscribed, around 1360 (?); originally painted: perhaps a donation by
 Lorenzo Ridolfi (204).
 
-The Rucellai Chapel
+#### *The Rucellai Chapel*
 (in front of the east wall of the eastern transept).
 Dedicated to St. Catherine of Alexandria. Built between 1303 and 1325: attested in 1335 and
 1356 in the possession of the Rucellai; after disputes it was once again firmly in their possession
@@ -1091,11 +1033,11 @@ south wall to the left of the window the beheading of St. Catherine, on the righ
 succession of the Cecilian Master? Probably created soon after the chapel was built; uncovered
 in 1912 (207).
 
-Large panel painting on the back wall, the so-called Rucellai Madonna; enthroned Madonna with
+Large panel painting on the back wall, the so-called *Rucellai Madonna*; enthroned Madonna with
 child, adored by kneeling angels; on the frame medallions with bust portraits of apostles and
 saints; main monument of Dugento painting, early work by Duccio di Buoninsegna, 1285 (?);
-previously often attributed to Cimabue (208). On the north wall, panel painting, Martyrdom of St.
-Catherine of Alexandria, by Giuliano Bugiardini, around 1530; commissioned from Bugiardini
+previously often attributed to Cimabue (208). On the north wall, panel painting, *Martyrdom of St.
+Catherine of Alexandria*, by Giuliano Bugiardini, around 1530; commissioned from Bugiardini
 by Palla Rucellai for the altar of the chapel and allegedly executed by him with the help of
 Michelangelo (preliminary drawing of the figures in the foreground) and Tribolo (models for
 these figures) (209).
@@ -1107,33 +1049,28 @@ Man of Sorrows with Mary and John (half-figures), on each of the side walls a sa
 Underground room beneath the Rucellai Chapel: accessible from the Cappella della Pura, cf.
 p.704 and note 136.
 
-Eastern transverse arm, continuation.
+#### *Eastern transverse arm, continuation.*
 East wall. Crib, 1st half of the 19th century (210). Fragment of the wall tomb of Fra Corrado
 della Penna dei Gualfreducci di Pistoia, Bishop of Fiesole (+1312 or 1313): Relief panel with the
 recumbent bishop and two Dominicans; successor to Arnolfo di Cambio, c. 1312/13 (211).
 
-First right nave choir.
+##### *First right nave choir.*
 Originally under the patronage of the Brotherhood of the Laudesi di S. Maria Vergine, founded
-by St. Peter Martyr in 1243. Acquired in 1335 by the heirs of Messer Riccardo di Riccio Bardi,
-
-
-called Califfo, and consecrated to St. Gregory (212). Over two hundred years later, a cult of St.
-Dominic was established here. At the beginning of the 20th century, the chapel became a
-sacramental chapel, and a little later it was consecrated to Our Lady of the Rosary.
+by St. Peter Martyr in 1243. Acquired in 1335 by the heirs of Messer Riccardo di Riccio Bardi, called Califfo, and consecrated to St. Gregory (212). Over two hundred years later, a cult of St. Dominic was established here. At the beginning of the 20th century, the chapel became a sacramental chapel, and a little later it was consecrated to Our Lady of the Rosary.
 
 Wrought iron grille, mid-18th century (213). Stone relief in the right pillar of the entrance
 arcade, St. Gregory with a donor, dated 1335.
 
-Vault frescoes, Assumption of St. Dominic, by Pier Dandini, mid-18th century (214); stucco work
+Vault frescoes, *Assumption of St. Dominic*, by Pier Dandini, mid-18th century (214); stucco work
 from the same period.
 
 Wall frescoes. Older layer preserved in faded traces: Madonna enthroned in the right arched
 field, opposite St. Bishop(?) enthroned between two angels; further down on the walls here and
 there Byzantine ornaments; from the circle of Cimabue, late 13th century; uncovered in 1906
-(215). Younger layer, scenes from the legend of St. Gregory; on the two main walls: the Sick
-Church Father Dictates Dialogues; St. Gregory, fleeing to Rome, is Appointed Bishop; St.
-Gregory Surprised in Prayer on the Hill of Scauro; St. Gregory Preaches in Rome against the
-Donatists and Arians; further remains on the window wall. Medallions with bust portraits of
+(215). Younger layer, scenes from the legend of St. Gregory; on the two main walls: the *Sick
+Church Father Dictates Dialogues*; *St. Gregory*, *fleeing to Rome*, *is Appointed Bishop*; *St.
+Gregory Surprised in Prayer on the Hill of Scauro*; *St. Gregory Preaches in Rome against the
+Donatists and Arians*; further remains on the window wall. Medallions with bust portraits of
 prophets and saints all around the frame; youthful work by Giovanni dal Ponte (?), around 1400
 (?). Uncovered in 1906 (216).
 
@@ -1141,11 +1078,11 @@ Early Gothic marble niche in the right wall, probably intended for altar devices
 oldest Gothic magnificent biforium in Florence; uncovered in 1906 (cf. p. 685).
 
 Altar table; the rear part perhaps from the 17th century (made of colored marble): Tabernacle
-and rich paliotto (made of pietra dura) probably from the end of the 18th century (217/218).
+and rich *paliotto* (made of pietra dura) probably from the end of the 18th century (217/218).
 Altarpiece, Madonna of the Rosary, by Giorgio Vasari, with the help of Jacopo Zucchi.1569/70;
 placed here in 1906 (219).
 
-Second right side choir.
+##### *Second right side choir.*
 Originally apparently consecrated under the patronage of the Bardi and John the Evangelist, sold
 by Bernardo Bardi to Paolo d'Antenio &Mlesser Zanobi da Castagnola in 1356 (220). Then
 owned by Boni and consecrated to Jeh. d. T. Acquired by Filippo Strozzi from the Boni in 1486
@@ -1158,16 +1095,12 @@ in the vault Old Testament figures; late major work by Filippino Lippi. Importan
 example of monumentally unified wall decoration in the sense of the High Renaissance and as
 the most significant testimony to the painter's study of antiquity, certified by Vasari (222);
 commissioned by Filippo Strozzi on 21.4.1487, worked on until 1489, then abandoned,
-completed according to the inscription in 1502; inscribed; restored in 1753 and 1861, generally
-
-
-well preserved (223). Right wall: Crucifixion of St. Philip in the arched field; in the main field:
-St. Philip driving a dragon from the Temple of Mars in Jerapolis, who has just killed the king's
+completed according to the inscription in 1502; inscribed; restored in 1753 and 1861, generally well preserved (223). Right wall: *Crucifixion of St. Philip* in the arched field; in the main field: *St. Philip driving a dragon from the Temple of Mars in Jerapolis*, who has just killed the king's
 son with his poisonous breath. Window wall: fantastic triumphal arch architecture, chiaroscuro
 painting, with rich ornamentation, angels, women holding coats of arms; on the left the muse
 Parthenice and Caritas, on the right Fides and Polyhymnia (?) (225), as well as a second muse at
 an altar. Left wall: in the arched field the Martyrdom of St. John the Evangelist, in the main field
-the Revival of Drusiana by John. In the vault caps the four patriarchs Adam, Noah, Abraham and
+the *Revival of Drusiana by John*. In the vault caps the four patriarchs Adam, Noah, Abraham and
 Jacob; by Filippino Lippi and workshop, allegedly executed in part by Raffaellino del Garbo
 (224).
 
@@ -1179,7 +1112,7 @@ with finely ornamented frame strip on wide marble. Therein the sarcophagus of bl
 with two cherubs in relief and the round relief of the Madonna in the rosary, surrounded by
 flying angels, made of white marble. - Floor from 1261 (228).
 
-Main choir chapel
+#### *Main choir chapel*
 Dedicated to the Virgin Mary; patronage originally held by the Ricci family; the chapel was
 nevertheless later furnished by the Tornaquínei, then by the Tornabuoni. Patronage of the high
 altar was held by the Sassetti (229).
@@ -1187,34 +1120,29 @@ altar was held by the Sassetti (229).
 Frescoes. On the walls scenes from the life of the Virgin Mary and from the legend of John the
 Baptist, in the vault the four Evangelists; famous late masterpiece by Domenico del Ghirlandaio
 and his workshop; commissioned by Giovanni Tornabuoni to the brothers Domenico and Davide
-del Ghirlandaio on 1.9.1485, unveiled on 22.12.1490 (inscription on the Annunciation to
-Zacharias) (230). Domenico's collaborators, especially on the upper parts: Davide del
+del Ghirlandaio on 1.9.1485, unveiled on 22.12.1490 (inscription on the *Annunciation to
+Zacharias*) (230). Domenico's collaborators, especially on the upper parts: Davide del
 Ghirlandaio, Mainardi, Bartolommeo di Giovanni and Benedetto del Ghirlandaio (?). Cleaned in
 1907; new restoration underway since 1938(231) The frescoes are famous as a classic depiction
 of Florentine patrician life in the time of Lorenzo il Magnifico; they contain many portraits. The
 identification of individual persons is based on information provided in 1561 by Benedetto di
 Luca Landucci, then eighty-nine years old, on the basis of his youthful memories (232).
 Description (from bottom to top due to the order of the paintings): Right wall, in the lowest strip
-on the right Annunciation to Zechariah, dated 1490, the Visitation; in the second strip on the
-right Birth of John the Baptist, on the left his naming; in the third strip on the right Sermon of
-John, on the left Baptism of Christ; in the arched field the Feast of Herod, window margin:
+on the right *Annunciation to Zechariah*, dated 1490, the *Visitation*; in the second strip on the
+right *Birth of John the Baptist*, on the left his naming; in the third strip on the right *Sermon of
+John*, on the left *Baptism of Christ*; in the arched field the *Feast of Herod*, window margin:
 below the donors Giovanni Tornabuoni and his wife Franoesca Pitti; in the middle strip on the
-left Annunciation to Mary, on the right St. John in the Waste; in the upper strip on the left
-Burning of the Catechism by St. Dominic, on the right Death of St. Peter the Martyr; in the
-border Coronation of Mary; left wall; in the lowest strip on the left Expulsion of Joachim from
-the Temple (with the painters' biographies), on the right Birth of Mary (inscribed Bighordi
-
-
-Grillandai); in the second stripe on the left of the temple passage, on the right, The Marriage of
-Mary; in the third stripe on the left, the Adoration of the Magi, on the right, the infanticide; in the
-arched field, the Death and Assumption of Mary.
+left *Annunciation to Mary*, on the right *St. John in the Waste*; in the upper strip on the left
+*Burning of the Catechism by St. Dominic*, on the right *Death of St. Peter the Martyr*; in the
+border *Coronation of Mary*; left wall; in the lowest strip on the left *Expulsion of Joachim from
+the Temple* (with the painters' biographies), on the right *Birth of Mary* (inscribed Bighordi Grillandai); in the second stripe on the left of the temple passage, on the right, *The Marriage of Mary*; in the third stripe on the left, the *Adoration of the Magi*, on the right, the infanticide; in the arched field, the *Death and Assumption of Mary*.
 
 Stained glass in the three windows of the back wall. Left and right windows: in the upper three
 panels, St. Peter and the Apostles in tabernacles (on the left St. Peter, St. John the Baptist,
 Dominic, on the right St. Paul, St. Lawrence, St. Thomas Aquinas), in the lowest field a wreath
 of fruit carried by putti surrounding a lion's coat of arms on a green field (largely renewed in the
-right-hand window), middle window: at the top Donation of the Belt to St. Thomas the Apostle,
-underneath the incision and Miracle of the Snows at St. Maria Maggiore in Rome; the lowest
+right-hand window), middle window: at the top *Donation of the Belt to St. Thomas the Apostle*,
+underneath the incision and *Miracle of the Snows at St. Maria Maggiore in Rome*; the lowest
 field is white glazed. Executed by Sandro di Giovanni d'Andrea Agolanti, 1491 (233), after a
 design by Domenico del Ghirlandaio.
 Choir stalls. The upper row of seats is the youthful work of Baccio d'Agnolo, completed in 1490
@@ -1229,13 +1157,13 @@ the 14th century, attributed to Piero di Giovanni Tedesco (236); probably more i
 Simone di Francesco Talantí. The Easter Leaper is a subsequent imitation by Giovanni Battista
 Giovanmerzf,1804(7) (237).
 
-High altar.
+#### *High altar.*
 Neo-gothic beginning of colored marble, removed by Enrico Romoli, sculptures by Egisto Rod,
 1857|61. Wooden cross, good work of the beginning of the 16th century (238). Painting,
 Resurrection of Christ, on gold ground, by Giuseppe Fattori, 19th century, around 1861 (239).
 
-Western transept
-First left side choir.
+#### *Western transept*
+##### *First left side choir.*
 In 1264 (7) Fra Ranieri, known as il Greco, may have established a cult here to his patron saint,
 St. Luke. In 1325, the chapel was acquired by Margherita Tornaquinci, who belonged to the
 Guardi and Scali families; since then it has been called Cappella Scali. In 1461 it was ceded to
@@ -1246,35 +1174,31 @@ on their behalf.
 In the vault, remains of the old painting, the four Evangelists; by a Byzantine painter, around
 1270, probably donated by Fra Ranieri; uncovered in 1932 (241).
 
-
 Target architecture by Giuliano da Sangallo, c. 1503/08; added in 1602 (cf. p. 689f.). In the pair
 of niches in the altar wall, two statues of angels, by Francesco Gargiolli (?), around 1602 (242).
 In the center, a wooden crucifix by Filippo Brunelleschi; a famous masterpiece of early
 Renaissance sculpture, allegedly created to surpass Donatello's crucifix in S. Croce, but probably
 created earlier than the latter, around 1400/1410 (234).
 
-Western Crossarm
-First left side choir.
+#### *Western Crossarm*
+##### *First left side choir.*
 In 1264 (?), Fra Ranieri, known as il Greco, perhaps established a cult here to his patron saint, St.
 Luke. In 1325, the chapel was acquired by Margherita Tornaquinci, who belonged to the Guardi
 and Scali families; since then it has been called Cappella Scali. In 1461, it was ceded to the della
 Luna family by Donna Costanza de' Salviati, widow of Bartolommeo degli Scali; in 1466, this
 agreement was annulled.
 
-In 1503 the chapel was transferred to Leonardo, Giovanni and Federigo Gondi, the sons of
+In 1503 the chapel was transferred to Leonardo, Giovanni and Federigo Gondi, the sons of Giuliano Gondi (240). Giuliano di Sangallo was commissioned by them to enlarge it in 1508.
 
-# Giuliano Gondi (240). Giuliano di Sangallo was commissioned by them to enlarge it in 1508.
-
-Frescoes. Remains of the old painting in the vault, the four evangelists; by a Byzantine painter,
-
-# around 1270, probably donated by Fra Ranieri; uncovered in 1932 (241).
+Frescoes. Remains of the old painting in the vault, the four evangelists; by a Byzantine painter, around 1270, probably donated by Fra Ranieri; uncovered in 1932 (241).
 
 Decorative architecture by Giuliano da Sangallo, c. 1503/08; added in 1602 (cf. p. 689f.). In the
 pair of niches in the altar wall, two statues of angels, stucco, by Francesco Gargiolli (?), c. 1602
 (242). In the center, a wooden crucifix by Filippo Brunelleschi; a famous masterpiece of early
 Renaissance sculpture, allegedly created to surpass Donatello's crucifix in S. Croce, but probably
 created earlier than the latter, around 1400/1410 (234).
-Second left side choir.
+
+##### *Second left side choir.*
 Apparently dedicated to St. Dominic; the patronage was given to the Falconi family early on;
 they consecrated the chapel to St. Michael the Archangel and all the angels. In the 16th century,
 the patronage was given to the famous humanist Niccolò di Sinibaldo Gaddi. He had the chapel
@@ -1286,27 +1210,22 @@ them fresco scenes from the legend of St. Jerome, also in the soffit of the entr
 pendentives Virtues; all paintings by Alessandro Allori, dated 1577 (245).
 
 On the side walls in the arch fields ornamental stained glass and blind windows; in the aedicules
-marble reliefs, the Marriage and the Presentation of Mary, by Giovanni Bandini called
+marble reliefs, the *Marriage and the Presentation of Mary*, by Giovanni Bandini called
 dell'Opera (246). Below, marble sarcophagi, tombs of Cardinals Taddeo Gaddi (t 1561) and
-Niecolò Gaddi (+1552), dated 1577 and 1578(247). In the back wall, altarpiece, Resurrection
-from the Daughters of Jairus, last work by Angelo Bronzino, 1571/72 (248). Below it, marble
-sarcophagus, tomb of the wife (+ 1563) and two children (t 1564 and 1569) of Cavaliere Niccolò
+Niecolò Gaddi (+1552), dated 1577 and 1578(247). In the back wall, altarpiece, *Resurrection
+from the Daughters of Jairus*, last work by Angelo Bronzino, 1571/72 (248). Below it, marble
+sarcophagus, tomb of the wife (+ 1563) and two children (t 1564 and 1569) of Cavaliere Niccolò Gaddi. Magnificent marble altar table on lion feet, below it the tomb of Blessed Remigius, dated 1577. Floor in marble and pietra dura.
 
-
-Gaddi.Magnificent marble altar table on lion feet, below it the tomb of Blessed Remigius, dated
-
-1577. Floor in marble and pietra dura.
-
-The Strozzi Chapel
+#### *The Strozzi Chapel*
 (in front of the west wall of the western transept).
 Built around 1279. Original patrons: perhaps the Bracci family (?). Consecrated in 1284 under
 the patronage of the Strozzi and St. Thomas Aquinas (249). Staircase and balustrade probably
 remodeled in the 19th century.
 
-Frescoes, famous depiction of the end of days, based on Dante's Divine Comedy; main work by
+Frescoes, famous depiction of the end of days, based on Dante's *Divine Comedy*; main work by
 Nardo de Cione, around 1357; restored several times, most recently in 1950 (250). In the vaulted
-caps of St. Thomas Aquinas with virtues, repeated four times. Hell on the right wall, the Last
-Judgment on the altar wall, Paradise on the left wall. Beneath it, a plinth with engraved inset
+caps of St. Thomas Aquinas with virtues, repeated four times. *Hell* on the right wall, the *Last
+Judgment* on the altar wall, *Paradise* on the left wall. Beneath it, a plinth with engraved inset
 fields and medallions with heads. In the the arch of the gallery are the four church fathers, on the
 pilasters there are two St. Dominicans.
 Glass painting in the window of the altar wall. Above the Madonna, below St. Thomas Aquinas,
@@ -1319,8 +1238,8 @@ time, a uniform group representation was developed across all five panels and an
 made to combine these panels into a single display wall. Christ is enthroned in the center and
 hands the keys and book to St. Peter and St. Thomas Aquinas, who are kneeling next to him;
 Mary, the Archangel Michael and St. Catherine of Alexandria stand to the left, St. John the
-Baptist, St. Paul and St. Laurence to the right; on the predella, the rapture of St. Thomas Aquinas
-at Mass, St. Peter Walking on the Sea, and the trilogy from the Legend of St. Lawrence: The
+Baptist, St. Paul and St. Laurence to the right; on the predella, the rapture of *St. Thomas Aquinas
+at Mass*, *St. Peter Walking on the Sea*, and the trilogy from the *Legend of St. Lawrence*: The
 intervention of St. at the weighing of souls by the angel Michael (left), saving the soul of
 Emperor Henry II (with the death depicted in the center), and the devil fleeing past a hermit with
 the handle of the chalice to be weighed (right).
@@ -1330,31 +1249,30 @@ On the façade, crude spandrel reliefs, 1st half of the 14th century (252a); ins
 Entombment on the back wall, two saints on each side wall; in the style of Niccolò di Pietro
 Gerini, around 1400 (253).
 
-The Rucellai Chapel of All Saints
+#### *The Rucellai Chapel of All Saints*
 (on the west wall of the western transept, under the bell tower).
 The oldest chapel of the church, c. 1246ff (cf. p. 685); also called Cappella del Campanile.
-Outside, over the entrance, Fresco, Coronation of the Virgin with Angels (14th century).(254).
+Outside, over the entrance, Fresco, *Coronation of the Virgin with Angels* (14th century).(254).
 Next to the door, beautiful holy water font in marble with the name of Andrea Rucellai (1464).
-
 
 Interior frescoes, scenes from the New Testament, by Pacino di Bonagzida, 1st half of the 14th
 century; very worn, but hardly overpainted (255). The structure takes into account the buttress of
 the transept. On the vault, the Lamb of God; on the right wall, Christ enthroned, St. Luke and St.
-John enthroned; on the back wall, fragments of the Annunciation, including remains of St. Luke;
+John enthroned; on the back wall, fragments of the *Annunciation*, including remains of St. Luke;
 on the left wall, the only remaining enthroned Evangelist (a second Evangelist was destroyed
 during the construction of the bell tower's spiral staircase) St. Christopher on the buttress, 2nd
 half of the 14th century (256).
 
-Stanza dei Beati
+#### *Stanza dei Beati*
 (behind the Chapel of All Saints; cf. note 122a).
 Gothic room probably from around 1330. On the west wall bust of St. Anthony of Padua, richly
 framed, dated 1628. On the south wall large altarpiece, Marriage of St. Caterina de' Ricci, by
 Giuseppe Fattori, inscribed and dated 1852 (257). On the east wall, marble bust of St. John of
 Salerno, the founder of the S. Maria Novella branch, dated 1650.
 
-Sacristy
+#### *Sacristy*
 (in front of the south wall of the western transept).
-Dedicated to the Annunciation of Mary; patron saints: Cavalcanti; portal by Gherardo Silvani or
+Dedicated to the *Annunciation of Mary*; patron saints: Cavalcanti; portal by Gherardo Silvani or
 Fabbrizio Boschi, 1616 (see p. 691). Interior built for Mainardo Cavalvanti by Fra Jacopo
 Talenti, mid-14th century (for the architecture see p.691).
 Vault frescoes, ornaments, 14th century (?); heavily renovated (258).
@@ -1374,13 +1292,12 @@ perhaps painted before 1300, certainly before 1312; until a few years ago, insid
 portal of the church (264).
 
 Right-hand side cabinets, allegedly by "Guerrino Veneziani", 18th century (265). - Above
-altarpiece, Conversion of St. Paul, by Sebastiano da Cortona (?), early 17th century (266). Next
-to it, Baroque window, 18th century. Next to it, altarpiece, Baptism of Christ, by Jan van der
+altarpiece, *Conversion of St. Paul*, by Sebastiano da Cortona (?), early 17th century (266). Next
+to it, Baroque window, 18th century. Next to it, altarpiece, *Baptism of Christ*, by Jan van der
 Straet, called Giovanni Stradano, around 1570 (267).
 
-
 Large reliquary, designed by Bernardo Buontalenti, dated 1582 (268); slightly altered in the 18th
-century to resemble the side cabinets; the paintings in the doors (Annunciation, St. Thomas
+century to resemble the side cabinets; the paintings in the doors (*Annunciation*, St. Thomas
 Aquinas and St. Dominic) by Camillo Perini, dated 1693 (269). In front of the altar table, 16th
 century, and crucifix, attributed to Maso di Bartolommeo called Masaccio, second third of the
 15th century (270). Above, three-part window with stained glass, scenes from the life of Christ
@@ -1388,7 +1305,7 @@ and John the Baptist, probably around 1330 by a master from the workshop of Anto
 perhaps after a design by Spinello Aretino (271).
 
 Left-hand scroll wall, 18th-century cupboards, allegedly by Guerrin Veneziani (cf. note 265).
-Above it, on the right, panel painting, Crucifixion, surrounded by virtues and vices after the
+Above it, on the right, panel painting, *Crucifixion*, surrounded by virtues and vices after the
 vision of St. Anselmus, by Giorgio Vasari, 1566 (272). Next to it a stained glass window
 from the 18th century – Altar painting (canvas). Sermon of St. Vincent Ferrer, by Per Dandini,
 around 1700 (273)
@@ -1400,10 +1317,10 @@ scrollwork herm; vessel probably antique, perhaps Egyptian from the first imperi
 the treasure of Lorenzo il Magnifico); herm by a successor of Cellini, perhaps by Battista
 Lorenzi, third quarter of the 16th century; donated by Leonardo Reguadori (274).
 
-Left (western) aisle.
+##### *Left (western) aisle.*
 First bay (the altar was originally dedicated to St. Peter Martyr; in the 16th century under the
 patronage of the branch of the Strozzi derived from Camillo and since 1596 dedicated to St.
-Hyacinth) (275). Epitaph of Anna Pandolfini (t 1802). - Altarpiece, Vision of St. Hyacinth (Christ
+Hyacinth) (275). Epitaph of Anna Pandolfini (t 1802). - Altarpiece, *Vision of St. Hyacinth* (Christ
 and Mary appear, surrounded by angels and St. Dominic kneeling); by Alessandro Allori,
 inscribed and dated 1596 (276).
 
@@ -1419,15 +1336,11 @@ Dominican Fra Bernardo d'Argentina (282). - Marble bust of Josephus Ignatius Zan
 (d 1798). Nephew of the above, by Giovanni Battista Giovannozzi, around 1800 (cf. note 278).
 
 Third bay (the altar had apparently been under the patronage of the Pasquali family since ancient
-times (283); dedicated to St. Cosmas and Damian around 1565). The Resurrection of Christ,
-
-
-painted by Giorgio Vasari between 1565 and 1568 for his friend Andrea Pasquali, the duke's
-personal physician (284).
+times (283); dedicated to St. Cosmas and Damian around 1565). The *Resurrection of Christ*, painted by Giorgio Vasari between 1565 and 1568 for his friend Andrea Pasquali, the duke's personal physician (284).
 
 Fourth bay (Fra Lorenzo Cardoni is said to have erected an altar to the Holy Trinity here; since
 around 1570 under the patronage of the Capponi family and dedicated to the Madonna of the
-Rosary) (285). Altarpiece, Annunciation, last work by Santi di Tito, around 1602/03 (the angel of
+Rosary) (285). Altarpiece, *Annunciation*, last work by Santi di Tito, around 1602/03 (the angel of
 the Annunciation is said to be a portrait of Virgilio Carnesecchi) (286). To the left, panel
 painting, St. Lucia, by Davide del Ghirlandaio or Jacopo del Tedesco, painted in 1494 (?) for the
 Brotherhood of St. Peter Martyr, commissioned by Tommaso Cortesi, who is depicted as the
@@ -1435,10 +1348,10 @@ donor (287). Tabernacle frame from the time of the painting's creation.
 
 Fifth bay (the altar was perhaps originally dedicated to St. Ignatius the Dominican martyr, under
 the patronage of the Benintendi; since around 1570 under the patronage of the Bracci) (288).
-Triptych, Archangels Raphael and Tobias between a Dominican saint and St. Catherine of
-Siena; follower of Castagno, c. 1460/70 (289); frame from the time of the painting's creation;
-altarpiece, Christ and the Samaritan woman at the well, by Alessandro Allori, inscribed and
-dated 1575 (290). Panel, Annunciation, by Neri di Bicci, 1455 (291).
+Triptych, *Archangels Raphael and Tobias between a Dominican saint and St. Catherine of
+Siena*; follower of Castagno, c. 1460/70 (289); frame from the time of the painting's creation;
+altarpiece, *Christ and the Samaritan woman at the well*, by Alessandro Allori, inscribed and
+dated 1575 (290). Panel, *Annunciation*, by Neri di Bicci, 1455 (291).
 
 Sixth bay (patrons of the altar: originally the Mazzinghi family, called da Peretola, later Baccelli;
 the latter dedicated it to the Baptism of Christ; shortly before 1755 it came under the patronage
@@ -1459,36 +1372,34 @@ from the teachings of the Virgin Mary, mid-15th century(295).
 
 ## CLOISTER
 
-Chiostro Verde.
+### Chiostro Verde.
 Probably built by Fra Jacopo Talenti, around 1350/60 (cf. p. 696f.) In the passageway; fresco on
 the right, enthroned Madonna honored by two angels; in the manner of Fra Bartolommeo, early
 16th century, almost extinct. Left fresco (above the door), Dominican saint, 18th century. Also
 ten gravestones, 1.11. 19th century.
 
-
-Loggia.
+#### *Loggia.*
 Frescoes. In the vault in each canopy a medallion with the bust of a Dominican saint, 14th or
 15th century, partly replaced (296), On the walls on three sides depictions from three Old
 Testament scenes, in terra verde, by Paolo Uccello and other contemporary painters, between
 1430 and 1446. The round gallery begins because of the order of the picture contents at the
 northeastern corner:
-East wing (along the church). Here, the most important frescoes are the series by Ucello and
-assistants. Three essential pieces are kept in the hall behind the refectory (Capitolo del
-Nocentino, p.726). 1st bay: Staircase and door to the refectory
-2nd bay: In the arched field, Creation of the animals and creation of Adam; under the Creation of
+
+##### *East wing (along the church)*.
+Here, the most important frescoes are the series by Ucello and assistants. Three essential pieces are kept in the hall behind the refectory (Capitolo del Nocentino, p.726). 1st bay: Staircase and door to the refectory 2nd bay: In the arched field, Creation of the animals and creation of Adam; under the Creation of
 Eve and the Fall of Man, early works by Paolo Uccello, c. 1430/36, considered as auxiliary work
 by others (299). -- 3rd bay: The arched field is empty (once here was Expulsion from Paradise,
 work of Adam and Eve; by Paolo Uccello and assistants, c. 1430/36); below sacrifice of Cain
 and Abel, death of Abel, from the circle of Uccello, c. 1430/40: very damaged (297) Fourth
 Yoke: In the arched field, Lamech kills Cain, construction of the ark; below Entry into the ark
 (very damaged); from the circles of Uccello, c. 1430/40 (297). - 5th bay: empty (formerly here
-Flood and Noah's thanksgiving and shame, by Uccello, c. 1446). - 6 th bay: in the arched field and
+*Flood* and *Noah's thanksgiving and shame*, by Uccello, c. 1446). - 6 th bay: in the arched field and
 under the remains of a depiction of the Tower of Babel; almost only the red preparatory drawing
 on the lower plaster layer is preserved; in the style of Dello Delli, c. 1430/40 (298).-7th bay: in
 the arched field remnants of richly dressed figures (saints?), in the style of Dello Delli, c.
 1430/40 (298); only unrecognizable remains preserved at the bottom.
 
-Southern wing.
+##### *Southern wing.*
 The first five bays attributed to a master from the circle of Lorenzo di Niccolò, c. 1430; the
 arched field of the sixth bay by a better master of the same period; the main part of the field
 below by the hand of the master of the first bays (299). 1st bay: in the arched field, Abraham's
@@ -1506,10 +1417,7 @@ The side panel and the lower panel of the first bay by a conservative contempora
 who can be identified with Dello Delli, around 1430/40; the next bays in the style of the Rossello
 di Jacopo Franchi, around 1430/40 (300); in the first bay a fresco from the 14th century. 1st bay:
 in the arched field the birth of Jacob and Esau, sale of the firstborn; below Rebekah and Jacob,
-Jacob's blessing; very damaged (301). - 2nd bay: in the arched field Jacob and Rachel, welcome
-
-
-of Jacob by Laban; below, meal of Laban with Jacob and daughters, birth of Reuben. - 3rd bay:
+Jacob's blessing; very damaged (301). - 2nd bay: in the arched field Jacob and Rachel, welcome of Jacob by Laban; below, meal of Laban with Jacob and daughters, birth of Reuben. - 3rd bay:
 in the arched field, Jacob's marriage to the maidservants; below, Jacob's farewell to Laban and
 the division of the sheep. 4th bay: in the arched field, Jacob flees from Laban, Jacob is caught
 up; below, God warns Laban, meeting of Jacob and Laban, search for the household gods. 5th
@@ -1520,14 +1428,15 @@ crucifix with St. Dominic and St. Thomas Aquinas; from the succession of Giotto,
 century; very overpainted, especially the secondary figures (302). Door to the Chiostro Grande at
 the bottom.
 
-North wing. 1st bay: in the arched field fresco, half-figure of the Madonna and Child from the
+##### *North wing.*
+1st bay: in the arched field fresco, half-figure of the Madonna and Child from the
 circle of Duccio, 1st half of the 14th century; very overpainted (303); below frescoes,
 Dominicans in niches, by Bernardino Poccetti(?), late 16th century (304); at the same time
 probably also the curtain-raising angels next to the arched field. In front, altar made of pietra
 dura, allegedly by the Dominican Pietro Tacca, early 18th century (305). 3rd bay: Entrance to the
 Spanish Chapel.
 
-Spanish Chapel.
+#### *Spanish Chapel.*
 Originally the chapter house and Corpus Christi chapel under the patronage of Buonamico di
 Lapo Guidalotti (306); built by Fra Jacopo Talenti, around 1344 f. (cf. p. 697 and note 67); in
 1566/67 the Spanish colony in Florence was given this room, where they had been holding their
@@ -1550,11 +1459,7 @@ over an altar with the Lamb of God; in the middle zone on the right the driving 
 the world, on the left the believers who are led by the Dominicans on the path of penance by
 means of confession and enter paradise through the narrow gate; in the lowest zone, the church
 (landmark: the Florentine cathedral - based on a model by Andrea Bonaiuti) (310), in front of it
-representatives of the spiritual and secular authorities; to the right, St. Dominic's dispute with
-
-
-heretics, in the foreground black and white "Domini canes" herding the sheep (= congregation)
-and driving away the wolves (= heretics). On the northern wall, next to and above the entrance
+representatives of the spiritual and secular authorities; to the right, St. Dominic's dispute with heretics, in the foreground black and white "Domini canes" herding the sheep (= congregation) and driving away the wolves (= heretics). On the northern wall, next to and above the entrance
 arch of the choir chapel, the Carrying of the Cross, Crucifixion, Christ in Limbo in compositions
 rich in figures. - On the left (western) wall the triumphant church, depicted during the Triumph
 of St. Thomas of Aquin; the Saint is sitting on a powerful gothic throne, surrounded by the seven
@@ -1577,7 +1482,8 @@ Spanish merchants, 1578; at the entrance, that of Andrea a Moneta (f 1598). On t
 marble and pietra dura tomb slab of Pietro Mantorio (d 1584), on the right side the marble tomb
 slab of Battista de Burgos (+1591) (314).
 
-Choral chapel. In 1592 the Spaniards emphasized the entrance with two piastres and an arch,
+##### *Choral chapel.*
+In 1592 the Spaniards emphasized the entrance with two piastres and an arch,
 transformed the Gothic window into an oval opening and removed the ribs to make room for a
 vault decoration (315). In the vault, frescoes, grotesques and medallions with scenes from the
 legend of St. James, by Bernardino Poccetti, 1592 (317). - On the walls, frescoes from
@@ -1592,19 +1498,14 @@ Baptist. and Matthew (?), from the work of Bernardo Daddi; inscribed and dated 1
 the sacristy allegedly a painted crucifix, 12th century (2); it is unclear whether it still exists
 (320).
 
-Loggia, continuation of the north wing,
+##### *Loggia, continuation of the north wing,*
 Under the doorway to the Chiostro dei Morti fresco in terra verde, in the middle a skeleton of the
-dead, on each side a floating saint; 15th century; on the wall to the right a fresco of St. Thomas
+dead, on each side a floating saint; 15th century; on the wall to the right a fresco of St. Thomas Aquinas in the Dominican pedigree; perhaps by Stefano, a pupil of Giotto, 2nd quarter of the 14th century; some parts have been replaced (321).
 
-
-Aquinas in the Dominican pedigree; perhaps by Stefano, a pupil of Giotto, 2nd quarter of the
-14th century; some parts have been replaced (321).
-
-Passage between Chiostro Verde and Chiastro Grande.
+##### *Passage between Chiostro Verde and Chiastro Grande.*
 On the west wall, Fresco, Death of St. Peter the Martyr, almost faded, c. 1298 (2) (321a).
 
-# Passageway between Chiostro Verde and Chiostro dei Morti
-
+##### *Passageway between Chiostro Verde and Chiostro dei Morti*
 Fresco remnants in the gable of the entrance balcony, standing Saint, under donor, 14th century.;
 very damaged.- On both walls numerous tombstones and coat of arms plaques.- On the right wall
 Stone relief, Half figure of Madonna and Child, c. 1300 (?).-On the left wall, stone relief,
@@ -1612,15 +1513,15 @@ Tabernacle with enthroned Madonna with child and donor couple, angel and Mary of
 Annunciation, above Salvator, 1st half of the 14th century. (322) - On both walls there is a fresco
 of the Man of Sorrows, 14th century; very damaged. Also some other fresco remains.
 
-Chiostro dei Morti.
+##### *Chiostro dei Morti.*
 Oldest part of the monastery (cf. p. 694f.). The rooms were closed off from each other by shear
 walls for a long time and thus appeared more like chapels in earlier times than they do now (cf.
 note 84).
 
 St. Anthony's Chapel (double chapel on the right), dedicated to St. Anthony Abbas; patron saints;
 in the 14th century Carboni, since 1552 or 1558 da Magnale (Magnioli"?).
-Frescoes: on the south wall Burial and Temptation of St. Anthony Abbas, on the east wall
-Crucifixion of Christ and Saints, on the north wall Prayer on the Mount of Olives (7), St.
+Frescoes: on the south wall *Burial and Temptation of St. Anthony Abbas*, on the east wall
+*Crucifixion of Christ and Saints*, on the north wall *Prayer on the Mount of Olives* (7), St.
 Anthony, Christ scene; in the style of Gherardo Starnina, around 1400 (?); very worn; the ceiling
 painting partly modern (323).
 
@@ -1636,26 +1537,22 @@ century.
 Chapel of St. Paul (in the next bay); initially dedicated to St. Paul, later to St. Julian (7); patrons:
 Alberti, in the 14th century Betti (326). Frescoes: St. Julian carrying a pilgrim through the water
 with his wife; St. Julian standing; Crucifixion with Mary and John seated; St. Dominic. On the
-opposite wall, the Resurrection of Christ and the three women at the altar.
-
-
-All from the school of Orcagna (Nardo di Cione?).om 1360(327). Many old and modern tomb
-slabs.
+opposite wall, the Resurrection of Christ and the three women at the altar. All from the school of Orcagna (Nardo di Cione?).om 1360 (327). Many old and modern tomb slabs.
 On the north wall, stone relief, life-size half figure of the Man of Sorrows, 14th century (328). -
 On the west wall, window with painted reveal, 14th century.
 Amieri chapel, remains (?). In the north wall of the north cloister wing, the outer wall of the
 chapel, which was dedicated to St. Thomas Aquinas and was under the patronage of the Amieri,
 is perhaps preserved in the 2nd bay. In the arch field of the door fresco, half figure of St. Thomas
 Aquinas, School of Orcagna (?), third quarter of the 14th century (329). - Tombs.
-In the same northern cloister wing, fresco, Madonna with Child and St. Therese, by an unknown
+In the same northern cloister wing, fresco, *Madonna with Child and St. Therese*, by an unknown
 painter. Therese, by an unknown painter, 1825 (tomb inscription below). - Tombs and sculpture
 fragments.
-On the west wall, altar with glazed terracotta relief, Noli me tangere, by Giovanni della Robbia,
+On the west wall, altar with glazed terracotta relief, *Noli me tangere*, by Giovanni della Robbia,
 first quarter of the 16th century (330) - altar table and marble sarcophagus, by F. Alessandro
 Capocchio (+ 1581). Stone statue of Blessed Giovanni da Salerno, by Giro-lamo (?) Ticciati,
 1735 (331).
 
-Strozzi Chapel (at the southwest corner of the cloister), dedicated to the Assumption of Mary;
+Strozzi Chapel (at the southwest corner of the cloister), dedicated to the *Assumption of Mary*;
 patron saint: Strozzi. Donated by Beatrice Strozzi-Trinciavelli, around 1330 (332). Frescoes: in
 the vault bust portraits of four prophets; in the soffit of the entrance arch the four evangelists and
 St. Benedict and St. Leonard (very worn and repaired). On the west wall, a field of arches with a
@@ -1663,37 +1560,35 @@ figural crucifixion; on the south wall, the Nativity (both frescoes have apparen
 by a painter from the circle of Maso di Banco; mid- 14 th century. (333). Gravestones from the 19th
 century.
 
-Passageway between Chiostro dei Morti and Chiostro Grande.
+##### *Passageway between Chiostro dei Morti and Chiostro Grande.*
 On a wall that served as a rood screen in a three-part room (the former hospice), frescoes: the
 Madonna and Christ enthroned; farther on, friezes of kneeling believers; the Nativity; Mary of
 the Annunciation; attributed to Dello Delli, around 1446; commemorated in 1933/34 (334).
 
-Passage between the Chiostro Verde and the refectory.
+##### *Passage between the Chiostro Verde and the refectory.*
 Traces of fresco decorations from the 13th century.
 
-Refectory.
+#### *Refectory.*
 Anteroom. Traces of decorative painting, late 13th century, close to the saddleback corner of the
 Chiostro Verde (see note 55).
 Main room, probably built by Fra Jacopo Talenti, around 1350 60 (cf. p.697f.). On the east wall
-a large panel painting, The Last Supper, by Alessandro Allori, 1581-84, inscribed and dated 1583
-(335). Panel painting, Crucifixion; perhaps by Michele Tosini, 2nd half of the 16th
-century(?)(336).On the north wall fresco, Enthroned Madonna with child and donor in
+a large panel painting, *The Last Supper*, by Alessandro Allori, 1581-84, inscribed and dated 1583
+(335). Panel painting, *Crucifixion*; perhaps by Michele Tosini, 2nd half of the 16th
+century(?)(336). On the north wall fresco, *Enthroned Madonna with child and donor* in
 Dominican costume, with St. John the Baptist and St. Peter Martyr, Dominic and Thomas
 Aquinas; in the style of Gherardo Starnina, around 1400 (337). Surrounded by a fresco,
-
-
 Mannalese, by Alessandro Allori, inscribed and dated 1597 (333); the Madonna fresco was long
-covered by the painting of the Last Supper by Allori, which now hangs on the east wall.
+covered by the painting of the *Last Supper* by Allori, which now hangs on the east wall.
 On the west wall is a painting of St. Dominic healing a sick man, 18th century. Painting of the
-burning of a brook on a Dominican friar, by Ranieri del Pace, inscribed and dated 1716.
-Painting of the Last Supper, 16th century (?).
+burning of a *brook on a Dominican friar, by Ranieri del Pace, inscribed and dated 1716.*
+*Painting of the Last Supper*, 16th century (?).
 Cloaks with ecclesiastical vestments. Four suits of armor, marble fireplace, 1675 (inscription).
 
-Capitolo del Nacentino
+#### *Capitolo del Nacentino*
 (Room behind the refectory).
 Built in 1343/08 (cf. p. 697 and note 56); dedicated to the Adoration of the Magi; temporary
 location of three frescoes by Paolo Uccello from the Chiostro Verde. On the south wall of the
-arched field, the Expulsion from Paradise and the Work of Adam and Eve, designed by Paolo
+arched field, the *Expulsion from Paradise* and the *Work of Adam and Eve*, designed by Paolo
 Uccello and executed by assistants c. 1430/36 (formerly in the 3rd bay of the eastern wing).
 Across from the arched field and the lower field, Flood (above). Noah's thank offering and
 schame (below). Main works by Paolo Ucccllo, from 1444 (formerly in 5th bay of the eastern
@@ -1704,12 +1599,12 @@ counterpart on the top right, St. Thomas of Aquinas and Bonaventura; by Jacopo V
 image, God the Father. Bottom right roundel, apostle (340). On a cupboard on the sisal wall
 Christ's head, copy after Giovanni da Bologna.
 
-Chiostro Dati.
+#### *Chiostro Dati.*
 Built around 1424 (see p. 698 and note 72). Two arched panels with frescoes, Dominican scenes,
 around 1600,
 
-Chiostro Grande.
-Loggia.
+#### *Chiostro Grande.*
+##### *Loggia.*
 Accessible through the Scuola sottufficiale Carabinieri, Piazza della Stazione. Built 1303/40 with
 additions in the 2nd half of the 15th century (p.698f.).
 
@@ -1723,8 +1618,6 @@ number corresponds to one bay.
 Eastern wing, right half. 1) St. Thomas Aquinas escapes from the stalking of a woman, assisted
 by angels; by Cosimo Gamberucci. 2. No painting. 3. battle with the heretics in Florence at he
 time of St. Peter the Martyr; by Lorenzo Sciorina (342).4 No painting. 5. St. Peter the Martyr
-
-
 speaks with holy virgins.; by Benedetto Velio. -- 6. Christ in limbo; Early work by Lodovico
 Cigoli (343).
 
@@ -1738,9 +1631,9 @@ Blessed Giovanni di Salerno; by Gamberucci.-7.The Devil throws a stone at St. Do
 who is saved by angels; by Cosimo Gheri.--8. No painting. -9. St. Dominic leads the devil into
 the monastery; by Simone da Poggibonsi.-10.St. Dominic castigates himself; by Gamberucci. -
 11. Painting above. - 12. Mary appears to St. Dominic; by Lodovico Buti (347). - 13 Angels
-serving St. Dominic and his monks at the banquet; by Santi di Tito (348). -14. Christ before
-Pilate; including Mary Magdalene and Martha; by Giovanni Baldueci (349).
-Western wing. 1 Christ washing the apostles' feet. In the violent grotesque and passion scenes;
+serving St. Dominic and his monks at the banquet; by Santi di Tito (348). -14. *Christ before
+Pilate*; including Mary Magdalene and Martha; by Giovanni Baldueci (349).
+Western wing. 1 *Christ washing the apostles' feet*. In the violent grotesque and passion scenes;
 by Giovanni Baldacci (339).2. miracle of St. Reginald; by Ludovico Buti (351). - 3. St. Dominic
 heals a sick woman; by Lorenzo Sciorica (352).4. St. Dominic carries the image of the Madonna;
 by Ludovico Buti. 5. St. Dominic carrying the nephew of Cardinal Orsini; by Alessandro Fei,
@@ -1768,16 +1661,13 @@ Putti in the arched field; by Giovan Maria Butteri (365).
 Eastern wing, southern half. 1. Christ as Gardner and Maria Magdalena, by Giovan Maria
 Butteri, 1581 (366); on the vault passion scenes, the southern one by Butteri, the others by
 another student of Allori. -2.St. Vincent Ferrer heals the sick; by Cosimo Gamberucci.-3. Sermon
-
-
 of St. Vincent Ferrer; by Giovan Mara Butteri (366).-4. Clothing of St. Vincent Ferrer; Early
 work by Lodovico Cigoli (367). - 5. St. Thomas of Aquin teaching; by Lodovico Buti (368).-6.
 St. Thomas von Aquin strikes Pope Urban IV. the celebration of Corpus Christi before; by
 Mauro Soderini, c. 1730 (369).-7. No painting.-8. St. Thomas of Aquin on the board of kings
 from France; by Antonio Pillori, c. 1730 (370).
 
-
-_Pope’s Chapel_
+### *Pope’s Chapel*
 In the west side of the north wing, upper floor. Fresco painting in honor of Pope Leo X (Medici),
 by Jacopo Pontormo and Andrea Feltrini, commissioned and partly designed by Ridolfo del
 Ghirlandaio, since 1515 (371). On the ceiling, central medallion with God the Father, surrounded
@@ -1789,11 +1679,11 @@ field with the Coronation of the Virgin, executed by a pupil of Ridolfo del Ghir
 created in the twenties of the 16th century. Grotesques on the side walls, probably executed by
 Andrea Feltrini. All heavily restored, partly by Conti.
 
-**_Museo del Risorgimento_**
+#### *Museo del Risorgimento*
 Cf. Guida del Touring-Club Italiano, 1937, 262. –Most of the rooms used to be the infirmary (cf.
 above p. 699 and fn. 54).
 
-_Sacristy of the former St. Nicholas Chapel_
+##### *Sacristy of the former St. Nicholas Chapel*
 (accessible from Museo del Risorgimento)
 Located at the Chiostro dell'lnfermeria. Belonged to the pharmacy in the 18th/19th century.
 Patrons of the Chapel of St. Nicholas: Acciaioli; built c. 1332/34 (see p. 669f. and p. 699).
@@ -1807,17 +1697,16 @@ left _Prayer on the Mount of Olives_ , on the right _Christ before Caiaphas_ (?)
 on the right _Washing of Pilate's Hands_. On the entrance wall in the arched panel, _12-year-old
 Jesus in the Temple_ , _Last Supper_ below left, _Washing of Feet_ on the right.
 
-**Lost Features**
-_The pre-Romanesque Chapel_
+### Lost Features
+#### _The pre-Romanesque Chapel_
 (before 983, demolished around 1350, see page 672)
 
 Features unknown. Perhaps attached to it were the two _stone reliefs_ depicting Madonnas, which
 are now located in the passage between the Chiostro Verde to the Chiostro dei Morti (see page
 723f and note 322). – A _painted crucifix_ has also been associated with the chapel (373).
 
-_The Romanesque Church_
+#### _The Romanesque Church_
 (completed in 1094, demolished around 1279; see page 673)
-
 
 _“Upper altar” (High altar?)_ , consecrated in 1094 to the Madonna and St. Agatha (see note 89).
 Features unknown (perhaps a Madonna painting, in which the Madonna offers a representation
@@ -1834,19 +1723,19 @@ was mounted on them must also remain undecided (see note 373).
 No information is available about the features of any _side buildings_. They were probably rather
 unremarkable (see page 673).
 
-```
-The current church
-```
-_Exterior.
-Upper nave_. In the arches of the pointed arch friezes’ _fresco paintings_ , there are medallions with
+### The Current Church
+
+#### _Exterior.
+##### _Upper nave_. In the arches of the pointed arch friezes’ _fresco paintings_ , there are medallions with
 half-figures of saints (traces are preserved on the west side).
-_East side._ Next to the small church portal added by Vasari, a fresco of Madonna adored by St.
+##### _East side._ Next to the small church portal added by Vasari, a fresco of Madonna adored by St.
 Therese, by Gaspero Martellini, first half of the 19th century (377); lost. – On the other (?) side
 of this door, a _burial niche (Avello) with a fresco_ of St. Zenobius and St. Giovanni Gualberto
 praying to the crucifix, 14th century. (378); lost.
 
-_Interior_.
-_In general._ The characterization of the condition before the interventions of the 16th and 19th
+#### _Interior_.
+##### _In general._ 
+The characterization of the condition before the interventions of the 16th and 19th
 centuries in Wackernagel, Lebensraum, 1938, 56f. – The original features were dominated by
 large cycles of frescoes and the powerful monastic choir, which grew together with the
 architecture in the last two bays before the crossing. In addition to the frescoes, one must also
@@ -1859,8 +1748,6 @@ contradicted by the variety in subjects painted and times of origins depicted. A
 painting was carried out under the initiative of individual families. Notably, the paintings mainly
 extended to the areas where family altars stood. All choir chapels were painted throughout, but
 perhaps not the Cavalcanti Chapel (Sacristy); also, many of the wall surfaces in the side aisles
-
-
 and the facade well (380). Whether and where the cycle of frescoes with Old Testament scenes,
 donated by Turino del fù Baldese in 1348, was carried out, cannot be determined (see note 379).
 The frescoes were largely destroyed during the renovations of 1565 onwards.
@@ -1870,8 +1757,8 @@ The _older floor_ , donated and possibly also made by Fra Minia Lapi (1321-76 in
 was replaced following 1861 (382). In it, arranged irregularly, is a large number of _tomb slabs_ ; in
 1861, they were newly laid out in the current regular arrangement (383).
 
-_Facade wall.
-Altar_ west of the main portal (initially dedicated to the Holy Three Kings, later probably to the
+##### _Facade wall._
+_Altar_ west of the main portal (initially dedicated to the Holy Three Kings, later probably to the
 Annunciation of Mary; patrons: del Lama, then Fedini, at the end of the 16th century
 Mondragone, then in the 17th century Vecchietti ) (384). First decoration: marble altar with _panel
 painting_. Adoration of the Holy Three Kings, by Sandro Botticelli; painted on commission from
@@ -1890,8 +1777,8 @@ there). Replaced by the _triptych_ , the Archangel Raphael with Tobias and two s
 Castagno; now in the 5th bay of the left aisle (see there). – In 1857, the altar was removed, and
 the Annunciation fresco behind it was uncovered.
 
-_Nave.
-On a pillar_ to the right, a temporary _holy water font_ , 1300/02 (see note 414).
+##### _Nave._
+_On a pillar_ to the right, a temporary _holy water font_ , 1300/02 (see note 414).
 _In the third bay_ above the arches to the right and left, _frescoes_ , portraits of Andrea di Niccolò
 Minerbetti (Gonfaloniere of 1387) und his wife Francesca; 2nd half of the 14th century (387);
 lost.
