@@ -1667,7 +1667,7 @@ St. Thomas von Aquin strikes Pope Urban IV. the celebration of Corpus Christi be
 Mauro Soderini, c. 1730 (369).-7. No painting.-8. St. Thomas of Aquin on the board of kings
 from France; by Antonio Pillori, c. 1730 (370).
 
-### *Pope’s Chapel*
+### Pope’s Chapel
 In the west side of the north wing, upper floor. Fresco painting in honor of Pope Leo X (Medici),
 by Jacopo Pontormo and Andrea Feltrini, commissioned and partly designed by Ridolfo del
 Ghirlandaio, since 1515 (371). On the ceiling, central medallion with God the Father, surrounded
