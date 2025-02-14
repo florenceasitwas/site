@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mariam Drammeh
-image: bio_drammehm.jpg
+image: bio_drammehm.jpeg
 category:
 status: current
 ---
