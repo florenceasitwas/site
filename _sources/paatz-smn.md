@@ -1864,28 +1864,28 @@ tabernacle.
 
 _Right, eastern side aisle._
 
-_First bay_. At the altar (dedicated to St. Lawrence; patrons: Giuocchi), a _fresco or panel painting_ ,
+First bay. At the altar (dedicated to St. Lawrence; patrons: Giuocchi), a _fresco or panel painting_ ,
 Legend of the Holy Cosmas and Damian, by Giottino, 2nd half of the 14th century (411);
 removed or destroyed after 1565 (?); lost.
 
-_Second bay_. Here formerly a large _fresco_ , Martyrdom of St. Maurice with the donor, Connetable
+Second bay. Here formerly a large _fresco_ , Martyrdom of St. Maurice with the donor, Connetable
 Guido di Giovanni, known as Camprese or da Campi, kneeling before the Madonna,
 recommended by St. Dominic and St. Agnes, by a painter Bruno after the design of his friend
 Buffalmacco, 1305; destroyed after 1565 (412). – _Tombstone_ of Guido da Campi with relief
 images († 1312) (413).
 
-_Third bay_. A Gothic _portal_ , around 1300; bricked up probably around 1570 (see page 680 and
+Third bay. A Gothic _portal_ , around 1300; bricked up probably around 1570 (see page 680 and
 notes 36 and 103a). In the tympanum above it (or on the north wall of the next bay?), around
 1150, the _marble Madonna_ by Nino Pisano, now in the eastern transept, see there. Near the
 portal, a _holy water font_ on a marble column, donated by Pagno Gherardi Bordoni, 1300/02; still
 present in the 18th century (414); lost. – _Stained glass window_ with the coat of arms of the
 Sommaia, around 1577 (415); lost.
 
-_Fourth bay_. Here, perhaps the _wall tomb_ of the blessed Giovanni da Salerno († 1243), transferred
+Fourth bay. Here, perhaps the _wall tomb_ of the blessed Giovanni da Salerno († 1243), transferred
 from the Romanesque church or newly erected around 1300; replaced around 1571 by the current
 one (in the second bay), lost (see note 375).
 
-_Fifth bay_. Altar of the Brotherhood di Gisù Pellegrino e del Tempio, _panel painting_ , The Raising
+Fifth bay. Altar of the Brotherhood di Gisù Pellegrino e del Tempio, _panel painting_ , The Raising
 of the Lazarus by Santi di Tito, 1576, now in the sixth bay of the left aisle, see there. The
 associated predella with unknown representations by Francesco Marucelli, lost (416). On or
 above the altar, another _painting_ , God the Father by Santi di Tito (416); lost. However, neither
@@ -4300,13 +4300,10 @@ Seitenschiffs (vgl. dort); versetzt um 1572. – An derselben Wand _Fresko oder 
 Hieronymus, von Taddeo Gaddi, 1. H. 14. Jahrh. (397); wohl 1565 entfernt, verschollen. Dicht
 dabei der Begräbnisplatz der Familie Gaddi.
 _Westwand_ (Außenseite). _Altar_ (dem hlg. Thomas von Aquin geweiht; anscheinend errichtet 1. H.
-
 14. Jahrh. Unter dem Patronat der Guaseoni; 1365 den Alfani übergehen und dem hlg. Markus
 geweiht; später als Katharinen-Altar unter dem Patronat der Bruderschaft der hlg. Katharina von
 Siena) (398). Zeitweise (1494) stand hier wohl das Tafelbild der hlg. Lucia, von Davide der
 Ghirlandaio (?), das sich jetzt im vierten Joch des linken Seitenschiffs befindet (vgl. dort); 1565
-
-
 wurde der Altar an die Westwand des Seitenschiffs versetzt; für weitere Schicksale vgl. 2. Joch
 des linken Seitenschiffs.
 _Laufgang_ oben auf der Mauer: Über dem Mittelportal wohl der gemalte _Kruzifix_ von Giotto, jetzt
@@ -4349,29 +4346,28 @@ Tabernakel.
 
 _Rechtes, östliches Seitenschiff._
 
-
-_Erstes Joch._ Am Altar (dem hlg. Laurentius geweiht; Patrone: Giuocchi) _Fresko oder Tafelbild_ ,
+Erstes Joch. Am Altar (dem hlg. Laurentius geweiht; Patrone: Giuocchi) _Fresko oder Tafelbild_ ,
 Legende der Hlg. Cosmas und Damian, von Giottino, 2. H. 14. Jahrh. (411); entfernt oder
 zerstört 1565 ff. (?); verschollen.
 
-_Zweites Joch_. Hier ehemals ein großes _Fresko_ , Martyrium des hlg. Mauritius mit dem Stifter,
+Zweites Joch. Hier ehemals ein großes _Fresko_ , Martyrium des hlg. Mauritius mit dem Stifter,
 Connetable Guido di Giovanni, genannt Camprese oder da Campi, an der Spitze seiner Truppen
 vor der Madonna kniend, empfohlen von den Hlg. Dominikus und Agnes, von einem Maler
 Bruno nach Entwurf seines Freundes Buffalmacco, 1305; 1565 ff. Zerstört (412). – _Grabplatte_
 des Guido da Campi mit Reliefbildis († 1312) (413).
 
-_Drittes Joch_. Gotisches _Portal_ , um 1300; zugemauert wohl um 1570 (vgl. S. 680 und Anm. 36
+Drittes Joch. Gotisches _Portal_ , um 1300; zugemauert wohl um 1570 (vgl. S. 680 und Anm. 36
 und 103a). Im Bogenfeld darüber (oder an der nördlich anschließenden Wand des nächten
 Joches?) um 1550 die _Marmormadonna_ von Nino Pisano, jetzt im östlichen Querarm, vgl. dort.
 Bei dem Portal _Weihwasserbecken_ auf einer Säule, Marmor, Stiftung des Pagno Gherardi
 Bordoni, 1300/02; im 18. Jahrh. noch vorhanden (414); verschollen. – _Glasfenster_ mit d em
 Wappen der Sommaia, um 1577 (415); verloren.
 
-_Viertes Joch_. Hier vielleicht das _Wandgrab_ des sel. Giovanni da Salerno († 1243), aus der
+Viertes Joch. Hier vielleicht das _Wandgrab_ des sel. Giovanni da Salerno († 1243), aus der
 romanischen Kirche übertragen oder um 1300 neu errichtet; um 1571 durch das jetztige (im
 zweiten Joch) ersetzt, verschollen (vgl. Anm. 375).
 
-_Fünftes Joch_. Altar der Bruderschaft di Gesù Pellegrino e del Tempio, _Tafelbild_ , Erweckung des
+Fünftes Joch. Altar der Bruderschaft di Gesù Pellegrino e del Tempio, _Tafelbild_ , Erweckung des
 Lazarus, von Santi di Tito, 1576, jetzt im sechsten Joch des linken Seitenschiffs, vgl. Dort.
 Zugehörige Predella mit nicht bekannten Darstellungen, von Francesco Marucelli, verloren
 (416). Am oder auf dem Altar noch ein _Gemälde_ , Gottvater, von Santi di Tito (416); verschollen.
@@ -4383,20 +4379,18 @@ im zweiten Joch des rechten Seitenschiffs, vgl. dort.
 Die an die Mönchschormauer angelehnten Altäre und Grabmäler sind oben unter Mönchschor
 behandelt.
 
-_Cappella della Pura._
+##### _Cappella della Pura._
 Einfassung des Gnadenbildes von 1677 bis in das späte 19. Jahrh. durch ein _Gemälde_ , Engel und
 die Hlg. Niccolò da Tolentino und Filippo Neri, um 1677 *418); verschollen. – _Altartisch_ , um
 1470/80; aus der Hauptchorkapelle von S. Trinita stammend und zwischen 1881 und 1897
 wieder dorthin übertragen; vgl. Dort. – Angeblich ein _Glasgemälde_ , nach Entwurf von Santi di
 Tito, 2. H. 16. Jahrh. (419); verschollen.
 
-_Östlicher Querarm._
-
-
+##### _Östlicher Querarm._
 Oben über dem Eingang zur Rucellai-Kapelle _Glasmalerei_ (?), Stiftung des Orazio di Luigi
 Rucellai, um 1600 (420); verschollen.
 
-_Rucellai-Kapelle._
+##### _Rucellai-Kapelle._
 Gegen Ende des 19. Jahrh. als eine Art Museum für die Kirche benutzt:
 An der Südwand: _Marmorgrabmal_ der Beata Villana, von Bernardo Rossellino und Werkstatt,
 jetzt im zweiten Joch des rechten Seitenschiffs, vgl. dort. – Daneben nach 1857 das _Grabmal_ des
@@ -4408,14 +4402,13 @@ An nicht näher bestimmter Stelle: _Triptychon_ , Erzengel Raffael und Tobias un
 Schule des Castagno; jetzt im fünften Joch des linken Seitenschiffs, vgl. dort. – _Tafel_ ,
 Verkündigung,, von Neri di Bicci; jetzt im fünften Joch des linken Seitenschiffs, vgl. dort. –
 Zeitweise (um 1911) die _Tafel_ , Madonna und Christus thronend mit Dominkanerheiligen. Mitte
-
 14. Jahrh., jetzt in der Sakristei, vgl. dort. – Seit 1861 das _Gemälde_ , Tod des hlg. Petrus Martyr,
 von Cigoli, ehemals am vierten rechten Pfeiler des Mittelschiffs, vgl. S. 737. – Seit 1861 das
 _Gemälde_ , her hlg. Hyazinth vor der Madonna, von Jacopo da Empoli, ehemals am vierten linken
 Pfeiler des Mittelschiffs, vgl. S. 737. – Um 1861 _Gemälde_ , Kreuzigung, von Michele Tosini,
 ehemals am Pilaster zwischen dem ersten und zweiten rechten Nebenchor, vgl. Dort.
 
-**_Östlicher Querarm, Fortsetzung._**
+##### **_Östlicher Querarm, Fortsetzung._**
 _Ostwand._ An Stelle der jetzigen Krippe _Wandgrab_ des Fra Corrado della Penna, Nachfolge des
 Arnolfo di Cambio; 1522 abgebrochen; Fragment um 1565 oberhalb der alten Stelle in die Wand
 eingelassen, vgl. Ausstattung. – Oben darüber zeitweise, etwa von 1335-1677, _Tafelbild_ ,
@@ -4437,7 +4430,6 @@ unbekannten Gegenstandes, von Pier Dandini, 2. H. 17. Jahrh.; darunter großes G
 unbekannten Gegenstandes, von Giovanni Camillo Sagrestani, unter Beihilfe von Matteo
 Bonechi, Mitte 18. Jahrh. (425). Alles 1906 entfernt, verschollen (426).
 
-
 _Vierte Dekoration_ : um 1908 hier zeitweise die Pestmadonna, Anfang 15. Jahrh., jetzt in der
 Sakristei, vgl. dort.
 
@@ -4456,7 +4448,7 @@ von Andrea Orcagna, im Auftrag der Familie Tornaquinci 1348/50; zerstört im sp�
 (429); Teile der Gewölbedekoration waren in den rahmenden Streifen der Rippen erhalten
 geblieben und wurden bei der jüngsten Restaurierung 1938/39 abgenommen.
 
-_Hochaltar_.
+##### _Hochaltar_.
 _Erste Tafel_ , gestiftet von Fra Baro Sassetti (1264-1324 im Orden) (430); wahrscheinlich
 identisch mit dem _Triptychon_ , das Ugolini da Siena für den Hochaltar lieferte: Madonna
 zwischen zwei Hlg., im 15. Jahrh. Entfernt, im 16. Jahrh. In der Spanischen Kapelle, später im
@@ -4480,8 +4472,6 @@ Ferrer (von Granacci oder nach anderen von Davide Gh. mit Hilfe des Granacci; in
 ausgeführt); diese Teile im Kaiser-Friedrich-Museum zu Berlin, Nr. 74, 75, 76. Zwei weitere
 _Flügel_ mit den Hlg. Stephanus und Dominikus im Museum in Budapest und 1920 bei
 Kleinberger in Paris. Auf der _Predella_ angeblich Disputation des Stephanus, von Nicolaio, und
-
-
 Szenen aus den Legenden der Hlg. Antonin und Katharina von Siena, von Granacci, Jacopo del
 Tedesco und Benedetto Gh., verschollen (434).
 _Vierte Dekoration_. Altar-Aufbau aus Marmor, nach Entwurf von Giuseppe del Rosse, 1804;
@@ -4497,8 +4487,7 @@ niemals aufgestellt (438); verschollen. – _Fußboden_ aus farbigem Marmor, ges
 Baldesi, 1676 (439); zerstört. – Ob sich ein _Grabmal oder Epitaph_ der Francesca Tornabuoni (†
 1477) hier befunden hat, ist zweifelhaft (vgl. Anm. 497).
 
-_Westlicher Querarm._
-
+##### _Westlicher Querarm._
 _Erster linker Nebenchor._
 Patrone: Fra Ranieri genannt il Greco; Scali; Gondi (vgl. unter Ausstattung).
 _Fresken_. Berühmter primitiver Zyklus, den sagenhaften griechischen Lehrern des Cimabue
@@ -4509,14 +4498,10 @@ See Genezareth, Berufung Petri (441); im Bogenfeld einer anderen Wand Madonna (4
 diese Wandfresken aus der gleichen Zeit stammten wie die Gewölbemalerei ist unsicher; das
 Vorkommen der Petruslegende macht es wahrscheinlich, daß sie erst nach dem Übergang an die
 Scali (Guardi) entstanden sein werden, um 1325 (443). Übertüncht im 18. Jahrh. (444).
-
-
 Altartafel, Madonna mit Kind und Hlg., darunter der hlg. Lukas, von Simone Martini(?), 1. H.
-
 14. Jahrh.; verschollen (445). - Später, von 1861 bis etwa 1907, hier die Tafeln, Verkündigung
 und Aufer-weckung des Lazarus, von Santi di Tito, jetzt im vierten und sechsten Joch des linken
 Seitenschiffs, vgl. dort.
-
 Marmorgrabmal des Fra Jacopo da Castelbuono, Bischofs von Florenz († 1286), um 1286;
 entfernt 1503 beim Umbau der Kapelle (446); ver-schollen.
 
@@ -4525,22 +4510,21 @@ Patrone: Falconi; Gaddi (vgl. unter Ausstattung).
 Fresken. In einem Bogen (der Stirnwand ?) Engelsturz, von dem Giotto-Schiller Stefano, zweites
 Viertel 14. Jahrh. (447); zerstört 1574 ff. beim Umbau der Kapelle.
 Erste Tafel (?), der hlg. Dominikus, 13. Jahrh. (?); im 18. Jahrh. noch erhalten, verschollen (448).
-
 - Zweite Tafel, unbekannte Darstellung, von dem Giotto-Schiller Stefano, zweites Viertel 14.
 Jahrh.; entfernt wohl um 1574 ff. beim Umbau der Kapelle (449).
 Großer vergoldeter Holzkruzifix, von Taddeo di Francesco Curradi, 1.H. 17.Jahrh.; verschollen
 (450).
 
-_Die Strozzi-Kapelle._
+##### _Die Strozzi-Kapelle._
 Angeblich Fresken, von Buffalmacco, im Auftrag des Rossi Strozzi († 1316); Darstellungsthema
 nicht bekannt (451); um 1354 durch die jetzigen Fresken ersetzt.
 
-_Stanza dei Beati._
+##### _Stanza dei Beati._
 Gewölbefresko, Engel, von Jacopo Vignali, 1. H. 17. Jahrh. (452); verloren. - Dreizehn Bildnisse
 der “Beati” des Klosters, darunter einige von Jacopo Vignali, 1. H. 17. Jahrh. und das des Jacopo
 Alto-viti, von Alessandro Allori, Ende 16. Jahrh. (453); verschollen.
 
-_Sakristei._
+##### _Sakristei._
 Fresken. Ob die Wände bemalt waren, ist fraglich (454).
 Ursprüngliche Einrichtungsgegenstände. Vier Reliquien-Tabernakel mit Gemälden von Fra
 Angelico und seiner Werkstatt, vor 1430; ge­stiftet von Giovanni Masi († 1430); entfernt Mitte
@@ -4554,11 +4538,8 @@ usw. vgl. For-schungen z. G. Florenz IV, 1908, 478-80.
 Spätere Zutaten. An der Südwand stand nach 1565 zeitweilig der Cavalcanti-Altar mit dem
 Polyptychon des Giovanni del Biondo, ursprünglich am Mönchschor, vgl. dort. Mit ihm waren
 auch die Grab-mäler der Cavalcanti überführt worden. - An der Eingangswand hingen bis etwa
-
-
 1938 folgende Gemälde: Abendmahl, von Alessandro Allori, jetzt wieder wie auch ursprünglich
 im Refektorium, vgl. dort.
-
 - Seitlich daneben zwei Ovalgemälde, die Hlg. Dominikus und Fran-ziskus, sowie die Hlg.
 Thomas von Aquin und Bonaventura, von Jacopo Vignali. Darüber zwei Tondi, Gottvater und
 Apostel (?), von Matteo Rosselli. Diese vier Gemälde jetzt auch im Refektorium, vgl. dort. -
@@ -4584,7 +4565,7 @@ Orgel, geschenkt von Simone de' Saltarelli, Erzbischof von Pisa, um 1330; vielle
 Wand, da sich im westlichen Querarm der Konversen-Chor befand, vielleicht auch an der
 Nordwand oder innen im Konversen-Chor (463); verloren.
 
-_Linkes, westliches Seitenschiff._
+##### _Linkes, westliches Seitenschiff._
 Erstes Joch. Am Altar (Patrone: Strozzi) Gemälde, Kreuzigung von Tugenden und Lastern
 umgeben von Giorgio Vasari, 1566; jetzt in der Sakristei, vgl. dort. - Predella des späteren
 Altargemäldes (Vision des hlg. Hyacinth, von Allori), Wunderszenen aus dem Leben des hlg.
@@ -4599,7 +4580,6 @@ Engeln, aus der Werkstatt des Bernardo Daddi, Mitte 14. Jahrh.; jetzt in der Aka
 mit Predellentafeln von Fra Ange-lico (?), zweites Viertel 15. Jahrh.; verschollen (467). Daneben
 ein Altarbild von Zanobi Strozzi, Mitte 15. Jahrh. (467); verschollen. - Neben der Seitentür
 Fresko, die Hlg. Dominikus, Katharina von Siena, Petrus Martyr, von Fra Angelico, zweites
-
 
 Viertel, 15. Jahrh. (468); verloren. - Über der Seitentür Orgeltribüne aus weißem Mar-mor, von
 Baccio d'Agnolo, vielleicht um 1490/1500; 1859 verkauft, Hauptteil jetzt im Victoria and Albert-
@@ -4631,7 +4611,6 @@ Masaccio zuge-schrieben, 15. Jahrh., jetzt in der Sakristei, vgl. dort. - Dritte
 Tafelbild, Rosenkranz-Madonna, von Giorgio Vasari, 1570 vor dem Masaccio-Fresko
 aufgestellt; jetzt im ersten rechten Neben-chor, vgl. dort. Darüber ein Ovalbild, Putten und
 Blumen (478), Iden-tifizierung unsicher; daneben zwei Gemälde, von Lodovico Buti,
-
 2. H. 16. Jahrh. (479); verschollen.
 
 Fünftes Joch. An Stelle von oder nahe dem späteren Altar der Bracci Altar (dem hlg. Martyrer
@@ -4644,21 +4623,19 @@ Sechstes Joch. Grab des Michael Benii Spinelli de Mazzinghis († 1430) und sein
 (482). Erste Dekoration (Patrone: Maz-zinghi-Baccelli): Tafelbild, Taufe Christi, von Jan van der
 Straet (Stradano); um 1755 entfernt, jetzt in der Sakristei, vgl. dort. - Zweite und dritte
 Dekoration (Patrone: Ricci): Gemälde, die hlg. Ca-terina de' Ricci, von Gaetano Romanelli, kurz
-
-
 vor 1755; entfernt wohl um 1852 (483); verschollen. Seit 1852 Gemälde, Verlobung der hlg.
 Caterina de' Ricci, von Giuseppe Fattori, bezeichnet und datiert 1852; entfernt nach 1910, jetzt in
 der Stanza dei Beati, am westlichen Querarm, vgl. Dort.
 
-**_Kirchenschatz._**
+#### _Kirchenschatz._
 Gestickter Paliotto mit Krönung Mariae und Aposteln, bezeichnet von Jacopo di Cambio, datiert
 1336; jetzt im Palazzo Pitti, R. Museo degli Argenti (484). - Gestickter Paliotto, von Fra Niccolo
 da Milano († 1367); im 18. Jahrh. noch vorhanden; verschollen (485). - Stickerei an einem
 Prozessionskreuz, nach Entwurf von Botticelli, 2. H. 15. Jahrh. (486); verschollen. - Reliquiar für
 den Finger des hlg. Petrus Martyr, 1466; verschollen (487).
 
-**_An unbestimmtem Ort._**
-_Malerei._
+#### **_An unbestimmtem Ort._**
+##### _Malerei._
 Freskenzyklus, alttestamentarische Szenen, gestiftet von Turino del fù Baldese 1348;
 Identifizierung unsicher (vgl. Anm. 379). - Fresken, Begegnung an der Goldenen Pforte, Szene
 im Tempel (?), Ende 14. Jahrh.; schlecht erhaltene Fragmente davon jetzt im Vorraum der
@@ -4688,11 +4665,8 @@ Malesti da Pistoia, vollendet 1569 (494a); ver-schollen.
 Vorübergehend in der Kirche, von 1817-1851: zwei Tafeln (Flügel) mit den Hlg. Georg und
 Giovanni Gualberto sowie Laurentius und Franziskus, Werkstatt des Niccolo di Pietro Geriui,
 Ende 14. Jahrh. Zum Gemälde der Gürtelspende gehörig, damals in der Akademie; jetzt in S.
-
-
 Francesco in Arezzo (495). - Tafel, der hlg. Vincenz Ferrer, auf der Predella drei Szenen aus
 seiner Legende; dem Francesco Bot-ticini oder Giovan Francesco da Rimini zugeschrieben, 2. H.
-
 15. Jahrh., jetzt in der Akademie, Nr. 3461 (496).
 
 _Plastik._
@@ -4726,15 +4700,14 @@ Museo dell’Opera di S. Croce.
 Die beigefügten Nummern beziehen sich auf den Lageplan (auf S. 693); sie sollen die
 Feststellung der Lage der Kapellen erleichtern. Vgl. dazu auch unter Rekonstruktion, S. 675 f.
 und Baubeschreihung, S. 694 f.
-**_Chiostro Verde._**
+### **_Chiostro Verde._**
 Nahe dem Eingang: Großer Kruzifix, zwischen Joh. und Maria, diese auf Holz gemalt;
 Restaurierungsinschrift von 1613 (500); verschollen. –Oratorium der Bruderschaft des Erzengels
 Raffael (501). Vielleicht hier ursprünglich das Triptychon, Erzengel Raffael mit Tobias und zwei
 Hlg., Schule des Castagno; seit 1790 neben der Kirchentreppe nach-weisbar, jetzt in der Kirche,
 im 5. Joch des linken Seitenschiffs,vgl.dort.
 
-
-_Ostflügel._
+### _Ostflügel._
 Neben der Kirchentreppe nach 1565 Reste des Grabmals des Fra Jacopo Altoviti, Bischofs von
 Fiesole († 1430), verschollen; ur­sprünglich in der Kirche im zweiten Joch des linken
 Seitenschiffs, vgl. dort unter Verl. Ausst.
@@ -4745,12 +4718,12 @@ Nocentino verwahrt. Im fünften Joch ehemals Fresken, im Bogenfeld die Sint-flut
 Noahs Dankopfer und Schande, von Paolo Uccello, um 1446; jetzt abgelöst und verwahrt wie
 das vorige Fresko (vgl. S.726f. und Anm. 297).
 
-_Nordflügel._
+### _Nordflügel._
 Im ersten Joch auf dem jetzt noch dort befindlichen Altar zeitweise, etwa seit dem 15. Jahrh. bis
 etwa 1937, das Polyptychon, Madonna mit Hlg. aus der Werkstatt des Bernardo Daddi, 1344;
 ursprünglich und jetzt wieder in der Chorkapelle der Spanischen Kapelle, vgl. dort.
 
-_Spanische Kapelle._
+### _Spanische Kapelle._
 Außen im Bogenfeld der Tür Fresko, der hlg. Dominikus, von Ago-stino Veracini, 18. Jahrh.
 (502); verloren.
 
@@ -4763,7 +4736,7 @@ vielleicht um 1430, entfernt spätestens Ende 18. Jahrh. Dritte Tafel: Abend-mah
 Nelli, 16. Jahrh.; hier wohl Ende 19. Jahrh. bis 1911 (504); jetzt im Depot des Klosters von S.
 Maria Novella.
 
-**_Chiostro dei Morti._**
+### _Chiostro dei Morti._
 Über den früheren baulichen Zustand dieses ehemaligen Friedhofs vgl. S. 675 und S. 724.
 
 Antonius-Kapelle (Nr. 8). Patrone: Carboni; da Magnale. Fresken. Am Gewölbe Darstellungen
@@ -4774,7 +4747,6 @@ möglicherweise zwei Schichten aus verschiedenen Zeiten übereinander (507); ver
 Grab-nische (Avello) Fresko-Darstellung des dort begrabenen Fuligno di. Carbone de’ Galli da
 Campi, Bischofs von Fiesole († 1349) (508); ver­loren. - Altartafel unbekannten Gegenstandes,
 wohl 14. Jahrh.; im 18. Jahrh. noch vorhanden (509); verschollen.
-
 
 Annen-Kapelle (Nr.9). Patrone: da Quinto; Steccuti. Fresken(?), 13. Jahrh: (?) (vgl. Anm. 506). -
 Altartafel, Darstellung der hlg. Anna, Joachim und anderer Hlg. (510); wohl 2. H. 14. Jahrh.,
@@ -4798,12 +4770,10 @@ verschollen.
 Martins-Kapelle (Nr.12). 1347 (1337 ?) schon vorhanden, unter dem Patronat der Nelli; 1446 an
 Agnolo di Zanobi Gaddi abgetreten (514); im 19. Jahrh. abgerissen (vgl. Baugeschichte). Fresko,
 der hlg. Martin; von Jacopo del Casentino; 1347 (1337 ?) in Auftrag gegeben, im
-
 18. Jahrh. noch Spuren davon erhalten (515); verloren.
 
 Kapelle der Stigmata des hlg. Franz (Nr.13). Patrone: Alfieri-Strinati. Gegründet 1363 von
 Francesco di Maso Alfieri; 1787 vermauert (516). Altartafel, Stigmatisation des hlg.Franz, 2.H.
-
 14. Jahrh. (?) (516); verschollen.
 
 Oratorium und Räume der Bruderschaft di Gesù Pellegrino (Nr.14); 1346 schon vorhanden (vgl.
@@ -4818,8 +4788,6 @@ im 18. Jahrh. noch vorhanden (519), verschollen. - Ebenda auch zeitweise die Taf
 Laurentius, aus der Laurentius- Kapelle, vgl. oben. - Im Oratorium auf dem Altar gemalter
 Kruzifix, geschenkt von den Remigi Malefici, 1412 (520); verschollen. - In der Sakristei
 Holzkruzifix, von Baccio da Montelupo, jetzt in der Cap-pella della Pura, vgl. dort. - Zahlreiche
-
-
 kleinere Ausstattungsstücke (521).-Jacopo del Casentino malte “la storia di S. Martino”, laut
 testa-mentarischer Verfügung des Nello Sparzi von 1437 (521a); verloren.
 
@@ -4851,7 +4819,7 @@ Am Altar des Chiostro dei Morti Fresko, Auferstehung Christi, von Lodovico Cigol
 Viertel 16. Jahrh. (527); verloren. - Mitten im Hof Marmorstatue des hlg. Bischofs Dionysius;
 Restaurierungs-inschrift von 1654; ursprünglich an anderer Stelle (528); verschollen.
 
-**_Refektorium (Nr. 35)._**
+### _Refektorium (Nr. 35)._
 Fresken (?), nach testamentarischer Bestimmung des Fra Jacopo Passavanti († 1357) (529);
 unsicher, ob ausgeführt.
 
@@ -4862,9 +4830,7 @@ Hlg. (531); nicht identifiziert. - Zwölf Oval-Bilder, Apostel, von Lorenzo Lipp
 17. Jahrh. (521); nicht identifiziert. - Gemälde, Madonna zwischen Hlg., von Bernardino
 Poccetti, Ende 16. Jahrh. (532); verschollen.
 
-```
-Capitolo del Nocentino (Nr. 34).
-```
+#### _Capitolo del Nocentino (Nr. 34)._
 
 Erbaut 1303/08 (vgl. Anm. 56). 1466 der Bruderschaft dei SS. Inno-centi eingeräumt (533). Erste
 Dekoration: Altar-Tabernakel, mit puttengeschmückten Konsolen; 14. (?) Jahrh. (534);
@@ -4874,17 +4840,17 @@ Jahrh. (535); verschollen. - Zweite Dekoration: Marmorrelief, Madonna mit Kind, 
 Fiesole zugeschrieben, 2. H. 15. Jahrh.; bei der Aufhebung der Bru-derschaft an Stelle des
 Altarbildes aufgestellt, stammte aus dem Hause Ascanio Bitti (Guiducci) (536); verschollen.
 
-**Chiostro Grande und Anbauten.**
-_Hof._
+### **Chiostro Grande und Anbauten.**
+#### _Hof._
 In der Mitte ehemals die Statur des sel. Johannes von Salerno, von Girolamo (?) Ticciati, 1735;
 jetzt im Chiostro dei Morti an der Westwand, vgl. dort.
 
-_Loggia._
+#### _Loggia._
 Fresken (vielleicht auf den jetzt leeren Wandfeldern), Legende des hlg. Hyacinth, von Andrea
 Boscoli, Ende 16. Jahrh.; Tod des hlg. Petrus Martyr, von Lorenzo dello Sciorina, Ende 16.
 Jahrh. (537); verloren.
 
-_Unteres Dormitorium im Nordflügel (Nr. 30)._
+#### _Unteres Dormitorium im Nordflügel (Nr. 30)._
 Gemälde (Lwd.), Verkündigung mit vielen Hlg., von Fra Angelico, 15. Jahrh.; ursprünglich
 Orgelflügel, vgl. S. 736; hier um 1790 (538); verschollen. - Gemälde, Kreuzigung mit der hlg.
 Magdalena und dem guten Schacher, von Giovanni Battista Isabelli, 1577 (539); verschollen. -
@@ -4892,7 +4858,7 @@ Gemälde, Madonna mit dem hlg. Dominikus, von einem guten Schüler des Allori, A
 Jahrh. (?) (540); verschollen. - Fresken, Serie der Päpste und Kardinale des Dominikaner-
 Ordens; kurz vor 1689 (541); wohl verloren.
 
-_Bibliothek im Obergeschoß des Nordflügels (Nr.30)._
+#### _Bibliothek im Obergeschoß des Nordflügels (Nr.30)._
 Ausgebaut von Matteo Nigetti, 1629 (vgl. Anm. 80). An den Wänden große Bücherschränke mit
 Vergoldung (542); verloren. - An den Schmalseiten vier große Gemälde mit Dominikaner Hlg.,
 an den Längsseiten vierzehn achteckige Gemälde mit berühmten Schriftstellern des Klosters,
@@ -4903,13 +4869,11 @@ einer Darstellung des hlg. Thomas von Aquin, von Franciabigio, Anfang 16. Jahrh.
 zerstört oder verschollen.
 1836 waren weder Bücher noch Gemälde mehr vorhanden (546).
 
-_Papstwohnung im Westflügel (Nr. 31)._
+#### _Papstwohnung im Westflügel (Nr. 31)._
 Am untersten Pfosten der heraufführenden Freitreppe (vgl. darüber S. 676) Steinfigur des
 “Marzocco”, des Wappenlöwen von Florenz, von Donatello, 1418/21; jetzt im Museo Nazionale
 (Bargello) (547). Ausstattung von 1419 (für Papst Martin V.): Schlafzimmer des Päpstes grün
 dekoriert, das anschließende Zimmer mit einem Blumen-muster (548). Für den großen Saal
-
-
 lieferte Nanni di Banco zwei Schilde mit dem Wappen der Wollweberzunft (549). Alles verloren
 oder verschollen.
 
@@ -4922,7 +4886,7 @@ ausgemalt (551); verloren.
 In der Kapelle Ende des 19. Jahrh. abgelöstes Fresko, rund, Madonna mit Kind, Art des
 Masolino, 15. Jahrh. (552); verschollen.
 
-_Nikolaus-Kapelle (Nr. 40)._
+### _Nikolaus-Kapelle (Nr. 40)._
 Patrone: Acciaiuoli. Gegründet von Dardano Acciaiuoli 1332 und dem hlg. Nikolaus von Bari
 geweiht; 1465 wieder an das Kloster zu-rückgefallen; kurz vor 1545 ausgebrannt; seit 1689 unter
 dem Patronat der Bruderschaft der Palafrenieri und von diesen der hlg. Anna geweiht; 1848 zur
@@ -4936,7 +4900,7 @@ der Bruder-schaft della Crocetta genannt dei Tessitori (559); verschollen.
 Sakristei. Gestuhl, von der Wollweberzunft dem Manno di Benincasa genannt dei Cori 1408 in
 Auftrag gegeben (560); verloren. - Glas-malerei, von Niccolo di Piero, 1405/07 (561); verloren.
 
-_Apothekenräume (Nr. 39.)_
+### _Apothekenräume (Nr. 39.)_
 Um 1612 begründet. Zeitweise wurde auch die Nikolauskapelle hin-zugezogen.
 Im ersten Raum: Stuckdecke, 17. Jahrh. (?); Holzschränke, zum Teil vergoldet; Apothekergefäße
 (562). In einem Schrank eingelassen Oval-gemälde, Verlobung der hlg. Katharina, von
@@ -4953,24 +4917,23 @@ Jahrh. (566); ver-schollen. - Gemälde, die hlg. Familie, von Francesco Brina, M
 16. Jahrh.; um 1870 noch vorhanden (565); verschollen. - Gemälde, hlg. Dreieinigkeit, von
 Matteo Rosselli, 1. H. 17. Jahrh. (567); verschollen.
 
-
 In einem kleinen Vorraum: Fresko unbekannten Gegenstandes, von Giuseppe Romei, 2. H. 18.
 Jahrh. (567); verloren.
 
-_Krankenabteilung (Nr. 37)._
+### _Krankenabteilung (Nr. 37)._
 Altarbild, Pieta, von Lodovico Cigoli, Ende 16. Jahrh. (568); ver-schollen.
 
-_Noviziat im Obergeschoß des Südflügels._
+#### _Noviziat im Obergeschoß des Südflügels._
 Hier zeitweise (Ende 18. Jahrh. und später) Tafelbild, Madonna mit Hlg., von Michele Tosini (?),
 
 2. H. 16. Jahrh. (?) (569); verschollen. über einer Zellentür Gemälde, Bildnis des Alessio Strozzi,
 von Santi di Tito, 2. H. 16. Jahrh. (570); verschollen.
 
-_Räume der Bruderschaft des hlg. Laurentius “al Palco”._
+#### _Räume der Bruderschaft des hlg. Laurentius “al Palco”._
 Im Obergeschoß über dem Durchgang zwischen Chiostro Grande und Chiostro Verde, seit 1365
 (571). Altarbild unbekannten Gegenstandes von Ghirlandaio, 2. H. 15. Jahrh. (572); verschollen.
 
-_Räume der Bruderschaft della Scala._
+#### _Räume der Bruderschaft della Scala._
 In der Nähe des Klostereingangs, seit 1540; genaue Lage unbekannt (573):
 Vorraum. Rechts Gemälde, Kreuzigung mit Maria, Johannes und Magdalena, von Lorenzo Lippi,
 
@@ -4983,14 +4946,12 @@ Auf der Sängertribüne Gemälde, Erzengel Raffael, von Carlo Dolci, Mitte 17. J
 verschollen.
 Sakristei. Gemälde, Christus, von Lorenzo Lippi. 1. H. 17. Jahrh. (578); verschollen.
 
-**_An unbestimmtem Ort
-in Kirche oder Kloster._**
+### _An unbestimmtem Ort in Kirche oder Kloster._
 Altartafel, Thronende Madonna mit Kind und Engeln zwischen den Hlg. Dominikus, Johannes d.
 T., Paulus und Laurentius (stehend) und den hlg. Petrus Martyr und Thomas von Aquin (kniend),
 neben dem hlg. Petrus Martyr und von ihm empfohlen eine kniende Nonne als Stifterin; aus der
 Werkstatt des Agnolo Gaddi, datiert 1375 (be-stritten); jetzt in der Galerie von Parma; Nr. 435
-(579).
-Figurierter Steinsockel, Mitte 13. Jahrh., jetzt im Musco Nazionale (Bargello) (580); in der Mitte
+(579). Figurierter Steinsockel, Mitte 13. Jahrh., jetzt im Musco Nazionale (Bargello) (580); in der Mitte
 eine kurze Säule mit frühgotischem Knospenkapitel, an den Ecken die Hlg. Petrus, Paulus und
 zwei Mönche. Der Sockel trug einst offenbar eine Säule, vielleicht an einem Tabernakel. -
 Gotisches Steintabernakel für einen Altar oder ein Grabmal; im Giebel Salvator mundi, auf den
