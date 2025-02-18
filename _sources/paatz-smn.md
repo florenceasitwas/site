@@ -4408,7 +4408,7 @@ _Gemälde_ , her hlg. Hyazinth vor der Madonna, von Jacopo da Empoli, ehemals am
 Pfeiler des Mittelschiffs, vgl. S. 737. – Um 1861 _Gemälde_ , Kreuzigung, von Michele Tosini,
 ehemals am Pilaster zwischen dem ersten und zweiten rechten Nebenchor, vgl. Dort.
 
-##### **_Östlicher Querarm, Fortsetzung._**
+##### _Östlicher Querarm, Fortsetzung._
 _Ostwand._ An Stelle der jetzigen Krippe _Wandgrab_ des Fra Corrado della Penna, Nachfolge des
 Arnolfo di Cambio; 1522 abgebrochen; Fragment um 1565 oberhalb der alten Stelle in die Wand
 eingelassen, vgl. Ausstattung. – Oben darüber zeitweise, etwa von 1335-1677, _Tafelbild_ ,
@@ -4634,7 +4634,7 @@ da Milano († 1367); im 18. Jahrh. noch vorhanden; verschollen (485). - Sticker
 Prozessionskreuz, nach Entwurf von Botticelli, 2. H. 15. Jahrh. (486); verschollen. - Reliquiar für
 den Finger des hlg. Petrus Martyr, 1466; verschollen (487).
 
-#### **_An unbestimmtem Ort._**
+#### _An unbestimmtem Ort._
 ##### _Malerei._
 Freskenzyklus, alttestamentarische Szenen, gestiftet von Turino del fù Baldese 1348;
 Identifizierung unsicher (vgl. Anm. 379). - Fresken, Begegnung an der Goldenen Pforte, Szene
@@ -4700,7 +4700,7 @@ Museo dell’Opera di S. Croce.
 Die beigefügten Nummern beziehen sich auf den Lageplan (auf S. 693); sie sollen die
 Feststellung der Lage der Kapellen erleichtern. Vgl. dazu auch unter Rekonstruktion, S. 675 f.
 und Baubeschreihung, S. 694 f.
-### **_Chiostro Verde._**
+### _Chiostro Verde._
 Nahe dem Eingang: Großer Kruzifix, zwischen Joh. und Maria, diese auf Holz gemalt;
 Restaurierungsinschrift von 1613 (500); verschollen. –Oratorium der Bruderschaft des Erzengels
 Raffael (501). Vielleicht hier ursprünglich das Triptychon, Erzengel Raffael mit Tobias und zwei
@@ -4840,7 +4840,7 @@ Jahrh. (535); verschollen. - Zweite Dekoration: Marmorrelief, Madonna mit Kind, 
 Fiesole zugeschrieben, 2. H. 15. Jahrh.; bei der Aufhebung der Bru-derschaft an Stelle des
 Altarbildes aufgestellt, stammte aus dem Hause Ascanio Bitti (Guiducci) (536); verschollen.
 
-### **Chiostro Grande und Anbauten.**
+### Chiostro Grande und Anbauten.
 #### _Hof._
 In der Mitte ehemals die Statur des sel. Johannes von Salerno, von Girolamo (?) Ticciati, 1735;
 jetzt im Chiostro dei Morti an der Westwand, vgl. dort.
