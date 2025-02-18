@@ -1725,7 +1725,7 @@ unremarkable (see page 673).
 
 ### The Current Church
 
-#### _Exterior.
+#### _Exterior._
 ##### _Upper nave_. 
 In the arches of the pointed arch friezes’ _fresco paintings_ , there are medallions with
 half-figures of saints (traces are preserved on the west side).
@@ -1926,7 +1926,7 @@ by Jacopo da Empoli, formerly on the fourth left pillar of the nave, see p. 737.
 _painting_ , the Crucifixion, by Michele Tosini, formerly on the pilaster between the first and
 second right side choir, see there.
 
-##### _Eastern transept, continuation.
+##### _Eastern transept, continuation._
 East wall_. In place of the current nativity scene, _wall tomb_ of Fra Corrado della Penna, successor
 to Arnolfo di Cambio; demolished in 1522; fragment inserted into the wall above the old location
 around 1565, see Features. – Above it, temporarily, from about 1335-1677, _panel painting_ ,
