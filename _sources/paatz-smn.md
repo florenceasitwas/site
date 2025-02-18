@@ -1726,9 +1726,11 @@ unremarkable (see page 673).
 ### The Current Church
 
 #### _Exterior.
-##### _Upper nave_. In the arches of the pointed arch friezes’ _fresco paintings_ , there are medallions with
+##### _Upper nave_. 
+In the arches of the pointed arch friezes’ _fresco paintings_ , there are medallions with
 half-figures of saints (traces are preserved on the west side).
-##### _East side._ Next to the small church portal added by Vasari, a fresco of Madonna adored by St.
+##### _East side._ 
+Next to the small church portal added by Vasari, a fresco of Madonna adored by St.
 Therese, by Gaspero Martellini, first half of the 19th century (377); lost. – On the other (?) side
 of this door, a _burial niche (Avello) with a fresco_ of St. Zenobius and St. Giovanni Gualberto
 praying to the crucifix, 14th century. (378); lost.
@@ -1787,10 +1789,7 @@ under Features, Nave).
 
 _Monastic choir (388)_
 Freestanding in the nave, created by enclosing the last two nave bays before the crossing, open
-towards the main choir chapel (see page 674); wholly or partially clad with marble (390);
-
-
-removed in 1565 by Vasari (see Architectural History). On top of the semi-high thick walls,
+towards the main choir chapel (see page 674); wholly or partially clad with marble (390); removed in 1565 by Vasari (see Architectural History). On top of the semi-high thick walls,
 connected by a passageway, stood four altars, an organ, a lectern, and other features (see below).
 The front side (“ponte”) was visibly higher than the flanks. The interior was accessible from the
 nave through a large gated arch door, the “reggie,” framed by two altars, and from one side door,
@@ -1800,7 +1799,8 @@ fourth bay of the right aisle. Next to each side door outside, there was an alta
 interior of the choir; likewise, two additional altars, one on the eastern and one on the western
 wall.
 
-_Facade._ East of the entrance, an altar (dedicated to St. Mary Magdalene; patrons: Cavalcanti),
+##### _Facade._ 
+East of the entrance, an altar (dedicated to St. Mary Magdalene; patrons: Cavalcanti),
 connected with the tomb of Blaxia Cavalcanti, the founder who passed away in 1300; in 1370,
 the stone sarcophagus of the recently deceased Mainardo Cavalcanti was also linked to the altar
 (392). Altarpiece, polyptych with the Annunciation in the center, saints in the side panels, and
@@ -1829,11 +1829,7 @@ there); in 1565, the altar was moved to the west wall of the side aisle; for fur
 2nd bay of the left aisle.
 
 _Walkway_ on top of the wall: _Above the central portal_ , presumably the painted _crucifix_ by Giotto,
-now in the sacristy, see there. – _On the eastern pillar_ , an _altar_ (dedicated to St. Louis, patrons:
-
-
-Ardinghelli; apparently established simultaneously with the “ponte,” around 1300) (399).
-Altarpiece, St. Louis of France, at the feet of the saint, the donor couple, by Giotto, around 1300
+now in the sacristy, see there. – _On the eastern pillar_ , an _altar_ (dedicated to St. Louis, patrons: Ardinghelli; apparently established simultaneously with the “ponte,” around 1300) (399). Altarpiece, St. Louis of France, at the feet of the saint, the donor couple, by Giotto, around 1300
 (400); probably removed around 1565, lost. – _On the western pillar_ , an _altar_ (dedicated to St.
 Elizabeth of Hungary, patrons: Macci; erected around 31.1.1339 according to the last will of
 Tignoso di Gulaterone de’ Macci; sold to Virgilio Adriani in 1437) (401). Features unknown. –
@@ -1872,7 +1868,6 @@ _First bay_. At the altar (dedicated to St. Lawrence; patrons: Giuocchi), a _fre
 Legend of the Holy Cosmas and Damian, by Giottino, 2nd half of the 14th century (411);
 removed or destroyed after 1565 (?); lost.
 
-
 _Second bay_. Here formerly a large _fresco_ , Martyrdom of St. Maurice with the donor, Connetable
 Guido di Giovanni, known as Camprese or da Campi, kneeling before the Madonna,
 recommended by St. Dominic and St. Agnes, by a painter Bruno after the design of his friend
@@ -1902,19 +1897,18 @@ right aisle, see there.
 The altars and tombs leaning against the monk choir wall are discussed above under Monastic
 Choir.
 
-_Cappella della Pura_.
+##### _Cappella della Pura_.
 Enclosure of the miraculous image from 1677 to the late 19th century by a _painting_ , Angels and
 the Holy Niccolò da Tolentino and Filippo Neri, around 1677 (418) lost. – _Altar table_ , around
 1470/80; originating from the main choir chapel of S. Trinita and transferred back there between
 1881 and 1897; see there. – Allegedly a _stained glass window_ , designed by Santi di Tito, 2nd
 half of the 16th century (419); lost.
 
-_Eastern transept._
+##### _Eastern transept._
 Above the entrance to the Rucellai Chapel, _stained glass_ (?), donation of Orazio di Luigi
 Rucellai, around 1600 (420); lost.
 
-
-_Rucellai Chapel._
+##### _Rucellai Chapel._
 Towards the end of the 19th century, used as a king of museum for the church:
 On the south wall: _Marble tomb_ of Beata Villana, by Bernardo Rossellino and workshop, now in
 the second bay of the right aisle, see there. – Next to it, after 1857, the _tomb_ of the Blessed
@@ -1932,7 +1926,7 @@ by Jacopo da Empoli, formerly on the fourth left pillar of the nave, see p. 737.
 _painting_ , the Crucifixion, by Michele Tosini, formerly on the pilaster between the first and
 second right side choir, see there.
 
-_Eastern transept, continuation.
+##### _Eastern transept, continuation.
 East wall_. In place of the current nativity scene, _wall tomb_ of Fra Corrado della Penna, successor
 to Arnolfo di Cambio; demolished in 1522; fragment inserted into the wall above the old location
 around 1565, see Features. – Above it, temporarily, from about 1335-1677, _panel painting_ ,
@@ -1954,8 +1948,7 @@ unknown subject by Pier Dandini, 2nd half of the 17th century; below, a large pa
 unknown subject, by Giovanni Camillo Sagrestani with the assistance of Matteo Bonechi, mid
 18th century (425). All removed in 1906, lost (426).
 
-
-_Fourth decoration_ : temporarily here in 1908, the Plague Madonna, early 15th century, now in the
+_Fourth decoration_: temporarily here in 1908, the Plague Madonna, early 15th century, now in the
 sacristy, see there.
 
 _At the pilaster towards the second side choir.
@@ -1973,7 +1966,7 @@ Orcagna, commissioned by the Tornaquinci family in 1348/50; destroyed in the lat
 (429); parts of the vault decoration had remained in the framing strips of the ribs and were
 removed during the recent restoration in 1938/39.
 
-_High altar_.
+##### _High altar_.
 _First panel_ , donated by Fra Baro Sassetti (1264-1324 in the Order) (430); probably identical to
 the _triptych_ that Ugolini da Siena provided for the high altar: Madonna between two saints,
 removed in the 15th century, in the 16th century in the Spanish Chapel, later in the dormitory at
@@ -1995,11 +1988,7 @@ other students); on the _wings_ , St. Catherine of Siena (completed in oil paint
 1078. _Back side_ : in the center, Resurrection of Christ (schoolwork, by Benedetto Gh. and
 Bartolommeo di Giovanni?); on the _wings_ , Saints Antoninus and Fincent Ferrer (by Granacci or,
 according to others, by Davide Gh. with the assistance of Granacci; executed in oil); these parts
-are in the Kaiser-Friedrich-Museum in Berlin, Nos. 74, 75, 76. Two additional _wings_ with Saints
-
-
-Stephen and Dominic in the museum in Budapest and, in 1920, with Kleinberger in Paris. On the
-_predella_ , allegedly Disputation of Stephen by Nicolaio, and scenes from the legends of Saints
+are in the Kaiser-Friedrich-Museum in Berlin, Nos. 74, 75, 76. Two additional _wings_ with Saints Stephen and Dominic in the museum in Budapest and, in 1920, with Kleinberger in Paris. On the _predella_ , allegedly Disputation of Stephen by Nicolaio, and scenes from the legends of Saints
 Antoninus and Catherine of Siena by Granacci, Jacopo del Tedesco, and Benedetto Gh., lost
 (434).
 _Fourth decoration_. Altar structure in marble, designed by Giuseppe del Rosse, 1805; containing
@@ -2015,9 +2004,7 @@ never installed (438); lost. – _Floor_ made of colored marble, donated by Lion
 (439); destroyed. – Whether a _tomb or epitaph_ for Francesca Tornabuoni († 1477) was located
 here is doubtful (see note 497).
 
-```
-Western transept.
-```
+##### _Western transept._
 _First left side chapel._
 Patrons: Fra Ranieri, known as il Greco; Scali; Gondi (see under Features).
 _Frescoes_. Famous primitive cycle attributed to the legendary Greek teachers of Cimabue,
@@ -2039,8 +2026,6 @@ Marble tomb of Fra Jacopo da Castelbuono, bishop of Florence († 1286), c. 1286
 
 _Second left-side choir._
 Patron: Falconi; Gaddi (cf. under decor).
-
-
 Frescoes. In an arch (of the end wall ?), _the Fall of the Angels_ , by Giotto-Schiller Stefano,
 second quarter of the 14th century (447); destroyed in 1574 ff. when the chapel was rebuilt.
 First panel (?), St. Dominic, 13th century (?); still preserved in the 18th century, missing (448). -
@@ -2049,16 +2034,16 @@ century; probably removed c. 1574 ff. when the chapel was rebuilt (449).
 Large gilded wooden crucifix, by Taddeo di Francesco Curradi, 1st half of the 17th century;
 missing (450).
 
-_The Strozzi Chapel._
+##### _The Strozzi Chapel._
 Supposedly frescoes by Buffalmacco, commissioned by Rossi Strozzi († 1316); subject unknown
 (451); replaced by the present frescoes c. 1354.
 
-_Stanza dei Beati._
+##### _Stanza dei Beati._
 Vault fresco, _Angels_ , by Jacopo Vignali, 1st half of the 17th century (452); lost. - Thirteen
 portraits of the “Beati” of the monastery, including some by Jacopo Vignali, 1st half of the 17th
 century and that of Jacopo Altoviti, by Alessandro Allori, late 16th century (453); missing.
 
-_Sacristy._
+##### _Sacristy._
 Frescoes. Whether the walls were painted is questionable (454).
 Original furnishings. Four reliquary tabernacles with paintings by Fra Angelico and his
 workshop, before 1430; donated by Giovanni Masi († 1430); removed in the mid-19th century;
@@ -2081,8 +2066,6 @@ by Matteo Rosselli. These four paintings are now in the refectory as well, see t
 the last two paintings, _Martyrdom of St. Stephen_ , by Matteo Rosselli, 1st half of the 17th century
 (458); in the museums' stacks? - Above it, tondo, _Putti Scattering Flowers_ , perhaps by Matteo
 Rosselli, now in the refectory, see there.
-
-
 Underground room under the sacristy. Fresco painting in two layers, the older perhaps still a
 remnant of the painting of the Romanesque church (located here), the younger probably 14th
 century (459), destroyed.
@@ -2100,7 +2083,7 @@ Organ, donated by Simone de' Saltarelli, Archbishop of Pisa, c. 1330; perhaps on
 Converses' Choir was located in the western transverse arm, perhaps also on the north wall or
 inside the Converses' Choir (463); lost.
 
-_Left, western side aisle_
+##### _Left, western side aisle_
 First bay. On the altar (Patron: Strozzi) Painting, Crucifixion surrounded by Virtues and Vices by
 Giorgio Vasari, 1566; now in the sacristy, cf. there –Predella of the late altar paintings ( _Vision of
 St. Hyacinth_ from Allori), _Miraculous Scenes from the life of St. Hyacinth_ , by students of
@@ -2121,10 +2104,7 @@ perhaps c. 1490/1500; sold in 1859, main part now in the Victoria and Albert Mus
 16th century (471); supposedly identical to the present one in the same bay.
 
 Probably after Vasari's “reform”: Organ tribune as above, below it in the 18th century, a
-Madonna painting of ancient style, probably _the Madonna of the Plague_ now in the sacristy
-
-
-(472); also for a time, from about 1572 to 1870, the marble Madonna of Nino Pisano, now on the
+Madonna painting of ancient style, probably _the Madonna of the Plague_ now in the sacristy (472); also for a time, from about 1572 to 1870, the marble Madonna of Nino Pisano, now on the
 sarcophagus of the Cavalcanti tomb in the eastern transept, cf. there. - In the door leading to the
 Chiostro Verde, which was probably closed in 1571, under the organ, the wall tomb of St. John
 of Salerno, from the workshop of Vincenzo Danti, 1571; here until 1857, now in the second bay
@@ -2160,21 +2140,17 @@ probably removed c. 1852 (483); missing. Since 1852 Painting, Engagement of St. 
 de’Ricci by Giuseppe Fattori, labeled and dated 1852; removed after 1910, now in the Stanza dei
 Beati, on the western crossarm, cf. there.
 
-**_Church treasury._**
+#### _Church treasury._
 Embroidered paliotto with Coronation of Mary and Apostles, labeled by Jacopo di Cambio,
 dated 1336; now in Palazzo Pitti, R. Museo degli Argenti (484). –Embroidered paliotto by Fra
-Niccolo da Milano († 1367); still in existence in the 18th century; missing (485). –Embroidery
-
-
-on a processional cross designed by Botticelli, 2nd half of the 15th century (486); missing.
+Niccolo da Milano († 1367); still in existence in the 18th century; missing (485). –Embroidery on a processional cross designed by Botticelli, 2nd half of the 15th century (486); missing.
 –Reliquary for the finger of St. Peter the Martyr, 1466; missing (487).
 
-**_At an unknown location._**
-_Paintings._
+#### _At an unknown location._
+##### _Paintings._
 Fresco cycle, Old Testament scenes, donated by Turino del fù Baldese in 1348; identification
 uncertain (cf. note 379). - Frescoes, Encounter at the Golden Gate, scene in the temple (?), late
 14th century; poorly preserved fragments now in the vestibule of the library of St. Mark (487 a).
-
 - Panel, St. Dominic, 13th century (?) (cf. note 448); lost. - Large panel, depiction of the
 Madonna, mentioned in 1312 in the will of Riccucchius Puccii; identical to the Rucellai
 Madonna? (488). - Panel, Madonna with St., commissioned by Duccio in 1285; probably
@@ -2206,10 +2182,7 @@ century, now in the Academy, no. 3461 (496).
 
 _Plastic._
 Tomb or epitaph of Francesca Tornabuoni († 1477), by Verrocchio and his workshop, c. 1477ff.;
-uncertain if executed; two marble reliefs depicting the death of Francesca in childbirth and the
-
-
-delivery of the news of her death and the birth of her son to her husband Giovanni, by
+uncertain if executed; two marble reliefs depicting the death of Francesca in childbirth and the delivery of the news of her death and the birth of her son to her husband Giovanni, by
 Verrocchio, now in Museo Nazionale (Bargello), and four statues of virtues by Francesco di
 Simone Ferrucci, now in Paris, Musee Jacquemart-Andre. Not identical with the tomb of F.
 Tornabuoni in S. Maria sopra Minerva in Rome that was also destroyed (497).
@@ -2238,7 +2211,7 @@ inscription from 1613 (500); missing. –Oratorio of the confraternity of the Ar
 (501). Perhaps this was originally the triptych of the Archangel Raphael with Tobias and two St.
 John, school of Castagno; traceable next to the church steps since 1790, now in the church, in the
 fifth bay of the left side aisle, cf. there.
-_Eastern wing._
+### _Eastern wing._
 Next to the church staircase, after 1565, remains of the tomb of Fra Jacopo Altoviti, Bishop of
 Fiesole († 1430), missing; originally in the church in the second bay of the left aisle, cf. there
 under lost decor.
@@ -2249,15 +2222,13 @@ del Nocentino. In the fifth bay formerly frescoes, in the arched field the Flood
 sacrifice of Thanksgiving and Shame, by Paolo Uccello, c. 1446; now detached and kept like the
 previous fresco (cf. p.726f. and fn. 297).
 
-```
-Northern wing.
-```
+### _Northern wing._
 
 In the first bay on the altar, which is still there today, from about the 15th century until about
 1937, the polyptych, Madonna with St., from the workshop of Bernardo Daddi, 1344; originally
 and now again in the choral chapel of the Spanish chapel, cf. there.
 
-_Spanish chapel._
+### _Spanish chapel._
 Outside in the arched field of the door: Fresco of St. Dominic by Agostino Veracini, 18th century
 (502); lost.
 
@@ -2270,7 +2241,7 @@ Siena (cf. lost decor of the church), placed here perhaps around 1430, removed a
 here at the end of the 19th century until 1911 (504); now in the depot of the monastery of S.
 Maria Novella.
 
-**_Chiostro dei Morti._**
+### _Chiostro dei Morti._
 Above the earlier structural condition of the former cemetery, cf. p. 675 and p. 724.
 
 Chapel of St. Anthony (no. 8). Patrons: Carboni; da Magnale. Frescoes. On the vault depictions
@@ -2292,10 +2263,7 @@ century (512); missing.
 
 St. Lawrence Chapel (no. 11). First dedicated to the apostles Simon and Taddeus under the
 patronage of the confraternity of Gesù Pellegrino; then acquired by the Brunelleschi family and
-dedicated to St. Lawrence; since 1474 again under the patronage of the aforementioned
-
-
-confraternity (513). Demolished in the 19th century (see building history). Frescoes (?), already
+dedicated to St. Lawrence; since 1474 again under the patronage of the aforementioned confraternity (513). Demolished in the 19th century (see building history). Frescoes (?), already
 whitewashed over in 1787 (513). - First altarpiece: unknown (Gesù Pellegrino?). Second panel:
 St. Lawrence (under the patronage of Brunelleschi), removed in 1474; lost. Third panel: St.
 Simon and St. Taddeus, missing (513). - Relief (terracotta ?), Gesù Pellegrino, added around
@@ -2334,11 +2302,7 @@ figured tombstones, including that of Prior Giovanni di Messer Ruggiero Tornaqui
 
 Chapel of St. Philip and St. James (no. 23). Patrons: Tornaquinci-Popoleschi; allegedly built in
 1349 by Niccolo di Gino and Tommaso di Piero Tornaquinci (rebuilt ?); granted to the
-Confraternity of the Annunziata in 1657, mortuary in 1787 (523). Altarpiece of unknown origin,
-
-
-parts with St. Philip and St. James, St. Jerome and St. Dominic, 2nd half of the 14th century (?);
-still preserved at the end of the 18th century (523); missing.
+Confraternity of the Annunziata in 1657, mortuary in 1787 (523). Altarpiece of unknown origin, parts with St. Philip and St. James, St. Jerome and St. Dominic, 2nd half of the 14th century (?); still preserved at the end of the 18th century (523); missing.
 
 Chapel of St. Thomas Aquinas (no. 24). Patrons: Amieri (524). Remains of the decoration, fresco
 with St. Thomas Aquinas, preserved, cf. p. 725 and note 329.
@@ -2354,7 +2318,7 @@ On the altar of Chiostro dei Morti: Fresco, _Resurrection of Christ_ by Lodovico
 of the 16th century (527); lost. –Marble statue of St. Bishop Dionysius in the middle of the
 courtyard; restoration inscription from 1654; originally elsewhere (528); missing.
 
-**_Refectory (No. 35)_**
+### _Refectory (No. 35)_
 Frescoes (?) after testamentary provision of Fra Jacopo Passavanti († 1357); uncertain if
 executed.
 
@@ -2364,7 +2328,7 @@ not identified. Twelve oval pictures, _Apostle_ by Lorenzo Lippi, first half of 
 (521); not identified. Painting, _Madonna between saints_ , by Bernardino Poccetti, end of the 16th
 century (532); missing.
 
-_Capitolo del Nocentino (No. 34)_
+#### _Capitolo del Nocentino (No. 34)_
 Built 1303/08 (cf. fn. 56). Granted by the confraternity dei SS. Innocenti in 1466 (533). First
 decoration: Altar tabernacle with putti decorated consoles; 14th (?) century (534); missing. In
 there, _Altarpiece of the Bethlehem infanticide_ ; attributed to Botticelli or Fra Angelico, likely in
@@ -2373,18 +2337,17 @@ missing. –Second decoration: Marble relief, _Madonna with child,_ attributed t
 second half of the 15th century.; positioned by the repeal of the confraternity at the place of the
 altarpiece, originated from the house of Ascanio Bitti (Guiducci) (536); missing.
 
-**Chiostro Grande and extensions.**
-_Court._
+### **Chiostro Grande and extensions.**
+#### _Court._
 In the middle was once a statue of the blessed John from Salerno, by Girolamo (?) Ticciati, 1735;
 now in Chiostro dei Morti on the western wall, cf. there.
 
-
-_Loggia._
+#### _Loggia._
 Frescoes (maybe on the now empty wall panels), _Legends of St. Hyacinth_ by Andrea Boscoli,
 end of the 16th century; _Death of St. Peter the Martyr_ by Lorenzo dello Sciorina, end of the 16th
 century (537); lost.
 
-_Lower dormitory in the northern wing._
+#### _Lower dormitory in the northern wing._
 Painting (Canvas), Annunciation with many saints by Fra Angelico, 15th century; originally
 organ wing, cf. p. 736, here c. 1790 (538); missing. –Painting, _Crucifixion with St. Magdalena
 and the good chessman_ by Giovanni Battista Isabelli, 1577 (539); missing. –Painting, _Madonna
@@ -2392,7 +2355,7 @@ with St. Dominic_ by a good student of Allori, beginning of the 17th century (?)
 –Frescoes, _Series of popes and cardinals of the Dominican order_ , shortly before 1689 (541);
 perhaps lost.
 
-_Library in the upper floor of the northern wing_
+#### _Library in the upper floor of the northern wing_
 Built by Matteo Nigetti, 1629 (cf. fn. 80). Large gilded bookshelves on the walls (542); lost.
 –Many large paintings with Dominican saints on the narrow sides, on the long sides are fourteen
 eight-sided paintings with renowned writers of the cloister, some by Jacopo Vignali, c. 1629; two
@@ -2401,9 +2364,8 @@ Perugino (?), 15th century (?) (543). –Arched field with a depiction of St. Th
 Franciabigio, beginning of the 16th century (544); destroyed or missing.
 In 1836, neither books nor paintings were available (546).
 
-```
-Pope’s Apartment in the western wing
-```
+#### _Pope’s Apartment in the western wing_
+
 At the lowest post of the staircase leading up (see above p. 676) stone figure of the "Marzocco",
 the heraldic lion of Florence, by Donatello, 1418/21; now in the Museo Nazionale (Bargello)
 (547). Decor from 1419 (for Pope Martin V): the pope's bedroom decorated in green, the
@@ -2419,8 +2381,7 @@ lost.
 In the chapel, end of the 19th century, replaced fresco, round, _Madonna with Child_ , style of
 Masolino, 15th century (552); missing.
 
-
-_Chapel of St. Nicholas (Nr. 40)_
+### _Chapel of St. Nicholas (Nr. 40)_
 Patron: Acciaiuoli. Founded by Dardano Acciaiuoli in 1332 and dedicated to St. Nicholas of
 Bari; Reverted to the monastery in 1465; Burned out shortly before 1545; Since 1689 under the
 patronage of the Palafrenieri confraternity and consecrated by them to St. Anne; added to the
@@ -2434,7 +2395,7 @@ della Crocetta called dei Tessitori (559); missing.
 Sacristy. Chair, commissioned by the wool weavers' guild to Manno di Benincasa called dei Cori
 in 1408 (560); lost. - Stained glass, by Niccolo di Piero, 1405/07 (561); lost.
 
-_Apothecary rooms (No. 39)._
+### _Apothecary rooms (No. 39)._
 Founded around 1612. At times the St. Nicholas chapel was also used.
 In the first room: stucco ceiling, 17th century (?); wooden cupboards, partly gilded; apothecary
 vessels (562). Oval painting set into a cupboard, Betrothal of St. Catherine, by Francesco
@@ -2453,23 +2414,19 @@ Rosselli, 1st half of the 17th century (567); missing.
 In a small anteroom: fresco of unknown subject, by Giuseppe Romei, 2nd half of the 18th
 century (567); lost.
 
-_Infirmary (No. 37)_
+### _Infirmary (No. 37)_
 Altarpiece, _Pietà_ by Lodovico Cigoli, end of the 16th century (568); missing.
 
-_Novitiate in the upper floor of the southern wing_
+#### _Novitiate in the upper floor of the southern wing_
 Here temporarily (end of the 18th century and later) Panel painting, _Madonna with Saints_ by
-Michele Tosini (?), second half of the 16th century (?) (569); missing. Above a cell door,
+Michele Tosini (?), second half of the 16th century (?) (569); missing. Above a cell door, painting, _Portrait of Alessio Strozzi_ by Santi di Tito, second half of the 16th century (570); missing.
 
-
-painting, _Portrait of Alessio Strozzi_ by Santi di Tito, second half of the 16th century (570);
-missing.
-
-_Rooms of the Confraternity of St. Laurentius “al Palco”_
+#### _Rooms of the Confraternity of St. Laurentius “al Palco”_
 In the upper floor above the passageway between Chiostro Grande and Chiostro Verde, since
 1365 (571). Altarpiece of unknown object by Ghirlandaio, second half of the 15th century (572);
 missing.
 
-_Rooms of the Confraternity della Scala_
+#### _Rooms of the Confraternity della Scala_
 In the vicinity of the entrance of the cloister, since 1540; exact location unknown (573).
 Anteroom. On the right, painting, _Crucifixion with the Virgin Mary, John, and Magdalena_ by
 Lorenzo Lippi, first half of the 17th century.; missing. Across from that, painting, _Tobias heals
@@ -2481,8 +2438,7 @@ century (576); missing. On the singer tribune, painting, _Archangel Raphael_ by 
 middle of the 17th century (577); missing.
 Sacristy. Painting, _Christ_ by Lorenzo Lippi, first half of the 17th century (578); missing.
 
-**_At an unspecified location
-in the church or the cloister_**
+### _At an unspecified location in the church or the cloister_
 Altarpiece, _Enthroned Madonna with Child and angels between St. Dominic, St. John the
 Baptist, St. Paul and St. Lawrence (standing) and St. Peter Martyr and St. Thomas Aquinas
 (kneeling), next to St. Peter Martyr and recommended by him a kneeling nun as donor_ ; from the
@@ -2498,13 +2454,12 @@ of a bishop, type of Tino di Camaino, 1st half of the 14th century; now in the M
 **GERMAN**
 
 P1 (p663 - Vol. 3)
-**S. Maria Novella** /
+# S. MARIA NOVELLA (Deutsch)
 _Piazza S. Maria Novella_
 
-Special Literature/
+## SPECIAL LITERATURE
 _Giuseppe Maria Mecatti,_ Notizie storiche riguardanti il capitolo esistente nel Convento dei Padri
-Domenicani di S. Maria Novella della città di Firenze. Firenze 1737./
-_P. Vincenzo Fineschi_
+Domenicani di S. Maria Novella della città di Firenze. Firenze 1737. P. Vincenzo Fineschi
 
 ## NAME
 
@@ -2515,8 +2470,8 @@ _S. Maria della Vigna_ : so gennant gegentlich vor 1221 - offenbar wegen der Lag
 
 “S. Maria Novella ist die Hauptniederlassung der Dominikaner in Florenz.”
 P2 (p. 664 - Vol. 3)
-KIRCHE
 
+### KIRCHE
 “Eine Kapelle S. Maria Novella wird zuerst 983 erwähnt (2), und zwar vor den damaligen
 Stadtmauern in Weingärten. /
 Im letzen Drittel des 11. Jahrhunderts wurde neben ihr eine Pfarrkirche gleichen Namens
@@ -2538,8 +2493,6 @@ Ugolino (7), der offenbar die Bedeutung des jungen Ordens für die päpstliche P
 hatte und die Niederlassung auch sonst förderte, indem er Klosterräum herrichten ließ. Die
 Kirche blieb aber einstweilen unverändert. Bald (1244) genügte sie denn auch dem Bedürfnissen
 nicht mehr, da die Frommen den ketzerfeindlichen Predigten der Mönche, vor allem des Petrus
-
-
 von Verona (des späteren Heiligen Petrus Martyr), in immer größeren Scharen zuzuströmen
 begannen (8).”
 
@@ -2581,8 +2534,6 @@ gedachten mit diesem Werk ausgesprochenermaßen alle ähnlichen Kirchen Italiens
 übertrumpfen (17). 1295, 1297 und 1298 gab die Stadtregierung Geld für das Unternehmen (18).
 Schon 1287 begann man, den neuen großen Platz vor der Fassade anzulegen (19): die
 Grundmauern der Kirche mögen also damals bereits in ihrem ganzen Umfange vorhanden
-
-
 gewesen sein. 1297 war schon einer – und wahrscheinlich nicht nur einer – der “avelli”
 (Grabnisehen) an der Ostseite der Friedhofsmauer vorhanden (20). 1298 war das erste und zweite
 Joch vor der Vierung (mit dem Mönchschor) in Benutzung genommen, 1300/02 und 1305 das 3.
@@ -2605,8 +2556,6 @@ Marmorengel auf die angrenzenden Dächer herunter; 1359 wurde der Schaden repari
 1420 zelebrierte Papst Martin V. gelegentlich eines Besuches die feierliche Schlußweihe der
 Kirche (30).
 
-## P 667
-
 “Um 1456 ff. wurde der Ausbau der Fassade fortgesetzt. Giovanni di Paolo Rucellai ließ dutch
 Giovanni Bettini nach Entwürfen des Leone Battista Alberti die berühmte Renaissance-Fassade
 ausführen, durch die das gotische Erdgeschoß mit einer Monumentalordnung überkleidet und das
@@ -2622,8 +2571,6 @@ Familie Gondi aus; obere Teile der Altarwand 1602 (34).
 1565 - 72 “reformierte” Vasari die Kirche im Geschmack der Spätrenaissance: der Mönchschor in
 den beiden letzten Langhausjochen wurde entfernt, eine Reihe monumentaler Altartabernakel an
 den Seitenschiffswänden angebracht (in jedem Joch ein Tabernakel), die Ausstattung neu
-
-
 angeordnet (35), das große östliche Seitenportal am Langhaus vermauert und nördlich daneben
 ein neues, kleineres Portal geöffnet (36).
 
@@ -2646,9 +2593,8 @@ selben Jahr Auswechslung der verwitterten Steine der Fassade (45). 1922 Hinzufü
 immer unausgeführt gebliebenen östlichen Volute an der Fassade (nach dem Muster der
 westlichen) (46).
 
-```
-KLOSTER
-```
+### KLOSTER
+
 Die Nachrichten über die Geschichte der Klosterbaulichkeiten sind sehr reichlich, aber oft nicht
 eindeutig. Die Bauuntersuchung liefert Ergebnisse, die der letzten Klarheit auch ermangeln. An
 gründlichen stilkritischen Vorarbeiten fehlt es völlig, ebenso an genauen Plänen und
@@ -2710,8 +2656,6 @@ Grande” energisch weitergeführt: wiederaufnahme und allmähliche Vollendung d
 begonnenen” neuen Dormitoriums, das wohl über dem “Capitolo del Nocentino” und nördlich
 daran anschließend zu denken ist (62); Errichtung der Kreuzgang-Arkaden im Auftrag des
 Erzbischofs Simone de’Saltarelli von Pisa (+1344), des Johannes Tuccii de’Infangatis († 1348)
-
-
 und anderer (63). – Diese Arbeiten leitete wohl schon Fra Jacopo Talenti, der seit etwa 1330 die
 Bauhütte übernommen hatte (63).
 
@@ -2782,7 +2726,7 @@ erneuert (83). Weitere, ziemlich eingreifende Wiederherstellungen: 1892/94, 1912
 Der Glockenturm. Sein ursprünglicher Helm war mit einer Kreuz-blume und einer Engelsfigur
 bekrönt und an den Kanten mit Krabben besetzt (97).
 
-_Der Mönchschor_ (,,Tramezzo“). In den beiden letzten Jochen des Mittelschiffs erhob sich bis
+Der Mönchschor (Tramezzo). In den beiden letzten Jochen des Mittelschiffs erhob sich bis
 1565/72 der ursprüngliche Mönchschor in Gestalt eines hochummauerten, zwischen die Pfeiler
 eingespannten Rechtecks. Näheres siehe unter ,,Verlorene Ausstattung“ S.734.An die
 Mönchschorfassade schloβ sich beiderseits in den Seitenschiffen ein Gitter an, so daß der hintere,
@@ -2790,16 +2734,12 @@ dem Mönchsgottesdienst dienende Teil der Kirche in voller Breite von dem vorder
 Predigt-kirche der Laiengemeinde, abgetrennt war.Die trennende Schranke und die gesamte
 Mönchschorzone heißt in den Quellenschriften (14.-16.Jahrh.) ,,Tramezzo“ (98).
 
-_Die Seitenaltäre Vasaris._ 1565ff. an den Seitenschiffswänden errich-tet, 1857ff. ersetzt.
+Die Seitenaltäre Vasaris. 1565ff. an den Seitenschiffswänden errich-tet, 1857ff. ersetzt.
 Vorzustellen wie die entsprechende, noch er-haltene Altarserie imn Langhaus von S.Croce. Die
 Kapitelle waren komposit (98a).
 
-```
-Der,,obere Friedhof“.
-```
 
-```
-Gelegen östlich neben dem Langhaus der Kirche (im Winkel zwischen dem östlichen Seitenschiff
+Der,,obere Friedhof“. Gelegen östlich neben dem Langhaus der Kirche (im Winkel zwischen dem östlichen Seitenschiff
 und Querschiff); gegen die Piazza S.Maria Novella und die Via degli Avelli abgegrenzt durch eine
 Umfassungs-mauer mit ,,avelli“ (Grabnischen); vgl. Wood-Brown,1902,101f.-Auf dem
 nördlichen, an die ,,Cappella della Pura“ angrenzenden Drittel dieses mittelalterlichen,
@@ -2810,11 +2750,9 @@ Rekonstruktion siehe unter S.Benedetto Bianco, Band I, 354f.), die Umfassungsmau
 damals neugotisch wiederhergerichtet. In ihr befand sich,an Stelle des jetzigen neugotischen
 Portals,bis 1847 ein Portal von Gherardo Silvani (17.Jahrhundert; abgebildet bei Ricci, Cento
 vedute di Firenze antica, 1906, Tafel XCI; vgl. auch Anm.80).
-```
-```
+
+
 Das Kloster.
-```
-```
 Seine umfangreichen Baulichkeiten sind einigermaβen im Sinne ihres ursprünglichen Zustandes
 wiederhergestellt worden. Auf die Einzel-heiten kann hier nur summarisch eingegangen
 werden.Die ursprüng-liche Zweckbestimmung (bzw. Lage) der einzelnen Teile ergibt sich aus der
@@ -2824,64 +2762,56 @@ Zwecke berücksichtigenden Anlage wahrscheinlich am nächsten kam.Vorhanden ware
 den üblichen Bauten) Krankensäle,eine Apotheke, eine Schule, Bibliothekssäle undeine Herberge.
 Die Herberge; 1318/19. Gelegen am Klostereingang an der Piazza S.Maria Novella.-Gestalt
 unbekannt.
-```
-```
-Chiostro Verde. Bis zur Erbauung des Kreuzgangs (um 1350) befand sich hier ein Garten, der zum
+
+#### *Chiostro Verde.*
+Bis zur Erbauung des Kreuzgangs (um 1350) befand sich hier ein Garten, der zum
 Kloster gehörte,aber anscheinend nicht zur Klausur.-Über der gotischen Loggia des Kreuzgangs
 befand sich später eine obere,barocke Loggia mit Pfeilern und Korbbögen, die wohl aus dem 17.
 Jahrhundert stammte (vgl.Anm.84).
-```
-```
-Chiostro de'Morti. Hier befand sich ursprünglich wahrscheinlich ein romani-scher Kreuzgang, und
+
+#### *Chiostro de'Morti.* 
+Hier befand sich ursprünglich wahrscheinlich ein romani-scher Kreuzgang, und
 seit der Mitte des 13. Jahrhunderts bis zur Mitte des 14.Jahrhunderts vielleicht eine an allen vier
 Seiten umlaufende gotische Kreuzgangs-Loggia (vgl. Anm. 66).- Zur Rekonstruktion der
 abgebrochenen Gebäude,die nördlich vom Chiostro de'Morti lagen und hier anschlieBend
 beschrieben werden sollen, vgl. den Plan auf S.693.
 Benedikts-Kapelle der Tornaquinci (Plan Nr.18); errichtet vermutlich im späten 13.Jahrh.-Vgl.
 Wood-Brown, 1902, 99.
-```
+
 _Paulus-Kapelle_ der _Alberti_ (Plan Nr.10). Erbaut im späten 13. Jahrh.?Um-gebaut 1565. Vgl.Wood-
 Brown, 1902,100,105,108.
 
-```
 Lorenz-Kapelle der Brunelleschi (Plan Nr.11). Erbaut bald nach 1333 als Simon-Thaddäus-
 Kapelle der Bruderschaft di S. Gesù Pellegrino. Umgebaut 1565.Vgl.Wood-Brown, 1902,106,108.
-```
 
-```
 Martins-Kapelle der Nelli (Plan Nr.12). Errichtet vor 1347. Umgebaut 1565.Vgl. Wood-
 Brown,1902,106/07,108.
-```
-```
+
 Gebäude der Bruderschaft di S.Gesù Pellegrino (Plan Nr.14). Erbaut um 1347. Gelegen nördlich
 gegenüber den drei zuletzt genannten Kapellen. Der Eingang befand sich genau gegenüber der
 Lrenz-Kapelle. Dahinter lag ein kleiner Kreuzgang. Von dessen Nordwestecke aus gelangte man
 in einen Vorraum. Hinter diesem lag das Oratorium (Plan Nr. 15). Vgl. Wood-Brown,1902,
 107/08; das Ganze ist auf der Stadtansicht des Stefano Bonsignori (1584) abgebildet
-```
-# (Reproduktion bei Mori-Boffito,Piante e vedute di Firenze).
 
-```
+(Reproduktion bei Mori-Boffito,Piante e vedute di Firenze).
+
 Kapelle der Stigmata des hlg. Franz (Patrone: Alfieri-Strinati). Errichtet 1363. Gelegen etwa an
 der Stelle, die auf dem Plan mit Nr.13 beziffert ist. Vgl.Wood-Brown,1902,108.
-```
+
 _Gartenflügel des_ Dormitoriums (?).Ein solches Gebäude ist auf dem Plan aus der Barockzeit
 eingezeichnet (Nr.21).
 
-```
 ,,Monastero del Capitolo“. An der Via Valfonda-wahrscheinlich im äuBersten Nordosten des
 Klosterbezirks-lag das älteste,1244 errichtete Kapitelhaus;darin hatten sich die Terziarierinnen des
 Dominikanerordens-,,Pinzocchere di Penitenza“ - 1308 ein kleines Kloster errichtet. Vgl. Wood-
 Brown,1902,77.
-```
-```
+
 Die Dormitorien am ,,Chiostro Grande" (Plan Nr.29 und 30). Sie waren ur-sprünglich
 dreischiffige Pfeilersäle, ohne die auf dem Plan schon eingezeich.neten, wohl im 16. oder
 17.Jahrhundert hineingebauten Zellenwände.-Über die Treppe (Nr.28) vgl. Anm.65. - Im
 Obergeschoβ über dem West-ende des Dormitoriums Nr.30 liegt die ,,Cappela del Papa",
 ausgebaut 1418-20.
-```
-```
+
 Die,,Papstherberge“ (Plan Nr.31). Eine Folge von Sälen, die die Stadtregie-rung als Herberge für
 vornehme Gäste 1418-20 hatte ausbauen lassen.Ge-legen im Obergeschoß des Westflügels am
 ,,Chiostro Grande“; zugänglich durch die zugehörige Kapelle (vgl. vorigen Abschnitt), außerdem
@@ -2892,11 +2822,10 @@ im Westflügel des Kreuzganges des ,,Chiostro Grande" gelegen haben [?])(99). 14
 Säle umgebaut und über dem Eingang an der Via della Scala Säulen als Träger eines Schutz-daches
 errichtet. Vgl.Wood-Brown,1902, 90ff.-Die Freitreppe ist abge-brochen,die Herberge durch
 spätere Umbauten völlig entstellt.
-```
+
 ## BAUBESCHREIBUNG
 
-
-## KIRCHE
+### KIRCHE
 
 Bauaufnahmen: Ältere Zeichnungen in den Uffizien (Nr.4639,4650,4657,4682,4772); vgl.Ferri,
 Indice, 1885,52. -Genauester Grundriss von Ferdinando Ruggieri, Kupferstich in ,,Esequie di
@@ -2913,11 +2842,11 @@ Gelände unter der Kirche von Osten nach Westen etwas abfällt, und da unter der
 ein künstlicher Sockel errichtet werden; er enthält z.T. Grabgewölbe (vgl. Wood-Brown,1902,
 96).
 
-_Auβen._
+#### _Auβen._
 Südnördlich gerichteter gotischer Bruchsteinbau; die Gliederungen bestehen zum größeren Teil
 aus Haustein (Macigno), zum kleineren Teil aus Backstein. An der Fassade Marmorinkrustation.
 
-_Fassade._
+#### _Fassade._
 Ihr Aufbau entspricht dem basilikalen Querschnitt des dahinter-liegenden Langhauses: ein
 unterer, breiterer Teil wächst bis zur Höhe der Seitenschiffe auf; über seiner Mitte erhebt sich die
 Stirnwand des Obergadens (mit einemn Giebel), flankiert von zwei Voluten. Am unteren Teil
@@ -2938,8 +2867,6 @@ die vier halbkreisförmige Blend-bogen tragen. In jedem Wandfeld unten eine spit
 Grabnische (,,avello“) (100a); in den beiden Feldern, die unter den Flanken-mauern des
 Obergadens liegen, öffnen sich an Stelle dessen zwei schlanke spitzbogige Portale mit je einem
 niedrigen Wimperg. Mit der senkrechten Gliederung überkreuzt sich eine wvaagerechte: zu-unterst
-
-
 eine ziemlich hohe, reich und fein profilierte Basis; darüber das von den Portalen unterbrochene
 Band der ornamentierten Sarko-phagfronten der Grabnischen; in der Höhe der Kämpferpunkte der
 Nischenbögen Profile, die die Pilaster überqueren; über den Spitz-bögen ein Gesims, das sich über
@@ -2948,6 +2875,7 @@ Spitz-bögen der Grabnischen sind die Keilsteine abwechselnd grün und weiβ.Die
 Wandfelder über den Nischen sind mit grünen Rechtecken gemustert (101); von diesen
 Rechtecken folgen zwei Reihen übereinander; die Rechtecke der oberen Reihe enden oben in
 Halbkreisbögen.
+
 _Die_ Renaissance-Teile.Wichtigste Bauaufnahmen: Laspeyres, Die Kirchen der Renaissance in
 Mittelitalien, 1882, XI;Stegmann-Gey-müller, Architektur der Renaissance in Toscana, IIIa, 11,
 12 (102).Leone Battista Alberti hat versucht, dem gegebenen Bauzustand eine antikische
@@ -2978,7 +2906,6 @@ gegliedert, deren jeder in der Mitte ein grünes Sternmuster enthält.- Als Zwic
 der Obergadenfront und dem breiteren Unterteil der Fassade dienen zwei Voluten - zum ersten-
 mal in der Baugeschichte, ein Motiv, das sich von hier aus die Bau-kunst Europas erobern sollte.
 
-
 Die Form der Voluten ist von den Strebe-Voluten an Brunelleschis Domkuppel-Laterne angeregt;
 auf jeder Volute reiche Inkrustationsornamente; beherrschend je eine gotisierende Rose.-Das
 Hauptportal wurde von dem Bildhauer Gio-vanni di Bertino und seiner Werkstatt ausgeführt; dort
@@ -2986,9 +2913,9 @@ und an dem reliefierten und inkrustierten Fries unter der Attika sind als Leit-m
 der Stifterfamilie Rucellai (Segel) und der mit ihnen eng verbundenen Medici (Ring mit Feder)
 angebracht (103).
 
-```
+
 Langhaus; um 1279-1310.
-```
+
 Dreischiffig basilikal. Gliederung sehr schlicht, in auffälligem Gegen-satz zur französischen Gotik
 und in engem Anschluß an italienisch-romanische Baugewohnheiten. An den Seitenschiffen und
 am Ober-gaden sind den Jochén entsprechend durch lisenenartige Strebepfeiler Wandfelder
@@ -3001,7 +2928,7 @@ An der Ostseite im dritten Joch ein nachträglich (um 1300)eingesetztes,jetzt
 vermauertes,prachtvolles Seitenportal(103a)im Typ eines reich variierten rundbogigen Säulen-
 Pfeiler-Portales.
 
-_Querschiff und Chorkapellen; um 1246-79._
+#### _Querschiff und Chorkapellen; um 1246-79._
 Grundzüge. Die beiden Querarme, die dazwischenliegende Vierung und die an diese sich
 anschließende Hauptchorkapelle sind etwas niedriger als das Mittelschiff des Langhauses; den
 Querarmen sind ringsum Kapellen von sehr viel geringerer Höhe vorgelagert.An jeder Ecke der
@@ -3047,8 +2974,8 @@ großen Fensters in ihrer Rückwand (vgl. unten S. 691) sind von einem halbkreis
 Blendbogen umrahmt. Vor der Stirnwand die hochgelegene Strozzi-Kapelle (um 1279), in der sich
 ein Spitz-bogenfenster öffnet.
 
-```
-Der Glockenturm; 1330.
+
+#### _Der Glockenturm; 1330._
 Er lehnt sich an die Südwestecke des westlichen Querarms.-Wohl ein Werk des Fra Jacopo
 Talenti. Gleich dem anderen Werk des Mei.sters, der Fassade, wirkt er sehr altertümlich, ja fast
 noch romanisch.Sein Vorbild war wohl ein Bau des späten 13. Jahrhunderts, der Glockenturm von
@@ -3057,12 +2984,9 @@ Vorlage verstärkt.Aus diesen Eckvorlagen wachsen Rundbogenfriese heraus, die vi
 abteilen. Diese Geschosse nehmen nach oben hin an Höhe und Offenheit zu. Im untersten an jeder
 Seite ein schmaler Spitz-bogen, im zweiten ein zweigeteilter Spitzbogen,im dritten drei von
 Säulchen getragene Rundbögen, im vierten eine entsprechende, aber höhere und weiter geöffnete
-Gruppe von Schallöffnungen.Darüber ein schwach vorkragender Rundbogenfries als
-```
+Gruppe von Schallöffnungen.Darüber ein schwach vorkragender Rundbogenfries als Kranzgesims. Über jeder Turmseite ein Wimperg, dazwischen aufsteigend der vierseitige Helm;er ist 1778 erneuert worden (112),im allgemeinen wohl einiger-maBen getreu.
 
-Kranzgesims. Über jeder Turmseite ein Wimperg, dazwischen aufsteigend der vierseitige Helm;er
-ist 1778 erneuert worden (112),im allgemeinen wohl einiger-maBen getreu.
-**_Innen._**
+##### *_Innen._*
 Monumentale gotische Raumschöpfung, die älteste in Florenz, weg-weisend für die Anfänge der
 Florentiner Gotik und immer wieder anregend auch für deren weitere Entwicklung, hochbedeutend
 und fruchtbar durch die kühne Sicherheit, mit der aus dem Schema der burgundischen
@@ -3072,14 +2996,13 @@ Werden und Wesen der Trecentoarchitektur in Toskana, 1937,7ff. (113).-Die einzel
 Kirche werden vom Chor nach der Fassade zu besprochen, der Reihenfolge ihrer
 Entstehungszeiten entsprechend. - Einbauten und Anbauten aus späterer Zeit folgen am Schluß.
 
-```
-Struktives System.
-```
+##### *Struktives System.*
+
 Allenthalben Gliederpfeiler (und entsprechende Wandpfeiler), Spitz-bögen und
 Kreuzrippengewölbe. Alle Mauern und Gewölbe bestehen aus hell verputztem Bruchstein, alle
 Gliederungen aus grau-braunem,feinbearbeitetem Sandstein (pietra serena).
 
-_Chorkapellen und Querschiff; um 1246-79._
+#### _Chorkapellen und Querschiff; um 1246-79._
 Das Querschiff bilden drei gleich große quadratische Joche: die Vie-rung und die beiden
 Querarme; hinten an der Vierung die gleich groBe, gleich gestaltete Hauptchorkapelle, beiderseits
 von ihr,halb so groß, an jedem Querarm je zwei quadratische Nebenchöre; dieses Schema ist von
@@ -3087,7 +3010,7 @@ den Zisterzienser-Basiliken übernommen (114). Vor den Nebenchören ein Podest v
 vor der wiederum höher liegenden Hauptchorkapelle ein Treppenpodest von fünf in die Vierung
 vorspringenden Stufen (115).
 
-_Das Erdgeschoβ (um 1246 - 65)_ : die Nebenchöre und die ebenso hohen unteren Teile der
+Das Erdgeschoβ (um 1246 - 65): die Nebenchöre und die ebenso hohen unteren Teile der
 Hauptchorkapelle und der Querarme. Den Ein-druck bestimmen die spitzbogigen Öffnungen der
 Nebenchöre und die zwischen ihnen stehenden quadratischen Pfeiler an den Nebenchor-
 Stirnwänden. An der Stirn jedes Pfeilers ein Pilaster, dessen Kapitell sich an den übrigen Teilen
@@ -3120,8 +3043,7 @@ herumklettern-ein Motiv der zentralfranzösischen Gotik von Chartres (123).-Die 
 Querschiff mit dem Langhaus verbinden, sind erst in der folgenden Bauperiode errichtet worden
 (vgl. unten).
 
-_Die oberen Teile (um 1270/79)._ Von den bisher beschriebenen Vor-lagen setzen sich nur die
-Dienste in den Querhausecken nach oben hin fort,nicht aber die Pilaster der Nebenchor-
+Die oberen Teile (um 1270/79).Von den bisher beschriebenen Vor-lagen setzen sich nur die Dienste in den Querhausecken nach oben hin fort,nicht aber die Pilaster der Nebenchor-
 Eingänge,die letzteren vielleicht infolgeeines damals erfolgten Planwechsels, der an Stelle der
 möglicherweise ursprünglich vorgesehenen sechsteiligen Quer-armgewölbe nunmehr vierteilige
 Gewölbe einführte und deshalb keine Zwischenvorlagen zwischen den Quadratecken mehr
@@ -3134,7 +3056,7 @@ reichere Profile und Halbfiguren im Stil der Sieneser Kanzel des Niccolò Pisano
 jüngere, verfeinerte Schöpfungen des Dekorateurtrupps,der auch die Gewölbekonsolen in den
 Nebenchören am rechten Quer-arm ausgeführt hat (125).
 
-_Die Einmündung des Langhauses (um 1279)._ In der südlichen,dem Langhaus zugewendeten
+#### _Die Einmündung des Langhauses (um 1279)._ In der südlichen,dem Langhaus zugewendeten
 Querschiffswand liegt der mittlere Teil, der die Eingänge zu den drei Langhausschiffen enthält,
 etwas weiter süd-lich als die seitlichen Teile, so daß unmittelbar neben den Seiten-
 schiffseingängen zwei Wandabstufungen von unten nach oben ver-laufen,auch durch die beiden
@@ -3145,12 +3067,10 @@ Langhaus höher angelegt, als ursprünglich beabsichtigt war; die Kapitelle der 
 der Mittelschiffsarkaden liegen höher als die Kapitelle der Neben-chöre, und der Obergaden des
 Mittelschiffes steigt etwas höher auf als die Vierung (126).
 
-_Das Langhaus; 1279 bis um 1310._
+#### _Das Langhaus; 1279 bis um 1310._
 Drei Schiffe zu je sechs Jochen von verschiedener Länge. Zwischen den basilikal angeordneten
 Schiffen Gliederpfeiler mit Spitzbogen-Arkaden, an den Seitenschiffswänden entsprechende
 
-
-```
 Wandpfeiler.In jedem Joch jedes Schiffs ein Kreuzrippengewölbe. In jedem Seiten-schiffsjoch ein
 Spitzbogenfenster (1857 unten verkürzt). In jedem Mittelschiffsjoch im Obergaden beiderseits je
 ein Augenfenster.-Ita-lienisch-romanischer Überlieferung getreu sind im Langhaus zwei Teile
@@ -3159,9 +3079,8 @@ in diesem Dominikanerbau wohl vor allem der Predigt dienen sollte; 2. der umzwei
 ge-legene,,Tramezzo4, der die beiden letzten Joche vor der Vierung um-faßt; er enthielt im
 Mittelschiff bis 1565/72 den Mönchschor und neben dessen Fassade Gitter, durch dlie die
 Seitenschiffe gegen die Laienkirche abgeschlossen waren (127).
-```
-```
-Die Mönchschor-Zone (,,Tramezzo“); um 1279 - 90. Ausgeführt an-schlieβend an die oberen Teile
+
+*Die Mönchschor-Zone (,,Tramezzo“)*; um 1279 - 90. Ausgeführt an-schlieβend an die oberen Teile
 des Querhauses nach einem Plan-wechsel (vgl. oben), aber von denselben Bauleuten. Wie im
 Quer-schiff sind die Pfeilerbasen antikisch (attisch), die Rippenprofile zi-sterziensisch-
 frühgotisch. -Im AnschluB an toskanisch-romanische Bauten hebt ein Wechsel der Pfeilerformen
@@ -3179,14 +3098,10 @@ Deckplatten und altertümliche, romanisch-pisanische Motive (Drachen;Medaillons 
 Halbfiguren) haben einige wenige Kapitelle an den Querschiffseingängen; offenbar wurden sie
 schon während der ersten Bauphase (1246 ff.) gearbeitet, aber erst lange nachher (1279) versetzt
 (129). - Den Bögen der Tramezzo-Arkaden ist nach pisanisch-romanischem Brauch ein schwarz-
-weiβes
-```
-Keilsteinmuster aufgemalt.- Die Mittelschiffsjoche sind hier quer-rechteckig, die
-Seitenschiffsjoche längsrechteckig - ähnlich wie in manchen italienischen Zisterzienserkirchen
-(130).
+weiβes Keilsteinmuster aufgemalt.- Die Mittelschiffsjoche sind hier quer-rechteckig, die
+Seitenschiffsjoche längsrechteckig - ähnlich wie in manchen italienischen Zisterzienserkirchen (130).
 
-```
-Das Laienhaus (die ,,Unterkirche“); um 1290-1310. Der Aufbau ist hier im allgemeinen derselbe,
+*Das Laienhaus (die ,,Unterkirche“)*; um 1290-1310. Der Aufbau ist hier im allgemeinen derselbe,
 doch sind alle Pfeiler gleichgebildet.Ihr Typus ist der toskanisch-romanische des mittleren
 Pfeilerpaares im ,,Tramezzo“, freilich den Tendenzen des ausgehenden 13. Jahr-hunderts gemäß
 etwas ins Mathematisch-Abstrakte abgewandelt:die Kanten zwischen den Halbsäulenvorlagen
@@ -3196,9 +3111,8 @@ dreiseitigen Querschnitt der Pfeiler-kanten. Die Kapitelle haben grobes, krautig
 und unprofilierte Deckplatten. - Die Joche sind länger, so daß sich ihr GrundriB im Mittelschiff
 dem Quadrat und in den Seitenschiffen einem übermäßig gestreckten Rechteck nähert-doch ohne
 Regel-mäBigkeit, so daß die einzelnen Joche ziemlich verschieden lang ausgetallen sind (131).
-```
 
-_Gesamtwirkung und_ Bedeutung.Durch die Höhe und Weite seiner Ar-kaden und durch die geringe
+Gesamtwirkung und Bedeutung. Durch die Höhe und Weite seiner Ar-kaden und durch die geringe
 Überhöhung seines Obergadens wirkt der Langhaus-Raum weit, offen und hallenartig, fast schon
 im Sinne der nordischen Spätgotik. Diese Wirkung ist wahrscheinlich durch Anknüpfung an
 toskanisch-romanische, pseudobasilikale Räume zu-stande gekommen (132), und vor allem im
@@ -3217,13 +3131,13 @@ die innige Verbindung mit der gotischen Konstruktion erhält er etwas Drängende
 der in ihm zusammen.geballten Formenergien erst voll empfinden läBt-kein Wunder,daB
 Michelangelo diese Kirche besonders geliebt und gepriesen hat (134).
 
-```
-Ein-und Anbauten.
-```
+#### Ein-und Anbauten.
+
 Sie werden in derselben Reihenfolge wie die Ausstattung beschrieben. _Seitenaltäre_ im _Langhaus;_
 in jedem Seitenschiffsjoch ein neugotisches Altartabernakel,1857/61.
-_Kapelle,,della_ Pura"; um 1472ff. Gelegen im Winkel zwischen dem Langhaus und dem rechten
-Querarm. Rechteckiger Raum mit zwei Kugelkappengewölben. In der inneren Ecke der Altar des
+
+##### _Kapelle,,della_ Pura"; um 1472ff. 
+Gelegen im Winkel zwischen dem Langhaus und dem rechten Querarm. Rechteckiger Raum mit zwei Kugelkappengewölben. In der inneren Ecke der Altar des
 Gnaden-bildes,ein Marmortabernakel in der Art des Gnadenbild-Tabernakels in der SS.
 Annunziata: eine Säule und zwei Pilaster tragen ein Ge-bälk und eine ornamentierte Decke; das
 Ganze vielleicht ein Werk des Giovanni di Bertino (135). Seit 1841 bildet es das nördlichste Joch
@@ -3232,25 +3146,22 @@ Baccani; an der gegenüberliegenden Wand ein entsprechender Säulengang, ebenfal
 entstanden. _Rucellai-Kapelle;_ zwischen 1303 und 1325. Gelegen vor der Stirn-wand des rechten
 Querarms, über einem Gewölbe; zugänglich durch eine Freitreppe.UnregelmäBiger
 querrechteckiger Raum mit Kreuz-rippengewölbe (136).
-_Gondi-Kapelle_ (erster Nebenchor am linken Querarm); ausgebaut von Giuliano da Sangallo um
-1503/08(137).-Einziges in Florenz erhal-tenes Beispiel des für die Ausbildung der
+##### _Gondi-Kapelle (erster Nebenchor am linken Querarm);_
+ausgebaut von Giuliano da Sangallo um 1503/08(137).-Einziges in Florenz erhal-tenes Beispiel des für die Ausbildung der
 Hochrenaissance und des Manierismus so entscheidenden römisch-klassischen Spätstiles Giu-
 lianos (138). Trockene Ausführung. An der Altarwand triumphbogen-artige Marmorverkleidung,
 eine groβe Rundbogennische (138a), flankiert von zwei pilastergerahmten schmalen Seitenfeldern,
 die unten je eine Statuennische enthalten, darüber ein Gebälk und eine kreis-runde Vertiefung;
 
-
-```
 Mensa mit Balustern. An den Seitenwänden je eine dreiteilige Bank auf totenkopfgeschmückten
 Sarkophagen mit drei-teiliger Rücklehne, die durch akanthusgeschmückte Armlehnen und
 daraufstehende Säulen und Zierfelder gegliedert ist (Gerüst aus wei-Bem Marmor, Säulen und
 Sarkophage aus schwarzem, die Füllungen aus rotem Marmor; toskanische Kapitelle mit Rosetten
 und Eier-stab). - Giulianos Architektur bedeckt nur die untere Hälfte der Wände. Der obere Teil
 der Altarwand wurde 1602 im Auftrage des Simone Gondi barock verkleidet (139).
-```
-```
-Gaddi-Kapelle (zweiter Nebenchor am linken Querarm); ausgebaut von Giovan Antonio Dosio
-1575 - 78 (140).-Grundriβ, Aufriβ, De-tails usw.bei Stegmann-Geymüller, Architektur der
+
+##### *Gaddi-Kapelle (zweiter Nebenchor am linken Querarm);*
+ausgebaut von Giovan Antonio Dosio 1575 - 78 (140).-Grundriβ, Aufriβ, De-tails usw.bei Stegmann-Geymüller, Architektur der
 Renaissance in Toscana, IX a, 1896, Fig. 3 und 4. Tafel 4 und 6.-Hauptwerk der klassizistischen
 Richtung in der Florentiner spätmanieristischen Ar-chitektur, einzigartig durch den verhaltenen
 Reichtum der Dekora-tion. In jeder Wand zwei eingelassene Ecksäulen; dazwischen unten ein
@@ -3264,28 +3175,27 @@ Dura-Arbeit und Deckenstuck nach römischen Vorbildern, eines der ältesten Beis
 (142). Strozzi-Kapelle (an der Stirnseite des linken, westlichen Querarms, höher gelegen als der
 Querarm: über den Gewölben des Kreuzgangs);um 1279.Längsrechteckiger Raum mit
 Kreuzrippengewölbe auf Kon-solen; in der Rückwand ein Spitzbogenfenster.
-```
-_Allerheiligen-Kapelle der Rucellai;_ um 1246 _ff._ - Links neben der Strozzi-Kapelle. VgL oben S.
-685.
-_Fassade der Sakristei_ (Südwand des linken Querarms).Von Gherardo Silvani oder Fabbrizio
+
+##### _Allerheiligen-Kapelle der Rucellai;_
+um 1246 _ff._ - Links neben der Strozzi-Kapelle. VgL oben S. 685.
+_Fassade der Sakristei (Südwand des linken Querarms)*. Von Gherardo Silvani oder Fabbrizio
 Boschi, 1616 (143). Spätes, besonders inter.essantes Beispiel der michelangelesken
 ,,Architekturplastik“ im Sinne des Buontalenti.Dreitürensystem mit bizarren Einzelformen. Neben
 dem Hauptportal zwei Pilaster mit Bügelbelag; darüber zwei knor-pelige,auseinanderstrahlend e
 Giebelfragmente, die sich aus einer um-gekehrten Muschel heraus entwickeln; über ihnen eine
 bügelumklam-merte Lünette und als oberer Abschluß des Mittelteiles ein Giebel. Über den
 niedrigeren Seitentüren Muschel-Voluten und kastenartige Felder.
-Sakristei (im Winkel zwischen linkem Querarm und Langhaus); von Fra Jacopo Talenti; um 1350.
+
+*Sakristei* (im Winkel zwischen linkem Querarm und Langhaus); von Fra Jacopo Talenti; um 1350.
 Längsrechteckiger Raum mit spitz-bogigem Kreuzrippengewölbe auf(neugotischen?)
 Eckkonsolen (144).In der Südwand ein großes, dreigeteiltes gotisches Fenster vom Ty-pus des
 Fensters in der Hauptchorkapelle: der mittlere Spitzbogen steigt höher auf als die beiden seitlichen,
 üiber denen je ein Auge ange-bracht ist.
 
-## ,,OBERER FRIEDHOF“
+### OBERER FRIEDHOF
 
-```
 So heiβt-in Erinnerung an seine mittelalterliche Zweckbestim-mung-das ummauerte Gelände
 zwischen dem Langhaus, dem rech-ten Querarm, der Piazza S. Maria Novella und der Via degli
-```
 
 Avelli.Seine dem Platz und der Straße zugekehrten Süd- und Ostmauern sind mit weiβem und
 grünem Marmor verschalt. Hier setzt sich die Reihe der Grabnischen (,,avelli“) fort, die den
@@ -3298,14 +3208,8 @@ Langhauses rings um den Friedhof herum. Neben der Kirchenfassade und der Kapelle
 je ein höherer Bogen als Portal.-Das Ganze ist 1847 bzw.1861 ff.ziemlich vollständig erneuert
 worden, aber wohl einigermaßen getreu nach den Überresten des ursprünglichen Zustandes (145).
 
+#### *Lageplan der Klostergebäude*
 
-_S. Maria Novella_
-
-## S. M A R I A N O V E L L A
-
-```
-Lageplan der Klostergebäude
-```
 Schematische Darstellung des Zustands in der Barockzeit. Umzeichnung des Hauptteils der Darstellung
 bei Wood-Brown, 1902, 76, die auf einer Barock-zeichnung aus dem Klosterarchiv beruht. Die
 inzwischen abgebrochenen Teile in der Nordostecke sind mit punktierten Linien gekennzeichnet. Für
@@ -3333,41 +3237,39 @@ Nikolaus (Acciaiuoli). - 40. Kirche. - 41. Sakristei.
 
 ## [HIER STEHT EIN DIAGRAMM DES LAGEPLANS DER KLOSTERGEBÄUDE - S. 693]
 
-## KLOSTER
+#### KLOSTER
 
-_Bauaufnahmen._ Ältere in der Zeichnungssammlung der Uffizien (146). Neuere Grundrisse bei Wood-
+Bauaufnahmen. Ältere in der Zeichnungssammlung der Uffizien (146). Neuere Grundrisse bei Wood-
 Brown, 1902. - Vgl. auch unsere Abb. auf S. 693.
 
-_Vorbemerkung._ Die Klosterbaulichkeiten können hier ihrer großen Zahl wegen nur andeutend
+Vorbemerkung. Die Klosterbaulichkeiten können hier ihrer großen Zahl wegen nur andeutend
 beschrieben werden, zumal viele von ihnen schlecht erhalten und unzugänglich sind. Die Lage der
 beschriebenen Teile geht aus dem erwähnten Grundriss hervor.
 
-```
-Der Eingang.
-```
+##### Der Eingang.
 
 _S. Maria Novella_
 
-_Die Klosterfassade_ liegt an der Piazza S. Maria Novella und schließt im rechten Winkel nach Süden zu
-an die Kirchenfassade an. Sie be­steht aus einer Mauer, die der Umfassungsmauer des “oberen
+##### _Die Klosterfassade_
+liegt an der Piazza S. Maria Novella und schließt im rechten Winkel nach Süden zu an die Kirchenfassade an. Sie be­steht aus einer Mauer, die der Umfassungsmauer des “oberen
 Fried­hofs” entsprechend gestaltet und wohl gleich dieser um 1847/61 so gut wie völlig erneuert worden
 ist: Grabnischen (,,avelli") und grün, weiße Marmorinkrustation. Unmittelbar neben der Kirchenfassade
 ein kleines Portal, weiter südlich ein größeres. - Hinter der Mauer ein schmuckloser rechteckiger
 Vorhof. Hinter dem darangelegenen westlichen Gebäudeflügel der
 
-_“Chiostro della Porta”._
+##### _“Chiostro della Porta”._
 Rechteckiger Kreuzgang, 5 X 5 rundbogige jonische Säulenarkaden in nüchternen
 Hochrenaissanceformen. Seiner Lage wegen kann er versuchsweise mit dem “Chiostro della Porta”, der
 1505 errichtet worden sein soll, identifiziert werden. - Wendet man sich von hier zum Vorhof zurück, so
 gelangt man durch einen Durchgang, der an der Westflanke der Kirche entlang führt, zunächst in den
 “Chiostro Verde” (vgl. unten) und von dessen Nordseite aus zum.
 
-_“Chiostro Vecchio” oder “Chiostro dei Morti”._
+##### _“Chiostro Vecchio” oder “Chiostro dei Morti”._
 Ursprünglich Friedhof der Mönche; ältester Teil des Klosters, errich-tet an Stelle romanischer Gebäude
 im späteren 13. und 14. Jahr-hundert. Der Grundriss ist durch die verschwundenen romanischen Bauten
 bedingt.
 
-_Der Zugang_ vom Chiostro Verde her ist ein gewölbter Gang zwischen der Kirchensakristei, an deren
+Der Zugang vom Chiostro Verde her ist ein gewölbter Gang zwischen der Kirchensakristei, an deren
 Stelle einst die romanische Kirche endete, und der “Spanischen Kapelle”, an deren Stelle einst die
 vor-romanische Kapelle stand. Breit und flach gespannte stichbogige Kreuzrippengewölbe auf
 laubgeschmückten Wandkonsolen; um 1279 (147). – In der rechten (östlichen) Wand Reste älterer
@@ -3381,7 +3283,7 @@ Spitzbogen zum Chiostro dei Morti; die Bögen ruhen auf einem freistehenden Eckp
 war der Überlieferung nach schon vor der Errichtung der Spanischen Kapelle vorhanden, und dafür
 sprechen auch ihre altertümlichen Profile.
 
-_Der Friedhof; um 1280/90._ Hinter der Strozzi-Trinciavelli-Kapelle setzt sich der Gang fort, unter der
+Der Friedhof; um 1280/90._ Hinter der Strozzi-Trinciavelli-Kapelle setzt sich der Gang fort, unter der
 anderen, dem Kirchenquerschiff vorgelagerten Strozzikapelle hindurch (150). Nach links hin öffnet er
 sich kreuzgangartig zum Friedhof hin mit Stichbogen auf stämmigen achteckigen Pfeilern, die auf einem
 niedrigen Mäuerchen stehen (151); rechts begleitet ihn eine Kapellenreihe. Die Kapellen liegen
@@ -3390,10 +3292,6 @@ Stirnwand des Kirchenquerschiffs an. Sie ent-halten Kreuzrippengewölbe (z. T. r
 stichbogig) und öffnen sich jetzt nur zum Kreuzgang hin (mit je einem Bogen), öff-neten sich aber
 ursprünglich auch seitlich (ebenfalls mit Bögen), sodass die Kapellenreihe wie ein zweites Schiff des
 Kreuzgangs gewirkt haben muss. An der Stirn jeder Trennwand zwischen je zwei Kapellen steht als
-
-
-_S. Maria Novella_
-
 Überbleibsel dieses Systems je ein schlanker achteckiger Pfeiler. - Der Gang mit der Kapellenreihe läuft
 sich jetzt im Norden an einer Mauer tot, setzte sich aber dort früher noch weiter fort (152). -Ober seinem
 gotischen Erdgeschoss liegt eine Renaissance-Loggia mit toskanischen Säulen. -An der Nordseite des
@@ -3409,9 +3307,8 @@ Gesims -vielleicht Über-bleibsel eines schon vor der Spanischen Kapelle hier er
 über ihr die Westteile der “Stanza dei Beati”, eines vom Querschiff der Kirche her zugänglichen
 Raumes. - Südlich von dem Zugang des “Chiostro Vecchio” liegt der
 
-```
-“Chiostro Verde”.
-```
+##### *“Chiostro Verde”.*
+
 So genannt wegen seiner graugrün in graugrün gemalten Fresken. Erbaut um 1350-60 wohl von Fra
 Jacopo Talenti. Schönster goti-scher Kreuzgang von ganz Florenz - durch die Harmonie seiner
 Raumbildung und seiner Formen eine der vollkommensten Verkör-perungen des Bauideals des
@@ -3424,11 +3321,11 @@ rund-bogig, die Raumverhältnisse ungewöhnlich ausgeglichen. - Auch die Einzelf
 erlesenem Feingefühl gegliedert: an den Pfei-lern hohe, zart profilierte Sockel und kräftige Blattkapitelle
 (154), an den Bögen ein aufgemaltes (im 19. Jahrhundert erneuertes) schwarz-weißes Keilsteinmuster,
 an den Gewölberippen gemalte Zickzack-bänder. - Folgende Gebäude umrahmen den Kreuzgang:
-Die _“Spanische Kapelle”_ (an der Nordseite). So genannt etwa seit 1540, seitdem sie von der Herzogin
-Eleonora von Toledo den Spaniern in Florenz als Nationalkapelle zugewiesen worden war (155);
-ur-sprünglich diente der Hauptraum als Kapitelsaal, die Chorkapelle als Familien- und Grabkapelle des
-Buonamico di Lapo Guidalotti (156).
 
+##### _Die “Spanische Kapelle” (an der Nordseite)._
+So genannt etwa seit 1540, seitdem sie von der Herzogin Eleonora von Toledo den Spaniern in Florenz als Nationalkapelle zugewiesen worden war (155);
+ur-sprünglich diente der Hauptraum als Kapitelsaal, die Chorkapelle als Familien- und Grabkapelle des
+Buonamico di Lapo Guidalotti (156). 
 - Das Ganze ist wahrscheinlich ein Werk des Fra Jacopo Talenti (157). - In der Fassade öffnet sich (wie
 meist an gotischen Kapitel-sälen) ein Portal zwischen zwei zweiteiligen Kleeblattbogenfenstern mit
 Siebenpaß-Maßwerk; Portal und Fenster sind ungewöhnlich reich und zierlich ornamentiert (158).
@@ -3440,17 +3337,14 @@ Bauideals, das die Dominikanerbauhütte von S. Maria Novella zuerst im Langhaus 
 angestrebt hatte, und eine Spitzenleistung in der Raumgestaltung des gesamten italienischen Trecento
 (159). – An den Eckpfeilern fein gemeißelte und zierlich profilierte Akanthuskapitelle. – Die
 
-
-_S. Maria Novella_
-
 Chorkapelle war dem Hauptraum entsprechend gegliedert, ist aber im späten 16. Jahrhundert etwas
 verändert worden: damals wurde vor allem der Eingangsbogen abge-rundet. – Gegenüber der
 Spanischen Kapelle liegt
 
 _Der Südflügel._ Er enthält jetzt die Wohnung der Mönche und ist unzugänglich (160).
 
-Das _“Capitola del Nocentino” und das Refektorium_. Beide zusammen bilden den Westflügel am
-Kreuzgang. Das “Capitolo” liegt im nörd­lichen Ende dieses Flügels; es wurde 1303-08 erbaut und ist
+##### *Das “Capitola del Nocentino” und das Refektorium.*
+Beide zusammen bilden den Westflügel am Kreuzgang. Das “Capitolo” liegt im nörd­lichen Ende dieses Flügels; es wurde 1303-08 erbaut und ist
 ein rechteckiger, fast quadratischer Raum mit einem rundbogigen Kreuz-rippengewölbe auf vier
 fünfseitigen Eckpfeilern (161). - Das große Refektorium, das den Rest des Westflügels einnimmt, ist ein
 langer rechteckiger Saal mit rundbogigen Kreuzrippengewölben über fünf-seitigen Eck- und
@@ -3458,7 +3352,7 @@ Wandpfeilern; es wurde 1350-60 erbaut, wahr-scheinlich von Fra Jacopo Talenti. S
 der des be­nachbarten “Capitolo del Nocentino” nachgebildet und unterscheidet sich von ihr nur durch
 reichere Profilierung der Kapitelle. Die Raum-wirkung ist schlicht und mächtig (162).
 
-_“Chiostro Dati”._
+##### _“Chiostro Dati”._
 So genannt nach dem berühmten dominikanischen Ordensgeneral und Prior von S. Maria Novella
 Lionardo Dati, der sich inschriftlich neben den Gewölbekonsolen als Stifter bezeichnet hat (“Leonardus
 gene-ralis"). - Gelegen südlich vor der südlichen Stirnwand des eben be-schriebenen Refektoriums,
@@ -3467,31 +3361,23 @@ Kreuz-gang mit ringsumlaufenden schlanken rundbogigen Säulenarkaden, rippenlose
 und noch etwas gotisch stilisierten, locker komponierten Akanthuskapitellen (Säulenbasen und Portale
 zum größten Teil erneuert). Im Südflügel eine breite, feinskulpierte goti-sche Wandhrunnenfassade.
 
-_“Chiostro Grande”._
+##### _“Chiostro Grande”._
 Riesiger Kreuzgang, der größte im mittelalterlichen Florenz; gelegen westlich neben dem Chiostro
 Verde, zugänglich durch eine Passage von dessen Nordwestecke aus. Errichtet um 1303/40. Jetzt der
 Scuola sottufficiale Carahinieri gehörig.
-_Die Loggia_ ist dem (älteren) “Chiostro Vecchio” nachgebildet: stich­bogige Arkaden mit achteckigen
+Die Loggia ist dem (älteren) “Chiostro Vecchio” nachgebildet: stich­bogige Arkaden mit achteckigen
 Pfeilern auf Sockeln, stichbogige Kreuzrippengewölbe. Doch sind die Pfeiler säulenartig schlank;
 da-durch wirkt der Kreuzgang zierlicher und durchsichtiger (163). Über dem Nordflügel und der
 anschließenden Nordhälfte des Ostflügels der gotischen Loggia erhebt sich eine unverhältnismaßig hohe
-obere Loggia mit toskanischen Säulen und Rundbögen - eine Zufügung wohl aus der zweiten Hälfte des
-
-15. Jahrhunderts.
-_Die Rahmengebäude_ , die den Kreuzgang auf allen vier Seiten einfassen, sind größtenteils unzugänglich.
+obere Loggia mit toskanischen Säulen und Rundbögen - eine Zufügung wohl aus der zweiten Hälfte des 15. Jahrhunderts.
+Die Rahmengebäude, die den Kreuzgang auf allen vier Seiten einfassen, sind größtenteils unzugänglich.
 - In der Südhälfte des Ostflügels liegen zwei bereits beschriebene Räume, das Refektorium und das
 “Capitolo del Nocentino”. Getrennt von ihnen durch die Passage, die vom “Chiostro Verde” heranführt,
 liegt in der nördlichen Hälfte des Ostflügels im Erdgeschoss ein großer gotischer Saal (um 1333 ff.) mit
 drei Schiffen, zwei Säulenreihen und Kreuzrippengewölben. Im Obergeschoss des Ostflügels lag
 ehemals ein großes Dormitorium, das heute wohl ziemlich von neueren Einbauten aufgezehrt ist. - Im
 Erd-geschoss des Nordflügels ein zweites Dormitorium (164), ein großer gotischer Saal vom Typ des
-Saales in der Nordhälfte des Ostflügels; er ist jetzt durch neuere Einbauten entstellt. Darüber lagen vor
-
-
-_S. Maria Novella_
-
-der Profanierung folgende Räume (von Osten nach Westen aufeinander folgend): der große
-Bibliothekssaal, 1629 von Matteo Nigetti ausge-baut und mit einem reichen Portal versehen; zwei
+Saales in der Nordhälfte des Ostflügels; er ist jetzt durch neuere Einbauten entstellt. Darüber lagen vor der Profanierung folgende Räume (von Osten nach Westen aufeinander folgend): der große Bibliothekssaal, 1629 von Matteo Nigetti ausge-baut und mit einem reichen Portal versehen; zwei
 Lesezimmer; ein Dormitorium; die _“Cappella del Papa”_ , die zu der anschließenden Papstwohnung
 gehörte (165); die Kapelle ist noch erhalten, die übri-gen Räume sind wohl durch Umbauten entstellt. -
 Den ganzen West-flügel nahm seit 1419 das _Gästehaus_ ein, das für Päpste, Fürsten und andere
@@ -3512,7 +3398,7 @@ rechteckigen Saales. Zu ihr gehört eine Sakristei, zu der man vom Museo del Ris
 ein Höfchen ( _“Chiostro dell'Infer­meria”_ ) gelangt. Die Kapelle diente ursprünglich als Oratorium der
 Krankenabteilung und war später in die Baulichkeiten der _Kloster-apotheke_ einbezogen.
 
-AUSSTATTUNG
+## AUSSTATTUNG
 Kirche und Kloster von S. Maria Novella gehören mit ihrer mannig-faltigen Ausstattung zu den
 bedeutendsten Kunstdenkmälern von Florenz. Das Kloster mit seiner malerischen Folge von reich
 dekorierten größeren und kleineren Höfen, Kapellen und sonstigen Ge-bäuden gibt in seiner
@@ -3522,10 +3408,10 @@ im besonderen.
 Ein historischer Überblick über die Ausschmückung von Kirche und Kloster während des 15. und
 frühen 16. Jahrhunderts findet sich bei Wackernagel, Lebensraum, 1938, 43 ff.
 
-## KIRCHE
+### KIRCHE
 
-_Außen.
-Fassade._
+#### Außen.
+##### _Fassade._
 In den Bogenfeldern der drei Portale _Fresken_ ; in der Mitte der hlg. Thomas von Aquin, vor dem
 Kruzifix kniend, im Hintergrund die Fronleichnamsprozession, die vor S. Maria Novella, dem Zentrum
 der Feierlichkeiten, anlangt; von Ulisse Ciocchi bezeichnet, 1616 datiert. Links Aaron mit Manna; rechts
@@ -3534,10 +3420,7 @@ Melchisedek mit Broten (alttesta-mentliche Parallelen zum Meßopfer), von demsel
 Links (neben den Rahmenpilastern) astronomische Instrumente, 1572/74, rechts Sonnenuhr
 (Horologium), inschriftlich datiert 1572 (170).
 
-
-_S. Maria Novella_
-
-_Innen._
+### Innen.
 Von der ursprünglichen Ausstattung der Kirche haben sich wesentliche Reste erhalten, insbesondere
 Fresken und Grabmaler des 13. bis 15. Jahrhunderts. Eine Folge von Altarbildern der manieristi-schen
 Schule in den Seitenschiffen verdankt ihre Entstehung der Vasarischen Reform von 1565/72, die im
@@ -3549,7 +3432,7 @@ Romoli und des Malers Giuseppe Fattori ausgestattet und neugotische Blindtüren 
 Beichtstühle in die Seitenschiffsmauern eingelassen (171). Durch diese Arbeiten ist die Gesamtwirkung
 leider stark beeinträch-tigt worden.
 
-_Fassadenwand._
+#### _Fassadenwand._
 Oben in der Mitte _Fensterrose mit Glasgemälde_ , Krönung der Maria, umrahmt von lobpreisenden
 Engeln; ausgeführt vielleicht von Mön-chen aus Ognissanti nach Entwürfen von Andrea Bonaiuti da
 Firenze, um 1365 (172).
@@ -3562,15 +3445,13 @@ Christi, Art des Sandro Botti-celli, um 1470 (175).
 Künstlers, um 1427/28; der Gekreu-zigte, von Gottvater gehalten, daneben Maria und Johannes; diese
 Figuren stehen unter einem Tonnengewölbe, das von zwei Pfeilern getragen wird; vor den Pfeilern knien
 links und rechts der Stifter und seine Frau. Am heutigen Ort seit 1861 (176). Im rechten Seitenschiff
-_Gedenktafel_ für Bernardo de' Vecchietti, 1654 (176 a).
+Gedenktafel für Bernardo de' Vecchietti, 1654 (176 a).
 
-_Mittelschiff.
-Obergadenfenster,_ Butzenscheihen mit verschiedenen buntfarbigen Wappen, wohl 14. Jahrh. (?).
-_Am ersten Pfeifer rechts und links Weihwasserbecken_ ; das rechte aus weißem Marmor mit roter
-Marmorstütze, gestiftet von Mongolieri Bellozzo und Bartolo, 1412 (Inschrift); das linke aus Marmor,
-
-16. Jahrh.
-_Am dritten Pfeiler links Kanzel_ aus weißem, teilweise vergoldetem Marmor, 1443-48; nach einem
+#### _Mittelschiff._
+Obergadenfenster, Butzenscheihen mit verschiedenen buntfarbigen Wappen, wohl 14. Jahrh. (?).
+Am ersten Pfeifer rechts und links Weihwasserbecken; das rechte aus weißem Marmor mit roter
+Marmorstütze, gestiftet von Mongolieri Bellozzo und Bartolo, 1412 (Inschrift); das linke aus Marmor, 16. Jahrh.
+Am dritten Pfeiler links Kanzel aus weißem, teilweise vergoldetem Marmor, 1443-48; nach einem
 Modell von Brunelleschi; figürliche Reliefs: Verkündigung, Geburt Christi, Darstellung im Tempel,
 Gürtelspende an Thomas, von Andrea di Lazzaro Cavalcanti, ge-nannt Buggiano; Ornamente vielleicht
 aus der Werkstatt des Gio-vanni di Piero del Ticcia; Stiftung der Rucellai (177).
@@ -3578,19 +3459,16 @@ _Vor dem Hochaltar Bronze-Grabplatte_ des Priors und Dominikaner­generals Liona
 1423 oder 1424), lebensgroße Liegefigur in Flachrelief von Lorenzo Ghiberti; vor 1427 voll-endet
 (178).
 
-
-_S. Maria Novella_
-
-_Rechtes (östliches) Seitenschiff.
-Erstes Joch_ (1399-1565 war der Altar der Madonna und dem hlg. Laurentius geweiht; Patrone:
+#### _Rechtes (östliches) Seitenschiff_
+Erstes Joch (1399-1565 war der Altar der Madonna und dem hlg. Laurentius geweiht; Patrone:
 Giuocchi; nach 1556 der Bruderschaft des hlg. Laurentius gehörig, im 19. Jahrh. der Familie Venturi)
 (179).
-_Wandgrab_ des Ippolito Venturi († 1817), von Stefano Ricci, bezeich­net, um 1817 (180). - _Altartafel_ ,
+Wandgrab des Ippolito Venturi († 1817), von Stefano Ricci, bezeich­net, um 1817 (180). - _Altartafel_ ,
 Marter des hlg. Laurentius, von Girolamo Macchietti, bezeichnet und datiert 1573 (181). -
 Altar-tabernakel und Glasgemälde von 1861 (vgl. S. 701). _Wandgrab_ der Anna Testard († 1809),
 Gemahlin des Ippolito Venturi; von Stefano Ricci (180).
 
-_Zweites Joch_ (der Altar war ehemals dem hlg. Mauritius geweiht; Patrone Mazzinghi [da Campi]; nach
+Zweites Joch (der Altar war ehemals dem hlg. Mauritius geweiht; Patrone Mazzinghi [da Campi]; nach
 1565 den Hlg. Michael und Ja-kobus geweiht; Patrone: im 19. Jahrh. Zondari ne' Riccardi- Strozzi)
 (182). _Wandgrab_ der Beata Villana († 1360), einer frommen Bürgerin aus dem Sprengel von S. Maria
 Novella; von Bernardo Ros-sellino und seiner Werkstatt, 1451/52; aus weißem Marmor auf rotem
@@ -3601,11 +3479,11 @@ enthüllt (184). - _Wandgrab_ des Seligen Jo­hannes von Salerno († 1242), des
 Nieder-lassung von S. Maria Novella; Nachahmung des Grabmals der Beata Villana, Werkstatt des
 Vincenzo Danti, 1571 (185); mit modernen Ergänzungen.
 
-_Drittes Joch_ (seit etwa 1570 Patrone des Altares: die Familie Som-maia). _Altartafel_ , Darbringung im
+Drittes Joch (seit etwa 1570 Patrone des Altares: die Familie Som-maia). _Altartafel_ , Darbringung im
 Tempel, von Giovanni Battista Naldini, bezeichnet und datiert 1577 (186). - Links und rechts vom Altar
 neugotische Türen (vgl. S. 701).
 
-_Viertes Joch_ (der Altar dem hlg. Thomas von Aquin geweiht). _Wand-grab_ des Ruggiero Minerhetti (†
+Viertes Joch (der Altar dem hlg. Thomas von Aquin geweiht). _Wand-grab_ des Ruggiero Minerhetti (†
 1280), von Silvio Cosini, datiert 1530 (187); Marmorsarkophag und Trophäen, gerahmt von Pilastern,
 überdeckt von einem Architrav. - Altartafel, Kreuzabnahme, von Giovanni Battista Naldini, bezeichnet
 und datiert 1572 (188). – _Grab-mal_ des Tommaso Minerbetti († 1499); Wandgrab, um 1550/65 (?), unter
@@ -3613,19 +3491,15 @@ Verwendung eines älteren Wandgrabes (um 1400), von dem noch der rechte Pfeiler 
 erhalten sind; alle anderen Teile danach ergänzt, archaisierender Architrav (189). - _Weihwasser-becken_
 in Schiffsform aus weißem Marmor, gestiftet von Bartolomeo Cederni (Inschrift); 2. H. 15. Jahrh.
 
-_Fünftes Joch_ (ehemalige Patrone des Altares: die Bruderschaft di Gesù Pellegrino e del Tempio; seit
+Fünftes Joch (ehemalige Patrone des Altares: die Bruderschaft di Gesù Pellegrino e del Tempio; seit
 1861: Ricasoli) (190). _Marmor-büste_ des Giuseppe Zanobi del Rosso († 1831). - _Altartafel_ , Predigt des
 hlg.Vinzenz Ferrer, seitlich Heilige und Stifter, oben Christus in der Glorie von Engeln umgeben; von
 Jacopo Coppi, genannt del Meglio, bezeichnet; Datierung vom Rahmen überdeckt, 2. H. 16. Jahrh.
 (191). – _Marmorbüste_ des Cosimo Rossi Melocchio († 1820). – Daneben zwei neugotische Türrahmen
 (vgl. S. 701).
 
-_Sechstes Joch._ Eingang zur
+Sechstes Joch. Eingang zur Cappella della Pura.
 
-
-_S. Maria Novella_
-
-_Cappella della Pura._
 Patrone: Ricasoli (192). Errichtet zwischen 1472 und 1497 (vgl. S. 689). In der Nordwestecke
 Marmortabernakel mit hoher Balusterbrüstung in der Art des Giovanni di Bettino, um 1475. Darin das
 _Gnadenbild_ der Madonna della Pura, Freskodarstellung der Madonna, verehrt von der. hlg. Agnes und
@@ -3640,19 +3514,18 @@ Baccio da Montelupo, 1501 (195). –Im Raum unter der Rucellai-Kapelle _Altartaf
 das Antoniusbrot, verehrt von Engeln und Hlg.; vorzügliche Arbeit vom Ende des 17. Jahrh. (Pier
 Dandini ?).
 
-_Sechstes Joch,_ Fortsetzung. Dieser Teil war von dem 1376 verstorbenen Fra Domenico Pantaleoni als
+Sechstes Joch, Fortsetzung. Dieser Teil war von dem 1376 verstorbenen Fra Domenico Pantaleoni als
 Grabstätte für die Dominikaner ohne eigene Familienkapelle eingerichtet worden (196); damals der
 madonna und dem hlg. Laurentius geweiht; später kam der Altar unter das Patronat der Ricasoli, die ihn
 dem hlg. Raimund bestimmten (197). _Altartafel,_ Auferweckung eines toten Kindes durch den hlg.
 Raimund (im Hintergrund auf einem gemalten Altarbild Bekehrung Pauli), von Jacopo Ligozzi, Ende
-
 16. Jahrh. (198). – _Wandgrab_ des Giovanni di Battista Ricasoli, Bischofs von Pistoia, genannt dell’
 Ampollina († 1572); Niche mit Sarkophag, darüber Profilmedaillonund Ornamentik; weißer und grüner
 Marmor; von Romolo Ferrucci (?), 2. H. 16. Jahrh. (199). - Darüber _Büste_ des Kardinals Agostino Bausa
 (t 1899), gesetzt 1904.
 
-_Östlicher Querarm.
-Südwand. Terrakottabüste_ des hlg. Dominikaner-Erzbischofs Antonin, um 1460 (?), in Spätrenaissance-
+#### _Östlicher Querarm._
+Südwand. Terrakottabüste des hlg. Dominikaner-Erzbischofs Antonin, um 1460 (?), in Spätrenaissance-
 Tabernakel (202). - Frührenais-sance-Tür, um 1474 (Eingang zur Cappella della Pura). Rechts über der
 Tür _Marmorgrabmal_ des Tedice Aliotti, Bischofs von Fiesole († 1336); florentinisch um 1336;
 Sarkophag mit der Liegefigur des Toten und Engeln auf reich ornamentierten Konsolen, von einer
@@ -3665,24 +3538,15 @@ _Wandgrab_ des Aldobrandino Cavalcanti, des Gründerpriors von S. Maria Novella 
 Orvieto († 1279); um 1279; auffällig konservativ, noch sehr ro­manisch wirkend; der Tote noch an der
 Frontseite seines Sarkophags, daneben zwei stehende Dominikaner; am Sarkophag romanische
 Rankenfriese; auf den Schmalseiten Johannes d. T. und ein anderer Hlg.; über dem Sarkophag eine
-spitzbogige Arkade auf schmuck-losen Pfeilern (203). In der Arkade, auf dem Sarkophag,
-
-
-_S. Maria Novella_
-
-_Marmor-madonna_ , von Nino Pisano; bezeichnet, um 1360 (?); ursprünglich bemalt; vielleicht Stiftung
+spitzbogige Arkade auf schmuck-losen Pfeilern (203). In der Arkade, auf dem Sarkophag, _Marmor-madonna_ , von Nino Pisano; bezeichnet, um 1360 (?); ursprünglich bemalt; vielleicht Stiftung
 des Lorenzo Ridolfi (204).
-
-_Die Rucellai-Kapelle_
-(vor der Ostwand des östlichen Querarms).
-Der hlg. Katharina von Alexandria geweiht. Erbaut zwischen 1303 und 1325; 1335 und 1356 im Besitz
+Die Rucellai-Kapelle(vor der Ostwand des östlichen Querarms). Der hlg. Katharina von Alexandria geweiht. Erbaut zwischen 1303 und 1325; 1335 und 1356 im Besitz
 der Rucellai bezeugt; nach Strei-tigkeiten seit 1464 wieder fest in ihrem Besitz. Höherlegung des
 Fußbodens entsprechend der Höhe der Strozzi-Kapelle gegenüber 1464 (205).
 Auf dem Treppenpodest _Marmorsarkophag_ , antikisierende Arbeit des 13. Jahrhunderts mit romanischer
 Rankenleiste, auf Konsolen des 16. Jahrhunderts; hier aufgestellt durch Bernardo Rucellai 1510
 (In-schrift) (206).
-
-_Fresken._ Schwache Reste erhalten; an der Ostwand neben den beiden Biforien zwei
+Fresken. Schwache Reste erhalten; an der Ostwand neben den beiden Biforien zwei
 Dominikanerheilige; an der Südwand links vom Fenster die Enthauptung der hlg. Katharina, rechts
 Wunderszene (?); gleich rechts vom Eintretenden ein Reiter (hlg. Georg?); aus der Nachfolge des
 Caecilien-Meisters? Wohl bald nach der Erbauung der Kapelle entstanden; 1912 aufgedeckt (207).
@@ -3690,21 +3554,21 @@ Caecilien-Meisters? Wohl bald nach der Erbauung der Kapelle entstanden; 1912 auf
 An der Rückwand großes _Tafelbild_ , die· sogenannte Rucellai-Ma-donna; thronende Madonna mit Kind,
 von knienden Engeln verehrt; auf dem Rahmen Medaillons mit Brustbildern von Aposteln und Hlg.
 Hauptdenkmal der Dugento-Malerei, Frühwerk von Duccio di Buo-ninsegna (?), 1285 (?); früher häufig
-dem Cimabue zugeschrieben (208). An der Nordwand Tafelbild, Martyrium der hlg. Katharina von
-Alexandria, von Giuliano Bugiardini, um 1530; von Palla Rucel-lai für den Altar der Kapelle bei
+dem Cimabue zugeschrieben (208). An der Nordwand Tafelbild, *Martyrium der hlg. Katharina von
+Alexandria*, von Giuliano Bugiardini, um 1530; von Palla Rucel-lai für den Altar der Kapelle bei
 Bugiardini bestellt und von diesem angeblich mit Hilfe Michelangelos (Vorzeichnung der Figuren des
 Vordergrundes) und Tribolos (Modelle für diese Figuren) ausge-führt (209).
 In der _Grabkapelle unter der Treppe_ Reste von Fresken; an der Rück-wand Christus als
 Schmerzensmann mit Maria und Johannes (Halbfiguren), an den Seitenwänden je ein Hlg., 14.Jahrh.
-_Unterirdischer Raum unter der Rucellai-Kapelle_ : zugänglich von der Cappella della Pura aus, vgl. S.
+Unterirdischer Raum unter der Rucellai-Kapelle: zugänglich von der Cappella della Pura aus, vgl. S.
 704 und Anm.136.
 
-_Östlicher Querarm, Fortsetzung_
+#### _Östlicher Querarm, Fortsetzung_
 Ostwand. Krippe, 1. H.19.Jahrh. (210).- Fragment vom Wandgrab für Fra Corrado della Penna dei
 Gualfreducci di Pistoia, Bischof von Fie­sole († 1312 oder 1313): Reliefplatte mit dem liegenden
 Bischof und zwei Dominikanern; Nachfolge des Arnolfo di Cambio, um 1312/13 (211).
 
-_Erster rechter Nebenchor._
+#### _Erster rechter Nebenchor._
 Ursprünglich unter dem Patronat der Bruderschaft der Laudesi di S. Maria Vergine, die 1243 vom hlg.
 Petrus Martyr gegründet worden war. 1335 erworben von den Erben des Messer Riccardo di Riccio
 Bardi, genannt Califfo, und dem hlg. Gregor geweiht (212). Uber zwei- hundert Jahre später wurde hier
@@ -3713,12 +3577,9 @@ Sakra-mentskapelle, wenig später wurde sie der Rosenkranzmadonna geweiht.
 Schmiedeeisernes _Gitter_ , Mitte 18. Jahrh. (213). - Im rechten Pfeiler der Eingangsarkade _Steinrelief_ , hlg.
 Gregor mit einem Stifter, datiert 1335.
 
-
-_S. Maria Novella_
-
-_Gewölbefresken_ , Himmelfahrt des hlg. Dominikus, von Pier Dandini, Mitte 18. Jahrh. (214);
+Gewölbefresken, Himmelfahrt des hlg. Dominikus, von Pier Dandini, Mitte 18. Jahrh. (214);
 Stuckarbeiten der gleichen Zeit.
-_Wandfresken._ Ältere Schicht in verblichenen Spuren erhalten: im rechten Bogenfeld thronende
+Wandfresken. Ältere Schicht in verblichenen Spuren erhalten: im rechten Bogenfeld thronende
 Madonna, gegenüber hlg. Bischof (?) zwischen zwei Engeln thronend; weiter unten an den Wänden hier
 und da byzantinische Ornamente; aus dem Kreise des Cimabue, Ende 13. Jahrh.; 1906 freigelegt (215). -
 _Jüngere Schicht_ , Szenen aus der Legende des hlg. Gregor; an den zwei Hauptwänden: der kranke
@@ -3757,18 +3618,15 @@ Joh. d. Ev., nach Entwurf von Filippino Lippi, aus der Zeit der Fresken (226). -
 Marmorarbeit um 1500. - In der Wand hinter dem Altartisch Grabmal des Stifters Filippo Strozzi (†
 1491), Spätwerk von Benedetto da Maiano, 1491 in Arbeit, 1493 vollendet (?) (227); flache
 Rundbogen-nische mit feinornamentierter Rahmenleiste aus weißem Marmor, darin der Sarkophag aus
-
-
-_S. Maria Novella_
-
 schwarzem Marmor mit zwei Putten in Relief und das Rundrelief der Madonna im Rosenkranz, von
 flie-genden Engeln umgehen, aus weißem Marmor. - _Fußboden_ 1861 er-neuert (228).
 
-_Hauptchorkapelle_
+#### _Hauptchorkapelle_
 Der Jungfrau Maria geweiht; Patronat ursprünglich bei der Familie Ricci; die Kapelle wurde trotzdem
 später von den Tornaquinci, dann von den Tornabuoni ausgestattet. Das Patronat über den Hochaltar
 besaßen die Sassetti (229).
-_Fresken_. An den Wänden Szenen aus dem Marienleben und aus der Legende des Täufers Johannes, im
+
+Fresken. An den Wänden Szenen aus dem Marienleben und aus der Legende des Täufers Johannes, im
 Gewölbe die vier Evangelisten; berühmtes spätes Hauptwerk von Domenico del Ghirlandaio und seiner
 Werkstatt; am 1.9.1485 von Giovanni Tornabuoni den Brüdern Domenico und Davide del Ghirlandaio
 in Auftrag gegeben, am 22.12.1490 enthüllt (Inschrift auf der Verkündigung an Zacha-rias) (230).
@@ -3802,23 +3660,19 @@ ursprünglich wahrscheinlich eine um- laufende Bank mit glatter, durch Pilaster 
 zu-rückhaltend belebter Rückwand. Entstellt durch Zusätze: Armstühle und Klappsitze, hergestellt 1566
 von Giovanni Gargiolli im Auftrage Vasaris (bei der Verlegung des Monchschors) (235). - Einige
 Jahr-zehnte jünger die großen Notenpulte.
-
-
-_S. Maria Novella_
-
-_Osterleuchter_ aus weißem Marmor (am linken Triumphbogen-Pfeiler) in Gestalt einer gedrehten Säule
+Osterleuchter aus weißem Marmor (am linken Triumphbogen-Pfeiler) in Gestalt einer gedrehten Säule
 mit Laubwerk und Putten in den Windungen; hervorragend schöne Arbeit aus den letzten Drittel des
-
 14. Jahrh., dem Piero di Giovanni Tedesco zugeschrieben (236); wohl eher in der Art des Simone di
 Francesco Talanti. Der Osterleuchter gegenüber ist eine Nachahmung danach von Giovanni Battista
 Gio-vannozzi, 1804 (?) (237).
 
-Hochaltar. Neugotischer Aufbau aus farbigen Marmor, entworfen von Enrico Romoli, Skulpturen von
+#### _Hochaltar._
+Neugotischer Aufbau aus farbigen Marmor, entworfen von Enrico Romoli, Skulpturen von
 Egisto Rossi, 1857/61. _Holz-kruzifix_ , gute Arbeit des beginnenden 16. Jahrh. (238). Gemälde,
 Auf-erstehung Christi, auf Goldgrund, von Giuseppe Fattori, 19. Jahrh., um 1861 (239).
 
-_Westlicher Querarm
-Erster linker Nebenchor._
+#### _Westlicher Querarm_
+##### _Erster linker Nebenchor._
 1264 (?) richtete vielleicht Fra Ranieri, genannt il Greco, seinem Schutzpatron, dem hlg. Lukas, hier
 einen Kult ein. 1325 wurde die Kapelle von Margherita Tornaquinci erworben, die zu den Familien oder
 Guardi und Scali gehörte; sie hieß seitdem Cappella Scali. 1461 wurde sie von Donna Costanza de'
@@ -3834,15 +3688,14 @@ _Holz-kruzifix_ von Filippo Brunelleschi; berühmtes Hauptwerk der Früh-renaiss
 geschaffen, um Donatellos Kruzifix in S. Croce zu übertreffen; wahrscheinlich aber früher als jener
 entstanden, um 1400/1410 (234).
 
-_Zweiter linker Nebenchor._
+##### _Zweiter linker Nebenchor._
 Ursprünglich anscheinend dem hlg. Dominikus geweiht. Das Patro-nat wurde früh an die Familie
 Falconi gegeben; diese weihten die Kapelle anscheinend dem Erzengel Michael und allen Engeln. Im
-
 16. Jahrh. kam das Patronat an den berühmten Humanisten Niccolò
-
 di Sinibaldo Gaddi. Er ließ die Kapelle dem hlg. Hieronymus weihen (244) und von Giovan Antonio
 Dosio ausbauen (für die Archi-tektur vgl. S.690). Einheitliche Ausstattung um 1575/78.
-_Fresken._ Die Kuppel ist durch ornamentale Leisten in vier Ädikulen und kleinere Felder eingeteilt; darin
+
+Fresken. Die Kuppel ist durch ornamentale Leisten in vier Ädikulen und kleinere Felder eingeteilt; darin
 Fresko-Szenen aus der Legende des hlg. Hieronymus, ebenso in der Leibung des Eingangsbogens; in
 den Pendentifs Tugenden; alle Gemälde von Alessandro Allori, datiert 1577 (245).
 An den Seitenwänden in den Bogenfeldern ornamentale Glasgemälde und Blendfenster; in den Ädikulen
@@ -3851,14 +3704,11 @@ Marmorreliefs, Vermählung und Tempelgang der Maria, von Giovanni Bandini genann
 Gaddi († 1552), datiert 1577 und 1578 (247). In der Rückwand _Altartafel_ , Auferweckung vom
 Töchter-lein des Jairus, letztes Werk von Angelo Bronzino, 1571/72 (248).
 
-
-_S. Maria Novella_
-
 Darunter Marmorsarkophag, Grabmal der Frau († 1563) und zweier Kinder († 1564 und 1569) des
 Cavaliere Niccolo Gaddi. Prunkvoller Altartisch aus Marmor auf Lowenfüßen, darunter das Grab des
 sel. Remigius, datiert 1577. _Fußboden_ aus Marmor und Pietra dura.
 
-_Die Strozzi-Kapelle_
+##### _Die Strozzi-Kapelle_
 (vor der Westwand des westlichen Querarms).
 Erbaut um 1279. Ursprüngliche Patrone: vielleicht die Familie Bracci (?). 1284 schon unter dem
 Patronat der Strozzi und dem hlg. Thomas von Aquin geweiht (249). Treppe und Balustrade wohl im
@@ -3885,11 +3735,11 @@ dem Meer, Trilogie aus der Laurentius- Legende: Das Eingreifen des Hlg. bei der 
 den Erzengel Michael (links) errettet die Seele des Kaisers Heinrich ü. (sein Tod in der Mitte
 dargestellt), obwohl der Teufel mit dem Henkel des zu wägenden Kelchs an einem Einsiedler vorbei
 geflüchtet ist (rechts).
-_Alte Grabkammer unter der Treppe_ (für Mitglieder der Familie Rossi de' Strozzi). An der Fassade derbe
-_Zwickelreliefs_ , 1. H. 14.Jahrh. (252a). Im lnneren _Fresken_ , an der Rückwand die Grablegung, an den
+Alte Grabkammer unter der Treppe (für Mitglieder der Familie Rossi de' Strozzi). An der Fassade derbe
+Zwickelreliefs, 1. H. 14.Jahrh. (252a). Im lnneren _Fresken_ , an der Rückwand die Grablegung, an den
 Seiten- wanden je zwei Hlg.; in der Art des Niccolo di Pietro Gerini, um 1400 (253).
 
-_Die Allerheiligen-Kapelle der Rucellai_
+#### _Die Allerheiligen-Kapelle der Rucellai_
 (vor der Westwand des westlichen Querarms, unter dem Glockenturm).
 Die älteste Kapelle der Kirche, um 1246 ff. (vgl. S. 685); auch Cap-pella del Campanile genannt.
 
@@ -3897,25 +3747,20 @@ _Außen_ über der Eingangstür _Fresko_ , Marienkrönung mit Engeln, 14. Jahrh.
 schönes _Weihwasserbecken_ aus Marmor mit dem Namen des Andrea Rucellai (1464).
 _Innen Fresken_ , Szenen aus dem Neuen Testament, Art des Pacino di Bonaguida, 1. H. 14. Jahrh.; sehr
 abgerieben, aber kaum über-malt (255). Die Gliederung nimmt auf den Strebepfeiler des Quer- schiffs
-
-
-_S. Maria Novella_
-
 Rücksicht. Am Gewölbe Lamm Gottes; an der rechten Wand Taufe Christi, die Hlg. Lukas und
 Johannes thronend; an der Rück-wand Fragmente der Verkündigung, darunter Reste von ffig.; an der
 linken Wand als einziger Rest thronender Evangelist (ein zweiter Evangelist beim Bau der
 Wendeltreppe des Glockenturms zerstört).
-
 - Am Strebepfeiler der hlg. Christophorus, 2. H. 14. Jahrh. (256).
 
-_Stanza dei Beati_
+#### _Stanza dei Beati_
 (hinter der Allerheiligen-Kapelle; vgl. Anm.122a).
 Gotischer Raum wohl aus der Zeit um 1330. An der Westwand _Büste_ des hlg. Antonius von Padua, reich
 gerahmt, datiert 1628. - An der Südwand große Altartafel, Vermahlung der hlg. Caterina de' Ricci, von
 Giuseppe Fattori, bezeichnet und datiert 1852 (257). - An der Ostwand Marmorbüste des sel. Johannes
 von Salerno, des Gründers der Niederlassung von S. Maria Novella, datiert 1650.
 
-_Sakristei_
+#### _Sakristei_
 (vor der Südwand des westlichen Querarms).
 Der Verkündigung Mariae geweiht; Patrone: Cavalcanti. Portal von Gherardo Silvani oder Fabbrizio
 Boschi, 1616 (vgl. S. 691). Innen-raum gebaut für Mainardo Cavalvanti von Fra Jacopo Talenti, Mitte
@@ -3944,28 +3789,23 @@ Bartolommeo genannt Masaccio zugeschrieben, zweites Drittel 15. Jahrh. (270). - 
 Fenster mit Glasmalerei, Szenen aus dem Leben Christi und Joh. d.T., wohl um 1380/85 von einem
 Meister aus der Werkstatt des Antonio da Pisa, vielleicht nach Entwurf von Spinello Aretino (271).
 
-
-_S. Maria Novella_
-
-_Linke Seitenwand._ Schränke aus dem 18. Jahrh., angeblich von Guer-rino Veneziani (vgl. Anm. 265). -
+Linke Seitenwand. Schränke aus dem 18. Jahrh., angeblich von Guer-rino Veneziani (vgl. Anm. 265). -
 Darüber rechts Tafelbild, Kreu-zigung, umgehen von Tugenden und Lastern nach der Vision des hlg.
-Anselmus, von Giorgio Vasari, 1566 (272). - Daneben Blendfenster
-
-aus dem 18. Jahrh. - Altarbild (Lwd.), Predigt des hlg. Vinzenz Ferrer, von Pier Dandini, um 1700 (273).
+Anselmus, von Giorgio Vasari, 1566 (272). - Daneben Blendfenster aus dem 18. Jahrh. - Altarbild (Lwd.), Predigt des hlg. Vinzenz Ferrer, von Pier Dandini, um 1700 (273).
 Mitten im Raum großer Tisch mit Fächern, 16. Jahrh.
-_Südwand des westlichen Querarms._
-An der Ecke zum Seitenschiff Weihwasserbecken aus Granit, getragen von einer Rollwerk-Herme aus
+
+Südwand des westlichen Querarms. An der Ecke zum Seitenschiff Weihwasserbecken aus Granit, getragen von einer Rollwerk-Herme aus
 weißem Marmor; Gefäß wohl antik, vielleicht ägyptisch aus der ersten Kaiserzeit (aus dem Schatz des
 Lorenzo il Magnifico); Herme von einem Nachfolger Cellinis, vielleicht von Battista Lorenzi, drittes
 Viertel 16. Jahrh.; gestiftet von Leonardo Regnadori (274).
 
-_Linkes (westliches) Seitenschiff._
+##### _Linkes (westliches) Seitenschiff._
 Erstes Joch (der Altar war ursprünglich dem hlg. Petrus Martyr geweiht; im 16. Jahrh. unter dem
 Patronat des von Camillo sich herleitenden Zweigs der Strozzi und seit 1596 dem hlg. Hyazinth
 geweiht) (275). Epitaph der Anna Pandolfini († 1802). - Altartafel, Vision des hlg. Hyazinth (Christus
 und Maria erscheinen, umgeben von Engeln und fig., dem knienden Dominikaner); von Alessandro
 Allori, bezeichnet und datiert 1596 (276).
-_Zweites Joch_ (seit 1565 hier ein Altar der hlg. Katharina von Siena; Patrone: die Bruderschaft dieser
+Zweites Joch (seit 1565 hier ein Altar der hlg. Katharina von Siena; Patrone: die Bruderschaft dieser
 fig.) (277). Marmorbüste des Jose­phus Ignatius Zenobi del Rosso († 1731), von Giovanni Battista
 Gio-vannozzi, um 1800 (278). - Am Altar eine reichgeschnitzte, modern vergoldete Schauwand aus
 Holz, um 1596; in der Mittelnische die Statue der hlg. Katharina von Siena (aus Cartapesta), von
@@ -3976,11 +3816,11 @@ angeblich eine Orgel des Dominikaners Fra Bernardo d'Argentina (282). - Marmorb�
 Ignatius Zanobi del Rosso († 1798), Neffen des Obengenannten, von Giovanni Battista Giovannozzi, um
 1800 (vgl. Anm. 278).
 
-_Drittes Joch_ (der Altar war offenbar seit alter Zeit unter dem Patro-nat der Familie Pasquali (283); um
+Drittes Joch (der Altar war offenbar seit alter Zeit unter dem Patro-nat der Familie Pasquali (283); um
 1565 den Hlg. Cosmas und Da-mian geweiht). Altartafel, Auferstehung Christi, von Giorgio Vasari
 zwischen 1565 und 1568 für seinen Freund Andrea Pasquali gemalt, den Leibarzt des Herzogs (284).
 
-_Viertes Joch_ (hier soll Fra Lorenzo Cardoni der hlg. Dreieinigkeit einen Altar errichtet haben; seit etwa
+Viertes Joch (hier soll Fra Lorenzo Cardoni der hlg. Dreieinigkeit einen Altar errichtet haben; seit etwa
 1570 unter dem Patronat der Familie Capponi und der Rosenkranz-Madonna geweiht) (285). Altartafel,
 Verkündigung, letztes Werk von Santi di Tito, um 1602/03 (der Verkündigungsengel soll ein Bildnis des
 Virgilio Carnesecchi sein) (286). - Links daneben Tafelbild, hlg. Lucia, von Davide del Ghirlandaio oder
@@ -3988,41 +3828,38 @@ Jacopo del Tedesco, gemalt 1494 (?) für die Bruderschaft des hlg. Petrus Martyr
 Tommaso Cortesi, der als Stifter dargestellt ist (287). Tabernakelrahmen aus der Zeit der Entstehung des
 Bildes.
 
-
-_S. Maria Novella_
-
-_Fünftes Joch_ (der Altar war vielleicht ursprünglich dem hlg. Domini-kaner-Martyrer Ignatius geweiht,
+Fünftes Joch (der Altar war vielleicht ursprünglich dem hlg. Domini-kaner-Martyrer Ignatius geweiht,
 unter dem Patronat der Benin-tendi; seit etwa 1570 unter dem Patronat der Bracci) (288). Trip-tychon,
 Erzengel Raffael und Tobias zwischen einem Dominikaner Hlg. und der hlg. Katharina von Siena;
 Nachfolge des Castagno, um 1460/70 (289); Rahmen aus der Zeit der Entstehung des Bildes. -
 Altartafel, Christus und die Samariterin am Brunnen, von Alessandro Allori, bezeichnet und datiert 1575
 (290). - Tafelbild, Verkündigung, von Neri di Bicci, 1455 (291).
 
-_Sechstes Joch_ (Patrone des Altares: ursprünglich die Familie Mazzinghi, genannt da Peretola, später
+Sechstes Joch (Patrone des Altares: ursprünglich die Familie Mazzinghi, genannt da Peretola, später
 Baccelli; letztere weihten ihn der Taufe Christi; kurz vor 1755 kam er unter das Patronat der Familie
 Ricci, die ihn der hlg. Caterina de'Ricci weihten) (292). Marmor-Wandgrab des Juristen Antonio Strozzi
 († 1524 st. c.), errichtet von seiner Gemahlin, Antonietta Vespucci, um 1524; Entwurf von Andrea
 Ferrucci da Fiesole, ausgeführt von Silvio Cosini (Madonna und rechter Engel) und Maso Boscoli
-(linker Engel) (293). - Altartafel,
-
-Auferweckung des Lazarus, von Santi di Tito, bezeichnet und datiert 1576 (294). Marmor-
+(linker Engel) (293). - Altartafel, Auferweckung des Lazarus, von Santi di Tito, bezeichnet und datiert 1576 (294). Marmor-
 Grabmonument des Priesters F. Fontanio, 1821.
 Die Cappella della Pura ist innerhalb des Rundgangs im Innern der Kirche behandelt.
 
-_Kirchenschatz._
+Kirchenschatz.
 Mitra des hlg. Erzbischofs Antonin; in hölzernem Behälter, ge-schnitzt und vergoldet, 18. Jahrh. (?). -
 Kruzifix, Silber vergoldet, mit den vier Evangelisten in Silber, gute Arbeit des 17. Jahrh. - Vier
 Büstenreliquiare weiblicher Heiliger, zwei Ende 14. Jahrh., zwei Mitte oder 2. H. 15. Jahrh. (oder etwa
 alle aus dem frühen 16. Jahrh. in betont altertümlicher Art?). - Kultgeräte. - Textilien des 16.-18. Jahrh. -
 Paliotto, gestickter Brokat mit vierzehn Geschichten aus dem Marienleben, Mitte 15. Jahrh. (295).
 
-KLOSTER
-_Chiostro Verde._
+## KLOSTER
+
+### Chiostro Verde.
 Erbaut wohl von Fra Jacopo Talenti, um 1350/60 (vgl. S. 696f.).
 Im Durchgang: rechts Fresko, thronende Madonna von zwei Hlg. ver- ehrt; Art des Fra Bartolommeo,
 Anfang 16. Jahrh., fast erloschen. Links Fresko (Supraporte), Dominikaner-Hlg.,18. Jahrh. Ferner zehn
 Grabsteine, 1. H. 19. Jahrh.
-_Loggia._
+
+#### _Loggia._
 Fresken. Im Gewölbe in jeder Kappe ein Medaillon mit dem Brust-bild eines Dominikaner Hlg., 14.
 oder 15. Jahrh., zum Teil er-neuert (296). An den Wänden an drei Seiten Darstellungen aus dem Alten
 Testament, in Terra verde, von Paolo Uccello und anderen zeitgenössischen Malern, wohl zwischen
@@ -4032,37 +3869,34 @@ Ostflügel (entlang der Kirche). Hier sind die wichtigsten Fresken des Zyklus, v
 Drei zugehörige wesentliche Stücke jetzt abgelöst und im Raum hinter dem Refektorium bewahrt
 (Capi-tolo del Nocentino, S. 726). 1. Joch: Treppe und Tür zur Kirche. -
 
-
-_S. Maria Novella_
-
-_2. Joch:_ im Bogenfeld Schöpfung der Tiere und Schöpfung Adams; unten Schöpfung Evas und
+2. Joch: im Bogenfeld Schöpfung der Tiere und Schöpfung Adams; unten Schöpfung Evas und
 Sündenfall; wohl Frühwerke von Paolo Uccello, um 1430/36, von anderen als Gehilfenarbeit betrachtet
 (297).
-- _3.Joch_ : das Bogenfeld leer (ehemals hier Austreibung aus dem Paradies, Arbeit von Adam und Eva;
+- 3.Joch: das Bogenfeld leer (ehemals hier Austreibung aus dem Paradies, Arbeit von Adam und Eva;
 von Paolo Uccello und Gehilfen, um 1430/36); unten Opfer von Kain und Abel, Tod des Abel, aus dem
 Kreis des Uccello, um 1430/40; sehr zerstört (297). -
-_4. Joch_ : im Bogenfeld Lamech tötet Kain, Bau der Arche; unten Einzug in die Arche (sehr zerstört); aus
-dem Kreise des Uccello, uni 1430/40 (297). - _5. Joch_ : leer (ehemals hier Sintflut und Noahs Dank-opfer
-und Schande, von Uccello, um 1446). - _6. Joch_ : im Bogenfeld und unten Reste einer Darstellung vom
+4. Joch: im Bogenfeld Lamech tötet Kain, Bau der Arche; unten Einzug in die Arche (sehr zerstört); aus
+dem Kreise des Uccello, uni 1430/40 (297). - 5. Joch: leer (ehemals hier Sintflut und Noahs Dank-opfer
+und Schande, von Uccello, um 1446). - 6. Joch: im Bogenfeld und unten Reste einer Darstellung vom
 Turmbau zu Babel; es ist fast nur die rote Vorzeichnung auf der untersten Putzschicht er-halten; in der
-Art des Delio Delli, um 1430/40 (298). - _7. Joch_ : im Bogenfeld Reste reichgewandeter Figuren (Hlg. ?),
+Art des Delio Delli, um 1430/40 (298). - 7. Joch: im Bogenfeld Reste reichgewandeter Figuren (Hlg. ?),
 in der Art des Dello Delli, um 1430/40 (298); unten nur unkenntliche Reste erhalten.
 
-_Südflügel_. Die ersten fünf Joche einem Meister aus dem Kreise des Lorenzo di Niccolo zugeschrieben,
+##### _Südflügel_. 
+Die ersten fünf Joche einem Meister aus dem Kreise des Lorenzo di Niccolo zugeschrieben,
 um 1430; das Bogenfeld des sechs-ten Joches von einem besseren Meister der gleichen Zeit; das Feld
-darunter in der Hauptsache von der Hand des Meisters der ersten Joche (299). _1. Joch_ : im Bogenfeld
-Auszug Abrahams; unten Er-scheinung Gottes vor Abraham. - _2. Joch_ : im Bogenfeld Trennung von
+darunter in der Hauptsache von der Hand des Meisters der ersten Joche (299). 1. Joch: im Bogenfeld
+Auszug Abrahams; unten Er-scheinung Gottes vor Abraham. - 2. Joch: im Bogenfeld Trennung von
 Abraham und Lot; unten Sieg Abrahams über Lots Feinde, Abraham und Melchisedek (Fresken auf
-Lwd. übertragen). - _3. Joch_ : im Bogenfeld Besuch der drei Engel bei Abraham; unten Brand Sodoms,
-Verwandlung von Lots Weib zur Salzsäule; sehr zerstört.
-
-_4. Joch_ : im Bogenfeld Vertreibung von Hagar und Ismael; unten Be-fehl zum Opfer und Opferung
-Isaaks. - _5. Joch_ : im Bogenfeld Tod der Sara, Erwerb ihres Grabgeländes; unten Abreise Eliesers,
-Zu-sammentreffen mit Rebekka am Brunnen. - _6. Joch_ : im Bogenfeld Heirat von Isaak und Rebekka
+Lwd. übertragen). - 3. Joch: im Bogenfeld Besuch der drei Engel bei Abraham; unten Brand Sodoms,
+Verwandlung von Lots Weib zur Salzsäule; sehr zerstört. 4. Joch: im Bogenfeld Vertreibung von Hagar und Ismael; unten Be-fehl zum Opfer und Opferung
+Isaaks. - 5. Joch: im Bogenfeld Tod der Sara, Erwerb ihres Grabgeländes; unten Abreise Eliesers,
+Zu-sammentreffen mit Rebekka am Brunnen. - 6. Joch: im Bogenfeld Heirat von Isaak und Rebekka
 (fast allein in der Vorzeichnung erhalten); unten Tod Abrahams (sehr zerstört). Seitlich Tür zum Museo
 del Risorgimento und Refektorium.
 
-_Westflügel_. Das Bogenfeld und das untere Feld des ersten Joches von einem konservativen Zeitgenossen
+##### _Westflügel_. 
+Das Bogenfeld und das untere Feld des ersten Joches von einem konservativen Zeitgenossen
 des Uccello, der vielleicht mit Dello Delli zu identifizieren ist, um 1430/40; die fünf nächsten Joche in
 der Art des Rossello di Jacopo Franchi, um 1430/40 (300); im letzten Joch ein Fresko des 14. Jahrh. _1.
 Joch_ : im Bogenfeld Geburt von Jakob und Esau, Verkauf der Erstgeburt; unten Rebekka und Jakob,
@@ -4077,20 +3911,13 @@ Dina; unten Jakobs Sohne rachen den Raub. - _7. Joch_ : im Bogenfeld Kruzifix mi
 und Thomas von Aquin; aus der Nachfolge Giottos, Mitte 14. Jahrh.; sehr übermalt, vor allem die
 Nebenfiguren (302). Unten Tür zum Chiostro Grande.
 _Nordflügel_. 1. Joch: im Bogenfeld Fresko, Halbfigur der Madonna mit Kind aus der Nachfolge Duccios,
-
 1. H. 14. Jahrh.; sehr übermalt (303). Unten Fresken, Dominikaner in Nischen, von Bernardino Poccetti
-
-
-_S. Maria Novella_
-
 (?), Ende 16. Jahrh. (304); gleichzeitig wohl auch die vorhangraffenden Engel neben dem Bogenfeld.
 Davor Altar aus Pietra dura, angeblich von dem Dominikaner Pietro Tacca, Anfang 18. Jahrh. (305). -
-
 3. Joch: Eingang zur Spanischen Kapelle.
 
-```
-Spanische Kapelle.
-```
+#### *Spanische Kapelle.*
+
 Ursprünglich Kapitelsaal und Fronleichnamskapelle unter dem Pa-tronat des Buonamico di Lapo
 Guidalotti (306); erhaut wohl von Fra J acopo Talenti, um 1344 ff. (vgl. S. 697 und Anm. 67); 1566/67
 erhielt die spanische Kolonie in Florenz diesen Raum, in dem sie schon seit
@@ -4098,9 +3925,9 @@ erhielt die spanische Kolonie in Florenz diesen Raum, in dem sie schon seit
 langem ihre Versammlungen abzuhalten pflegte, als Kapelle zuge-sprochen; seit 1592 war er dem
 spanischen Nationalheiligen Jakobus von Compostella geweiht (307). 1733 Bestätigung dieser
 Uberweisung (Inschrift vor dem Altar im Fußboden).
-_Außen am Türsturz_ Reliefs, Tod und Himmelfahrt des hlg. Petrus Martyr, in der Mitte das Guidalotti-
+Außen am Türsturz Reliefs, Tod und Himmelfahrt des hlg. Petrus Martyr, in der Mitte das Guidalotti-
 Wappen. Am Türsturz innen Freskenreste.
-_Freskenzyklus im Inneren_. Berühmtes Hauptwerk scholastischer Ge-dankenmalerei, von Andrea
+Freskenzyklus im Inneren. Berühmtes Hauptwerk scholastischer Ge-dankenmalerei, von Andrea
 Bonaiuti da Firenze, 1365 ff. (308). Das Programm beruht auf dem “Specchio della vera penitenza” des
 Fra Jacopo Passavanti, Priors von S. Maria Novella († 1357) und Testa­mentsvollstreckers des Stifters
 (309). Dargestellt sind in einem siene-sisch-flüchigen, doch florentinisch-tektonisierten Stil: Im
@@ -4116,21 +3943,15 @@ die enge Pforte in das Paradies eingehen; in der untersten Zone die Kirche (Wahr
 Florentiner Dom - nach einem Modell des Andrea Bonaiuti) (310), davor Vertreter der geistlichen und
 welt-lichen Obrigkeit; rechts davon Disput des hlg. Dominikus mit Irr-lehrern, im Vordergrund
 schwarzweiße “Dominicanes”, die die Schafe (= Gemeinde) hüten und die Wölfe (= Ketzer) vertreiben.
-
 - An der nordlichen Wand, neben und über dem Eingangsbogen der Chorkapelle, Kreuztragung,
 Kreuzigung, Christus in der Vorhölle in figurenreichen Kompositionen. - An der linken (westlichen)
-Wand die
-
-triumphierende Kirche, dargestellt durch den Triumph des hlg. Tho-mas von Aquin; der Hlg. sitzt auf
+Wand die triumphierende Kirche, dargestellt durch den Triumph des hlg. Tho-mas von Aquin; der Hlg. sitzt auf
 einem mächtigen gotischen Thron umgeben von den sieben Tugenden in Gestalt fliegender Engel, zu
 seinen Fußen die Vertreter des Ketzertums, Sabellius, Averrhöes und Arius; neben ihm thronen die hlg.
 Schriftsteller, deren Bucher Tho-mas kommentiert hat, Hiob, David, Paulus, Markus, Johannes d. Ev.
 Matthäus, Lukas, Moses, Jesaias und Salomon; unter dieser oberen Reihe sitzen auf einem
 achitektonisch reich gestalteten Gestühl vier-zehn Frauengestalten als Personifikationen des Wissens;
 rechts die der sieben freien Künste (Trivium und Quadrivium), zu ihren Fußen berühmte Vertreter ihrer
-
-
-_S. Maria Novella_
 
 Disziplinen, zu ihren Häupten Personifika-tionen der ihnen entsprechenden Planeten usw.; links die
 Personifi-kationen der höheren Wissenschaften, nämlich von links nach rechts die des weltlichen
@@ -4146,7 +3967,8 @@ Kaufleuten, 1578; am Eingang die des Andrea a Moneta (t 1598). An der linken Sei
 Marmor und Pietra dura von Pietro Montorio († 1584), an der rechten Seite Marmorgrabplatte von
 Bat­tista de Burgos († 1591) (314).
 
-_Chorkapelle._ Die Spanier betonten 1592 den Eingang durch zwei Pilaster und einen Bogen,
+##### _Chorkapelle._ 
+Die Spanier betonten 1592 den Eingang durch zwei Pilaster und einen Bogen,
 verwandelten das gotische Fenster in eine- ovale Öffnung und schlugen die Rippen fort, um Platz für
 eine Ge-wölbe-Dekoration zu schaffen (315). Im Gewölbe Fresken, Grotesken und Medaillons mit
 Szenen aus der Legende des hlg. Jakobus, von
@@ -4162,31 +3984,23 @@ und den Hlg. Petrus, Joh. d. Ev.(?), Joh. d.T. und Matthäus (?), aus der Werk- 
 bezeichnet und datiert 1344 (319). - In der Sakristei angeblich ein gemalter Kruzifix, 12. Jahrh. (?);
 un-sicher, oh noch vorhanden (320).
 
-_Loggia, Fortsetzung des Nordflügels._
+##### _Loggia, Fortsetzung des Nordflügels._
 Uber dem Durchgang zum Chiostro dei Morti Fresko in Terra verde, in der Mitte Totengerippe, seitlich
 je ein schwebender Hlg.; 15.Jahrh. An der Wand rechts daneben Fresko, der hlg. Thomas von Aquin im
 Stammbaum der Dominikaner; vielleicht von Stefano, einem Schüler Giottos, 2.Viertel 14. Jahrh.;
 einige Teile neu eingesetzt (321).
 
-_Durchgang
-zwischen Chiostro Verde und Chiostro Grande._
+##### _Durchgangzwischen Chiostro Verde und Chiostro Grande._
 An der Westwand Fresko, Tod des hlg. Petrus Martyr, fast verblichen, 1298 (?) (321a).
 
-```
-Durchgang zwischen Chiostro Verde und Chiostro dei Morti.
-```
-
-_S. Maria Novella_
-
+##### _Durchgang zwischen Chiostro Verde und Chiostro dei Morti._
 Im Gewände des Eingangsbogens Freskenreste, stehende Hlg., unten Stifter, 14. Jahrh.; sehr zerstört. -
 An beiden Wänden zahlreiche Grabplatten und Wappentafeln. - An der rechten Wand Steinrelief,
-Halbfigur der Madonna mit Kind, um 1300 (?). -- An der linken
-
-Wand Steinrelief, Tabernakel mit thronender Madonna mit Kind und Stifterpaar, seitlich Engel und
+Halbfigur der Madonna mit Kind, um 1300 (?). -- An der linken Wand Steinrelief, Tabernakel mit thronender Madonna mit Kind und Stifterpaar, seitlich Engel und
 Maria der Verkündigung, oben Salva-tor; I. H. 14. Jahrh. (322). - An beiden Wänden je ein Fresko des
 Schmerzensmannes, 14. Jahrh.; sehr zerstört. Außerdem geringe andere Freskenreste.
 
-_Chiostro dei Morti._
+##### _Chiostro dei Morti._
 Ältester Teil des Klosters (vgl. S. 694 f.). Die Räume waren lange durch Scherwände gegeneinander
 abgeschlossen und wirkten dadurch in früherer Zeit mehr als Kapellen als jetzt (vgl. Anm. 84).
 Antonius-Kapelle (Doppelkapelle rechts), dem hlg. Antonius Abbas geweiht; Patrone: im 14. Jahrh.
@@ -4219,12 +4033,8 @@ Im selben nördlichen Kreuzgangflügel Fresko, Madonna mit Kind und hlg. Therese
 unbekannten Maler, 1825 (Grabinschrift darunter). - Grabmäler und Skulpturen-Fragmente.
 An der Westwand Altar mit glasiertem Terrakotta-Relief, Noli me tangere, von Giovanni della Robbia,
 erstes Viertel 16. Jahrh. (330).
-
 - Altartisch und Sarkophag aus Marmor, von F. Alessandro Capocchio (t 1581). - Steinstatue des seligen
 Giovanni da Salerno, von Giro-lamo (?) Ticciati, 1735 (331).
-
-
-_S. Maria Novella_
 
 Strozzi-Kapelle (an der südwestlichen Ecke des Kreuzgangs), der Ver-kündigung Mariae geweiht;
 Patrone: Strozzi. Gestiftet von Beatrice Strozzi-Trinciavelli, um 1330 (332). Fresken: im Gewölbe
@@ -4234,17 +4044,15 @@ figurenreicher Kreuzigung, an der Südwand Geburt Christi (beide Fresken offenba
 restauriert); von einem Maler aus dem Kreise des Maso di Banco; Mitte 14. Jahrh. (333). - Grabmäler
 aus dem 19. Jahrh.
 
-_Durchgang
-zwischen Chiostro dei Morti und Chiostro Grande._
+##### _Durchgang zwischen Chiostro dei Morti und Chiostro Grande._
 An einer Wand, die als Lettner in einem dreiteiligen Raum (dem ehe- maligen Hospiz) diente, Fresken:
 Madonna und Christus thronend, seitlich Reihen von knienden Glauhigen; Geburt Christi; Maria der
 Verkündigung; dem Delio Delli zugeschrieben, um 1446; aufgedeckt 1933/34 (334).
 
-_Durchgang
-zwischen Chiostro Verde und Refektorium._
+##### _Durchgang zwischen Chiostro Verde und Refektorium._
 Spuren von Fresko-Dekorationen des 13. Jahrhunderts.
 
-_Refektorium._
+#### _Refektorium._
 Vorraum. Spuren von dekorativer Malerei, Ende 13. Jahrh., dicht neben der Südwestecke des Chiostro
 Verde (vgl. Anm.55).
 Hauptraum, erbaut wohl von Fra Jacopo Talenti, um 1350/60 (vgl. S. 697 f.). An der Ostwand großes
@@ -4254,24 +4062,16 @@ thronende Madonna mit Kind und Stifter in Dominikanertracht, seitlich die Hlg. J
 Martyr, Dominikus und Thomas von Aquin; in der Art des Gherardo Star-nina, um 1400 (337).
 Umgeben von einem Fresko, Mannalese, von Alessandro Allori, bezeichnet und datiert 1597 (338). Das
 Madonnen-fresko war lange von dem Abendmahlsbild des Allori bedeckt, das jetzt an der Ostwand
-hängt.
-An der Westwand Gemälde, ein hlg. Dominikaner heilt einen Kranken,
-
-18. Jahrh. - Gemälde, Bücherverbrennung auf Geheiß eines Domini-kaners, von Ranieri del Pace,
+hängt. An der Westwand Gemälde, ein hlg. Dominikaner heilt einen Kranken, 18. Jahrh. - Gemälde, Bücherverbrennung auf Geheiß eines Domini-kaners, von Ranieri del Pace,
 bezeichnet und datiert 1716. - Ge-mälde, Abendmahl, 16. Jahrh. (?).
 Schänke mit kirchlichen Gewändern. - Vier Rüstungen. - Marmor-kamin, 1675 (Inschrift).
-    _Capitolo del Nocentino_
+#### _Capitolo del Nocentino_
 (Raum hinter dem Refektorium).
 Erbaut 1303/08 (vgl. S. 697 und Anm. 56); der Anbetung der Hlg. Drei Könige geweiht. Zeitweiliger
 Aufenthaltsort dreier abgenommener Fresken von Paolo Uccello aus dem Chiostro Verde. An der
 Südwand Bogenfeld, Austreibung aus dem Paradies und Arbeit von Adam und Eva, von Paolo Uccello
 ent-worfen, von Gehilfen ausgeführt, um 1430/36 (ehemals im 3. Joch des Ost-flügels). Gegenüber
-Bogenfeld und unteres Feld, Sintflut (oben), Noahs Dank-
-
-
-_S. Maria Novella_
-
-opfer und Schande (unten), Hauptwerke von Paolo Uccello, um 1446 (ehe- mals im 5. Joch des
+Bogenfeld und unteres Feld, Sintflut (oben), Noahs Dank- opfer und Schande (unten), Hauptwerke von Paolo Uccello, um 1446 (ehe- mals im 5. Joch des
 Ostflügels); von der Mauer abgelost und auf Lwd. über- tragen 1906/07 oder 1909 durch Fiscali (339).
 Sonstige Ausstattung. Ander Westwand: links oben Rundbild, die Hlg. Domi- nikus und Franziskus,
 Gegenstück dazu rechts oben, die Hlg. Thomas von Aquin und Bonaventura; von Jacopo Vignali, Mitte
@@ -4279,12 +4079,12 @@ Gegenstück dazu rechts oben, die Hlg. Thomas von Aquin und Bonaventura; von Jac
 Rechts unten Rundbild, Apostel (340). - Auf einem Schrank an der Südwand Christuskopf, Kopie nach
 Giovanni da Bologna.
 
-_Chiostro Dati_.
+#### _Chiostro Dati_.
 Erbaut um 1424 (vgl. S. 698 und Anm. 72). Zwei Bogenfelder mit Fresken, Dominikaner-Szenen, um
 1600.
 
-_Chiostro Grande.
-Loggia._
+#### _Chiostro Grande._
+##### _Loggia._
 Zugänglich durch die Scuola sottufficiale Carabinieri, Piazza della Stazione. Erbaut 1303/40 mit
 Zufügungen 2. H. 15. Jahrh. (vgl. S. 698f.).
 Fresken. Zyklus mit Hauptwerken vieler spätmanieristischer und frühbarocker Maler, entstanden 1570-
@@ -4312,12 +4112,7 @@ sich; von Gamberucci. - 11. Ohne Gemälde. - 12. Maria erscheint dem hlg. Domini
 Buti (347). - 13. Engel bedienen den hlg. Dominikus und seine Mönche beim Mahle; von Santi di Tito
 (348). - 14. Christus vor Pilatus; darunter Maria Magdalena und Martha; von Giovanni Balducci (349).
 Westflügel. 1. Christus wäscht den Aposteln die Füße. Im Gewölbe Grotesken und Passionsszenen; von
-Giovanni' Balducci (350). -
-
-
-_S. Maria Novella_
-
-2. Wunder des hlg. Reginald; von Lodovico Buti (351). - 3. Der hlg. Dominikus heilt eine besessene
+Giovanni' Balducci (350). - 2. Wunder des hlg. Reginald; von Lodovico Buti (351). - 3. Der hlg. Dominikus heilt eine besessene
 Frau; von Lorenzo Sciorina (352). - 4. Der hlg. Dominikus trägt das Bild der Madonna; von Lodovico
 Buti. - 5. Der hlg. Dominikus heilt den Neffen des Kardinals Orsini; von Alessandro Fei, genannt del
 Barbiere. - 6. Der hlg. Dominikus heilt einen Maurer beim Bau von S. Sisto in Rom; von Benedetto
@@ -4349,12 +4144,7 @@ hlg. Thomas von Aquin schlägt Papst Urban IV. die Feier des Fronleichnams vor; 
 um 1730 (369). - 7. Ohne Gemälde. - 8. Der hlg. Thomas von Aquin ·an der Tafel der Könige von
 Frankreich; von Antonio Pillori, um 1730 (370).
 
-
-**_Full German Text_**
-
-## PAGE 730
-
-_Papstkapelle._
+### Papstkapelle.
 In der Westseite des Nordflügels, Obergeschoß. Freskomalerei zu Ehren von Papst Leo X.
 (Medici), von Jacopo Pontormo und Andrea Feltrini im Auftrage und teilweise nach Entwurf von
 Ridolfo del Ghirlandaio, seit 1515 (371). An der Decke _Mittelmedaillon mit Gott-vater_ ,
@@ -4367,11 +4157,11 @@ del Ghirlandaio ausgeführt, wohl in den zwanziger Jahren des 16. Jahr-hunderts 
 den Seitenwänden Grotesken, wahrschein-lich von Andrea Feltrini ausgeführt. Alles stark
 erneuert, zum Teil von Conti.
 
-**_Museo del Risorgimento._**
+#### _Museo del Risorgimento._
 Vgl. Guida del Touring-Club Italiano, 1937, 262. - Die Räumlich-keiten bildeten früher
 größtenteils die Krankenabteilung (vgl. dar-über S. 699 und Anm. 54).
 
-_Sakristei der ehemaligen Nikolauskapelle_
+##### _Sakristei der ehemaligen Nikolauskapelle_
 (zugänglich vom Museo del Risorgimento).
 Am Chiostro dell'lnfermeria gelegen. Im 18./19.Jahrh. zur Apotheke gehörig. Patrone der
 Nikolauskapelle: Acciaioli; erbaut um 1332/34 (vgl. S. 669f. und S. 699).
@@ -4385,11 +4175,8 @@ rechts _Christus vor Kaiphas_ (?), unten links _Gefangennahme_ , rechts _Handwas
 An der Eingangs-wand im Bogenfeld _der 12-jährige Jesus im Tempel_ , unten links _Abendmahl_ ,
 rechts _Fußwaschun_ g.
 
-## PAGES 743- 758
-
-
-**Verlorene Ausstattung**
-_Die vorromanische Kapelle_
+### Verlorene Ausstattung
+#### _Die vorromanische Kapelle_
 (vor 983, abgerissen um 1350; vgl. S. 672)
 
 Ausstattung unbekannt. Vielleicht waren an ihr die beiden _Steinreliefs_ mit Madonnen-
@@ -4397,7 +4184,7 @@ Darstellungen angebracht, die sich jetzt im Durchgang vom Chiostro Verde zum Chi
 Morti befinden (bgl. S. 723f. Und Anm. 322). – Auch ein _gemalter Kruzifix_ ist in
 Zusammenhang mit der Kapelle gebracht worden (373).
 
-_Die romanische Kirche_
+#### _Die romanische Kirche_
 (vollendet 1094, abgerissen um 1279; vgl. S. 673)
 
 _“Oberer Altar” (Hochaltar?)_ , geweiht 1094 der Madonna und der hlg. Agathe (vgl. Anm. 89).
@@ -4415,22 +4202,24 @@ _gemalter Kruzifix_ angebracht war, muß ebenfalls unentschieden bleiben (vgl. A
 Über die Ausstattung etwaiger _Nebenbauten_ sind keine Nachrichten überliefert. Sie waren wohl
 recht unscheinbar (vgl. S. 673)
 
-**_Die Jetzige Kirche_**
+### Die Jetzige Kirche
 
-_Außen.
-Obergaden._ In den Bögen des Spitzbogenfrieses _Fresko-Malerei_ , Medaillons mit Halbfiguren
+#### _Außen._
+##### Obergaden. 
+In den Bögen des Spitzbogenfrieses Fresko-Malerei, Medaillons mit Halbfiguren
 von Heiligen (Spuren an der Westseite erhalten).
-_Ostseite_. Neben dem kleinen, von Vasari angebrachten Kirchenportal _Fresko_ , Madonna verehrt
+##### _Ostseite_. 
+Neben dem kleinen, von Vasari angebrachten Kirchenportal _Fresko_ , Madonna verehrt
 von den hlg. Therese, von Gaspero Martellini, 1. H. 19. Jahrh. (377); verloren – Auf der anderen
 (?) Seite dieser Tür _Grabnische (Avello) mit Fresko_ , der hlg. Zenobius und der hlg. Giovanni
 Gualberto, der den Kruzifix anbetet, 14. Jahrh. (378); verloren.
 
-_Innen.
-Allgemeines._ Charakterisierung des Zustandes vor den Eingriffen des 16. und 19. Jahrhunderts
+#### _Innen._
+##### _Allgemeines._
+Charakterisierung des Zustandes vor den Eingriffen des 16. und 19. Jahrhunderts
 bei Wackernagel, Lebensraum, 1938, 56f. – Die ursprüngliche Ausstattung wurde beherrscht von
 großen Freskenzyklen und dem mächtigen, mit der Architektur zusammen erwachsenen
 Mönchschor in den letzten zwei Jochen vor der Vierung. Zu den Fresken muß man sich noch die
-
 
 Menge der vielgestaltigen Altäre in zwangloser Reihenfolge, der Orgeln, Kruzifixe,
 Gnadenbilder und Grabmäler hinzudenken, um eine Vorstellung von der reizvollen Buntheit der
@@ -4451,8 +4240,8 @@ _Älterer Fußboden_ , von Fra Minia Lapi (1321-76 im Kloster) gestiftet und vie
 hergestellt; 1861 ff. ersetzt (382). Darin, unregelmäßig angeordnet, eine große Zahl von
 _Grabplatten_ ; 1861 in der jetzigen regelmäßigen Anordnung neu verlegt (383).
 
-_Fassadenwand.
-Altar_ westlich neben dem Hauptportal (zunächst den Hlg. Drei Königen geweiht, später wohl der
+##### _Fassadenwand._
+Altar westlich neben dem Hauptportal (zunächst den Hlg. Drei Königen geweiht, später wohl der
 Verkündigung Mariae; Patrone: del Lama, dann Fedini, Ende 16. Jahrh. Mondragine, im 17.
 Jahrh. Vecchietti) (384). Erste Dekoration: Mensa aus Marmor, mit _Tafelbild_ , Anbetung der Hlg.
 Drei Könige, von Sandro Botticelli; gemalt im Auftrag des Gasparre di Zanobi del Lama, um
@@ -4471,9 +4260,7 @@ rechten Seitenschiffs (vgl. dort). Ersetzt durch das _Triptychon_ , Erzengel Raf
 zwei Hlg., Schule des Castagno; jetzt im 5. Joch des linken Seitenschiffs (vgl. dort). – 1857
 wurde der Altar aufgehoben und das dahinterliegende Verkündigungsfresko aufgedeckt.
 
-_Mittelschiff.
-An einem Pfeiler_ rechts zeitweise _Weihwasserbecken_ , 1300/02 (vgl. Anm. 414).
-
+_Mittelschiff. An einem Pfeiler_ rechts zeitweise Weihwasserbecken, 1300/02 (vgl. Anm. 414).
 
 _Im dritten Joch_ über den Arkaden rechts und links _Fresken_ , Bildnisse des Andrea di Niccolò
 Minerbetti (Gonfaloniere von 1387) und seiner Frau Francesca; 2. H. 14. Jahrh. (387); verloren.
