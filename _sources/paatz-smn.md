@@ -2337,7 +2337,7 @@ missing. –Second decoration: Marble relief, _Madonna with child,_ attributed t
 second half of the 15th century.; positioned by the repeal of the confraternity at the place of the
 altarpiece, originated from the house of Ascanio Bitti (Guiducci) (536); missing.
 
-### **Chiostro Grande and extensions.**
+### Chiostro Grande and extensions.
 #### _Court._
 In the middle was once a statue of the blessed John from Salerno, by Girolamo (?) Ticciati, 1735;
 now in Chiostro dei Morti on the western wall, cf. there.
