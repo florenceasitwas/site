@@ -21,8 +21,12 @@
   <button class="btn btn-outline-success" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Table of Contents
   </button>
-                    <p class="toc collapse" id="collapseExample">
-                 {% include toc.html html=content class="toc" %}</p>
+      <div class="collapse" id="collapseExample">
+
+                    <p class="toc">
+                 {% include toc.html html=content class="toc" %}
+                    </p>
+      </div>
                    <hr />
                 	</header>
 
