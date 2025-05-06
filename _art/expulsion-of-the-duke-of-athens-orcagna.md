@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Orcagna, Expulsion of the Duke of Athens
-image: 
+image: OrcagnaExpulsion.jpg
 category: painting
 status: live
 author_first: Madeleine 
