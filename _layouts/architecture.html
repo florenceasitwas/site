@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body>
+ {% include nav.html %}
+    <div class="container-md">
+
+    <h1>{{ page.title}}</h1>
+    <div class="row">
+    <div class="col-6">
+    <h2>Models</h2>
+    <figure class="figure">
+    <a href="{{page.model_link}}"><img class="figure-img img-fluid rounded" src="{{site.url}}{{page.model_thumbnail}}" class="img-fluid" alt="..."></a>
+    <figcaption class="figure-caption">{{page.model_info}}</figcaption>
+</figure>
+<p>{{content}}</p>
+</div>
+<div class="col-6">
+    <h2>Encyclopedia Articles</h2>
+    <h3>Art</h3>
+    <ul>
+{% assign var1 = site.art | where:"building",page.building %}
+{% for item in var1 %}
+  <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
+{% endfor %}
+</ul>
+
+<h3>Culture</h3>
+<ul>
+
+{% assign var1 = site.culture | where:"building",page.building %}
+
+{% for item in var1 %}
+  <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
+{% endfor %}
+
+</ul>
+
+
+<h3>People</h3>
+<ul>
+{% assign var2 = site.people | where:"building",page.building %}
+{% for item in var2 %}
+  <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
+{% endfor %}
+</ul>
+
+<h3>Sources</h3>
+  <h4>Primary Source Documents</h4>
+
+  <ul>
+  {% assign var4 = site.sources | where:"status","live" | where:"type","primary-source" |  where:"building",page.building | sort: 'title' %}
+    {% for item in var4 %}
+        <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>      
+    {% endfor %}
+  </ul>
+
+<h4>Modern Descriptions</h4>
+  <ul>
+  {% assign var5 = site.sources | where:"status","live" | where: "type","description" | where:"building",page.building | sort: 'title' %}
+    {% for item in var5 %}
+        <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>      
+    {% endfor %}
+  </ul>
+  <ul>
+
+    </div></div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  
+{% include footer.html %}
+  </body>
+
+</html>

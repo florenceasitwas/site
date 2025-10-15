@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body>
+ {% include nav.html %}
+    <div class="container-md">
+        <h1>{{ page.title }}</h1>
+        <div class="metadata">
+                    <p>Author: {{ page.author_first }} {{ page.author_last }} 
+
+                    {% if page.secondauthor_first %} & {{ page.secondauthor_first }} {{ page.secondauthor_last }} {% endif %}</p>
+
+                    <p>Translator: {% if page.translator_first %} {{ page.translator_first }} {{ page.translator_last }} {% endif %}
+
+                    <p>Date Published: {{ page.date_published }}</p>
+
+                    {% if page.updated %}<p>Date Updated: {{ page.date_updated }}</p>{% endif %}
+
+                    <p>Preferred Citation: {{ page.author_last }}, {{ page.author_first }}{% if page.secondauthor_first %}, and {{ page.secondauthor_first }} {{ page.secondauthor_last }}{% endif %}. "{{ page.translated_work }}." {% if page.translator_first %} Translated by: {{ page.translator_first }} {{ page.translator_last }} {% endif %}<em>Florence As It Was</em>. http://florenceasitwas.wlu.edu{{ page.url }}</p>
+</div>
+  <button class="btn btn-outline-success" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Table of Contents
+  </button>
+      <div class="collapse" id="collapseExample">
+
+                    <p class="toc">
+                 {% include toc.html html=content class="toc" %}
+                    </p>
+      </div>
+                   <hr />
+                	</header>
+
+                  {% if page.image %}
+                	<span class="image main"><img src="{{ root_url }}/assets/images/{{ page.image }}" alt="{{ page.alt_text }}" /></span>
+                  {% endif %}
+
+                {{ content }}
+
+  </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  
+{% include footer.html %}
+  </body>
+
+</html>

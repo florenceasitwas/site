@@ -1,0 +1,52 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary nav-fill">
+  <div class="container-fluid">
+    <a class="navbar-brand " href="{{ 'index.html' | absolute_url }}">
+      <img id="logo" alt="Florence As It Was" src="{{site.url}}/assets/images/logo-florence.png" width="25%" class="d-inline-block align-text-center">
+    Florence As It Was
+  </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse " id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="{{ 'index.html' | absolute_url }}">Home</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="about.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            About
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="{{ 'about.html' | absolute_url }}">About - EN</a></li>
+            <li><a class="dropdown-item" href="{{ 'about_it.html' | absolute_url }}">About - IT</a></li>
+            <li><a class="dropdown-item" href="{{ 'affiliations.html' | absolute_url }}">Affiliations</a></li>
+            <li><a class="dropdown-item" href="{{ 'blog.html' | absolute_url }}">Blog</a></li>
+            <li><a class="dropdown-item" href="{{ 'contributors.html' | absolute_url }}">Contributors</a></li>
+            <li><a class="dropdown-item" href="{{ 'methodology.html' | absolute_url }}">Methodology</a></li>
+            <li><a class="dropdown-item" href="{{ 'press.html' | absolute_url }}">Press</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ 'maps.html' | absolute_url }}">Maps & Databases</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="{{ 'pointcloud-models.html' | absolute_url }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Models
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="{{ 'pointcloud-models.html' | absolute_url }}">Pointcloud Models</a></li>
+            <li><a class="dropdown-item" href="{{ 'photogrammetry-models.html' | absolute_url }}">Photogrammetry Models</a></li>
+            
+        </li>
+        </ul>
+      </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ 'encyclopedia.html' | absolute_url }}">Encyclopedia</a>
+        </li>
+
+          <li class="nav-item">  <a class="nav-link" href="{{ 'search.html' | absolute_url }}">Search</a>
+</li>
+      </ul>
+    </div>
+  </div>
+</nav>
