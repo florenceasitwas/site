@@ -12,6 +12,11 @@ title: Florence As It Was
 		<p>There’s a lot of information and a lot of data in these sites, so have patience while they load. It’s worth the wait. </p>
 	    
 		<a href="about.html"><button type="button" class="btn btn-success">Learn More</button></a>
+		
+		<br /><br />
+		<a>Our Latest Contribution</a>
+		<br /><br />
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/XccGdP2FQuI" title="Orsanmichele 1300 vs 1500" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <br /><br />
 	    <iframe width="560" height="315" src="https://www.youtube.com/embed/ET1Yaumugyc?si=ayd9mbgSF2FwBvxe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	</div>

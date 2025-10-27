@@ -11619,6 +11619,11 @@ footer {
   height: 15vh;
 }
 
+.accordion-button:not(.collapsed) {
+  background-color: #f8f9fa;
+  color: rgba(var(--bs-link-color-rgb));
+}
+
 .metadata {
   font-family: "Roboto Slab";
 }
