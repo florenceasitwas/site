@@ -7,7 +7,7 @@ tags:
 status: live
 type: description
 ---
-**Translation:** Jorge Gomez
+*Translation by Jorge Gomez*
 
 ## Historical News of the Florentine Churches: First Three Lessons of the Madonna of Orsanmichele
 
