@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Walter and Elisabeth Paatz, Die Kirchen von Florenz, vol. V, 5-18 (German Translation)
+title: Walter and Elisabeth Paatz, Die Kirchen von Florenz, vol. V, 5-18 (Original German)
 building: san-remigio
 tags: 
 status: live
 type: description
 ---
-
-__Translated by Mariam Drammeh__
 
 S. REMIGIO
 Piazza S. Remigio
