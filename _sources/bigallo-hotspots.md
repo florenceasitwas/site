@@ -10,8 +10,7 @@ secondauthor_first: Aidan
 secondauthor_last: Valente
 date_published: 2017
 date_updated: October 2020
-date_published: 
-date_updated:
+type: description
 ---
 
 ## Loggia
