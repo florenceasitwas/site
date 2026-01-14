@@ -5,7 +5,7 @@ image:
 building: san-remigio
 tags: san-remigio
 status: live
-type: primary-source
+type: description
 --- 
 
 
