@@ -8,8 +8,6 @@ category: translation
 translator_first: Katherine
 translator_last: Dau
 translated_work: "Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch"
-translated_author_first: 
-translated_author_last: 
 date_published: 
 date_updated:
 type: description
@@ -21,11 +19,7 @@ __Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches
 
 **(#) refers to footnotes**
 
-This page will be updated as subsequent parts of the notes and text are translated.
-
 Special thanks to Professor Paul Youngman for all of his help in translating this work.
-
----
 
 ## S. Giovanni
 Piazza S. Giovanni
