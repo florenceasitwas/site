@@ -8,9 +8,11 @@ type: description
 ---
 *Translated by Sonia Brozak with edits by Katherine Dau*
 
+*Located on Corner of Via dei Calzaiuoli and Piazza di S. Giovanni*
+
 __Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch.* Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.__
 
-*Located on Corner of Via dei Calzaiuoli and Piazza di S. Giovanni*
+__(#) refers to footnotes__
 
 ## Table of Contents
 ### English
