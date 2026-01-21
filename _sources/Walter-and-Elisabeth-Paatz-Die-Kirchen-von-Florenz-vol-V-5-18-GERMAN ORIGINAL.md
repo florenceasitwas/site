@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Walter and Elisabeth Paatz, Die Kirchen von Florenz, vol. V, 5-18 (Original German)
+title: Die Kirchen von Florenz, vol. V, 5-18, Paatz (German)
 building: san-remigio
 tags: 
 status: live
