@@ -9,11 +9,11 @@ type: description
 ---
 *Translated by Katherine Dau*
 
+*Located on Via Calzaioli between Nr. 25 R. and Nr. 27 R.*
+
 __Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol IV: M-P. Frankfurt am Main: Vittorio Klostermann, 1952. 480-558.__
 
 __(#) refers to footnotes__
-
-*Located on Via Calzaioli between Nr. 25 R. and Nr. 27 R.*
 
 Special thanks to Professor Paul Youngman for all of his help in translating this work.
 
