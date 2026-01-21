@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Paatz, Baptistery
+title: Baptistery, Paatz
 image:
 building: baptistery
 status: live
