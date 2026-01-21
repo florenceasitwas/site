@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: source
 title: La Loggetta del Bigallo
 building: bigallo
 tags:
