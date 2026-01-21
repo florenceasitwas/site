@@ -8,7 +8,7 @@ type: description
 ---
 *Translated by Sonia Brozak with edits by Katherine Dau*
 
-__Source:** Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch.* Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.__
+__Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch.* Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.__
 
 
 ## Table of Contents
