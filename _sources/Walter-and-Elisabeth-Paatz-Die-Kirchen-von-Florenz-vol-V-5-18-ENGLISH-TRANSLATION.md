@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Walter and Elisabeth Paatz, Die Kirchen von Florenz, vol. V, 5-18 (English Translation)
+title: The Churches of Florence, Paatz (English) 
 building: bigallo
 tags:
 status: live
 type: description
 ---
-Translated by Mariam Drammeh
+
+*Translated by Mariam Drammeh*
 S. REMIGIO
 Piazza S. Remigio
  
