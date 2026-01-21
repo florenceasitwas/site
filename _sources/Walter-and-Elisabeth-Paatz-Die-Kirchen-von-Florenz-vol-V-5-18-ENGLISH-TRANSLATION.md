@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Churches of Florence, Paatz (English) 
+title: The Churches of Florence, vol. V, 5-18, Paatz (English) 
 building: bigallo
 tags:
 status: live
