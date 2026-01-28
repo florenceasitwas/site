@@ -2,19 +2,25 @@
 layout: page
 title: Die Kirchen von Florenz, vol. V, 5-18, Paatz (German)
 building: san-remigio
-tags: 
+tags: san-remigio, paatz
 status: live
 type: description
 ---
 
-S. REMIGIO
+__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: D-L. Frankfurt am Main: Vittorio Klostermann, 1955. 172-230.__
+
+**(#) refers to footnotes**
+
+---
+
+## S. REMIGIO
 Piazza S. Remigio
  
  
-SPEZIALLITERATUR
+## SPEZIALLITERATUR
 Melchior Missirini, Della chiesa priorale di S. Remigio, e del suo altare del SS. Sacramento; 1839. Zitiert als Missirini, S. Remigio, 1839.
  
-NAME
+## NAME
 S. Romeo: wohl mundartliche Enstellung (1).
  
 ### BAUGESCHICHTE
@@ -27,7 +33,7 @@ In gotischer Zeit wurde sie eingreifend umgestaltet. Der Zeitpunkt lässt sich n
 1821 wurden die Außenmauern verputzt und die Portalleibungen nach dem Vorbild der mittelalterlichen Florentiner Marmorinkrustationen schwarzweiß bemalt (14). Damals entstand auch das neugotische Fenster der linken Chorkapelle.
  
  
-### REKONSTRUKTION VERLORENER BAUZUSTÄNDE
+#### REKONSTRUKTION VERLORENER BAUZUSTÄNDE
 Das karolingische Pilgerhospital; 8./9. Jahrhundert.
 Gestalt unbekannt. –Vielleicht ist die ältere der beiden im folgenden Abschnitt rekonstruierten Kirchen mit der Spital-Kirche identisch.
  
@@ -42,7 +48,7 @@ Kanonikat. Die Wohnräume der Kanoniker gruppierten sich südlich von der Kirche
  
 ### BAUBESCHREIBUNG
 Kirche
-Außen
+#### Außen
  
 Übersicht. Die Kirche ist im Grundriß rechteckig. Die Bruchsteinmauern der Fassade und der Nordseite enthalten die romanischen Reste, die im Abschnitt “Rekonstruktion” beschrieben worden sind. Zwischen diesen ältesten, bei der Südwestecke und der Nordostecke der Kirche gelegenen Teilen erstreckt sich das ungleichmäßige Bruchstein-Gemäuer des gotischen Umbaus, das sich durch die gleichmäßig durchlaufenden Gerüstlöcher als eine einheitliche Anlage verrät; zugehörig auch die Rückwand und der Glockenturm, beide mit Fenstern aus dem 16. und 19. Jahrhundert. An allen Wänden Reste des Putzes und der Bemalung von 1821.
  
@@ -50,7 +56,7 @@ Die Fassade hat ihren gotischen Charakter einigermaßen bewahrt. Ihre Gliederung
  
 Nordwand. Ihre Fenster scheinen nachträglich erweitert zu sein.
  
-Innen
+#### Innen
  
 Abbildungen. Grundriss und Innenansichten bei Supino, Gli albori etc. 1906, 131 und Tafel XXVIII.
  
@@ -69,10 +75,10 @@ Kanonikat
 An der Südwand der Kirche entlang streckt sich ein verbauter Trecento-Kreuzgang mit achteckigen Pfeilern. Segmentbögen und quadratischen, rippenlosen Kreuzgewölben. Auch das erste Joch seines Westflügels hat sich erhalten. Darüber und daneben die Wohnräume, die sich durch viele wappengeschmückte Türen als Ergebnis der Erweiterung von 1589 verraten.
  
 ### AUSSTATTUNG
-Außen
+#### Außen
 Fassade. Fresko im Tympanon des Portals, Halbfigur des heiligen Remigius, von Carlo Falcini, 1818 (17)
  
-Innen
+#### Innen
 Rechte Wand.
 Erster Altar (Patrone: Bagnesi); errichtet 1629 (Inschrift). Reliquien in geschnitzten Behältern (18).
 Zweiter Altar (Patrone: Fabbrini, genannt degli Aranci), errichtet 1634 (Inschrift). Reste von Fresken, Heiliger mit Weltkugel und anderes, 14. Jahrh. (19).
@@ -94,7 +100,7 @@ Kanonikat
 Fresko, Verkündigung, Kopie des 14. Jahrh. nach dem Gnadenbild der SS. Annunziata (30). – Gemälde, Vermählung Mariae, von Domenico Martellini, 2. H. 17. Jahrh. (31).
  
 ### VERLORENE AUSSTATTUNG
-KIRCHE
+#### KIRCHE
 Mittelschiff.
 Im Gewölbe des ersten Jochs oder im Bogenfeld des Portals Fresken von Agnolo Gaddi, 2. H. 14. Jahrh. (32); verloren.
 An der Fassade des gotischen Kanonikerchors Tafelgemälde, Beweinung Christi mit den hlg. Frauen, Johannes, Nicodemus, Joseph von Arimathia und den Hlg. Remigius und Benedikt; Hauptwerk des sogenannten Giottino; um 1360 (?); spätestens seit 1754 in der Sakristei, jetzt in den Uffizien, Nr. 454 (33).
