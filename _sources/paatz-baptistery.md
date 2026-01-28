@@ -23,10 +23,8 @@ Special thanks to Professor Paul Youngman for all of his help in translating thi
 
 ---
 
-# Translated English 
-
-## S. Giovanni
-Piazza S. Giovanni
+# S. Giovanni (English)
+*Piazza S. Giovanni*
 
 ## Special Literature
 Antonio Lumachi, *Memorie storiche dell'antichissima basilica di S. Giovanni Batista di Firenze*, Firenze s. a. (1782). — cited as: Lmachi, *Mem. stor*.
@@ -180,7 +178,7 @@ No other Florentine construction so comprehensively and so perfectly manifested 
 
 ---
 
-# Original German
+# S. Giovanni (German)
 
 ## Baugeschichte S. Giovanni
 
