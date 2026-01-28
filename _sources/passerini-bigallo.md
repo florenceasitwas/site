@@ -2,7 +2,7 @@
 layout: source
 title: La Loggetta del Bigallo
 building: bigallo
-tags:
+tags: bigallo
 author_first: Luigi
 author_last: Passerini
 category: translation
@@ -16,8 +16,15 @@ date_updated:
 type: description
 ---
 
+*Translated by Aiden Valente*
 
-## The Loggia of the Bigallo
+__C__
+
+**[#] refers to footnotes**
+
+---
+
+# The Loggia of the Bigallo (English)
 Among the most praiseworthy decisions made by the rulers of Tuscany in the wake of the dismantling of the Austro-Lorraine dynasty was the one to reopen the loggia of the Bigallo on the square of the Duomo. After a few years of waiting, the desires of the people were realized through the wise direction of the architect Mariano Falcini, whose restoration work can still be seen in the upper sections of the building. I believe it is important to reveal information I have uncovered about this building and its artistic value.
 
 This elegant loggia was built by the Captains of the Misericordia for the purpose both of celebrating the charity of the city [which supported the foster home of the Bigallo] and of alerting the public to the fate of those children who, abandoned in the streets, were reunited with the same inhuman parents who came to collect them. I have already addressed the issues of when and how the institution was born, as well as its primitive purpose, in my work on Charitable institutions published in 1853 by Le Monnier; and here I would like to note that recent archival discoveries have confirmed that the Society of the Misericordia was formed after the plague of 1326 by members of the Company of the Laudesi of the Virgin of Orsanmichele, which contradicts the fairy tales invented by the priest Lorenzo Fici in 1605 and repeated by other writers who have examined this pious place.
@@ -52,7 +59,7 @@ They also discussed the work that they want done by Nardo the painter for the pr
 
 [6] 1446 – Ventura di Moro, painter, received four florins on 27 May, as appears in the fourth book of accounts by Giovanni da Filicaia, our administator, on carte 108. And on the 28th of August fifteen florins were given to Rossello the painter for finishing half of the painting for the company of the history of Saint Peter Martyr on the facade of our company, as written down by our Syndicate, Lorenzo di Bartolommeo the painter (Archivio di Stato, Libro dei debitori e creditori del Bigallo del 1446 e 1447, G, carte 10. The pictures by Chellini must be those made to ornament the elegant windows at the top of the oratory’s loggia, that the master restored from the antique when it was last left in a poor state. Here’s the relative item: 1343, 10 March: The painter Piero Cellini and his followers may receive payment for the favorable execution of pictures; twenty lire for the procurement of lime and materials for scaffolding – Deliberazioni dei Capitani del Bigallo, 1443 e 1444, filza VI, carte 10). And I must add to this preceeding statement, noted not by me but by Rumhor and Becchi – 1444, June 1, Piero Chellini painter for restoring pictures on the facade of the residence of the Captains.  
 
-## Original Text: La Loggetta del Bigallo
+## La Loggetta del Bigallo (Italian)
  
 Fu lodevole pensiero di chi reggeva le sorti della Toscana dopo la partenza della dinastia Austro-Lorenese quello di riaprire la loggetta che dicesi del Bigallo, sulla piazza del Duomo: e dopo alcuni anni di espettativa sono stati coronati i voti comuni, vedendosi finalmente compiuto, in parte, il lavoro sotto la sapiente direzione dell'architetto Mariano Falcini, abbenchè resti ancora farsi il restauro del soprastante edifizio. Collegandosi a questo luogo non poche memorie artistiche, non stimo opera inutile lo esporre tutto quello che mi è stato concesso di ritrovare relativo a tale monumento.
 
@@ -74,7 +81,7 @@ Tornando ora alle notizie artistiche de questo luogo, debbo notare che i nuovi p
 
 Qui hanno termine le notizie artistiche de questo luogo, non stimando opportuno di addentrarmi nell'attiguo edifizio, dove pure si conservano non ispregevoli dipinture, nè di parlare delle opere di arte eseguite da Filippo di Cristofano, da Ambrogio di Baldese e da Mariotto di Nardo, per le quali tutte e pei documenti che vi si riferiscono può vedersi il rammentato mio libro sugli stabilimenti di beneficenza di questa città a pagine 9,150 e seguenti.
 
-## Notes
+## Note
 
 [1] 1354, ab incarnatione 21 gennaio - Maestro Giovanni di ser Piero misuratore del Comune e maestro Tomaso di Iacopo di Passero, maestro del Comune, presenti messer Bartolo camarlingo della chiesa maggiore di Firenze ed altri preti e poplani vicini, dettero il luogo per edificare l'Oratorio, sul canto della piazza di san Giovanni, prendendo dieci braccia di terreno o circa, da principiare dalla parte di via degli Adimari, presso la colonna della casa contigua al detto edificio: e così poter far dichiararono, rogandosene ser Matteo di Gherardo da Panico (Arch. di Stato: carte provenienti dal Bigallo, Libro II di Delib. e Stanziamenti, fascicolo I, carte 28).
 
