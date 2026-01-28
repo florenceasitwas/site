@@ -18,6 +18,12 @@ type: description
 
 *Translated by ​Mariam Drammeh, P.T. Meadors, and Catherine McKean*
 
+__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol III. Frankfurt am Main: Vittorio Klostermann, 1952-55.__
+
+**(#) refers to footnotes**
+
+---
+
 # S. MARIA NOVELLA (English)
 *Piazza S. Maria Novella*
 
@@ -2450,11 +2456,11 @@ of the Annunciation; 14th century; now in the Musco Nazionale (Bargello) (581). 
 of a bishop, type of Tino di Camaino, 1st half of the 14th century; now in the Museo Nazionale
 (Bargello) (582).
 
-**GERMAN**
+---
 
 P1 (p663 - Vol. 3)
-# S. MARIA NOVELLA (Deutsch)
-_Piazza S. Maria Novella_
+# S. MARIA NOVELLA (German)
+*Piazza S. Maria Novella*
 
 ## SPECIAL LITERATURE
 _Giuseppe Maria Mecatti,_ Notizie storiche riguardanti il capitolo esistente nel Convento dei Padri
