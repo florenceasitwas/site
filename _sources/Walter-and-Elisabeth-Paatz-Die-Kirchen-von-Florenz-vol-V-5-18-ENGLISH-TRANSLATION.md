@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The Churches of Florence, vol. V, 5-18, Paatz (English) 
-building: bigallo
-tags: bigallo, paatz
+building: san-remigio
+tags: san-remigio, paatz
 status: live
 type: description
 ---
@@ -24,8 +24,7 @@ Melchior Missirini, Della chiesa priorale di S. Remigio, e del suo altare del SS
 ## NAME
 S. Romeo: probably a dialectical distortion (1).
  
- 
-## BUILDING HISTORY
+### BUILDING HISTORY
 The church of the holy Archbishop from Reims is probably from the time period of the French rule, so it was created in the late 8th or 9th century (2). It first served as lodgings for french pilgrims to Rome (3), but it was changed into a canonical monastery right before 1040 (4). In the Romanesque time, it apparently experienced changes and extensions (5).
  
 In the Gothic time, it was radically redesigned. The point in time can only be roughly estimated. It is possible that the extension of the forecourt, documented in 1303, was already connected to the conversion plan (6); the pier and vault seem to have been first constructed around 1350 (7). The windows of the side walls were expanded in the 15th century (8).
@@ -34,7 +33,7 @@ In 1568 or 1581, the church was awarded the priority title (9). Subsequently, th
  
 In 1821, the outside walls were cleaned, and the portals were painted black and white according to the model of the medieval Florentine marble incrustations (14). At that time, the new Gothic window of the left choral chapel was created.
 
-### RECONSTRUCTION OF THE ORIGINAL BUILDINGS
+#### RECONSTRUCTION OF THE ORIGINAL BUILDINGS
 
 The Carolingian Pilgrim Hospital, 8th/9th Century
 Form unknown. – Perhaps the older of the two reconstructed churches in the following section is identical with the hospital church.
@@ -83,7 +82,7 @@ A Trecento cloister with octagonal pillars stretches along the south wall of the
  
 CHURCH
 #### Outside.
-#### Facade. Fresco in the tympanum of the portal, half-figure of St. Remigius, from Carlo Falcini, 1818 (17).
+Facade. Fresco in the tympanum of the portal, half-figure of St. Remigius, from Carlo Falcini, 1818 (17).
  
 #### Inside.
 First altar. (Patron Saint: Bagnesi); built in 1629 (inscription). Relics in carved containers (18).
