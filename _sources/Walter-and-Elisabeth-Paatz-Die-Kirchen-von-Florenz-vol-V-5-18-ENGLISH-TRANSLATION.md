@@ -2,25 +2,30 @@
 layout: page
 title: The Churches of Florence, vol. V, 5-18, Paatz (English) 
 building: bigallo
-tags:
+tags: bigallo, paatz
 status: live
 type: description
 ---
 
 *Translated by Mariam Drammeh*
-S. REMIGIO
+
+__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: D-L. Frankfurt am Main: Vittorio Klostermann, 1955. 172-230.__
+
+**(#) refers to footnotes**
+
+---
+
+## S. REMIGIO
 Piazza S. Remigio
  
- 
-SPECIAL LITERATURE
+## SPECIAL LITERATURE
 Melchior Missirini, Della chiesa priorale di S. Remigio, e del suo altare del SS. Sacramento; 1839. Cited as Missirini, S. Remigio, 1839.
- 
- 
-NAME
+  
+## NAME
 S. Romeo: probably a dialectical distortion (1).
  
  
-BUILDING HISTORY
+## BUILDING HISTORY
 The church of the holy Archbishop from Reims is probably from the time period of the French rule, so it was created in the late 8th or 9th century (2). It first served as lodgings for french pilgrims to Rome (3), but it was changed into a canonical monastery right before 1040 (4). In the Romanesque time, it apparently experienced changes and extensions (5).
  
 In the Gothic time, it was radically redesigned. The point in time can only be roughly estimated. It is possible that the extension of the forecourt, documented in 1303, was already connected to the conversion plan (6); the pier and vault seem to have been first constructed around 1350 (7). The windows of the side walls were expanded in the 15th century (8).
@@ -46,8 +51,8 @@ Canonry. The canons' living quarters were grouped to the south of the church aro
  
  
 ### BUILDING DESCRIPTION
-Church
-Outside.
+Church 
+#### Outside.
  
 Overview. The church is rectangular in plan. The quarry stone walls of the façade and the north side contain the Romanesque remnants described in the “Reconstruction” section. Between these oldest parts, located at the south-west corner and the north-east corner of the church, are the uneven quarry stone walls of the Gothic reconstruction, which reveal themselves as a uniform structure due to the evenly running scaffolding holes; the rear wall and the bell tower, both with windows from the 16th and 19th centuries, also belong to this. Remnants of the plaster and paint from 1821 are on all the walls.
  
@@ -56,7 +61,7 @@ The façade has retained its Gothic nature to some extent. Its structure - a mai
 North wall. Its windows appear to have been extended at a later date.
  
  
-Inside.
+#### Inside.
 Illustrations. Floor plan and interior views by Supino, Gli albori etc. 1906, 131 and panel XXVIII.
  
 Framework. Three-nave, three-bay pseudo-basilica with triangular choral chapels; pillars, pilasters, pointed arches and ribbed vaults everywhere. The walls are made of quarry stone, the limbs of house stone (Macigno).
@@ -77,10 +82,10 @@ A Trecento cloister with octagonal pillars stretches along the south wall of the
 ### DECOR
  
 CHURCH
-Outside.
-Facade. Fresco in the tympanum of the portal, half-figure of St. Remigius, from Carlo Falcini, 1818 (17).
+#### Outside.
+#### Facade. Fresco in the tympanum of the portal, half-figure of St. Remigius, from Carlo Falcini, 1818 (17).
  
-Inside.
+#### Inside.
 First altar. (Patron Saint: Bagnesi); built in 1629 (inscription). Relics in carved containers (18).
 Second altar. (Patron Saint: Fabbrini, named degli Aranci), built 1634 (inscription). Remnants of frescoes, saint with globe and others, 14th century (19).
 Organ gallery; dated 1583.
@@ -103,10 +108,9 @@ CANONRY
 Fresco, Annunciation, 14th century copy after the miraculous image of the SS. Annunziata (30). - Painting, Marriage of Mary, by Domenico Martellini, 2nd half of the 17th century (31).
  
  
- 
 ### LOST DECOR
  
-CHURCH
+#### CHURCH
 Central Nave.
 Frescoes by Agnolo Gaddi in the vault of the first bay or in the arched field of the portal, 2nd half of the 14th century (32); lost.
 On the façade of the Gothic canon choir, panel painting, Lamentation of Christ with St. Mary, St. John, St. Nicodemus, St. Joseph of Arimathea and St. Remigius and St. Benedict; main work by the so-called Giottino; around 1360 (?); in the sacristy since 1754 at the latest, now in the Uffizi, no. 454 (33).
