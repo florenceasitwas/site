@@ -8,13 +8,9 @@ type: description
 author_first: Mark
 author_last: Rosen
 translated_work: Don Stefano Buonsignori, A Brief Biography
-date_published:
+date_published: 2022
 translator_first: N/A
 ---
-
-*Mark Rosen
-University of Texas at Dallas*
-
 
 Until recently, little was known about the life of the cartographer behind the spectacular 1584 view of Florence. Unlike many of the great late-sixteenth 
 century cartographers, he wrote no scientific treatises, did little to publicize his own work, and never forged lasting links to local artistic and 
