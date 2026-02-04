@@ -22,26 +22,6 @@ __(#) refers to footnotes__
 
 ---
 
-Special thanks to Professor Paul Youngman for all of his help in translating this work.
-
-## Table of Contents
-### English
-* <a href="#speclit">Special Literature</a>
-* <a href="#name">Name</a>
-* <a href="#buildh">Building History</a>
-* <a href="#recon">Reconstruction of Lost Building Elements</a>
-* <a href="#buildd">Building Description</a>
-* <a href="#decor">Decor</a>
-* <a href="#notes">Notes</a>
-
-### German
-* <a href="#spezlit">Spezialliteratur</a>
-* <a href="#dername">Name</a>
-* <a href="#bauge">Baugeschichte</a>
-* <a href="#rekon">Rekonstruktion Verlorener Bauzustände</a>
-* <a href="#baube">Baubeschreibung</a>
-* <a href="#anmerk">Anmerkungen</a>
-
 
 <h2 id="speclit">Special Literature</h2> Giuseppe Castellazzi, *Il Palazzo detto di Or San Michele*, isuoi tempi ed il progetto del suo restauro, Firenze-Roma, 1883. Abbreviated: Castellazzi, Or S. Michele.
 Pietro Franceschini, *L’Oratorio di S. Michele in Orto in Firenze*, Firenze 1892. Abbreviated: Franceschini, Or S. Michele.
