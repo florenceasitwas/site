@@ -13,7 +13,10 @@ date_published: 2022
 translated_work: Borghigiani, Appendix in Building Santa Maria Novella - Materials, Tradition, and Invention in Late Medieval Florence, 175-204
 ---
 
-**175:**
+**(#) refers to page numbers**
+
+---
+(175)
 
 Doc. 1. Charter of the donation of the church on the site of the present Santa Maria Novella to the Dominicans.
 
@@ -37,7 +40,7 @@ Doc. 2. Permission granted by the Comune of Florence to enlarge the old piazza o
 
 ASF, Conventi Soppressi, S. Maria Novella, Liber recordationum novus (1365-1400), Archivio S. Maria Novella, I.A.3, fol. 1.
 
-**176:** 12 December 1244
+(176) 12 December 1244
 
 Comune Florentia ad instantiam fratrum fecit fieri plateam veterem, et donavit eam conventui et instrumentum super hoc fecit Ser Attaviamus Oliverii MCCXLIIII. De hoc require in predicto libro conventui qui fuit fratris Ioannis de Infagati, car. 76.
 
@@ -81,9 +84,7 @@ Borghigiani, CronMin I, p. 179.
 
 1272\. ...already they were preparing for the construction of the new church, because for no reason other than to acquire space and a place where they could lay out and build the magnificent structure, they must have made the purchases that are to be found in that year, as necessary.
 
-'
-
-**177.**
+(177)
 
 Doc. 5. Cardinal Latino authorizes Fra Pasquale Incisa to receive reparations to help with construction costs for the church and convent of SMN.
 
@@ -475,7 +476,7 @@ Borghigiani, CronMin I, p. 346
 
 1335\. Fra Giovanni da Campi and Fra Jacopo ~~da Nipozzano~~ contribute some money towards the construction of the new Dormitory.
 
-**179\.** C. 1335
+(179) C. 1335
 
 _Turino, healthy in mind and sense, by the grace of God, although weak in body … designates that there may be given 270 gold florins from his estate for the well-being of his soul, and of these 270 gold florins, of which he had already given 30 for the expense, and had entrusted them to Fra Jacopo Passavanti of the Brothers preachers of Florence so that he might arrange to pay the expense for the construction and opening of the principle door of the church of Santa Maria Novella in Florence on the side that faces onto the new piazza, where this door should be built to the honor and glory of God Omnipotent and of the glorious Virgin Mary and for the remission of his sins and he wishes to have this amount given to Fra Jacopo and through him to use them for the realization of said work. He nominated brother Jacopo as the executor of said work, to whom the said amount should be consigned to be used in the creation of the portal._
 
@@ -521,7 +522,7 @@ Borghigiani, CronMin II, pp. 23, 24
 
 lead up to the church, near the Sacristy, and the door as well, for whomever enters the church itself, since above in the stone architrave is the family coat of arms, which display a rooster.
 
-**178**
+(178)
 
 Doc. 9. In a codicil to his will, Turino di Baldese donates money for construction of the main door to the church of Santa Maria Novella.
 
@@ -694,8 +695,6 @@ Del Lama(?)
 Buondelmonti
 
 Giandonati
-
-\_**\_**?
 
 Rinaldeschi
 
