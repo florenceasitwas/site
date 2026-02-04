@@ -1,37 +1,27 @@
 ---
-layout: page
+layout: source
 title: Bigallo, Paatz
 image:
 tags: bigallo
 status: live
 type: description
+author_first: Walter
+author_last: Paatz
+secondauthor_first: Elisabeth
+secondauthor_last: Paatz
+translator_first: Sonia
+translator_last: Brozak
+secondtranslator_first: Katherine
+secondtranslator_last: Dau
+translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol I, A-C, 378-391
+date_published: 1955
 ---
-*Translated by Sonia Brozak with edits by Katherine Dau*
 
 *Located on Corner of Via dei Calzaiuoli and Piazza di S. Giovanni*
 
-__Paatz, Walter and Elisabeth. *Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch.* Vol I: A-C. Frankfurt am Main: Vittorio Klostermann, 1955. 378-391.__
-
 __(#) refers to footnotes__
 
-## Table of Contents
-### English
-* <a href="#speclit">Special Literature</a>
-* <a href="#name">Name</a>
-* <a href="#buildh">Building History</a>
-* <a href="#buildd">Building Description</a>
-* <a href="#fac">Facilities</a>
-* <a href="#lostfac">Lost Facilities</a>
-* <a href="#notes">Notes</a>
-
-### German
-* <a href="#spezlit">Spezialliteratur</a>
-* <a href="#dername">Name</a>
-* <a href="#bauge">Baugeschichte</a>
-* <a href="#baube">Baubeschreibung</a>
-* <a href="#ausstat">Ausstattung</a>
-* <a href="#verausstat">Verlorene Ausstattung</a>
-* <a href="#anmerk">Anmerkungen</a>
+---
 
 <h2 id="speclit">Special Literature</h2>
 P. Landini: Istoria dell'Oratorio di S. Maria del Bigallo e della ven. Compagnia della Misericordia, 1779 (cited as Landini, Bigallo).
