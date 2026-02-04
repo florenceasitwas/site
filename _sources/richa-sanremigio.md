@@ -1,16 +1,18 @@
 ---
-layout: page
+layout: source
 title: Richa, San Remigio
 image:
 building: san-remigio
 tags: san-remigio
 status: live
 type: description
+author_first: Giuseppe
+author_last: Richa
+translator_first: Magen
+translator_last: Mack
+date_published: 1754
+translated_work: Notizie Istoriche delle chiese fiorentine - Divise ne’ suoi quartiere, vol. I, Florence
 ---
-
-*Translation by Magen Mack*
-
-**Notizie Istoriche delle chiese fiorentine: Divise ne’ suoi quartiere, vol. I, Florence, 1754.**
 
 **(#) refers to page numbers**
 
