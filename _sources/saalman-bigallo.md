@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: source
 title: Saalman, Bigallo
 building: bigallo
 tags:
 status: live
 type: primary-source
+author_first: Howard
+author_last: Saalman
+translator_first: Sam
+translator_last: Joseph, Aidan Valente, & George Bent
+date_published: 1969
+translated_work: Bigallo, The Oratory and Residence of the Compagnia Del Bigallo E Della Misericordia in Florence, 44
 ---
-
-__Latin translations by Sam Joseph. Italian Translations by Aidan Valente and George Bent.__
 
 ### THE BIGALLO AND THE COMPAGNIA DELLA MISERICORDIA
 
