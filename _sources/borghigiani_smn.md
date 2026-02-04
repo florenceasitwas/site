@@ -4,6 +4,7 @@ title: Borghigiani, Santa Maria Novella
 building: santa-maria-novella
 tags: smn
 author_last: Borghigiani
+author_first: Vincenzo
 translator_first: Elizabeth Bradford
 translator_last: Smith
 status: live
