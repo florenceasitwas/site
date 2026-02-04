@@ -16,7 +16,7 @@
 
                     {% if page.updated %}<p>Date Updated: {{ page.date_updated }}</p>{% endif %}
 
-                    <p>Preferred Citation: {{ page.author_last }}, {{ page.author_first }}{% if page.secondauthor_first %}, and {{ page.secondauthor_first }} {{ page.secondauthor_last }}{% endif %}. "{{ page.translated_work }}." {% if page.translator_first %} Translated by: {{ page.translator_first }} {{ page.translator_last }} {% endif %}<em>Florence As It Was</em>. http://florenceasitwas.wlu.edu{{ page.url }}</p>
+                    <p>Preferred Citation: {{ page.author_last }}, {{ page.author_first }}{% if page.secondauthor_first %}, and {{ page.secondauthor_first }} {{ page.secondauthor_last }}{% endif %}. "{{ page.translated_work }}." {% if page.translator_first %} Translated by: {{ page.translator_first }} {{ page.translator_last, }} {% endif %}<em>Florence As It Was</em>. http://florenceasitwas.wlu.edu{{ page.url }}</p>
 </div>
   <button class="btn btn-outline-success" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
     Table of Contents
