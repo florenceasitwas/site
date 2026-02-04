@@ -1,19 +1,26 @@
 ---
-layout: page
+layout: source
 title: Orsanmichele, Paatz
 image:
 building: orsanmichele
 tags: Orsanmichele, building history, Paatz
 status: live
 type: description
+translator_first: Katherine
+translator_last: Dau
+author_first: Walter
+author_last: Paatz
+secondauthor_first: Elisabeth
+secondauthor_last: Paatz
+date_published: 1952
+translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol IV, M-P, 480-558
 ---
-*Translated by Katherine Dau*
 
 *Located on Via Calzaioli between Nr. 25 R. and Nr. 27 R.*
 
-__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol IV: M-P. Frankfurt am Main: Vittorio Klostermann, 1952. 480-558.__
-
 __(#) refers to footnotes__
+
+---
 
 Special thanks to Professor Paul Youngman for all of his help in translating this work.
 
