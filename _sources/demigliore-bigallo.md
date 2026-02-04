@@ -8,8 +8,8 @@ category: translation
 translated_work: Firenze, Città Nobilissima Illustrata
 translator_first: George
 translator_last: Bent
-author_first: del Migliore
-author_last: Ferdinando Leopoldo
+author_last: del Migliore
+author_first: Ferdinando Leopoldo
 date_published: 1684
 date_updated:
 type: description
