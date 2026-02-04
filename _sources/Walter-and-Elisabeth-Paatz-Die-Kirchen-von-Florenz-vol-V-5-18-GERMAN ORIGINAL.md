@@ -10,6 +10,7 @@ author_last: Paatz
 secondauthor_first: Elisabeth
 secondauthor_last: Paatz
 date_published: 1955
+translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol I, D-L, 172-230
 ---
 
 **(#) refers to footnotes**
