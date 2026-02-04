@@ -11,7 +11,7 @@ status: live
 category: translation
 translator_first: Mariam
 translator_last: Drammeh, P.T. Meadors, and Catherine McKean
-translated_work: Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch: Vol III
+translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch, Vol III
 date_published: 1952-1955
 type: description
 ---
