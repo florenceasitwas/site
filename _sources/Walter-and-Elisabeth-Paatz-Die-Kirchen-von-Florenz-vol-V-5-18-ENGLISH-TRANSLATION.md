@@ -12,7 +12,7 @@ secondauthor_last: Paatz
 translator_first: Mariam
 translator_last: Drammeh
 date_published: 1955
-translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol I, D-L, 172-230
+translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol V, 5-18
 date_updated: 
 ---
 
