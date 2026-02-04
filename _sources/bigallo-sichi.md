@@ -5,7 +5,6 @@ building: bigallo
 tags: bigallo
 status: live
 type: description
-translator_first: N/A
 date_published: 1927
 translated_work: Un'Istituzione di Beneficenza Fiorentina, Il Bigallo
 author_first: Margherita
