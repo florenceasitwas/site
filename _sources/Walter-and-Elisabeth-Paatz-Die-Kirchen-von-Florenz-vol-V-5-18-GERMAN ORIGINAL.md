@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: source
 title: Die Kirchen von Florenz, vol. V, 5-18, Paatz (German)
 building: san-remigio
 tags: san-remigio, paatz
 status: live
 type: description
+author_first: Walter
+author_last: Paatz
+secondauthor_first: Elisabeth
+secondauthor_last: Paatz
+date_published: 1955
+translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol I, D-L, 172-230
 ---
-
-__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: D-L. Frankfurt am Main: Vittorio Klostermann, 1955. 172-230.__
 
 **(#) refers to footnotes**
 
