@@ -17,7 +17,7 @@ translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol
 
 ---
 
-## S. REMIGIO
+# S. REMIGIO
 Piazza S. Remigio
  
  
