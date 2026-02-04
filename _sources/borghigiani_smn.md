@@ -9,7 +9,7 @@ translator_last: Smith
 status: live
 type: primary-source
 date_published: 2022
-translated_work: Borghigiani, Appendix in Building Santa Maria Novella: Materials, Tradition, and Invention in Late Medieval Florence, 175-204
+translated_work: Borghigiani, Appendix in Building Santa Maria Novella - Materials, Tradition, and Invention in Late Medieval Florence, 175-204
 ---
 
 **175:**
