@@ -10,7 +10,7 @@
 
                     {% if page.secondauthor_first %} & {{ page.secondauthor_first }} {{ page.secondauthor_last }} {% endif %}</p>
 
-                    <p>Translator: {% if page.translator_first %} {{ page.translator_first }} {{ page.translator_last }} {% endif %}
+                    {% if page.translator_first %}<p>Translator: {{ page.translator_first }} {{ page.translator_last }}</p>{% endif %}
 
                     <p>Date Published: {{ page.date_published }}</p>
 
