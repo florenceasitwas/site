@@ -1,10 +1,15 @@
 ---
 layout: source
-title: Il Bigallo - Un'Istituzione di Beneficenza Fiorentina
+title: Bigallo, Un'Istituzione di Beneficenza Fiorentina
 building: bigallo
-tags:
+tags: bigallo
 status: live
 type: description
+translator_first: N/A
+date_published: 1927
+translated_work: Un'Istituzione di Beneficenza Fiorentina, Il Bigallo
+author_first: Margherita
+author_last: Sichi
 ---
 
 Capitolo I - L'arte e il Bigallo (91)
