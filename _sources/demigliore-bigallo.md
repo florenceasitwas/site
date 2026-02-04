@@ -5,9 +5,9 @@ image:
 status: live
 building: bigallo
 category: translation
-translator_first: N/A
-translator_last: 
 translated_work: Firenze, Città Nobilissima Illustrata
+translator_first: George
+translator_last: Bent
 author_first: del Migliore
 author_last: Ferdinando Leopoldo
 date_published: 1684
