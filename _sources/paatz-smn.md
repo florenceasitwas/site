@@ -11,14 +11,10 @@ status: live
 category: translation
 translator_first: Mariam
 translator_last: Drammeh, P.T. Meadors, and Catherine McKean
-translated_work: "Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch: Vol III"
+translated_work: Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch: Vol III
 date_published: 1952-1955
 type: description
 ---
-
-*Translated by ​Mariam Drammeh, P.T. Meadors, and Catherine McKean*
-
-__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol III. Frankfurt am Main: Vittorio Klostermann, 1952-55.__
 
 **(#) refers to footnotes**
 
