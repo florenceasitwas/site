@@ -5,17 +5,15 @@ image:
 status: live
 building: bigallo
 category: translation
-translator_first: 
+translator_first: N/A
 translator_last: 
-translated_work: "Firenze: Città Nobilissima Illustrata"
-translated_author_first: del Migliore
-translated_author_last: Ferdinando Leopoldo
-date_published: 
+translated_work: Firenze, Città Nobilissima Illustrata
+author_first: del Migliore
+author_last: Ferdinando Leopoldo
+date_published: 1684
 date_updated:
 type: description
 ---
-
-Ferdinando Leopoldo del Migliore. *Firenze: Città Nobilissima Illustrata* (Arnaldo Forni: Florence, 1684).
 
 
 ## Oratory of the Old Company of the Misericordia and the Captains of the Bigallo
