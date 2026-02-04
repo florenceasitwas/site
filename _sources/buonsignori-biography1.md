@@ -9,6 +9,7 @@ author_first: Mark
 author_last: Rosen
 translated_work: Don Stefano Buonsignori, A Brief Biography
 date_published:
+translator_first: N/A
 ---
 
 *Mark Rosen
