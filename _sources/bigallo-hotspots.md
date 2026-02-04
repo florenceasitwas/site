@@ -14,17 +14,15 @@ type: description
 translated_work: Bigallo Hotspots
 ---
 
-## Loggia
+# Loggia
 
 Leonardo Bartolini, et.al., Loggia, 1355-1363
 
 On January 21, 1355 (1354 o.s.) the company received a gift of territory – about twenty feet (“ten braccie”) – on the corner of the Piazza S. Giovanni, which they used to site construction of the open loggia that soon came to be recognized as a signature feature of the Florentine cityscape.  Eight years later, a workman named Ambrogio was paid for designing, casting, and installing the intricate iron lattice work the hugs the contours of the porch and that appears to have completed the architectural project.  The arches and walls bear images that mark the structure as an edifice of importance in the civic fabric of Florence.
 
-[Read More]
-
 In 1321, a wealthy magnate named Baldinaccio Adimari gifted property that he owned in his family’s neighborhood to a newly formed charitable organization charged with the tasks of tending to the destitute, diseased, and disenfranchised. The building there housed the Misericordia from that time forward but, thanks to a series of additional gifts from neighbors, the company was able to expand its residence to the east and the west. Giovanni degli Albizzi Pellegrini, a member of one of the city’s most powerful families, donated property adjacent to the original building in 1351, and in 1355 the addition of the twenty feet at the corner of the Corso Adimari provided the company with the area needed for the loggia that now extended to the east.  
 
-From 1355 to 1360, a man named Leonardo Bartolini oversaw the construction of this loggia, which included work completed by a number of skilled laborers he subcontracted to produce details according to their areas of expertise: One Francesco Salvini received 13 gold florins for undisclosed work, while a painter named Bartolommeo earned the equivalent of 21 gold florins for his decoration of the top of the oratory – presumably its ceiling, but perhaps the walls of the upper floor of the residence.  In 1363 the project was deemed complete when the so-called Ambrogio installed elaborate decorative ironwork, priced at 100 florins (but no more than that!), on the loggia’s western and northern arches.
+From 1355 to 1360, a man named Leonardo Bartolini oversaw the construction of this loggia, which included work completed by a number of skilled laborers he subcontracted to produce details according to their areas of expertise: One Francesco Salvini received 13 gold florins for undisclosed work, while a painter named Bartolommeo earned the equivalent of 21 gold florins for his decoration of the top of the oratory – presumably its ceiling, but perhaps the walls of the upper floor of the residence. In 1363 the project was deemed complete when the so-called Ambrogio installed elaborate decorative ironwork, priced at 100 florins (but no more than that!), on the loggia’s western and northern arches.
 
 Although more modest in scale than some of Florence’s other loggias, the intimate proportions and delicate decorations of this elegant monument make the Misericordia’s structure one of the most beautiful in the city. Ambrogio’s iron grill alone distinguishes it from other such edifices in Florence, but it’s easy to overlook it when taking in the entirety of the building for the first time. The marble exterior forms two sides of the loggia’s square box, with openings on the east and north sides providing visual access to the interior. Green marble, a decorative motif borrowed from the eleventh-century facings of the Baptistery and S. Miniato, provides a subtle articulation that frames the two arches, their pendentives, and the horizontal borders at the top and bottom. Column clusters form the discrete sections of each pier and serve as supports for the loggia’s arches, and then spring upward toward the quadripartite vault that flowers into porch’s ceiling. Twisting columns, perhaps allusions to the spiral ones said to have once adorned the interior of King Solomon’s temple in Jerusalem, create the illusion of movement as one’s eye moves toward the interior. Foliage and rosette patterns dance across the surface of the entire white marble structure, making the loggia appear as an avant-garde welcoming center to all comers. This sense is only intensified by the figurative sculptures that decorate the façade.
 
@@ -38,7 +36,7 @@ Early painters of Florentine cityscapes occasionally included representations of
 
 GB
 
-<hr>
+---
 
 “1363, 24 June. The captains directed the administrator to pay the painter, Bartolommeo, 62 lire, 4 sold, and 6 denari for pictures at the head of the oratory (see carte 37).  1363, 24 October. The Captains of the Misericordia – Statio Dati, Tellino Dino, Piero Borsi, Duccio di Giovanni, Ruberto Martelli – in the name of the confraternity and the company, discussed a number of things listed below. First, they discussed the work in the Oratory where one sees figures, that is on the face of the pedestal made by the master Ambrogio that is designed and made as well as is possible; for the best value, make sure we don't spend more than 100 gold florins.”
 
