@@ -9,7 +9,6 @@ author_first: Mark
 author_last: Rosen
 translated_work: Don Stefano Buonsignori, A Brief Biography
 date_published: 2022
-translator_first: N/A
 ---
 
 Until recently, little was known about the life of the cartographer behind the spectacular 1584 view of Florence. Unlike many of the great late-sixteenth 
