@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Don Stefano Buonsignori, A Brief Biography
+title: Don Stefano Buonsignori Biography
 image: buonsignori_2.jpg
 tags:
 status: live
