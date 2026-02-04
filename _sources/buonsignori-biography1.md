@@ -1,11 +1,15 @@
 ---
-layout: page
-title: Don Stefano Buonsignori
+layout: source
+title: Don Stefano Buonsignori, A Brief Biography
 image: buonsignori_2.jpg
 tags:
 status: live
 type: description
+author_first: Mark
+author_last: Rosen
+translated_work: Don Stefano Buonsignori, A Brief Biography
 ---
+
 *Mark Rosen
 University of Texas at Dallas*
 
