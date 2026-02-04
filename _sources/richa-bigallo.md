@@ -1,16 +1,18 @@
 ---
-layout: page
+layout: source
 title: Richa, Bigallo
 image:
 building: bigallo
 tags: bigallo
 status: live
 type: description
+author_first: Giuseppe
+author_last: Richa
+translator_first: George
+translator_last: Bent
+translated_work: Notizie Istoriche delle chiese Fiorentine VII, Bigallo, 251-65, 282-96
+date_published: 1758
 ---
-
-*Translation by George Bent*
-
-__Giuseppe Richa, Notizie Istoriche delle chiese Fiorentine VII, Bigallo, 251-65, 282-96.__
 
 **(#) refers to page numbers**
 
