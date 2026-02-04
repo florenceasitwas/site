@@ -12,7 +12,6 @@ date_published: 2017
 date_updated: October 2020
 type: description
 translated_work: Bigallo Hotspots
-translator_first: N/A
 ---
 
 ## Loggia
