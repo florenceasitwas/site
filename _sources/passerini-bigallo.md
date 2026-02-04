@@ -9,16 +9,12 @@ category: translation
 status: live
 translator_first: Aidan
 translator_last: Valente
-translated_work: "Curiosità storico-artistiche Fiorentine"
+translated_work: Curiosità storico-artistiche Fiorentine
 page: 91-98
 date_published: 1866
 date_updated:
 type: description
 ---
-
-*Translated by Aiden Valente*
-
-__C__
 
 **[#] refers to footnotes**
 
