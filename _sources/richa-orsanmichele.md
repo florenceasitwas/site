@@ -1,14 +1,17 @@
 ---
-layout: page
+layout: source
 title: Richa, Orsanmichele
 image:
 building: orsanmichele
-tags:
+tags: orsanmichele
 status: live
 type: description
----
-*Translation by Jorge Gomez*
-
+author_first: Giuseppe
+author_last: Richa
+translator_first: Jorge
+translator_last: Gomez
+date_published: 1754
+translated_work: Notizie Istoriche della Chiese Fiorentine della Madonna di Orsanmichele
 ---
 
 # Historical News of the Florentine Churches: First Three Lessons of the Madonna of Orsanmichele (English)
