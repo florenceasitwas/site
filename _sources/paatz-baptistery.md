@@ -7,19 +7,19 @@ status: live
 category: translation
 translator_first: Katherine
 translator_last: Dau
-translated_work: "Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch"
-date_published: 
+secondtranslator_first: Paul
+secondtranslator_last: Youngman
+author_first: Walter
+author_last: Paatz
+secondauthor_first: Elisabeth
+secondauthor_last: Paatz
+translated_work: Die Kirchen von Florenz, Ein kunstgeschichtliches Handbuch. Vol I, D-L, 172-230
+date_published: 1955
 date_updated:
 type: description
 ---
 
-*Translated by Katherine Dau*
-
-__Paatz, Walter and Elisabeth. Die Kirchen von Florenz: Ein kunstgeschichtliches Handbuch. Vol I: D-L. Frankfurt am Main: Vittorio Klostermann, 1955. 172-230.__
-
 **(#) refers to footnotes**
-
-Special thanks to Professor Paul Youngman for all of his help in translating this work.
 
 ---
 
