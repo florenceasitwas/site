@@ -102,7 +102,7 @@ status: live
 
 {%- comment -%} Build Paatz set by tag OR title {%- endcomment -%}
 {% assign paatz_tagged = desc | where_exp:"i","i.tags and i.tags contains 'Paatz'" %}
-{% assign paatz_titled = desc | where_exp:"i","i.title and i.title contains 'Paatz,'"%}
+{% assign paatz_titled = desc | where_exp:"i","i.title and i.title contains 'Paatz'"%}
 {% assign paatz_all = paatz_tagged | concat: paatz_titled | sort:"title"%}
 
 
