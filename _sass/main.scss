@@ -75,3 +75,18 @@ footer {
   color: rgba(var(--bs-link-color-rgb));
 }
 
+#accordionArchitecture .accordion-button::after {
+    display: none;
+  }
+#accordionArchitecture .arch-link {
+    cursor: pointer;
+  }
+#accordionArchitecture .accordion-button:not(.collapsed) {
+    background-color: #f8f9fa;
+    color: rgba(var(--bs-link-color-rgb));
+  }
+
+.home-card-img {
+  height: 240px;      
+  object-fit: cover; 
+}

@@ -13,13 +13,22 @@ status: live
 <div class="row">
 <div class="col">
   <h2><span class="icon fa-university"></span> Architecture</h2>
-  <ul>
-   
-  {% assign var1 = site.architecture | where:"status","live" | sort: "title", "first" %}
+
+<div class="accordion" id="accordionArchitecture">
+  {% assign var1 = site.architecture | where:"status","live" | sort: "title" %}
   {% for item in var1 %}
-    <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="arch-heading-{{ forloop.index }}">
+        <button
+          class="accordion-button collapsed arch-link"
+          type="button"
+          onclick="window.location.href='{{ item.url | absolute_url }}'">
+          {{ item.title }}
+        </button>
+      </h2>
+    </div>
   {% endfor %}
-  </ul>
+</div>
 
    <h2><span class="icon fa-paint-brush"></span> Art</h2>
 
@@ -41,7 +50,7 @@ status: live
       {% assign panel_id = artist | slugify %}
       <div class="accordion-item">
         <h2 class="accordion-header" id="heading-{{ panel_id }}">
-          <button class="accordion-button {% unless forloop.first %}collapsed{% endunless %}"
+          <button class="accordion-button collapsed"
                   type="button"
                   data-bs-toggle="collapse"
                   data-bs-target="#collapse-{{ panel_id }}"
@@ -93,7 +102,7 @@ status: live
 
 {%- comment -%} Build Paatz set by tag OR title {%- endcomment -%}
 {% assign paatz_tagged = desc | where_exp:"i","i.tags and i.tags contains 'Paatz'" %}
-{% assign paatz_titled = desc | where_exp:"i","i.title and i.title contains 'Paatz'"%}
+{% assign paatz_titled = desc | where_exp:"i","i.title and i.title contains 'Paatz,'"%}
 {% assign paatz_all = paatz_tagged | concat: paatz_titled | sort:"title"%}
 
 
@@ -102,7 +111,7 @@ status: live
   <!-- Paatz -->
   <div class="accordion-item">
     <h2 class="accordion-header" id="heading-paatz">
-      <button class="accordion-button" type="button"
+      <button class="accordion-button collapsed" type="button"
               data-bs-toggle="collapse" data-bs-target="#collapse-paatz"
               aria-expanded="true" aria-controls="collapse-paatz">
         Paatz
@@ -147,12 +156,22 @@ status: live
 </div>
 
   <h2><span class="icon fa-users"></span> People</h2>
-  <ul>
-  {% assign var5 = site.people | where:"status","live" | sort: 'title' %}
-  {% for item in var5 %}
-    <li><a href="{{ item.url | absolute_url }}">{{item.title}}</a></li>
-  {% endfor %}
-  </ul>
+
+  <div class="accordion" id="accordionArchitecture"> {%- comment -%} Same id as Architecture bc they styled same = remove need for redundant css {%- endcomment -%}
+    {% assign people_live = site.people | where:"status","live" | sort_natural:"title" %}
+    {% for item in people_live %}
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="people-heading-{{ forloop.index }}">
+          <button
+            class="accordion-button collapsed people-link"
+            type="button"
+            onclick="window.location.href='{{ item.url | absolute_url }}'">
+            {{ item.title }}
+          </button>
+        </h2>
+      </div>
+    {% endfor %}
+  </div>
 
   <h2>19th Century Views of Florence</h2>
   <p><a href="{{site.url}}/19th-century-views-of-florence.html">View paintings by Fabio Borbottoni</a></p>
