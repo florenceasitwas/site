@@ -178,7 +178,8 @@ status: live
           {% for item in desc %}
             {% unless item.tags and item.tags contains 'Paatz' or item.title and item.title contains 'Paatz' %}
               {% unless item.tags and item.tags contains 'Richa' or item.title and item.title contains 'Richa' %}
-              <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+                <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+              {% endunless %}
             {% endunless %}
           {% endfor %}
         </ul>
