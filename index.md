@@ -32,31 +32,102 @@ title: Florence As It Was
 </div>
 
 
-<h2>Our Latest Contribution</h2>
-		
-<div class="row text-center my-2 g-3">
+<section class="latest-section">
 
-  <div class="col-md-6">
-    <div class="ratio ratio-16x9">
-      <iframe src="https://www.youtube.com/embed/XccGdP2FQuI"
-        title="Orsanmichele 1300 vs 1500"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen></iframe>
-    </div>
-  </div>
+  <h2>Our Latest Contributions</h2>
 
-  <div class="col-md-6">
-    <div class="ratio ratio-16x9">
-      <iframe src="https://www.youtube.com/embed/ET1Yaumugyc?si=ayd9mbgSF2FwBvxe"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen></iframe>
-    </div>
-  </div>
+  <div class="row my-3">
+
+<!-- Left Column (videos stacked) -->
+<div class="col-lg-6">
+
+<div class="ratio ratio-16x9 mb-2">
+    <iframe src="https://www.youtube.com/embed/XccGdP2FQuI"
+          title="Orsanmichele 1300 vs 1500"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+	</iframe>
+</div>
+
+<div class="ratio ratio-16x9">
+    <iframe src="https://www.youtube.com/embed/ET1Yaumugyc?si=ayd9mbgSF2FwBvxe"
+          title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+	</iframe>
+</div>
 
 </div>
+
+<!-- Right Column-->
+<div class="col-lg-5">
+
+<!-- Cards are here -->
+  <div class="d-flex align-items-center justify-content-between mb-0">
+  </div>
+
+  <!-- Scrollable area (not in use > delete -->
+  <div class="overflow-auto pe-2 mx-auto">
+    <div class="vstack gap-1">
+
+<!-- Card 1-->
+<div class="card border-0 shadow-sm">
+	<div class="card-body">
+	<div class="badge text-bg-primary mb-2">3D Model</div>
+	<div class="fw-semibold">Palazzo Vecchio</div>
+	<!-- <div class="text-muted small">Short description placeholder text.</div> -->
+	<a href=" https://3d.wlu.edu/v21/pages/PalazzoVecchio/PalazzoVecchio.html" class="btn btn-sm btn-link p-0 fw-semibold text-success">View Model →</a>
+	</div>
+</div>
+<!-- Card 2 -->
+<div class="card border-0 shadow-sm">
+	<div class="card-body">
+	<div class="badge text-bg-primary mb-2">3D Model</div>
+	<div class="fw-semibold">The lost Tramezzo of S. Remigio</div>
+	<!-- <div class="text-muted small">Short description placeholder text.</div>-->
+	<a href="https://3d.wlu.edu/v21/pages/Remigio/RemigioTramezzo.html" class="btn btn-sm btn-link p-0 fw-semibold text-success">View Model →</a>
+	</div>
+</div>
+        <!-- Card 3 -->
+        <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <div class="badge text-bg-secondary mb-2">Translation</div>
+            <div class="fw-semibold">Paatz, S. Maria Novella,  from Die Kirchen von Florenz:</div>
+            <!-- <div class="text-muted small">Translation of Paatz, S. Maria Novella,  from Die Kirchen von Florenz</div>-->
+			<a href="https://florenceasitwas.wlu.edu/sources/paatz-smn" class="btn btn-sm btn-link p-0 fw-semibold text-secondary">Read Translation →</a>
+          </div>
+        </div>
+		 <!-- Card 4 -->
+ <div class="card border-0 shadow-s">
+          <div class="card-body">
+            <div class="badge text-bg-secondary mb-2">Translation</div>
+            <div class="fw-semibold">Paatz, S. Remigio, from Die Kirchen von Florenz:</div>
+            <!-- <div class="text-muted small">Translation of Paatz, S. Maria Novella,  from Die Kirchen von Florenz</div>-->
+			<a href="https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation" class="btn btn-sm btn-link p-0 fw-semibold text-secondary">Read Translation →</a>
+          </div>
+        </div>
+		 <!-- Card 5 -->
+ <div class="card border-0 shadow-sm">
+          <div class="card-body">
+            <div class="badge text-bg-secondary mb-2">Translation</div>
+            <div class="fw-semibold">Translation of Richa, S. Remigio, from Istoriche notizie</div>
+           <!--  <div class="text-muted small">Translation of Paatz, S. Maria Novella,  from Die Kirchen von Florenz</div>-->
+			<a href="https://florenceasitwas.wlu.edu/sources/richa-sanremigio" class="btn btn-sm btn-link p-0 fw-semibold text-secondary">Read Translation →</a>
+          </div>
+        </div>
+</div>
+
+</div>
+
+</div>
+
+  
+
+  </div>
+
+</section>
 
   </div>
 
@@ -306,7 +377,7 @@ title: Florence As It Was
 	  <img src="assets/images/thumbnail/palazzovecchio-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">Palazzo Vecchio</h5>
-		    <p class="card-text"></p>
+		    <p class="card-text">Fourteenth-century communal palace.</p>
 <a href="{{ 'architecture/palazzo-vecchio.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
