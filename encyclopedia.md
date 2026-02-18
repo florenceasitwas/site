@@ -106,7 +106,6 @@ status: live
 {% assign paatz_all = paatz_tagged | concat: paatz_titled | sort:"title"%}
 
 
-
 <div class="accordion" id="accordionDescriptors">
   <!-- Paatz -->
   <div class="accordion-item">
@@ -132,7 +131,6 @@ status: live
     </div>
   </div>
 
-{%- comment -%} Build Richa set by tag OR title {%- endcomment -%}
 {% assign richa_tagged = desc | where_exp:"i","i.tags and i.tags contains 'Richa'" %}
 {% assign richa_titled = desc | where_exp:"i","i.title and i.title contains 'Richa'"%}
 {% assign richa_all = richa_tagged | concat: richa_titled | sort:"title"%}
