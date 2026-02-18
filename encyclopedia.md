@@ -132,20 +132,51 @@ status: live
     </div>
   </div>
 
+{%- comment -%} Build Richa set by tag OR title {%- endcomment -%}
+{% assign richa_tagged = desc | where_exp:"i","i.tags and i.tags contains 'Richa'" %}
+{% assign richa_titled = desc | where_exp:"i","i.title and i.title contains 'Richa'"%}
+{% assign richa_all = richa_tagged | concat: richa_titled | sort:"title"%}
+
+
+<div class="accordion" id="accordionDescriptors">
+  <!-- Richa -->
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="heading-paatz">
+      <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse" data-bs-target="#collapse-richa"
+              aria-expanded="true" aria-controls="collapse-richa">
+        Richa
+      </button>
+    </h2>
+    <div id="collapse-richa" class="accordion-collapse collapse" data-bs-parent="#accordionDescriptors">
+      <div class="accordion-body">
+        <ul class="mb-0">
+          {% assign seen = "" %}
+          {% for item in richa_all %}
+            {% unless seen contains item.url %}
+              <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+              {% assign seen = seen | append: item.url | append: "|" %}
+            {% endunless %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Others -->
   <div class="accordion-item">
     <h2 class="accordion-header" id="heading-others">
       <button class="accordion-button collapsed" type="button"
               data-bs-toggle="collapse" data-bs-target="#collapse-others"
               aria-expanded="false" aria-controls="collapse-others">
-        Others (temp)
+        Others
       </button>
     </h2>
     <div id="collapse-others" class="accordion-collapse collapse" data-bs-parent="#accordionDescriptors">
       <div class="accordion-body">
         <ul class="mb-0">
           {% for item in desc %}
-            {% unless item.tags and item.tags contains 'Paatz' or item.title and item.title contains 'Paatz' %}
+            {% unless item.tags and item.tags contains 'Paatz' or 'Richa' or item.title and item.title contains 'Paatz' or 'Richa' %}
               <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
             {% endunless %}
           {% endfor %}
