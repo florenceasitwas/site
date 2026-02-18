@@ -65,6 +65,17 @@ footer {
     width: 100%;
 }
 
+.card.latest-card {
+  height: auto !important;
+  min-height: 0 !important;
+  max-height: none !important;
+}
+
+.latest-section .card {
+  height: auto;
+  margin-bottom:1rem;
+}
+
 .image_fit_arch{
    width: 15vw;
    height: 15vh;
