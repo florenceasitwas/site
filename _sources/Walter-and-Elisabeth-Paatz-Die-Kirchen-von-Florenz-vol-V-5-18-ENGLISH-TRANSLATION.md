@@ -1,6 +1,6 @@
 ---
 layout: source
-title: The Churches of Florence, vol. V, 5-18, Paatz (English) 
+title: S. Remigio, Paatz (English)
 building: san-remigio
 tags: san-remigio, paatz
 status: live
