@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Die Kirchen von Florenz, vol. V, 5-18, Paatz (German)
+title: S. Remigio, Paatz (German)
 building: san-remigio
 tags: san-remigio, paatz
 status: live
