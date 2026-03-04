@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Richa, Orsanmichele
+title: Orsanmichele, Richa
 image:
 building: orsanmichele
 tags: orsanmichele
