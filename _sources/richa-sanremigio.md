@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Richa, San Remigio
+title: S. Remigio, Richa
 image:
 building: san-remigio
 tags: san-remigio
