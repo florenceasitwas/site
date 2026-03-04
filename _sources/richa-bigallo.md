@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Richa, Bigallo
+title: Bigallo, Richa
 image:
 building: bigallo
 tags: bigallo
