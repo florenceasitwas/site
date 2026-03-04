@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Saalman, Bigallo
+title: Bigallo, Saalman
 building: bigallo
 tags:
 status: live
