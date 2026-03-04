@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Del Migliore, Bigallo
+title: Bigallo, Del Migliore
 image:
 status: live
 building: bigallo
