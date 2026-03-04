@@ -1,6 +1,6 @@
 ---
 layout: source
-title: S. Croce, Richa
+title: Santa Croce, Richa
 image:
 building: santa-croce
 tags: santa-croce
