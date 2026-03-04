@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Richa, Innocenti
+title: Innocenti, Richa
 image:
 building: innocenti
 tags: richa
