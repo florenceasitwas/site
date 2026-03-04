@@ -1,6 +1,6 @@
 ---
 layout: source
-title: S. Remigio, Paatz (German)
+title: San Remigio, Paatz (German)
 building: san-remigio
 tags: san-remigio, paatz
 status: live
