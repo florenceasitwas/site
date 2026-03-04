@@ -1,6 +1,6 @@
 ---
 layout: source
-title: S. Maria Novella, Paatz
+title: Santa Maria Novella, Paatz
 image:
 building: santa-maria-novella
 author_first: Walter
