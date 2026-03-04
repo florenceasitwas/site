@@ -1,6 +1,6 @@
 ---
 layout: source
-title: Borghigiani, Santa Maria Novella
+title: Santa Maria Novella, Borghigiani
 building: santa-maria-novella
 tags: santa-maria-novella
 author_last: Borghigiani
