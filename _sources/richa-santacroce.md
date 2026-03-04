@@ -2,8 +2,8 @@
 layout: source
 title: S. Croce, Richa
 image:
-building: san-remigio
-tags: san-remigio
+building: santa-croce
+tags: santa-croce
 status: live
 type: description
 author_first: Giuseppe
