@@ -1,6 +1,6 @@
 ---
 layout: source
-title: La Loggetta del Bigallo
+title: La Loggetta del Bigallo, Passerini
 building: bigallo
 tags: bigallo
 author_first: Luigi
