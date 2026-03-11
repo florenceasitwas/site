@@ -6,7 +6,8 @@
 .navbar {
   // scss-docs-start navbar-css-vars
   --#{$prefix}navbar-padding-x: #{if($navbar-padding-x == null, 0, $navbar-padding-x)};
-  --#{$prefix}navbar-padding-y: #{$navbar-padding-y};
+  //--#{$prefix}navbar-padding-y: #{$navbar-padding-y}; // --> commented out to make nav smaller
+  --#{$prefix}navbar-padding-y: 0;
   --#{$prefix}navbar-color: #{$navbar-light-color};
   --#{$prefix}navbar-hover-color: #{$navbar-light-hover-color};
   --#{$prefix}navbar-disabled-color: #{$navbar-light-disabled-color};
