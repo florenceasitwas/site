@@ -119,53 +119,58 @@ Then we see Giovanni's famous figure of Justice with a helmet, sword, and scales
     Nel suol, che ha suon di Croce, e di tormento,
     Volgete un'Utro, ove è rinchiuso a stento
     Un stato, che vi sembra aura d' onore.
-
     
   Questo globo entro informe, e bel di suore,
     È del Mondo il model voto al contento;
     Seguiam tutti un pallon, ch'è pien di vento,
     Da cui si tragge sol polve, e sudore.
-
     
   Ecco un avido il cerca, altri l’attende,
     Uno lo spinge, un l’innalza, altri l’atterra,
     Poscia offeso è quei più, che più lo prende.
 
-    
    Oh giuoco orma del vero! Ognun fa guerra
     Con quest' Orbe mortal, ma chi l’intende
     Li dà de'calci, e via lo caccia in terra.”
-   </div class="col">
+   </div>
    <div class="col">
+	   <p>
    “Oh ye, who is in the city of flowers
      On the soil that has the sound of the cross, and of torment,
      Turn to another, where it is locked up in a difficult state,
      That seems to you an aura of honor
-
-     
+	   </p>
+	   <p>
    This globe is shapeless, and full of beautiful sisters (nuns),
      And the world is the model of a vow to contentment;
      We all follow a balloon, which is full of air,
      From which only dust and sweat are drawn.
-
-     
-   Here is a greedy one who seeks, and others who wait
+	   </p>
+      <p> Here is a greedy one who seeks, and others who wait
      One pushes him, one lifts him, others knock him down
      The more offended, the more he takes.
-
-     
+	  </p>
+	   <p>
    Oh game, the mark of truth! Everyone makes war
      With this mortal orb, but he who understands it
      Kicks it, and throws it to the ground.”
-   </div class="col">
-</div class="row">
+	   </p>
+   </div>
+</div>
 
 And here for the end we will place the note of the Florentine gentlemen, who in 1739 were actors in the piazza at the soccer games. It is as follows:
 
-     GOLD TEAM                                           PINK TEAM
+<div class="row">
+  <div class="col">
+    GOLD TEAM
+  </div class="col">
+   <div class="col">
+	PINK TEAM
+   </div class="col"> 
+</div class="row">
 
-     Lord Masters of the Field
-  Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi
+Lord Masters of the Field
+Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi
 
 First/Starters
 Prince of Bovò.                        	March. Bortolommeo del Monte
