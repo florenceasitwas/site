@@ -28,6 +28,7 @@ blockquote {
 
 #logo {
   padding-right: 1rem;
+  max-width: 14vw;
 }
 
 #home-text {
@@ -100,4 +101,19 @@ footer {
 .home-card-img {
   height: 240px;      
   object-fit: cover; 
+}
+
+.intro-paragraph {
+  max-width: 75vw;
+  //text-align: center;
+  margin: auto;
+}
+
+//adjusts the Maps/Databases + Pointcloud Models + Photogrammetry Models 
+//when dimesnions differ no longer overlap
+@media (max-width: 1024px) {
+    .col-md-4 {
+        flex-shrink: 0 !important;
+        width: 100% !important;
+    }
 }
