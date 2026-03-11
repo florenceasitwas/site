@@ -168,20 +168,29 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 <div class="row">
   <div class="col">
     GOLD TEAM
-  </div class="col">
+  </div>
    <div class="col">
 	PINK TEAM
-   </div class="col"> 
-</div class="row">
-
-Lord Masters of the Field
-Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi
-
-First/Starters
-Prince of Bovò.                        	March. Bortolommeo del Monte
-March. Ipolito Bagnesi.             	Cav. Piero Carducci
-Amerigo Serfelli.                       	Luigi Capponi
-Count Carlo d’Elci.                    	Cav. Antonio Seristori
+   </div> 
+</div>
+<div style="text-align: center;">
+	Lord Masters of the Field
+	Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi<br>
+	First/Starters
+</div>
+<div class="row">
+  <div class="col">
+	Prince of Bovò.
+	March. Ipolito Bagnesi.
+	Amerigo Serfelli.
+	Count Carlo d’Elci.
+  </div>
+  <div class="col">
+	March. Bortolommeo
+	Cav. Piero Carducci
+	Luigi Capponi
+	Cav. Antonio Seristori
+  </div>
 
 (52)
 
