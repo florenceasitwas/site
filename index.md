@@ -7,11 +7,12 @@ title: Florence As It Was
 <h2 class="display-6 lh-lg" id="home-text">The Digital Reconstruction of a Medieval City</h2>
   <div class="row">
     <div class="col">
+	<div class="intro-paragraph">
       <p>Welcome to Florence As It Was, a digital project that aims to reconstruct the city the way it appeared at the end of the fifteenth century. Here you can review, inspect, tour, and visit the streets, palaces, churches, shops, and offices that formed the fabric of one of Europe’s most vibrant cities. Here you will find images, people, payments, relationships, literary references, contemporary descriptions, and sometimes even music related to the individual structures that shaped a Florentine’s daily experience in 1500.</p>
 		<p>Here you can read, in English, the Italian and German interpretations of these people and places that were written by critics and scholars in the 17th, 18th, and 20th centuries. See the seat of government and power in the late Middle Ages. Walk through the streets and buildings where Cosimo de’ Medici spent much of his time. Examine the most important cult painting in the city and the tabernacle that framed it. Zoom in close, fly high above, or approach these places from below. Search for names, places, dates, and events, and see how links and connections can be made in unexpected ways. Above all, imagine.</p>
 		<p>There’s a lot of information and a lot of data in these sites, so have patience while they load. It’s worth the wait. </p>
-		<a href="about.html"><button type="button" class="btn btn-success">Read More</button></a>
-
+		<a href="about.html"><button type="button" style="margin-bottom: 1rem;" class="btn btn-success">Read More</button></a>
+</div>
 <div class="row text-center my-2">
 
   <div class="col-md-4">
@@ -332,38 +333,38 @@ title: Florence As It Was
 
 <div class="col">
 	<div class="card">
-	  <img src="assets/images/thumbnail/sanremigio-image.png" class="card-img-top" alt="...">
+		  <img src="assets/images/thumbnail/palazzovecchio-image.png" class="card-img-top" alt="...">
+		  <div class="card-body">
+		    <h5 class="card-title">Palazzo Vecchio</h5>
+		    <p class="card-text">Fourteenth-century communal palace.</p>
+			<a href="{{ 'architecture/palazzo-vecchio.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
+		  </div>
+	</div>
+</div>
+
+
+
+<div class="col">
+	<div class="card">
+		  <img src="assets/images/thumbnail/sanremigio-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">S. Remigio</h5>
 		    <p class="card-text">Thirteenth-century parish church.</p>
-<a href="{{ 'architecture/san-remigio.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
+			<a href="{{ 'architecture/san-remigio.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
 </div>
 
 
 
+
 <div class="col">
 	<div class="card">
-	  <img src="assets/images/thumbnail/santospirito-image.png" class="card-img-top" alt="...">
+		  <img src="assets/images/thumbnail/santospirito-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
 		    <h5 class="card-title">S. Spirito</h5>
 		    <p class="card-text">Fifteenth-century Servite convent designed by Brunelleschi.</p>
-<a href="{{ 'architecture/san-spirito.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
-		  </div>
-	</div>
-</div>
-
-
-
-
-<div class="col">
-	<div class="card">
-	  <img src="assets/images/thumbnail/santatrinita-image.png" class="card-img-top" alt="...">
-		  <div class="card-body">
-		    <h5 class="card-title">S. Trinita</h5>
-		    <p class="card-text">Fourteenth-century church built on top of twelfth-century structure.</p>
-<a href="{{ 'architecture/santa-trinita.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
+			<a href="{{ 'architecture/san-spirito.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
 </div>
@@ -372,16 +373,33 @@ title: Florence As It Was
 
 <div class="row">
 
-<div class="col-md-4"> <!-- temp to keep col spacing consistent -->
+<div class="col"> 
 	<div class="card">
-	  <img src="assets/images/thumbnail/palazzovecchio-image.png" class="card-img-top" alt="...">
+	  	  <img src="assets/images/thumbnail/santatrinita-image.png" class="card-img-top" alt="...">
 		  <div class="card-body">
-		    <h5 class="card-title">Palazzo Vecchio</h5>
-		    <p class="card-text">Fourteenth-century communal palace.</p>
-<a href="{{ 'architecture/palazzo-vecchio.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
+		    <h5 class="card-title">S. Trinita</h5>
+		    <p class="card-text">Fourteenth-century church built on top of twelfth-century structure.</p>
+			<a href="{{ 'architecture/santa-trinita.html' | absolute_url }}" class="btn btn-primary">Learn more</a>
 		  </div>
 	</div>
 </div>
+
+<div class="col"> <!-- temp card to keep column spacing consistent -->
+	<div class="card" style="
+    border: transparent;"> <!-- make card's border invisible -->
+
+	
+	</div>
+</div>
+
+<div class="col"> <!-- temp card to keep column spacing consistent -->
+	<div class="card" style="
+    border: transparent; "> <!-- make card's border invisible -->
+
+	
+	</div>
+</div>
+
 </div>
 
 </div>
