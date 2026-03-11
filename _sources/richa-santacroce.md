@@ -115,44 +115,49 @@ Then we see Giovanni's famous figure of Justice with a helmet, sword, and scales
 
 <div class="row">
   <div class="col">
-  “Oh Voi, ch' in sen della Città del Fiore
-    Nel suol, che ha suon di Croce, e di tormento,
-    Volgete un'Utro, ove è rinchiuso a stento
+	  <p>
+  “Oh Voi, ch' in sen della Città del Fiore<br>
+    Nel suol, che ha suon di Croce, e di tormento,<br>
+    Volgete un'Utro, ove è rinchiuso a stento<br>
     Un stato, che vi sembra aura d' onore.
-    
-  Questo globo entro informe, e bel di suore,
-    È del Mondo il model voto al contento;
-    Seguiam tutti un pallon, ch'è pien di vento,
+	  </p>
+	  <p>
+  Questo globo entro informe, e bel di suore,<br>
+    È del Mondo il model voto al contento;<br>
+    Seguiam tutti un pallon, ch'è pien di vento,<br>
     Da cui si tragge sol polve, e sudore.
-    
-  Ecco un avido il cerca, altri l’attende,
-    Uno lo spinge, un l’innalza, altri l’atterra,
+	  </p>
+	  <p>
+  Ecco un avido il cerca, altri l’attende,<br>
+    Uno lo spinge, un l’innalza, altri l’atterra,<br>
     Poscia offeso è quei più, che più lo prende.
-
-   Oh giuoco orma del vero! Ognun fa guerra
-    Con quest' Orbe mortal, ma chi l’intende
+	  </p>
+      <p>
+   Oh giuoco orma del vero! Ognun fa guerra<br>
+    Con quest' Orbe mortal, ma chi l’intende<br>
     Li dà de'calci, e via lo caccia in terra.”
+      </p>
    </div>
    <div class="col">
 	   <p>
-   “Oh ye, who is in the city of flowers
-     On the soil that has the sound of the cross, and of torment,
-     Turn to another, where it is locked up in a difficult state,
+   “Oh ye, who is in the city of flowers<br>
+     On the soil that has the sound of the cross, and of torment,<br>
+     Turn to another, where it is locked up in a difficult state,<br>
      That seems to you an aura of honor
 	   </p>
 	   <p>
-   This globe is shapeless, and full of beautiful sisters (nuns),
-     And the world is the model of a vow to contentment;
-     We all follow a balloon, which is full of air,
+   This globe is shapeless, and full of beautiful sisters (nuns),<br>
+     And the world is the model of a vow to contentment;<br>
+     We all follow a balloon, which is full of air,<br>
      From which only dust and sweat are drawn.
 	   </p>
-      <p> Here is a greedy one who seeks, and others who wait
-     One pushes him, one lifts him, others knock him down
+      <p> Here is a greedy one who seeks, and others who wait<br>
+     One pushes him, one lifts him, others knock him down<br>
      The more offended, the more he takes.
 	  </p>
 	   <p>
-   Oh game, the mark of truth! Everyone makes war
-     With this mortal orb, but he who understands it
+   Oh game, the mark of truth! Everyone makes war<br>
+     With this mortal orb, but he who understands it<br>
      Kicks it, and throws it to the ground.”
 	   </p>
    </div>
