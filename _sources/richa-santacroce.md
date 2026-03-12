@@ -173,13 +173,13 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	PINK TEAM
    </div> 
 </div>
+<bold>Lord Masters of the Field</bold><br>
 <div class="row">
-	<div class="col" style="text-align: center;">
-		Lord Masters of the Field<br>
-		Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi<br>
-		First/Starters
-	</div>
+  <div class="col">
+	Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi<br>
+  </div>
 </div>
+<bold>First/Starters</bold><br>
 <div class="row">
   <div class="col">
   <p>
