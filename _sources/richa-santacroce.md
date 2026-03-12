@@ -174,7 +174,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
    </div> 
 </div>
 <div class="row">
-	<div style="width: 33%; margin: 0 auto; text-align: center;">
+	<div class="col" style="text-align: center;">
 		Lord Masters of the Field<br>
 		Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi<br>
 		First/Starters
