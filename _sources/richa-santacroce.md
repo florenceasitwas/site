@@ -174,16 +174,14 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
    </div> 
 </div>
 <br>
-
-**Lord Masters of the Field**<br>
+<strong>Lord Masters of the Field</strong><br>
 <div class="row">
   <div class="col">
 	Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi<br>
   </div>
 </div>
 <br>
-
-**First/Starters**<br>
+<strong>First/Starters</strong><br>
 <div class="row">
   <div class="col">
   <p>
@@ -238,8 +236,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	</div>
 </div>
 <br>
-
-**Signori Alfieri**<br>
+<strong>Signori Alfieri</strong><br>
 <div class="row">
 	<div class="col">
 		Cav. March. Folco Rinuccini.
@@ -247,9 +244,8 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	<div class="col">
 		Prior March. Bernardino Riccardi.
 	</div>
-<br>
-	
-**Halfbacks/midfielders**<br>
+</div>
+<strong>Halfbacks/midfielders</strong><br>
 <div class="row">
 	<div class="col">
 		Giovanni Bartolini.<br>
@@ -266,61 +262,60 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 		Luigi del Turco.
 	</div>
 </div>
-<br>
-	
-**Forward players**<br>
+<strong>Forward players</strong><br>
 <div class="row">
 	<div class="col">
-	Franc. di Gius. Frescobaldi.
-	Cav. Lorenzo Ridolfi.
-	Cav.Co. Bonif. della Gherardesca
-	Bernardo Manetti.
+	Franc. di Gius. Frescobaldi.<br>
+	Cav. Lorenzo Ridolfi.<br>
+	Cav.Co. Bonif. della Gherardesca<br>
+	Bernardo Manetti.<br>
 	</div>
 	<div class="col">
-	Domenico Bartoli.
-	Leone Montalvi.
-	Ferdinando Montalvi.
-	Ottavio Mannelli.
+	Domenico Bartoli.<br>
+	Leone Montalvi.<br>
+	Ferdinando Montalvi.<br>
+	Ottavio Mannelli.<br>
+	</div>
+</div>
+<strong>Behind players</strong><br>
+<div class="row">
+	<div class="col">
+	Con. Benedetto del Maestro.<br>
+	March. Andrea del Monte.<br>
+	Cav. Bar. Leone Ricasoli.<br>
+	</div>
+	<div class="col">
+	Cav. Giuseppe Segni.<br>
+	Francesco Nerli.<br> 
+	Carlo del Cav. Lelio Bonsi.<br>
 	</div>
 </div>
 <br>
-
-**Behind players**<br>
 <div class="row">
-	<div class="col">
-	Con. Benedetto del Maestro.
-	March. Andrea del Monte.
-	Cav. Bar. Leone Ricasoli.
-	</div>
-	<div class="col">
-	Cav. Giuseppe Segni.
-	Francesco Nerli. 
-	Carlo del Cav. Lelio Bonsi.
-	</div>
-</div>
-<br>
-<div class="col" style="text-align: center;">
-	**Judges**<br>
-	Senat. Federigo dei Ricci.<br>
-	March. Luca Casimiro degli Albizi.<br>
-	Carlo Tommaso del Sen. Alessandro Strozzi.
+  <div class="col-12" style="text-align: center;">
+    <strong>Judges</strong><br>
+    Senat. Federigo dei Ricci.<br>
+    March. Luca Casimiro degli Albizi.<br>
+    Carlo Tommaso del Sen. Alessandro Strozzi.
+  </div>
 </div>
 
 (53)
 
-<div class="col" style="text-align: center;">
-    **Supervisor**<br>
+<div class="row">
+  <div class="col-12" style="text-align: center;">
+    <strong>Supervisor</strong><br>
       Cav. Niccolò Strozzi,<br>
 	<br>
-    **Supervisor’s help**<br>
+    <strong>Supervisor’s help</strong><br>
      Con. Tommaso Federighi.<br>
      Angelo del Turco.<br>
 	 <br>
-	 **Assistant to the Gamemasters**<br>
+	 <strong>Assistant to the Gamemasters</strong><br>
      Lorenzo Strozzi.<br>
      Cav. Bernardo Serfelli<br>
 	 <br>
-     **Cavalieri who assisted at the door of the theater**<br>
+     <strong>Cavalieri who assisted at the door of the theater</strong><br>
     March. Donato Albergotti.<br>
     March. Rosso Strozzi.<br>
     March. Cosimo Ridolfi.<br>
@@ -329,6 +324,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
     Cav. Ottavio Tornaquinci.<br>
     Lodovico Antinori.<br>
     Cav. Girolamo Alessandri.<br>
+  </div>
 </div>
 
 (54)
