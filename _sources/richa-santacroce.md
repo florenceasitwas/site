@@ -174,7 +174,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
    </div> 
 </div>
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
 	  Lord Masters of the Field
   </div>
 </div>
@@ -184,7 +184,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
   </div>
 </div>
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
 	  First/Starters
   </div>
 </div>
@@ -242,7 +242,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	</div>
 </div>
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
 	  Signori Alfieri
   </div>
 </div>
@@ -255,7 +255,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	</div>
 </div>
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
 	  Halfbacks/midfielders
   </div>
 </div>
@@ -276,7 +276,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	</div>
 </div>
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
 	  Forward players
   </div>
 </div>
@@ -295,7 +295,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	</div>
 </div>
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
     Behind players
   </div>
 </div>
@@ -313,7 +313,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 </div>
 <br>
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
     Judges<br>
     Senat. Federigo dei Ricci.<br>
     March. Luca Casimiro degli Albizi.<br>
@@ -324,7 +324,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 (53)
 
 <div class="row">
-  <div class="col-12" style="text-align: center;">
+  <div class="col-10" style="text-align: center;">
       Supervisor<br>
       Cav. Niccolò Strozzi,<br>
 	<br>
