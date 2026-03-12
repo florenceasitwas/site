@@ -173,15 +173,21 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	PINK TEAM
    </div> 
 </div>
-<br>
-<strong>Lord Masters of the Field</strong><br>
+<div class="row">
+  <div class="col-12" style="text-align: center;">
+	  Lord Masters of the Field
+  </div>
+</div>
 <div class="row">
   <div class="col">
 	Gold: March. Scipion Capponi - Pink: March. Leonardo Tempi<br>
   </div>
 </div>
-<br>
-<strong>First/Starters</strong><br>
+<div class="row">
+  <div class="col-12" style="text-align: center;">
+	  First/Starters
+  </div>
+</div>
 <div class="row">
   <div class="col">
   <p>
@@ -235,8 +241,11 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	Anto Francesco del Turco.
 	</div>
 </div>
-<br>
-<strong>Signori Alfieri</strong><br>
+<div class="row">
+  <div class="col-12" style="text-align: center;">
+	  Signori Alfieri
+  </div>
+</div>
 <div class="row">
 	<div class="col">
 		Cav. March. Folco Rinuccini.
@@ -245,7 +254,11 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 		Prior March. Bernardino Riccardi.
 	</div>
 </div>
-<strong>Halfbacks/midfielders</strong><br>
+<div class="row">
+  <div class="col-12" style="text-align: center;">
+	  Halfbacks/midfielders
+  </div>
+</div>
 <div class="row">
 	<div class="col">
 		Giovanni Bartolini.<br>
@@ -262,9 +275,13 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 		Luigi del Turco.
 	</div>
 </div>
-<strong>Forward players</strong><br>
 <div class="row">
-	<div class="col">
+  <div class="col-12" style="text-align: center;">
+	  Forward players
+  </div>
+</div>
+<div class="row">
+  <div class="col">
 	Franc. di Gius. Frescobaldi.<br>
 	Cav. Lorenzo Ridolfi.<br>
 	Cav.Co. Bonif. della Gherardesca<br>
@@ -277,7 +294,11 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	Ottavio Mannelli.<br>
 	</div>
 </div>
-<strong>Behind players</strong><br>
+<div class="row">
+  <div class="col-12" style="text-align: center;">
+    Behind players
+  </div>
+</div>
 <div class="row">
 	<div class="col">
 	Con. Benedetto del Maestro.<br>
