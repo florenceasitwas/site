@@ -314,7 +314,7 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 <br>
 <div class="row">
   <div class="col-12" style="text-align: center;">
-    <strong>Judges</strong><br>
+    Judges<br>
     Senat. Federigo dei Ricci.<br>
     March. Luca Casimiro degli Albizi.<br>
     Carlo Tommaso del Sen. Alessandro Strozzi.
@@ -325,18 +325,18 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 
 <div class="row">
   <div class="col-12" style="text-align: center;">
-    <strong>Supervisor</strong><br>
+      Supervisor<br>
       Cav. Niccolò Strozzi,<br>
 	<br>
-    <strong>Supervisor’s help</strong><br>
+     Supervisor’s help<br>
      Con. Tommaso Federighi.<br>
      Angelo del Turco.<br>
 	 <br>
-	 <strong>Assistant to the Gamemasters</strong><br>
+	 Assistant to the Gamemasters<br>
      Lorenzo Strozzi.<br>
      Cav. Bernardo Serfelli<br>
 	 <br>
-     <strong>Cavalieri who assisted at the door of the theater</strong><br>
+     Cavalieri who assisted at the door of the theater<br>
     March. Donato Albergotti.<br>
     March. Rosso Strozzi.<br>
     March. Cosimo Ridolfi.<br>
