@@ -181,46 +181,83 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 <div class="row">
   <div class="col">
   <p>
-	Prince of Bovò.
-	March. Ipolito Bagnesi.
-	Amerigo Serfelli.
+	Prince of Bovò.<br>
+	March. Ipolito Bagnesi.<br>
+	Amerigo Serfelli.<br>
 	Count Carlo d’Elci.
   </p>	  
   </div>
   <div class="col">
    <p>
-	March. Bortolommeo
-	Cav. Piero Carducci
-	Luigi Capponi
+	March. Bortolommeo<br>
+	Cav. Piero Carducci<br>
+	Luigi Capponi<br>
 	Cav. Antonio Seristori
    </p>
   </div>
 
 (52)
-
-Gold Team                                                     Pink Team
-
-Gio: Batista Àltoviti. 				Francesco Gondi.
-Rob. Alcss. di Rob. Pitti.  			Ricciardo Neretti.
-Giulio Miniati. 				Gio: Gualberto Miniati.
-Cav. Fra Alessandro Alamanni.  		Francesco Marucelli.
-Antonio Michelozzi.  				Ferdinando Pandolfini.
-Cav. Ferdinando Suarez.  			Con. Neri Acciaioli.
-Lapo Niccolini.  				Gio: Batista Uguccioni.
-Cosìmo Pazzi.  				Gio: del Turco.
-Càv. Carlo Sirigatti. 				Francesco Alamanni.
-Domenico Guidotti. 				Anto Francesco del Turco.
-
-                                     	Signori Alfieri 
-Cav. March. Folco Rinuccini. 		Prior March. Bernardino Riccardi.
-
-                      		      Halfbacks/midfielders
-Giovanni Bartolini.  			Antonio Pitti.
-Cav. Giuseppe Bonsi.  		March. Ignazio Coppoli.
-Francesco Uguccioni 			Bar. Agostino del Nero.
-Cav. Moro Ubaldini.  			Cav. Ugo della Stufa.
-March. Mattias Bartolommei. 	Luigi del Turco
-
+<div class="row">
+	<div class="col">
+		<p>
+			Gold Team
+		</p>
+	Gio: Batista Àltoviti.<br>
+	Rob. Alcss. di Rob. Pitti.<br>
+	Giulio Miniati.<br>
+	Cav. Fra Alessandro Alamanni.<br>
+	Antonio Michelozzi.<br>
+	Cav. Ferdinando Suarez.<br>
+	Lapo Niccolini.<br> 
+	Cosìmo Pazzi.<br>
+	Càv. Carlo Sirigatti.<br> 
+	Domenico Guidotti. 
+	</div>
+	<div class="col">
+	<p>
+		Pink Team
+	</p>
+	Francesco Gondi.<br>
+	Ricciardo Neretti.<br>
+	Gio: Gualberto Miniati.<br>
+	Francesco Marucelli.<br>
+	Ferdinando Pandolfini.<br>
+	Con. Neri Acciaioli.<br>
+	Gio: Batista Ugoccioni.<br>
+	Gio: del Turco.<br>
+	Francesco Alamanni.<br>
+	Anto Francesco del Turco.
+	</div>
+</div>
+<div style="text-align: center;">
+	Signori Alfieri 
+</div>
+<div class="row">
+	<div class="col">
+		Cav. March. Folco Rinuccini.
+	</div>
+	<div class="col">
+		Prior March. Bernardino Riccardi.
+	</div>
+<div style="text-align: center;">
+	Halfbacks/midfielders
+</div>
+<div class="row">
+	<div class="col">
+		Giovanni Bartolini.<br>
+		Cav. Giuseppe Bonsi.<br>
+		Francesco Uguccioni.<br>
+		Cav. Moro Ubaldini.<br>
+		March. Mattias Bartolommei.
+	</div>
+	<div class="col">
+		Antonio Pitti.<br>
+		March. Ignazio Coppoli.<br>
+		Bar. Agostino del Nero.<br>
+		Cav. Ugo della Stufa.<br>
+		Luigi del Turco.
+	</div>
+</div>
 
                         	           Forward players
 Franc. di Gius. Frescobaldi. 		Domenico Bartoli.
