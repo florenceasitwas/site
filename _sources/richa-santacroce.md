@@ -193,8 +193,10 @@ And here for the end we will place the note of the Florentine gentlemen, who in 
 	Cav. Antonio Seristori
    </p>
   </div>
+</div>
 
 (52)
+
 <div class="row">
 	<div class="col">
 		<p>
@@ -298,9 +300,7 @@ Carlo Tommaso del Sen. Alessandro Strozzi.
 
 (54)
 
-LESSON V.
-
-OF SANTA CROCE II.
+# LESSON V. OF SANTA CROCE II.
 
 I. Whoever enters the church of Santa Croce cannot help but be astonished by the Florentine piety that has collected the treasures necessary in order to raise such a vast, rich, and stupendous temple. And it is true, there should be an engraved plaque with the sums of gold and silver generously donated by public and private citizens who have contributed to this building. It would be easy for me to record in that plaque the names of the many families who have made copious bequests to the merit of its construction, either in starting the work, bringing it forward, or finishing it to perfection. The Archives of Santa Croce list among the benefactors the Alberti, the Spinelli, the Strozzi, the Peruzzi, the Salviati, the Cerchi, the Mellini, the Morelli, the Bardi, and a hundred others. But I would be remiss to not mention two great men: Fra Giovenale degli Agli (called Fra Bartolommeo da Pisa unus ex principalioribus Fratribus ad fundandam Ecclesiam S. Crucis de Florentia/Fra Bartolommeo da Pisa, one of the most important Friars in founding the Church of the Santa Croce in Florence), and Fra Arrigo dei Cerchi, who in 1285 left 2000 gold florins for the construction of Santa Croce. It is mentioned in Cerchi’s Testament, which will be reported on later in the lesson in the chapter, “Church.” At the top in glittering gold letters I would first note the Florentine August Senate, who are given the title of Founder for their several decrees and liberal provisions that are recorded in the Reformations. These were made in favor of the church, and the senate’s treasury…
 
