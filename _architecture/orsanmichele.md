@@ -19,7 +19,9 @@ Located in the very heart of the ancient city center, Orsanmichele has been a cu
 ## Animation Tour 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XccGdP2FQuI" title="Orsanmichele 1300 vs 1500" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# Art 
 
+<iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3FOrsanmichele%20%3FOrsanmicheleLabel%20%3Fimage%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cmul%2Cen%22.%20%7D%0A%20%20%3FOrsanmichele%20wdt%3AP276%20wd%3AQ860816.%0A%20%20OPTIONAL%20%7B%20%3FOrsanmichele%20wdt%3AP18%20%3Fimage.%20%7D%0A%7D%0ALIMIT%20100" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 <!--
 #Information on Orsanmichele
