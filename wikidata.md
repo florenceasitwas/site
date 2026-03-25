@@ -22,6 +22,7 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 * [Fresco Paintings in Florence between 1200-1500](https://w.wiki/BZ$R)
 * [Orsanmichele](https://w.wiki/KLZm)
 * [Badia Fiorentina](https://w.wiki/KLZp)
+* [San Marco](https://w.wiki/KLmZ)
 
 ## Images depicting:
 
