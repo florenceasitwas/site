@@ -20,7 +20,7 @@ The FLAW project is exploring the potential of WikiData for our data. The potent
 * [S. Trinita](https://w.wiki/BHT9)
 * [Works of Fra Angelico in San Marco](https://w.wiki/BHTF)
 * [Fresco Paintings in Florence between 1200-1500](https://w.wiki/BZ$R)
-* [Orsanmichele](https://w.wiki/KLYq)
+* [Orsanmichele](https://w.wiki/KLZb)
 * [Badia Fiorentina](https://w.wiki/KLYq)
 
 ## Images depicting:
