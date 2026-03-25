@@ -21,7 +21,7 @@ Located in the very heart of the ancient city center, Orsanmichele has been a cu
 
 # Art 
 
-<iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3FOrsanmichele%20%3FOrsanmicheleLabel%20%3Fimage%20WHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cmul%2Cen%22.%20%7D%0A%20%20%3FOrsanmichele%20wdt%3AP276%20wd%3AQ860816.%0A%20%20OPTIONAL%20%7B%20%3FOrsanmichele%20wdt%3AP18%20%3Fimage.%20%7D%0A%7D%0ALIMIT%20100" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+<iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Fitem%20%3FitemLabel%20%3Fimage%20WHERE%20%7B%0A%20%20VALUES%20%3Flocation%20%7B%20wd%3AQ860816%20wd%3AQ116844438%20wd%3AQ116844464%20wd%3AQ116844503%20wd%3AQ116844528%20wd%3AQ116844537%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wd%3AQ116844548%20wd%3AQ116844553%20wd%3AQ116844563%20wd%3AQ116844571%20wd%3AQ116844581%20wd%3AQ116844622%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20wd%3AQ116844644%20wd%3AQ116844675%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%3Fitem%20wdt%3AP276%20%3Flocation.%0A%20%20%0A%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP18%20%3Fimage.%20%7D%0A%7D%0A%0ALIMIT%20100" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
 <!--
 #Information on Orsanmichele
