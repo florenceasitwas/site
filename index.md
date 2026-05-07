@@ -11,7 +11,7 @@ title: Florence As It Was
       <p>Welcome to Florence As It Was, a digital project that aims to reconstruct the city the way it appeared at the end of the fifteenth century. Here you can review, inspect, tour, and visit the streets, palaces, churches, shops, and offices that formed the fabric of one of Europe’s most vibrant cities. Here you will find images, people, payments, relationships, literary references, contemporary descriptions, and sometimes even music related to the individual structures that shaped a Florentine’s daily experience in 1500.</p>
 		<p>Here you can read, in English, the Italian and German interpretations of these people and places that were written by critics and scholars in the 17th, 18th, and 20th centuries. See the seat of government and power in the late Middle Ages. Walk through the streets and buildings where Cosimo de’ Medici spent much of his time. Examine the most important cult painting in the city and the tabernacle that framed it. Zoom in close, fly high above, or approach these places from below. Search for names, places, dates, and events, and see how links and connections can be made in unexpected ways. Above all, imagine.</p>
 		<p>There’s a lot of information and a lot of data in these sites, so have patience while they load. It’s worth the wait. </p>
-		<a href="about.html"><button type="button" style="margin-bottom: 1rem;" class="btn btn-success">Read More</button></a>
+		<a href="about.html"><button type="button" style="margin-bottom: 1rem; margin-left: 40%;" class="btn btn-success">Read More</button></a>
 </div>
 <div class="row text-center my-2">
 
@@ -70,9 +70,17 @@ title: Florence As It Was
   </div>
 
   <!-- Scrollable area (not in use > delete -->
-  <div class="overflow-auto pe-2 mx-auto">
+  <div class="overflow-auto pe-2 mx-auto" style="max-height: 85%;">
     <div class="vstack gap-1">
 
+<div class="card border-0 shadow-sm">
+	<div class="card-body">
+	<div class="badge text-bg-primary mb-2">3D Model</div>
+	<div class="fw-semibold">The Reconstructed Sacristy of S. Miniato al Monte</div>
+	<!-- <div class="text-muted small">Short description placeholder text.</div> -->
+	<a href="https://3d.wlu.edu/v21/pages/Miniato/SMSacristyReconstructed.html " class="btn btn-sm btn-link p-0 fw-semibold text-success">View Model →</a>
+	</div>
+</div>
 <!-- Card 1-->
 <div class="card border-0 shadow-sm">
 	<div class="card-body">
@@ -132,7 +140,27 @@ title: Florence As It Was
 
   </div>
 
+<h2 class="building_home">Publications (click to read)</h2> 
+<div class="row g-4">
+  <div class="col-md-6">
+    <div class="card h-100" style="
+    height: 95%;">
+      <a href="https://wlu.box.com/s/lyk5o2cugga8tlca16ff1zd6ar80u9a9" target="_blank" rel="noopener noreferrer">
+        <img src="assets/images/publication_images/S Remigio Tramezzo HERITAGE.png" class="card-img-top" alt="A Digital Reconstruction of the Tramezzo and Presbytery in S. Remigio, Florence" style="height: 35rem; width:90%; padding-left:5%; padding-top: 2.5%">
+      </a>
+      
+    </div>
+  </div>
 
+  <div class="col-md-6">
+    <div class="card h-100">
+      <a href="https://wlu.box.com/s/0ddamg1u6na03qft0wgtr6qeegnp5n9k" target="_blank" rel="noopener noreferrer">
+        <img src="assets/images/publication_images/A practical workflow.png" class="card-img-top" alt="A Practical Workflow for the 3D Reconstruction of Complex Historic Sites" style="height: 35rem; width: 90%; padding-left:5%; padding-top: 2.5%">
+      </a>
+      
+    </div>
+  </div>
+</div>
 <h2 class="buildings_home">Buildings</h2>
 
 <div class="row">
