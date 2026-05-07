@@ -146,7 +146,7 @@ title: Florence As It Was
     <div class="card h-100" style="
     height: 95%;">
       <a href="https://wlu.box.com/s/lyk5o2cugga8tlca16ff1zd6ar80u9a9" target="_blank" rel="noopener noreferrer">
-        <img src="assets/images/publication_images/S Remigio Tramezzo HERITAGE.png" class="card-img-top" alt="A Digital Reconstruction of the Tramezzo and Presbytery in S. Remigio, Florence" style="height: 35rem; width:90%; padding-left:5%; padding-top: 2.5%">
+        <img src="assets/images/thumbnail/S Remigio Tramezzo HERITAGE.png" class="card-img-top" alt="A Digital Reconstruction of the Tramezzo and Presbytery in S. Remigio, Florence" style="height: 35rem; width:90%; padding-left:5%; padding-top: 2.5%">
       </a>
       
     </div>
@@ -155,7 +155,7 @@ title: Florence As It Was
   <div class="col-md-6">
     <div class="card h-100">
       <a href="https://wlu.box.com/s/0ddamg1u6na03qft0wgtr6qeegnp5n9k" target="_blank" rel="noopener noreferrer">
-        <img src="assets/images/publication_images/A practical workflow.png" class="card-img-top" alt="A Practical Workflow for the 3D Reconstruction of Complex Historic Sites" style="height: 35rem; width: 90%; padding-left:5%; padding-top: 2.5%">
+        <img src="assets/images/thumbnail/A practical workflow.png" class="card-img-top" alt="A Practical Workflow for the 3D Reconstruction of Complex Historic Sites" style="height: 35rem; width: 90%; padding-left:5%; padding-top: 2.5%">
       </a>
       
     </div>
