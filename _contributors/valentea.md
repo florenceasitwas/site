@@ -10,4 +10,4 @@ Aidan Valente graduated in 2019 with majors in Medieval & Renaissance Studies an
 
 Aidan worked mainly on the website--design, organization, troubleshooting, and general maintenance. He also translated documents to and from Italian, and contributed essays, such as the ones he wrote for the Bigallo. Upon graduation from W&L, Aidan first attended Cambridge University, where he received his M.Phil in art history, and then proceeded to the University of Chicago, where he is currently working toward his Ph.D.
 
-__AV__
+AV
