@@ -10,4 +10,4 @@ Katherine Dau graduated in 2019 with a double major in art history and German. S
 
 Katherine translated Paatz' *Die Kirchen von Florenz* and updated the 2D map. She also modeled altarpieces and worked on site maintenance. Katherine received a Fulbright in 2019 and worked in Austria until the pandemic cut her time there short. She then studied at Cambridge University, where she received her M.Phil in Art History in 2021. She returned to W&L to serve in the Office of Development and is currently the director of W&L's Annual Fund.
 
-__KD__
+KD
