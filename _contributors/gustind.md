@@ -10,4 +10,4 @@ Win Gustin, class of 2020, was a European History major and Creative Writing min
 
 On the project, Win helped with site updating and maintenance and he worked with integrating virtual reality technology into the Florence As It Was project. Win completed his J.D. degree at Boston University in 2024.
 
-__WG__
+WG
