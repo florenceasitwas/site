@@ -13,7 +13,7 @@ image:
 
 The query service (the magnifying glass icon) in ArcGIS searches our dataset of nearly 2000 artworks. The data has been compiled by the FLAW team and contains 30 descriptive fields for each image. A key feature is the ability to search by multiple iconographic descriptors. 
 
-We are in the process of migrating our data to Wikidata. 
+We are in the process of migrating our data to [Wikidata](https://florenceasitwas.wlu.edu/wikidata.html). 
 
 
 ## About the Map
